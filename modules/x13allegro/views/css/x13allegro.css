@@ -1,0 +1,2010 @@
+.adminxallegroperform #allegro_perform_list .panel-heading-action #desc-product-new,
+.adminxallegroauctionslist #form-xallegro_auction .panel-heading-action #desc-xallegro_auction-new,
+.adminxallegroordershipping #form-order .panel-heading-action #desc-order-new,
+.adminxallegrolog #form-xallegro_log .panel-heading-action #desc-xallegro_log-new {
+  display: none;
+}
+
+.account-setting-indicator {
+  float: left;
+  border: 1px solid #c7d6db;
+  height: auto;
+  padding: 1px 8px 0px 8px;
+  border-radius: 3px;
+  margin-right: 10px;
+  cursor: pointer;
+  min-height: 31px;
+}
+
+.switch.mark-as-account-option {
+  float: left;
+}
+
+.account-setting-indicator svg {
+  width: 30px;
+  padding: 7px 5px 2px 5px;
+}
+
+.account-setting-indicator:hover{
+  background-color: #00aff0;
+  border-color: #008abd;
+  color: #FFF;
+}
+
+.account-setting-indicator:hover svg {
+  fill: white;
+}
+
+.allegro-category-select {
+  width: 200px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.allegro-category-select-inline {
+  display: inline-block;
+}
+
+#xallegro_offer_full_synchronization_modal #synchronization_info {
+  margin-bottom: 20px;
+}
+#xallegro_offer_full_synchronization_modal #synchronization_info i[class^="icon-"] {
+  font-size: 18px;
+  margin-right: 5px;
+}
+#xallegro_offer_full_synchronization_modal #synchronization_info i.icon-check {
+  color: #72c279;
+}
+#xallegro_offer_full_synchronization_modal #synchronization_info i.icon-times {
+  color: #e08f95;
+}
+
+#xallegro_offer_full_synchronization_modal .progress {
+  margin: 20px 0;
+}
+
+.adminxallegroconfiguration .productization-search-table label {
+  font-weight: normal;
+  margin: 0;
+}
+.adminxallegroconfiguration .productization-search-table label > input {
+  margin-right: 5px;
+}
+
+.adminxallegroassoccategories .allegro-feature-inline,
+.adminxallegromain .allegro-feature-inline {
+  float: left;
+}
+.adminxallegroassoccategories .allegro-feature-inline.multiple-values,
+.adminxallegromain .allegro-feature-inline.multiple-values {
+  float: none;
+}
+
+.adminxallegroassoccategories button.xallegro-fieldMap .badge {
+  margin-left: 10px;
+}
+.adminxallegroassoccategories .allegro-feature-inline + button.xallegro-fieldMap,
+.adminxallegroassoccategories .multiple-values-list + button.xallegro-fieldMap,
+.adminxallegroassoccategories .range-values-list + button.xallegro-fieldMap,
+.adminxallegroassoccategories .chosen-container + button.xallegro-fieldMap {
+  margin-left: 3px;
+}
+.adminxallegroassoccategories .multiple-values-list + button.xallegro-fieldMap {
+  position: absolute;
+  top: 0;
+  left: 255px;
+}
+.adminxallegroassoccategories .checkbox + button.xallegro-fieldMap {
+  margin: 10px 0;
+}
+
+.bootstrap .btn > [class^="icon-"] {
+  width: 16px;
+}
+
+.x13allegro-delivery-marketplace-list{
+  background: #fafbfc;
+  padding: 10px;
+}
+
+.x13allegro-delivery-marketplace-list .delivery-marketplace {
+  display: inline-block;
+  line-height: 15px;
+}
+
+.x13allegro-delivery-marketplace-list .delivery-marketplace img{
+  width: 22px;
+  height: 15px;
+  float: left;
+  margin-right: 10px;
+}
+
+.x13allegro-delivery-marketplace-list .delivery-marketplace:not(:last-child) {
+  margin-right: 15px;
+}
+
+.x13allegro-delivery-marketplace-list-small{
+  padding-top: 5px;
+  font-size:11px;
+  margin-bottom:0px !important;
+  color:#999;
+  display: none;
+}
+
+#account_switch_form .x13allegro-delivery-marketplace-list-small{
+  display: block;
+}
+
+.shipments-table thead > tr > th:first-child > strong {
+  font-size: 107%;
+  font-weight: bold;
+}
+
+.shipments-table tbody > tr > td:first-child {
+  line-height: 1;
+  height: 38px;
+}
+.shipments-table tbody > tr > td:first-child > input {
+  float: left;
+  margin: 2px 5px 0 0;
+}
+.shipments-table tbody > tr > td:first-child > label {
+  font-weight: normal;
+  text-align: left;
+  float: left;
+  margin: 2px 0;
+  width: auto;
+  max-width: 95%;
+}
+
+.xauction-info {
+  font-size: 90%;
+  display: block;
+  margin-top: 5px;
+}
+
+.adminxallegromain .bootstrap label.t,
+.adminxallegroauctionedit .bootstrap label.t {
+  font-weight: normal;
+  margin-bottom: 2px;
+}
+.adminxallegromain .bootstrap input[type="text"] + label.t,
+.adminxallegromain .bootstrap select + label.t,
+.adminxallegromain .bootstrap textarea + label.t,
+.adminxallegroauctionedit .bootstrap input[type="text"] + label.t,
+.adminxallegroauctionedit .bootstrap select + label.t,
+.adminxallegroauctionedit .bootstrap textarea + label.t {
+  margin-top: 6px;
+}
+
+.adminxallegromain .form-group .help-block{
+  clear: left;
+  margin-bottom: 0px;
+}
+
+.adminxallegromain .price-buy-now .input-group-addon {
+  width: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#allegro_main_form .title-box {
+  position: relative;
+}
+#allegro_main_form .title-box .allegro-productization-name-copy {
+  position: absolute;
+  top: 1px;
+  right: 0;
+}
+#allegro_main_form .title-box .allegro-productization-name-copy:not(.hidden) + input {
+  padding-right: 66px;
+}
+
+#allegro_main_form ul.images-sortable {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#allegro_main_form ul.images-sortable .item_form.image {
+  float: left;
+  display: block;
+  width: 85px;
+  height: 85px;
+  border: 1px solid #ccc;
+  background: white;
+  white-space: nowrap;
+  text-align: center;
+  margin: 0 4px 4px 0;
+  cursor: move;
+}
+#allegro_main_form ul.images-sortable .item_form.image .center-helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+#allegro_main_form ul.images-sortable .item_form.image img {
+  vertical-align: middle;
+  max-height: 83px;
+  max-width: 83px;
+}
+#allegro_main_form ul.images-sortable .main_image {
+  border-color: #ff5a00 !important;
+}
+
+#allegro_main_form .marketplaces div {
+  display: inline-block;
+  margin: 0 15px 8px 0;
+}
+
+#allegro_main_form .marketplaces-prices .input-group {
+  margin-top: 2px;
+}
+
+#allegro_main_form .no-category-tax {
+  font-style: italic;
+}
+
+#allegro_main_form .marketplace-base-tax,
+#allegro_main_form .marketplaces-taxes > div {
+  margin-top: 6px;
+}
+
+#allegro_main_form #bulk_container {
+  position: sticky;
+  z-index: 200;
+  bottom: -20px;
+}
+#allegro_main_form #bulk_container #bulk_container_chevron {
+  display: none;
+  text-transform: none;
+  margin-left: 15px;
+}
+#allegro_main_form #bulk_container #bulk_container_chevron a > i {
+  padding-left: 6px;
+}
+#allegro_main_form #bulk_container.is-sticky #bulk_container_chevron {
+  display: inline-block;
+}
+#allegro_main_form #bulk_container.is-sticky #bulk_container_chevron > #bulk_container_hide {
+  display: block;
+}
+#allegro_main_form #bulk_container.is-sticky.is-hidden #bulk_container_chevron > #bulk_container_hide {
+  display: none;
+}
+#allegro_main_form #bulk_container.is-sticky #bulk_container_chevron > #bulk_container_show {
+  display: none;
+}
+#allegro_main_form #bulk_container.is-sticky.is-hidden #bulk_container_chevron > #bulk_container_show {
+  display: block;
+}
+
+#allegro_main_form label > input[type="checkbox"],
+#allegro_main_form label > input[type="radio"] {
+  position: relative;
+  top: 1px;
+}
+
+.adminxallegromain .panel {
+  margin-top:0px !important;
+}
+
+#allegro_main_form #bulk_container.is-sticky > .panel {
+  border-color: #202226;
+  -webkit-box-shadow: 0 -3px 4px -2px rgba(0,0,0,0.75);
+  box-shadow: 0 -3px 4px -2px rgba(0,0,0,0.75);
+}
+#allegro_main_form #bulk_container.is-sticky > .panel .panel-heading {
+  color: #bebebe;
+  margin: -20px -20px 15px;
+  padding-left: 10px;
+  border-radius: 4px 4px 0 0;
+  border-color: #202226;
+  background-color: #363a41;
+}
+
+.adminxallegroperform table td .btn-group a > img,
+.adminxallegroauctions table td .btn-group a > img {
+  margin-top: -2px;
+}
+
+#allegro_perform_list tr.exposed > td,
+#allegro_main_form #allegro_products tr.exposed > td {
+  background-color: #fef5ef !important;
+}
+#allegro_perform_list tr.exposed.odd > td,
+#allegro_main_form #allegro_products tr.exposed.odd > td {
+  background-color: #fefaf7 !important;
+}
+#allegro_perform_list tr:hover.exposed > td,
+#allegro_perform_list tr:hover.exposed.odd > td,
+#allegro_main_form #allegro_products tr:hover.exposed > td,
+#allegro_main_form #allegro_products tr:hover.exposed.odd > td {
+  background-color: #fdf0e7 !important;
+}
+
+#allegro_main_form #allegro_products tr.tr_auction_product td{
+  padding-top:7px;
+  padding-bottom:7px;
+}
+
+#xallegro_descriptions_additional_panel .mce-panel{
+  border:none !important;
+}
+
+#allegro_main_form .pas-fields .form-group {
+  margin-bottom: 5px;
+}
+#allegro_main_form .pas-fields .control-label {
+  text-align: left;
+  float: none;
+  display: block;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+#allegro_main_form #allegro_products .tab-content{
+  padding:10px !important;
+}
+
+#allegro_cover {
+  position: fixed;
+  z-index: 2000000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6) url(../../img/ajax-loader-big.gif) center center no-repeat;
+}
+
+.allegro-update-progress {
+  color: #2794AB;
+  display: none;
+  padding: 5px 15px 10px 15px;
+  margin-bottom: 30px;
+  background: #DCF4F9;
+  border-radius: 3px;
+  border-left: 3px solid #2794AB;
+}
+.allegro-update-progress h2 {
+  margin: 10px 0;
+}
+.allegro-update-progress-bar p {
+  display: block;
+  color: #2794AB;
+  margin: 0 0 3px 0;
+  padding: 0;
+}
+.allegro-update-progress-bar div.aucf-progress-bar {
+  height: 20px;
+  background: #FFF;
+  border-bottom: 1px solid #2794AB;
+}
+.allegro-update-progress-bar div.aucf-progress-bar > div {
+  width: 0;
+  height: 19px;
+  background: #2794AB;
+}
+
+.fancybox-inner .xallegro-test-name {
+  margin: 0;
+}
+.fancybox-inner .xallegro-test-name.xallegro-test-error {
+  color: red;
+}
+.fancybox-inner .xalegro-test-list {
+  margin: 5px 0;
+  padding-left: 20px;
+}
+
+#allegro_perform_info_message {
+  color: #31B0D5;
+  border: 1px solid #C5E9F3;
+  background-color: #F8FCFE;
+}
+#allegro_perform_info_message .icon-refresh {
+  font-size: 2em;
+  vertical-align: middle;
+}
+/* 
+#allegro_perform_error_message {} */
+
+#xallegro_advanced_filters .form-group {
+  margin-bottom: 6px;
+}
+#xallegro_advanced_filters .form-group label.control-label,
+#xallegro_advanced_filters .radio label.control-label {
+  padding-top: 0;
+}
+#xallegro_advanced_filters .form-group label.control-label {
+  margin-top: 4px;
+}
+#xallegro_advanced_filters .radio label.control-label + label {
+  margin-right: 4px;
+}
+#xallegro_advanced_filters input[type="text"] {
+  display: inline-block;
+  width: 75px;
+  height: 27px;
+  padding: 3px 6px;
+}
+
+#xallegro_advanced_filters .xfilter-submit {
+  text-align: right;
+}
+
+#xallegro_category_int_group {
+  margin-top: 20px;
+}
+#xallegro_category_int_group label {
+  display: inline-block;
+  width: auto;
+  padding-right: 5px;
+}
+#xallegro_category_int_group input {
+  display: inline-block;
+}
+#xallegro_category_int_group .category-input-error,
+.xproductization-category-search .category-input-error {
+  color: red;
+}
+
+.adminxallegromain #xallegro_category_int_group {
+  float: right;
+  margin-top: 0;
+}
+
+.bootstrap .icon-check.color {
+  color: #72C279;
+}
+.bootstrap .icon-remove.color {
+  color: #E08F95;
+}
+
+span.process-icon-save.xallegro,
+span.process-icon-perform.xallegro {
+  background-image: url('../modules/x13allegro/logo.png') !important;
+}
+span.process-icon-test.xallegro {
+  background-image: url('themes/default/img/process-icon-preview.png') !important;
+}
+
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table {
+  margin-bottom: 20px;
+}
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td a.btn {
+  display: inline-block;
+}
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td a.btn:not(.xallegro-parameter-row-save) {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+#xallegro_parameter_map_form_modal .modal-dialog,
+#allegro_products .modal-dialog,
+.xproductization-product-selector .modal-dialog,
+#xallegro_auction_form_modal .modal-dialog,
+#bulk_parameters_modal .modal-dialog,
+#bulk_change_category_modal .modal-dialog,
+#bulk_product_gpsr_modal .modal-dialog {
+  width: 96%;
+}
+
+#allegro_products .modal-dialog .form-horizontal .form-wrapper{
+ width:96%;
+}
+
+@media (min-width: 768px) {
+  #allegro_products .modal-dialog,
+  #xallegro_parameter_map_form_modal .modal-dialog,
+  .xproductization-product-selector .modal-dialog,
+  #xallegro_auction_form_modal .modal-dialog,
+  #bulk_parameters_modal .modal-dialog,
+  #bulk_change_category_modal .modal-dialog,
+  #bulk_product_gpsr_modal .modal-dialog {
+    max-width: 700px;
+  }
+}
+
+@media (min-width: 1020px) {
+  #allegro_products .modal-dialog,
+  #xallegro_parameter_map_form_modal .modal-dialog,
+  .xproductization-product-selector .modal-dialog,
+  #xallegro_auction_form_modal .modal-dialog,
+  #bulk_parameters_modal .modal-dialog,
+  #bulk_change_category_modal .modal-dialog,
+  #bulk_product_gpsr_modal .modal-dialog {
+    max-width: 1000px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .xproductization-product-selector .modal-dialog {
+    max-width: 1380px !important;
+    width: 90% !important;
+  }
+}
+
+
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td.xallegro-parameter-sort {
+  cursor: move;
+}
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table tr.ui-sortable-placeholder {
+  visibility: visible !important;
+}
+
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.ambiguous,
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.placeholder {
+  width: 100%;
+  height: 39px;
+  line-height: 3;
+}
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.ambiguous {
+  text-align: right;
+}
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.placeholder {
+  font-style: italic;
+  color: #959595;
+}
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.ambiguous,
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.placeholder,
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td div.placeholder + input[type="text"],
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td .chosen-container + input[type="text"],
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td input[type="text"] + input[type="text"],
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td select + select,
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td select + .chosen-container,
+#xallegro_parameter_map_form_modal .xallegro-parameter-map-table td .select2-container + input[type="text"]  {
+  margin-top: 3px;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox {
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container{
+  margin:0px -5px;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container-multi .chosen-choices{
+  background-color: #f5f8f9;
+  background-image: none;
+  border: 1px solid #c7d6db;
+  border-radius: 3px;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container-active .chosen-choices{
+  border-color:#66afe9;
+}
+
+.adminxallegromain .bootstrap .category-similar-list label,
+.adminxallegromain .bootstrap .promo-auction label {
+  display: block;
+  font-weight: normal;
+}
+
+.adminxallegroauctionslist #xallegro_auction_form .prestashop-switch input:first-of-type:checked:disabled~label:first-of-type {
+  opacity: 1 !important;
+}
+.adminxallegroauctionslist #xallegro_auction_form .prestashop-switch input:last-of-type:checked:disabled~label:last-of-type {
+  opacity: 1 !important;
+}
+.adminxallegroauctionslist #xallegro_auction_form .prestashop-switch input:disabled~.slide-button {
+  opacity: 1 !important;
+}
+
+.adminxallegroauctionslist .xallegro_auction td hr {
+  margin: 2px 0;
+}
+
+.adminxallegroauctionslist .xallegro_auction td .auction-marketplace-label {
+  margin-left: 2px;
+  cursor: pointer;
+}
+
+.adminxallegroauctionslist .xallegro_auction td .auction-auto-renew-error {
+  color: #f44336;
+  margin-top: 2px;
+  cursor: pointer;
+}
+
+.adminxallegroauctionslist .xallegro_auction td .auction-marketplace-status-label {
+  cursor: pointer;
+}
+
+.adminxallegroauctionslist .xallegro_auction td img + .tooltip .tooltip-inner,
+.adminxallegroauctionslist .xallegro_auction td .auction-marketplace-status-label + .tooltip .tooltip-inner {
+  max-width: 100% !important;
+}
+
+.adminxallegroauctionslist .x-updater-action-close-popup {
+  display: none;
+}
+.adminxallegroauctionslist .x-updater-progress {
+  display: none;
+}
+
+.adminxallegroauctionslist .x-updater-progress-from,
+.adminxallegroauctionslist .x-updater-progress-to {
+  font-weight: bold;
+}
+
+.adminxallegroauctionslist .x-updater-logger,
+.adminxallegroauctionslist .x-updater-end-title {
+  display: none;
+}
+
+.adminxallegroauctionslist .x-updater-progress .btn,
+.adminxallegroauctionslist .x-updater-logger .btn {
+  margin-top: -2px;
+}
+
+.adminxallegroauctionslist .btn.x-updater-logger-all,
+.adminxallegroauctionslist .btn.x-updater-logger-with-errors,
+.adminxallegroauctionslist .btn.x-updater-logger-with-warnings {
+  margin-left: 7px;
+}
+
+.adminxallegroauctionslist .btn.x-updater-redo-btn,
+.adminxallegroauctionslist .btn.x-updater-logger-all,
+.adminxallegroauctionslist .btn.x-updater-logger-with-errors,
+.adminxallegroauctionslist .btn.x-updater-logger-with-warnings,
+.adminxallegroauctionslist .x-updater-finish-message,
+.adminxallegroauctionslist .x-updater-error-message,
+.adminxallegroauctionslist .x-updater-entity {
+  display: none;
+}
+
+.adminxallegroauctionslist .x-updater-progress-bar.is-finished {
+  background: #fff;
+}
+
+.adminxallegroauctionslist .x-updater-progress-bar.is-finished .x-updater-progress-bar-fill {
+  background-color:  #72c279;
+}
+
+.adminxallegroauctionslist .x-updater-progress-bar,
+.adminxallegroauctionslist .x-updater-logger-content {
+  background-color: #fafbfc;
+  margin-top: 10px;
+  padding: 3px;
+  border-radius: 3px;
+  border:#bbcdd2 1px solid;
+}
+
+.adminxallegroauctionslist .x-updater-progress-bar{
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+}
+
+.adminxallegroauctionslist .x-updater-logger-content {
+  height: 100px;
+  overflow: auto;
+  font-size: 11px;
+  padding: 5px 15px;
+  margin: 10px 0;
+  list-style: none;
+}
+
+.adminxallegroauctionslist .x-updater-logger-content .as-error {
+  color: red;
+}
+
+.adminxallegroauctionslist .x-updater-logger-content .as-warning {
+  color: #f38a0c;
+}
+      
+.adminxallegroauctionslist .x-updater-progress-bar-data {
+  font-size: 12px; 
+  text-align: center;
+  padding: 10px;
+}
+
+.adminxallegroauctionslist .x-updater-progress-bar-fill {
+  display: block;
+  height: 17px;
+  background-color: #659cef;
+  border-radius: 3px;
+  width: 0;
+  -webkit-transition: width 500ms ease-in-out;
+  -o-transition: width 500ms ease-in-out;
+  transition: width 500ms ease-in-out;
+}
+
+#form-xallegro_auction td[class*="column-price"],
+#form-xallegro_auction td[class*="column-status"],
+#form-xallegro_auction td.column-marketplace {
+  white-space: nowrap;
+}
+
+@media only screen and (min-width: 768px) {
+  #form-xallegro_auction td.column-name {
+    min-width: 200px;
+  }
+
+  .adminxallegroauctionslist .xallegro-helper-buttons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end;
+  }
+
+  .adminxallegroauctionslist .xallegro-helper-buttons {
+    margin-top: 25px;
+  }
+
+  .adminxallegroauctionslist .xallegro-helper-buttons .btn {
+    margin-left: 10px;
+  }
+
+  .adminxallegroauctionslist .xallegro-helper-filters .form-group {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  #productizationTools {
+    margin-top: 25px; padding-top: 25px;
+    border-top: 1px solid #f0f0f0;
+  }
+}
+
+#xallegro_auction_list_settings .auction-fields-list-table .auction-fields-list-check {
+  cursor: pointer;
+}
+#xallegro_auction_list_settings .auction-fields-list-table .auction-fields-list-sort {
+  cursor: move;
+}
+
+#popup_auction_form .form-group .control-label{
+  margin-bottom: 0;
+  padding-top: 6px;
+  text-align: right;
+}
+
+#popup_auction_form .form-group .checkbox .help-block{
+  padding-left: 20px;
+}
+
+#xallegro_auction_form_modal .x-auction-form-list {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#xallegro_auction_form_modal  .x-auction-form-list-hidden thead{
+  display: none !important;
+}
+
+#xallegro_auction_form_modal .x-auction-form-list td {
+  padding: 4px;
+  border-style: solid;
+  border-color: #dbe6e8;
+  border-width: 0 0 1px 0;
+}
+
+#xallegro_auction_form_modal .x-updater-methods h4{
+  color: #363A41 !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+
+#xallegro_auction_form_modal .x-auction-form-list tr:last-child td{
+  border:none;
+}
+#xallegro_auction_form_modal .x-auction-form-list tr.x-auction-form-list-disabled > td:first-child > strong {
+  text-decoration: line-through;
+}
+#xallegro_auction_form_modal .x-auction-form-list input {
+  display: inline-block;
+  width: 60px;
+  height: 29px;
+  padding: 0 8px;
+}
+#xallegro_auction_form_modal .x-auction-form-list select {
+  height: 29px;
+  padding: 0 8px;
+}
+#xallegro_auction_form_modal .x-auction-form-list .x-auction-form-list-delete {
+  color: #000;
+  cursor: pointer;
+}
+
+/* Allegro Catalog */
+
+.xproductization-product-selector h4 {
+  text-align: left;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+.bootstrap .xproductization-modal-btn {
+  border: 0;
+}
+
+.bootstrap .xproductization-modal-btn:hover,
+.bootstrap .xproductization-modal-btn:focus,
+.bootstrap .xproductization-modal-btn:active,
+.bootstrap .xproductization-modal-btn:active:focus {
+  text-decoration: unset;
+  outline: 0;
+  border: 0;
+}
+
+.xproductization-search {
+  margin-bottom: 15px;
+}
+.xproductization-search input[type="text"],
+.xproductization-search button {
+  height: 39px !important;
+  line-height: 30px !important;
+  padding-top:0px !important;
+  padding-bottom: 0px !important;
+}
+
+
+.xproductization-search input[type="text"]{
+  float: left;
+  width: 66.6% !important;
+}
+
+.xproductization-search button {
+  float: left;
+  margin-left: 5px;
+  margin-top: 0px;
+}
+
+.xproductization-allegro-products .list-group{
+  border:none !important;
+  margin-bottom:10px;
+}
+
+.xproductization-products-loading .xproductization-allegro-products-wrap{
+  opacity: 0.6;
+}
+
+.xproductization-products-loading .xproductization-allegro-products-wrap img{
+  filter: grayscale(100%);
+}
+
+.xproductization-products-loading .xproductization-allegro-products-wrap.xallegro-product-selected{
+  opacity: 1;
+}
+
+.xproductization-products-loading .xproductization-allegro-products-wrap.xallegro-product-selected img{
+  filter:none;
+}
+
+
+.xproductization-report-an-error{
+  font-size:11px;
+}
+
+.xproductization-allegro-products.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+@media (max-width: 991px) {
+  .xproductization-allegro-products.row .col-xs-12 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  .xproductization-allegro-products.row .col-md-3 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 25%;
+            flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+
+.xproductization-allegro-products.row > [class^=col] {
+  margin-bottom: 10px;
+}
+
+.xproductization-allegro-products.row > [class^=col] .thumbnail {
+  height: 100%;
+}
+
+.xproductization-allegro-products.row > [class^=col] .thumbnail .thumbnail-img {
+  min-height: 110px;
+}
+
+.xproductization-allegro-products .list-group-item{
+  font-size:11px;
+  padding: 1px 0px;
+  border-right: none;
+  border-left:none;
+}
+
+.xproductization-allegro-products .list-group-item:first-child{
+  border-top:none;
+}
+.xproductization-allegro-products .list-group-item:last-child{
+  border-bottom:none;
+}
+
+.xproductization-allegro-products .list-group-item:hover{
+  background: #f9fafb;
+}
+
+.btn-allegro{
+  color: #fff !important;
+  background-color: #FF5A00 !important;
+  border-color: #FF5A00 !important;
+}
+
+.btn-allegro:hover{
+  background-color: #fc703a !important;
+  border-color: #fc703a !important;
+}
+
+.bootstrap .img-thumbnail.xallegro-product-selected, 
+.bootstrap .thumbnail.xallegro-product-selected,
+.xallegro-product-selected,
+.xproductization-product-selector--single .thumbnail{
+  border-color: #ff5a00 !important;
+}
+
+.xallegro-product-selected .btn.disabled{
+  opacity: 1;
+}
+
+.xproductization-bottom .btn.btn-primary{
+  text-transform: none;
+}
+
+.xproductization-allegro-products-wrap .caption,
+  .xproductization-allegro-products-wrap > .row,
+  .xproductization-allegro-products-wrap [class^="col"]
+  {
+    height:100%;
+}
+.xproductization-allegro-products-wrap .caption {
+  display: flex;
+  flex-direction: column;
+}
+.xproductization-bottom{
+  margin-top: auto;
+}
+
+.xproductization-bottom div + div{
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+.xproductization-bottom i + span{
+  margin-left: 5px;
+}
+
+.category-field-group .help-block {
+  width: 250px !important;
+  margin-top: 2px;
+  margin-bottom: 0;
+  text-align: right;
+}
+.category-field-group .multiple-values-group .category-field + .help-block {
+  margin-bottom: 6px;
+}
+
+.category-field-group .multiple-values-group {
+  position: relative;
+}
+.category-field-group .multiple-values-group:not(:first-child) {
+  margin-top: 5px;
+}
+.category-field-group .multiple-values-group .multiple-values-delete {
+  position: absolute;
+  top: 8px;
+  left:230px;
+  color: #6c868e;
+}
+.category-field-group .multiple-values-group .hidefix {
+  visibility: hidden;
+}
+
+.category-field-group .multiple-values-show {
+  position: absolute;
+  bottom: 6px;
+}
+
+.x13allegro-category-parameters-info-required {
+  color: #f00;
+}
+
+.x13allegro-category-parameters-info-required,
+.x13allegro-category-parameters-info-productization {
+  width:15px;
+  margin-right:5px;
+  display: inline-block;
+}
+
+.x13allegro-category-parameters-info-productization {
+  background: #fff6f2 !important;
+  border: #ff5a00 1px solid !important;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  width: 15px;
+  height: 15px;
+  margin-bottom:-5px;
+}
+
+/* select2 */
+.adminxallegroassoccategories .select2-container {
+  z-index: 9999;
+}
+.adminxallegrocarriers .select2-container {
+  z-index: 100;
+}
+.adminxallegroassoccategories .select2-container--default .select2-selection--single,
+.adminxallegrocarriers .select2-container--default .select2-selection--single {
+  border: 1px solid #bbcdd2;
+  line-height: 31px;
+  height: 31px;
+  color: #555;
+  margin-top:2px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+.adminxallegroassoccategories .select2-container--open .select2-selection--single,
+.adminxallegrocarriers .select2-container--open .select2-selection--single {
+  background-color: #eee;
+  border: 1px solid rgba(82, 168, 236, .8);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset,0 0 8px rgba(82, 168, 236, .6);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .075) inset,0 0 8px rgba(82, 168, 236, .6);
+  -webkit-transition: border linear 0.2s,box-shadow linear 0.2s;
+  -webkit-transition: border linear 0.2s,-webkit-box-shadow linear 0.2s;
+  transition: border linear 0.2s,-webkit-box-shadow linear 0.2s;
+  transition: border linear 0.2s,box-shadow linear 0.2s;
+  transition: border linear 0.2s,box-shadow linear 0.2s,-webkit-box-shadow linear 0.2s;
+}
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__rendered,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 31px;
+  padding-left: 16px;
+  color: #555;
+}
+
+.adminxallegroassoccategories .select2-rendered__match,
+.adminxallegrocarriers .select2-rendered__match {
+  background: #feffde;
+  text-decoration: underline;
+}
+
+.adminxallegroassoccategories .select2-results__option--highlighted .select2-rendered__match,
+.adminxallegrocarriers .select2-results__option--highlighted .select2-rendered__match {
+  background: none;
+}
+
+.adminxallegroassoccategories .select2-dropdown,
+.adminxallegrocarriers .select2-dropdown {
+  background: #fff;
+  background-clip: border-box;
+  border: 1px solid #999;
+  border-top-color: rgb(153, 153, 153);
+  border-top-color: #d9d9d9;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, .25);
+}
+.adminxallegroassoccategories .select2-container--default .select2-search--dropdown .select2-search__field,
+.adminxallegrocarriers .select2-container--default .select2-search--dropdown .select2-search__field {
+  width: 100%;
+  margin: 1px 0;
+  border: 1px solid #bbcdd2;
+  height: 39px !important;
+  line-height: 39px !important;
+  padding: 4px 20px 4px 4px;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  background: none!important;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-search:before,
+.adminxallegrocarriers .select2-container--default .select2-search:before {
+  position: absolute;
+  top: 16px;
+  display: block;
+  width: 22px;
+  height: 22px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #25b9d7;
+  text-align: center;
+  right: 7px;
+  content: "\F002";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 14px;
+  line-height: 1;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-search--dropdown .select2-search__field:focus,
+.adminxallegrocarriers .select2-container--default .select2-search--dropdown .select2-search__field:focus {
+  background-color: #f4fcfd;
+  border-color: #25b9d7;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-results__option--highlighted[aria-selected],
+.adminxallegrocarriers .select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #25b9d7;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__arrow,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__arrow {
+  height: 28px;
+  line-height: 28px;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__arrow b,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__arrow b {
+  display: none !important;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__arrow:before,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__arrow:before {
+  top:2px;
+  right:3px;
+  width: 10px;
+  height: 28px;
+  line-height: 28px !important;
+  margin:0px;
+  border:none;
+  content: "\f0d7";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 14px;
+  position: absolute;
+  color:#555555;
+}
+
+/* modal */
+#allegro_products .modal,
+#xallegro_parameter_map_form_modal .modal,
+.xproductization-product-selector .modal,
+#xallegro_auction_form_modal .modal,
+#bulk_parameters_modal .modal,
+#bulk_change_category_modal .modal,
+#bulk_product_gpsr_modal .modal {
+  overflow-y: auto;
+}
+
+.x13allegro-modal-title-small{
+  margin-bottom:2px;
+}
+#allegro_products .modal .modal-header,
+#xallegro_parameter_map_form_modal .modal .modal-header,
+.xproductization-product-selector .modal .modal-header,
+#xallegro_auction_form_modal .modal .modal-header,
+#bulk_parameters_modal .modal .modal-header,
+#bulk_change_category_modal .modal .modal-header,
+.x13allegro-modal-header{
+  background: #FFF;
+  position: sticky;
+  top: 0px;
+  z-index: 3;
+  -webkit-border-top-right-radius: 6px;
+  -webkit-border-top-left-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -moz-border-radius-topleft: 6px;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+
+#allegro_products .modal .modal-footer,
+#xallegro_parameter_map_form_modal .modal .modal-footer,
+.xproductization-product-selector .modal .modal-footer,
+#xallegro_auction_form_modal .modal .modal-footer,
+#bulk_parameters_modal .modal .modal-footer,
+#bulk_change_category_modal .modal .modal-footer,
+.x13allegro-modal-footer{
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 60%, rgba(255,255,255,0) 100%);
+  padding-top:20px !important;
+  position: sticky;
+  bottom: 0px;
+  z-index: 3;
+  -webkit-border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+#allegro_products .modal .chosen-with-drop,
+#xallegro_parameter_map_form_modal .modal .chosen-with-drop,
+.xproductization-product-selector .modal .chosen-with-drop,
+#xallegro_auction_form_modal .modal .chosen-with-drop,
+#bulk_parameters_modal .modal .chosen-with-drop,
+#bulk_change_category_modal .modal .chosen-with-drop{
+  z-index:4;
+}
+
+.x13allegro-modal-header{
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #dbe6e8;
+}
+.x13allegro-modal-title,
+.xallegro_modal_alert h2{
+  color:#363A41 !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+
+.xallegro_modal_alert h2{
+  line-height: 1.4em;
+  margin-bottom: 10px;
+  margin-top:0px;
+}
+
+.xallegro_modal_alert .modal_alert-confirm{
+  margin-left:20px !important;
+}
+
+.xallegro_modal_alert p{
+  font-size:14px;
+  margin-bottom:20px;
+}
+
+.xallegro_modal_alert .modal_alert-buttons,
+#description_edit_modal_alert_confirm .modal_alert-confirm{
+  margin-top:20px;
+}
+
+.x13allegro-modal-title-small{
+  font-size:13px !important;
+  color: #1F1F1F !important;
+  margin-top:-3px;
+}
+
+.x13allegro-modal-title-small span{
+  font-weight: 600 !important;
+}
+
+.x13allegro-modal-close {
+  font-size:32px !important;
+  color:#363A41 !important;
+  opacity: 0.5 !important;
+}
+.x13allegro-modal-close:hover{
+  opacity: 1 !important;
+}
+
+.x13allegro-modal-body{
+  padding-bottom: 0px !important;
+}
+
+.x13allegro-modal-footer{
+  border:none !important;
+}
+
+.x13allegro-modal-footer .btn-left{
+  float: left;
+}
+
+.x13allegro-modal-footer-left{
+  float: left;
+  text-align: left;
+}
+
+/* modal alert */
+.modal_alert {
+  padding: 10px;
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.3);
+  top: 0px;
+  left: 0px;
+  align-items: center;
+  justify-content: center;
+  z-index: 99999999;
+}
+.modal_alert.active {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.modal_alert .modal_alert-content {
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  width: 100%;
+  max-width: 550px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 3px 9px rgb(0 0 0 / 50%);
+}
+
+.xproductization-product-selector .modal-header h4{
+  font-size:16px;
+  color: #1F1F1F;
+}
+
+#allegro-mode-modal .modal-header h2 {
+  margin: 0;
+  text-align: center;
+  font-size: 32px;
+  line-height: 41px;
+  color: #1F1F1F;
+}
+
+#allegro-mode-modal .modal-header { 
+  border-bottom: 1px solid #F1F1F1;
+}
+
+#allegro-mode-modal .modal-body {
+  padding: 0;
+}
+
+#allegro-mode-modal .modal-body .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+}
+
+#allegro-mode-modal .modal-body .row .col {
+  padding: 0 20px 20px 20px;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#allegro-mode-modal .modal-body .row .col:first-child {
+  border-right: 1px solid #F1F1F1;
+}
+
+#allegro-mode-modal .modal-body .row .col .btn-wrapper {
+  text-align: center;
+}
+
+#allegro-mode-modal .modal-body .row .col h3 {
+  font-size: 24px;
+  color: #262626;
+  line-height: 32px;
+}
+
+#allegro-mode-modal .modal-body .row .col p {
+  font-size: 13px;
+  color: #666666;
+  line-height: 20px;
+  margin: 0 8px 20px 8px;
+}
+
+#allegro-mode-modal .modal-body .row .col .btn-wrapper .btn {
+  text-transform: lowercase;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 9px 30px;
+  border-radius: 5px;
+}
+
+#allegro-mode-modal .modal-footer {
+  border-top: 1px solid #F1F1F1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: #FFF;
+  padding: 16px 25px 16px 25px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  text-align: left;
+}
+
+
+#allegro-mode-modal .modal-footer input[type=checkbox] {
+  margin: 4px 10px 0 0;
+}
+
+#allegro-mode-modal .modal-footer label {
+  color: #666666;
+  font-size: 14px;
+  margin: 0;
+  font-weight: 400;
+}
+
+.xproductization-all-info{
+  display: block;
+}
+
+.xproductization-product-label{
+  display: block;
+  font-size:11px;
+}
+
+.xproductization-indicator-wrapper{
+  float: right;
+}
+
+.xproductization-indicator-wrapper-all{
+  display: inline-block;
+}
+
+.xproductization-mode-selector select{
+  max-width: 160px;
+}
+.x13allegro-product-auctio-count{
+  display: inline-block;
+  min-width: 120px;
+  color:#FF5A00;
+  float: right;
+  text-align: right;
+}
+
+@media (min-width: 1500px) {
+  .x13allegro-product-auctio-count{
+    width: 140px;
+  }
+}
+
+.x13allegro-product-auctio-count-small{
+  font-size:11px;
+  display: block;
+}
+
+.xproductization-indicator .xproductization-modal-btn {
+  padding: 0px 10px 0px 45px;
+  height: 35px !important;
+  cursor: default;
+  text-align: right;
+  font-size:12px;
+  font-weight: normal;
+  background: #FFF;
+  border:1px solid #bbcdd2 !important;
+  position: relative;
+  -webkit-transition: none !important;
+  transition: none !important;
+}
+
+.xproductization-indicator .xproductization-modal-btn:hover{
+  border-color: #627b82;
+}
+
+.xproductization-indicator .xproductization-modal-btn.label-white{
+  background: none!important;
+  border:none !important;
+  padding-left:35px !important;
+}
+
+.xproductization-indicator .xproductization-modal-btn i{
+  position: absolute;
+  top:1px;
+  left:-1px;
+  font-size:20px;
+  width: 35px !important;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  display: inline-block;
+  -webkit-border-top-left-radius: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  margin-top:-2px;
+  margin-bottom:1px;
+  -webkit-transition: .25s ease-out;
+  transition: .25s ease-out;
+}
+
+.xproductization-indicator .xproductization-modal-btn i.icon-refresh{
+  width: auto;
+  background: none;
+  font-size:18px;
+  margin-right: -5px !important;
+}
+
+.xproductization-value input.xproductization-readonly,
+.xproductization-value select.xproductization-readonly + .chosen-container.chosen-disabled {
+  opacity: 0.7 !important;
+  cursor: default !important;
+}
+
+.xproductization-value input,
+.xproductization-value select + .chosen-container .chosen-single,
+.xproductization-required-for-product input,
+.xproductization-required-for-product select + .chosen-container .chosen-single {
+  opacity: 1;
+  background:#fff6f2 !important;
+  border:#ff5a00 1px solid !important;
+}
+
+.xproductization-value .chosen-container-single .chosen-search::before,
+.xproductization-required-for-product .chosen-container-single .chosen-search::before {
+  color:#ff5a00;
+}
+
+.xproductization-modal-btn .xpbutton-ok{
+  background: #2FBAD4;
+  color:#FFF;
+}
+.xproductization-modal-btn:hover .xpbutton-ok{
+  background: #1E94AB;
+}
+
+.xproductization-modal-btn .xpbutton-warning{
+  background: #FBBB22;
+  color:#FFF;
+}
+.xproductization-modal-btn:hover .xpbutton-warning{
+  background: #e5a131;
+}
+
+.xproductization-modal-btn .xpbutton-danger{
+  background: #de9096;
+  color:#FFF;
+}
+.xproductization-modal-btn:hover .xpbutton-danger{
+  background: #D5676F;
+}
+
+.xproductization-modal-btn .xpbutton-success{
+  background: #77C07E;
+  color:#FFF;
+}
+.xproductization-modal-btn:hover .xpbutton-success{
+  background: #56b05f;
+}
+
+.xproductization-indicator .xproductization-modal-btn .xproductization-modal-btn-text{
+ display: inline-block;
+}
+
+.xproductization-indicator .xproductization-modal-btn .xproductization-modal-btn-text-up{
+  font-size:12px;
+  display: block;
+  margin-top:1px;
+  margin-bottom: -2px;
+}
+
+.xproductization-indicator .xproductization-modal-btn .xproductization-modal-btn-text-bottom{
+  font-size: 10px;
+  display: block;
+}
+
+.xproductization-indicator .xproductization-modal-btn .button-productization{
+  font-size:12px;
+  font-weight:500;
+}
+
+.xproductization-indicator .xproductization-modal-btn {
+  cursor:pointer !important;
+}
+
+.xproductization-indicator .xproductization-modal-btn [class^=icon] {
+  margin-right: 7px;
+}
+
+.xproductization-indicator .xproductization-modal-btn.label-white {
+  color: #666;
+  background: transparent;
+}
+
+.xproductization-mode-selector select,
+.bulk-mode-selector select {
+  display: inline-block;
+  height: 35px !important;
+  padding: 0 10px;
+}
+
+.xproductization-search-progress{
+  display: none;
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#allegro-progress p,
+#allegro-progress p .icon-spin,
+.xproductization-search-progress p,
+.xproductization-search-progress .icon-spin {
+  font-size: 16px;
+}
+.xproductization-search-progress i{
+  margin-right: 5px;
+}
+
+#allegro-valuenow,
+#allegro-valuemax {
+  font-weight: bold;
+}
+
+#allegro-progress {
+  position: sticky;
+  top: 136px;
+  z-index: 999;
+}
+
+#allegro-progress .progress {
+  margin-bottom: 0;
+}
+
+#allegro-progress .panel {
+  padding: 14px 20px 20px 20px;
+  border-color: #ff5a00 !important;
+}
+
+#allegro-progress i{
+  margin-right:5px;
+}
+
+.allegro-send-auction-hidden{
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.allegro-icon {
+  display: inline-block;
+  width: 16px;
+  line-height: 2;
+}
+.allegro-icon.allegro-icon-promotion:before {
+  content: url("../../img/icon-promotion.svg");
+}
+.allegro-icon.allegro-icon-wholesale-price-list:before {
+  content: url("../../img/icon-wholesale-price-list.svg");
+}
+.allegro-icon.allegro-icon-size-table:before {
+  content: url("../../img/icon-size-table.svg");
+}
+.allegro-icon.allegro-icon-preorder:before {
+  content: url("../../img/icon-preorder.svg");
+}
+
+.adminxallegromain .ui-datepicker {
+  z-index: 200 !important;
+}
+
+#allegro_products input[type=number],
+#allegro_products input[type=text],
+#allegro_products select,
+#allegro_main_form #bulk_container input[type=number],
+#allegro_main_form #bulk_container input[type=text],
+#allegro_main_form #bulk_container select{
+  height: 32px;
+  line-height: 32px;
+}
+
+#allegro_products .btn{
+  height: 32px;
+  margin-top: -1px;
+}
+
+#allegro_products,
+.adminxallegromain #bulk_container{
+  margin-top:-1px;
+  margin-bottom: 2px;
+}
+
+.xproductization-category,
+.xproductization-parameters{
+  z-index: 10;
+  position: relative;
+}
+
+.xproductization-parameters-loading,
+.xproductization-parameters-empty-required,
+.xproductization-gpsr-loading,
+.xproductization-gpsr-empty-required,
+.xproductization-gpsr-excluded,
+.xproductization-category-loading,
+.xproductization-category-last-node,
+.xproductization-category-assoc,
+.xproductization-category-similar-loading,
+.xproductization-category-similar-count {
+  color:#FFFFFF;
+  background: #bbcdd2;
+  margin-left:-7px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  display: inline-block;
+  height: 32px;
+  width: 40px;
+  padding-left: 5px;
+  text-align: center;
+  line-height: 30px;
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+  clip-path: polygon(2px 0, 100% 0, 100% 100%, 2px 100%);
+}
+
+.xproductization-parameters-loading,
+.xproductization-gpsr-loading,
+.xproductization-category-loading,
+.xproductization-category-similar-loading {
+  cursor: default;
+}
+
+.xproductization-parameters-empty-required,
+.xproductization-gpsr-empty-required {
+  background: #DE9096;
+}
+
+.xproductization-category-last-node{
+  background: #FBBB38;
+}
+.xproductization-category-last-node.xproductization-category-empty{
+  background: #DE9096;
+}
+
+.xproductization-category-assoc{
+  background: #2FBAD4;
+}
+
+a.xproductization-category-similar {
+  position: relative;
+  z-index: 2;
+}
+.xproductization-category-similar-count {
+  padding-left: 2px;
+  font-weight: 600;
+  color: #6c868e;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bbcdd2;
+  background: #fff;
+}
+
+.gpsr-safety-information-text-wrapper,
+.gpsr-safety-information-attachment-wrapper {
+  margin-top: 2px;
+}
+
+.gpsr-safety-information-text-wrapper textarea {
+  height: 150px;
+  min-height: 150px;
+  resize: vertical;
+}
+.gpsr-safety-information-text-wrapper .counter-wrapper {
+  margin: 2px 0 0 0 !important;
+}
+.gpsr-safety-information-text-wrapper .counter-wrapper .counter {
+  float: right;
+}
+.gpsr-safety-information-text-wrapper .counter-wrapper .counter-error {
+  color: red;
+}
+
+.xproductization-bulk-modal-product-selection {
+  margin-bottom: 0 !important;
+}
+.xproductization-bulk-modal-product-selection label {
+  display: block;
+  margin-bottom: 4px !important;
+}
+
+.xproductization-bulk-modal-product-table > div {
+  margin-top: 10px;
+}
+.xproductization-bulk-modal-product-table label {
+  font-weight: normal;
+  margin: 0;
+}
+
+.adminxallegrotemplates #xallegro_template_form .variable{
+  color:#FFFFFF;
+  background: #FF5A00;
+  padding: 2px 8px;
+  border-radius: 3px;
+  cursor: default;
+  display: inline-block;
+}
+
+.promotion_package_small{
+  font-size:9px;
+}
+
+.btn-save-desc{
+  margin-top:10px;
+}
+
+.x13allegro_black{
+  color:#222;
+}
+
+.x13allegro-checkbox {
+  display: block;
+  position: relative;
+  padding-left: 20px;
+  font-size: 13px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding-top: 0px !important;
+  margin-top: 6px !important;
+}
+
+.x13allegro-checkbox input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.x13allegro-checkbox .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 14px;
+  width: 14px;
+  background-color: #FFF;
+  border:#bbcdd2 1px solid;
+}
+
+.x13allegro-checkbox label{
+  padding: 2px 5px !important;
+  margin-top: -10px !important;
+}
+
+.x13allegro-checkbox label:hover input ~ .checkmark {
+  background-color: #f4f7f8;
+  border-color:#5c5d68;
+}
+
+.x13allegro-checkbox input:checked ~ .checkmark {
+  background-color: #29b1ce;
+  border-color: #29b1ce;
+}
+.x13allegro-checkbox label:hover input:checked ~ .checkmark {
+  background-color: #249fb9;
+}
+
+.x13allegro-checkbox .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.x13allegro-checkbox input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.x13allegro-checkbox .checkmark:after {
+  left: 4px;
+  top: 1px;
+  width: 5px;
+  height: 9px;
+  border: solid #FFF;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.xproductization-value .x13allegro-checkbox .xproductization-readonly ~ .checkmark {
+  opacity: 0.5 !important;
+}
+
+.xproductization-value .x13allegro-checkbox input.xproductization-readonly {
+  opacity: 0 !important;
+}
+
+.xproductization-value .x13allegro-checkbox .checkmark,
+.xproductization-required-for-product .x13allegro-checkbox .checkmark {
+  border:#ff5a00 1px solid !important;
+}
+
+.xproductization-required-for-product .x13allegro-checkbox label:hover input ~ .checkmark {
+  background:#fff6f2 !important;
+}
+
+.xproductization-value .x13allegro-checkbox input:checked ~ .checkmark,
+.xproductization-required-for-product .x13allegro-checkbox input:checked ~ .checkmark {
+  background-color: #ff5a00;
+}
+
+.xproductization-value .x13allegro-checkbox label:hover input:checked ~ .checkmark,
+.xproductization-required-for-product .x13allegro-checkbox label:hover input:checked ~ .checkmark {
+  background:#e55100 !important;
+}
+
+.category-field-checkbox .x13allegro-list-checkbox{
+  column-count: 2;
+  margin-bottom:10px;
+}
+
+.x13allegro-list-checkbox .x13allegro-checkbox,
+.xproductization-parameters-wrapper .x13allegro-checkbox{
+  font-size:13px;
+}
+
+.x13allegro-list-checkbox .x13allegro-checkbox .checkmark,
+.xproductization-parameters-wrapper .x13allegro-checkbox .checkmark{
+  top:3px;
+}
+
+.tr_auction_product .xproductization-category span,
+.category-similar-list label span{
+  padding-left:2px;
+  padding-right:2px;
+}
+
+.tr_auction_product .xproductization-category span:last-child,
+.category-similar-list label span:last-child{
+  color:#222;
+}
+
+#itemTab_parameterMap li a{
+  min-height: 47px;
+}
+
+.badge.badge-x13allegro{
+  padding-right: .6em;
+  padding-left: .6em;
+  border-radius: 10rem;
+  font-size:12px;
+}
+.badge.badge-x13allegro.badge-success{
+  background-color:#70b580; 
+}
+.badge.badge-x13allegeo.badge-warning{
+  background-color:#fab000; 
+}
+.badge.badge-x13allegro.badge-danger,
+#table-xallegro_log .badge.badge-danger{
+  background-color:#f54c3e; 
+}
+.badge.badge-x13allegro.badge-dark{
+  background-color:#363a41; 
+}
+#form-xallegro_auction .column-binded .label-tooltip {
+  background-color:#70b580; 
+  color:#FFF;
+  padding: 2px 5px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.x13gpsr-info-allegro{
+  border:#fab000 1px solid;
+  padding: 10px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  font-size:13px;
+  margin-bottom:10px;
+}
+
+.x13gpsr-info-allegro h4{
+  font-weight: bold;
+}
+
+.x13gpsr-info-allegro-img{
+  text-align: center;
+}
+
+.x13gpsr-info-allegro img{
+  width: auto;
+  max-width: 100%;
+  max-height: 200px;
+}
+
+.x13gpsr-info-allegro-close {
+  position: absolute;
+  z-index: 10;
+  right: 0;
+}

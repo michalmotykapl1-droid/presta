@@ -1,0 +1,95 @@
+{
+  "language": "pl-PL",
+  "name": "",
+  "external": {
+    "id": ""
+  },
+  "description": {},
+  "category": {
+    "id": ""
+  },
+  "productSet": null,
+  "parameters": [],
+  "images": null,
+  "publication": {
+    "duration": "",
+    "marketplaces": {
+      "base": {
+        "id": ""
+      },
+      "additional": []
+    },
+    "status": "INACTIVE",
+    "startingAt": null
+  },
+  "sellingMode": {
+    "format": "",
+    "price": {
+      "amount": "",
+      "currency": ""
+    },
+    "minimalPrice": {
+      "amount": "",
+      "currency": ""
+    },
+    "startingPrice": {
+      "amount": "",
+      "currency": ""
+    }
+  },
+  "taxSettings": {
+    "rates": [],
+    "subject": "",
+    "exemption": ""
+  },
+  "sizeTable": {
+    "id": ""
+  },
+  "stock": {
+    "available": 0,
+    "unit": ""
+  },
+  "delivery": {
+    "additionalInfo": "",
+    "handlingTime": "",
+    "shippingRates": {
+      "id": ""
+    },
+    "shipmentDate": null
+  },
+  "discounts": {
+    "wholesalePriceList": {
+      "id": ""
+    }
+  },
+  "location": {
+    "city": "",
+    "countryCode": "",
+    "postCode": "",
+    "province": ""
+  },
+  "payments": {
+    "invoice": ""
+  },
+  "afterSalesServices": {
+    "impliedWarranty": {
+      "id": ""
+    },
+    "returnPolicy": {
+      "id": ""
+    },
+    "warranty": {
+      "id": ""
+    }
+  },
+  "additionalServices": {
+    "id": ""
+  },
+  "additionalMarketplaces": {},
+  "messageToSellerSettings": {
+    "mode": "OPTIONAL"
+  },
+  "b2b": {
+    "buyableOnlyByBusiness": false
+  }
+}

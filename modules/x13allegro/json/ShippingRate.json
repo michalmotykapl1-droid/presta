@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "name": "",
+  "rates": [
+    {
+      "deliveryMethod": {
+        "id": ""
+      },
+      "maxQuantityPerPackage": 1,
+      "firstItemRate": {
+        "amount": "",
+        "currency": "PLN"
+      },
+      "nextItemRate": {
+        "amount": "",
+        "currency": "PLN"
+      },
+      "shippingTime": {
+        "from": "",
+        "to": ""
+      }
+    }
+  ],
+  "lastModified": ""
+}

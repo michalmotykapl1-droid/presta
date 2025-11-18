@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>x13allegro</name>
+    <displayName><![CDATA[Integracja PrestaShop z Allegro]]></displayName>
+    <version><![CDATA[7.6.1]]></version>
+    <description><![CDATA[Zaawansowany moduł integrujący sklep PrestaShop z Allegro. Szybkie wystawianie ofert, pełna kontrola ilości oraz cen. Opcja importu zam&oacute;wień z Allegro.]]></description>
+    <author><![CDATA[X13.pl]]></author>
+    <tab><![CDATA[market_place]]></tab>
+	<confirmUninstall><![CDATA[Spowoduje usunięcie wszystkich powiązań ofert, kategorii, szablonów, oraz ustawień modułu!]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
