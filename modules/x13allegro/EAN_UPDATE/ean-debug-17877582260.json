@@ -1,0 +1,297 @@
+{
+    "name": "Łosoś wędzony na zimno w plastrach BIO 75g",
+    "productSet": [
+        {
+            "product": {
+                "id": "19c438a4-ae3f-497a-8cc8-b7b09aa96dad",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248617",
+                        "name": "Waga",
+                        "values": [
+                            "75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248627",
+                        "name": "Rodzaj",
+                        "values": [
+                            "łosoś atlantycki"
+                        ],
+                        "valuesIds": [
+                            "248627_1221610"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Łosoś wędzony na zimno w plastrach BIO 75g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "1.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "3.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901576053962"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6ba0ac4e-19b0-4472-87a2-3e3476b6a622"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11d4ae\/00a8b9884063bce1ba23f47d835f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "23.82",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 34,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d4ae\/00a8b9884063bce1ba23f47d835f"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Łosoś wędzony na zimno w plastrach BIO 75g<\/h1><p>Plasterki łososia Bio Atlantyckiego wędzone na zimno to wysokiej jakości produkt, pochodzący z ekologicznych hodowli. <\/p><p>Łosoś jest starannie wędzony na zimno, co nadaje mu delikatny, subtelnie dymny smak i zachowuje jego naturalną soczystość. <\/p><p>Idealny do sałatek, kanapek lub jako wykwintna przekąska. <\/p><p>Produkt jest bogaty w białko i zdrowe kwasy tłuszczowe omega-3, co czyni go doskonałym wyborem dla osób dbających o zdrową i zrównoważoną dietę. <\/p><p>SKŁADNIKI: Ekologiczny łosoś atlantycki (Salmo salar), sól<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_11686"
+    },
+    "category": {
+        "id": "77741"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.82",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.48",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "137.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2230.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "137.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877582260",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T14:02:05.044Z"
+    },
+    "createdAt": "2025-09-10T14:02:05.000Z",
+    "updatedAt": "2025-10-30T13:15:32.882Z"
+}

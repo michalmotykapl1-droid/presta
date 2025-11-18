@@ -1,0 +1,361 @@
+{
+    "name": "CIASTKA PROTEINOWE PODWÓJNIE CZEKOLADOWE BEZ CUKRU (2 x 35 g) 70 g - GREENE",
+    "productSet": [
+        {
+            "product": {
+                "id": "c01f3976-2615-42a5-95e6-74f80d990cf2",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "70"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903864780475"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Greenergy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru"
+                        ],
+                        "valuesIds": [
+                            "130691_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "36"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "29"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "42"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "0.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903864780475"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6d3fa6cb-9aaf-421a-881b-a5daff7e6408"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116ad2\/2ef4282d434db1ea1bd2952998f2"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "6.71",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 3,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116ad2\/2ef4282d434db1ea1bd2952998f2"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>CIASTKA PROTEINOWE PODWÓJNIE CZEKOLADOWE BEZ CUKRU (2 x 35 g) 70 g - GREENE<\/h1><p>SKŁADNIKI<\/p><p>olej kokosowy, mąka PSZENNA, substancja słodząca - maltitol, odtłuszczona mąka SOJOWA, koncentrat białka SOJOWEGO, granulki czekoladowe 7 % (substancja słodząca - maltitol, miazga kakaowa, emulgator - lecytyny (z SOI), kakao w proszku o obniżonej zawartości tłuszczu, naturalny aromat waniliowy), emulgator - lecytyny (z SOI), kakao 2 %.<\/p><p>OPIS<\/p><p>Ciastka proteinowe Greenergy Double Chocolate to pudełko z dwoma ciasteczkami, które zawierają sporo białka pochodzenia roślinnego. Przekąska nie zawiera dodanego cukru (jest słodzona naturalną substancją słodzącą i zawiera naturalnie występujące cukry). Ciastka są odpowiednie dla wegan i wegetarian. Proteinowa przekąska z dobrym składem dla osób aktywnych.<\/p><p>Polecamy również inny smak ciastek oraz inne przekąski proteinowe z naszej oferty.<\/p><p>WARTOŚĆ ODŻYWCZA w 100 g <\/p><p>Wartość energetyczna: 2005 kJ \/ 479 kcal<\/p><p>Tłuszcz: 36 g<\/p><p>w tym kwasy tłuszczowe nasycone: 29 g<\/p><p>Węglowodany: 42 g<\/p><p>w tym cukry: 0,4 g<\/p><p>w tym poliole: 15 g<\/p><p>Błonnik: 11 g<\/p><p>Białko: 15 g<\/p><p>Sól: 0,01 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać JAJA, MLEKO, ORZESZKI ZIEMNE i inne orzechy.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym i suchym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BLUEMOOR, Rynek Główny 6, 32-600 Oświęcim, Polska<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43356"
+    },
+    "category": {
+        "id": "261779"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.71",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.54",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "39.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "630.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "39.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051574037",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T14:08:34.756Z"
+    },
+    "createdAt": "2025-11-03T14:08:34.000Z",
+    "updatedAt": "2025-11-03T14:23:35.970Z"
+}

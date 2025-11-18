@@ -1,0 +1,372 @@
+{
+    "name": "Chipsy z jabłka z sokiem z ananasa Crispy Natural 18g",
+    "productSet": [
+        {
+            "product": {
+                "id": "fbe094c0-36f1-47bf-aaaa-9c96af51f562",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Crispy Natural"
+                        ],
+                        "valuesIds": [
+                            "248811_1958664"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5900238965421"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Suszone chipsy z jabłka z sokiem z ananasa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "GMO"
+                        ],
+                        "valuesIds": [
+                            "130691_32768"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "chipsy"
+                        ],
+                        "valuesIds": [
+                            "210758_1781711"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233413",
+                        "name": "Rodzaj suszonych owoców",
+                        "values": [
+                            "ananas"
+                        ],
+                        "valuesIds": [
+                            "233413_372453"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233337",
+                        "name": "Opakowanie",
+                        "values": [
+                            "zgrzewany worek"
+                        ],
+                        "valuesIds": [
+                            "233337_372117"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233401",
+                        "name": "Typ suszonych owoców",
+                        "values": [
+                            "naturalne"
+                        ],
+                        "valuesIds": [
+                            "233401_372365"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Polska"
+                        ],
+                        "valuesIds": [
+                            "249649_1723418"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.02"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900238965421"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "75fd01ad-4764-4cce-a88c-1f95c3aa53b3"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113763\/77c0e57d4736b2ce3919c90c52d4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "4.23",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 68,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/113763\/77c0e57d4736b2ce3919c90c52d4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Chipsy z jabłka z sokiem z ananasa Crispy Natural 18g<\/h1> <p><b>Chipsy z jabłka z sokiem z ananasa Crispy Natural, 18g <\/b><\/p> <p>Egzotyczny smak ananasa!<\/p><p>Chipsy z jabłek z sokiem z ananasa, to idealne połączenie dla smakoszy tropikalnych smaków.<\/p> <p><b>Składniki:<\/b><\/p><p>jabłko, zagęszczony sok z ananasa, aromat naturalny<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>Wartość energetyczna 1505 kJ \/ 355 kcal<\/p><p>Tłuszcz &lt;0,2 g<\/p><p>w tym kwasy tłuszczowe nasycone &lt;0,1 g<\/p><p>Węglowodany 81,9 g<\/p><p>w tym cukry 66,7 g<\/p><p>Błonnik 10,3 g<\/p><p>Białko 1,8 g<\/p><p>Sól* 0,01 g<\/p><p>*zawartość soli wynika wyłącznie z obecności naturalnie występującego sodu<\/p> <p><b>Alergeny:<\/b><\/p><p>Może zawierać mleko.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu. Spożyć bezpośrednio po otwarciu opakowania.<\/p> <p><b>Producent:<\/b><\/p><p>Crispy Natural Sp. z o. o. Sp. k.<\/p><p>ul. Łódzka 145a<\/p><p>62-800 Kalisz<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5900238965421"
+    },
+    "category": {
+        "id": "261227"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.23",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.97",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "24.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "395.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "24.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876244026",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T03:47:56.807Z"
+    },
+    "createdAt": "2025-09-10T03:47:56.000Z",
+    "updatedAt": "2025-09-10T04:02:57.992Z"
+}

@@ -1,0 +1,326 @@
+{
+    "name": "KENAY Ashwagandha KSM-66 BIO 200mg, 60kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "fbef4c0f-7766-492c-9f24-1acf5a1f5c47",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Ashwagandha KSM-66 BIO"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Kenay"
+                        ],
+                        "valuesIds": [
+                            "248811_1978053"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5900672155358"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "ashwagandha"
+                        ],
+                        "valuesIds": [
+                            "210698_244042"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "136"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "136"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900672155358"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "c8a91bbf-13b4-422c-b813-5f6b3966846b"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11fe2c\/da7c320b4fd68ac27be2f42d309d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "38.06",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11fe2c\/da7c320b4fd68ac27be2f42d309d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KENAY Ashwagandha KSM-66 BIO 200mg, 60kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>KSM-66 Ashwagandha® BIO (60 kapsułek) - suplement diety<\/p> <p>Ashwagandha - roślina adaptogenna, naturalnie występująca w Indiach, Pakistanie, Sri Lance, Bangladeszu i Chinach. Substancje biologicznie czynne to: witaferyna A, witanolid D, sitoindozydy.<\/p> <p>Adaptogeny to ekstrakty roślinne ułatwiające przystosowanie się organizmu do niekorzystnych warunków środowiskowych i zaburzeń emocjonalnych. Uważa się, że substancje adaptogenne mają zdolność normalizowania funkcji organizmu i wzmacniania systemów obronnych przed działaniem stresu.<\/p> <p>Dlaczego KSM-66 Ashwagandha® pozyskiwana z korzenia jest lepsza od tej z liści?<\/p><p>Badania naukowe skupiają się na korzeniach, a nie liściach ashwagandhy. Specjaliści praktykujący ajurwedę wykorzystują tylko korzeń ze względu na jego korzystne właściwości adaptogenne znane od tysięcy lat. W tradycyjnej medycynie liście ashwagandhy wykorzystywanie były głównie zewnętrznie.<\/p> <p>Dlaczego wyłącznie korzenie?<\/p><p>- większość opublikowanych badań została przeprowadzona nad właściwościami korzenia, a nie liści ashwagandhy<\/p> <p>- korzeń jest od dawna spożywany przez ludzi oraz uznany za znacznie bezpieczniejszy w porównaniu z liśćmi ashwagandhy<\/p> <p>- w niektórych krajach europejskich dozwolony jest jedynie ekstrakt z korzenia ashwagandhy<\/p> <p>- Ixoreal Biomed to rodzinna firma, która produkuje ashwagandhę najwyższej jakości<\/p> <p>KSM-66 Ashwagandha® to jedyny produkt pozyskany wyłącznie z korzenia ashwagandhy.<\/p> <p>Korzyści produktu:<\/p><p>- znana jest w tradycji indyjskiej ze względu na swoje prozdrowotne właściwości adaptogenne<\/p><p>- wspomaga zdrowie sercowo-naczyniowe<\/p><p>- pomocna w stanach napięcia, niepokoju i stresu<\/p><p>- wzbudza również coraz większe zainteresowanie, także u sportowców.<\/p> <p>Pozostałe cechy:<\/p><p>- 100% roślinnego pochodzenia<\/p><p>- europejski certyfikat BIO<\/p><p>- ekstrakt standaryzowany na witanolidy<\/p><p>- produkt odpowiedni dla wegetarian (kapsułka Vcaps®)<\/p><p>- clean label - kapsułki zawierają wyłącznie składniki aktywne, bez substancji wiążących, wypełniaczy, substancji poślizgowych i innych dodatków<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Ekologiczny ekstrakt z korzenia witanii ospałej (Withania somnifera) \/KSM-66 Ashwagandha®\/ standaryzowany na zawartość witanolidów: 5%, kapsułka: hydroksypropylometyloceluloza.<\/p> <p>Zawartość w porcji dziennej (1 kapsułka):<\/p><p>Ekologiczny ekstrakt z korzenia witanii ospałej (Withania somnifera) \/KSM-66 Ashwagandha®\/ - 200mg <\/p><p>w tym witanolidów 5% - 10mg<\/p>  <p>KSM-66 Ashwagandha® jest zarejestrowanym znakiem towarowym Ixoreal Biomed Inc.<\/p> <p>Opakowanie zawiera: 60 kapsułek<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Porcja dzienna: 1 kapsułka<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Nie należy stosować w przypadku nadwrażliwości na jakikolwiek składnik preparatu. Preparatu nie powinny stosować kobiety w ciąży, karmiące piersią oraz dzieci i młodzież poniżej 18 roku życia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w zamkniętym opakowaniu w temperaturze pokojowej, w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21KEKASHW1"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.06",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.75",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "219.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3565.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "219.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876335922",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:10:12.962Z"
+    },
+    "createdAt": "2025-09-10T05:10:12.000Z",
+    "updatedAt": "2025-10-20T01:58:32.252Z"
+}

@@ -1,0 +1,385 @@
+{
+    "name": "BIOWEN Kolagen Morski - 3x PEPTYDY w proszku 225g",
+    "productSet": [
+        {
+            "product": {
+                "id": "7b6ba86a-c9c6-4e00-817c-f8083c363ace",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biowen"
+                        ],
+                        "valuesIds": [
+                            "248811_1957883"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904806120939"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Kolagen morski"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "proszek"
+                        ],
+                        "valuesIds": [
+                            "210758_244686"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez cukru"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "7.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "225"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224157",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "224157_307089"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904806120939"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "462eb009-9e06-4340-a6f0-dcfabe1ac169"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11b642\/5dfb514944919f9fa6932e6d46f3"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "135.98",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11b642\/5dfb514944919f9fa6932e6d46f3"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIOWEN Kolagen Morski - 3x PEPTYDY w proszku 225g<\/h1> <p><b>OPIS <\/b><\/p><p>Kolagen morski typu I i III z dzikiego dorsza Biowen - proszek - 225 g - suplement diety<\/p> <p>Kolagen morski w formie proszku, pozyskiwany z dzikiego dorsza atlantyckiego (Gadus morhua), o jakości BPMG (Bioactive Peptide Marine Grade), zawiera kolagen typu I oraz III. W jego składzie znajduje się również NaticolⓇ x3 Peptide, który dzięki mikrocząsteczkom o wielkości nawet 1000 daltonów charakteryzuje się wyjątkową biodostępnością i efektywną przyswajalnością przez organizm. Produkt Biowen wyróżnia się czystą formułą, wolną od substancji słodzących, a do jego produkcji wykorzystuje się wyłącznie ryby pochodzące z certyfikowanych, zrównoważonych połowów.<\/p> <p>Produkt zawiera również witaminę C, która pełni ważną rolę w syntezie kolagenu, wspierając procesy zachodzące przy udziale aminokwasów. Kolagen bez witaminy C nie mógłby osiągnąć pełnej skuteczności, dlatego też jej obecność w składzie jest nieodzowna.<\/p> <p>Kolagen dostępny jest w szklanym słoiku, wyposażonym w praktyczną miarkę, co umożliwia precyzyjne odmierzanie porcji produktu i jego wygodne włączenie do codziennej diety.<\/p><p>Dlaczego warto wybrać kolagen od Biowen?<\/p><p>Kolagen od Biowen wyróżnia się wysoką jakością, pozyskiwany jest z dzikiego dorsza atlantyckiego pochodzącego z certyfikowanych, zrównoważonych połowów. Produkt charakteryzuje się czystym składem, bez dodatków słodzących, a zawarte w nim bioaktywne peptydy kolagenu (NaticolⓇ x3 Peptide) o wysokiej biodostępności zapewniają optymalną przyswajalność. Dodatkowo obecność witaminy C wspomaga skuteczność kolagenu, stymulując jego naturalną syntezę w organizmie. Kolagen Biowen to wybór dla osób, które cenią skuteczność oraz odpowiedzialne podejście do produkcji suplementów.<\/p><p>Typy kolagenu w suplemencie od Biowen<\/p> <p>Kolagen typu I, który jest obecny również w kolagenie rybim Biowen, to najpowszechniejszy typ kolagenu w ludzkim organizmie. Odpowiada za strukturalną integralność wielu tkanek, takich jak więzadła, ścięgna, kości, skóra czy rogówka oka. To właśnie kolagen typu I zapewnia elastyczność tych tkanek, a w przypadku kości, ich odpowiednią sztywność.<\/p> <p>Kolagen typu III, również zawarty w kolagenie Biowen, występuje w różnych narządach, takich jak skóra, naczynia krwionośne, płuca czy wątroba. Połączenie kolagenu typu I i III ma istotne znaczenie dla utrzymania elastyczności tkanek w organizmie.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Kolagen rybi Naticol® typu 1 i 3 z dzikiego dorsza bpmg, kolagen 3x peptydy, witamina C. <\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Kolagen rybi od Biowen - zalecane dzienne spożycie: wystarczy raz dziennie rozpuścić jedną miarkę produktu (7,5 g) w szklance wody o pojemności około 200 ml, a następnie wypić. To proste i wygodne rozwiązanie, które z łatwością włączysz do swojej codziennej rutyny!<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Produkt nie może być stosowany jako substytut zróżnicowanej diety. Zaleca się stosowanie zróżnicowanej i zrównoważonej diety i zdrowego trybu życia.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej. Chronić przed wilgocią. Przechowywać w sposób niedostępny dla małych dzieci.<\/p> <p><b>PRODUCENT <\/b><\/p><p>Biodio Lab Sp. z o.o.<\/p><p>Ul. Choroszczańska 24<\/p><p>15-732 Białystok<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21BIDBKOLMO"
+    },
+    "category": {
+        "id": "122572"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "135.98",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.28",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "782.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12740.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "782.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861074582",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T07:00:48.948Z"
+    },
+    "createdAt": "2025-09-05T07:00:48.000Z",
+    "updatedAt": "2025-10-24T14:07:44.375Z"
+}

@@ -1,0 +1,280 @@
+{
+    "name": "KUBEK TERMICZNY Z POKRYWKĄ KWIATY 420 ml - CHIC-MIC",
+    "productSet": [
+        {
+            "product": {
+                "id": "386d10e8-3725-4d51-8bce-07d34cc65e29",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "220677",
+                        "name": "Pojemność",
+                        "values": [
+                            "420"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "228569",
+                        "name": "Liczba sztuk w zestawie",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Chic-mic"
+                        ],
+                        "valuesIds": [
+                            "248811_2043609"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249512",
+                        "name": "Kolor",
+                        "values": [
+                            "inny kolor"
+                        ],
+                        "valuesIds": [
+                            "249512_1647427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247873",
+                        "name": "Typ produktu",
+                        "values": [
+                            "wielorazowy"
+                        ],
+                        "valuesIds": [
+                            "247873_832558"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4262448370190"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e122938a-7f8e-4646-99e9-1e1821cc302d"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1193de\/a2297e4a418f9456c5f21798c607"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "53.36",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 52,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1193de\/a2297e4a418f9456c5f21798c607"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KUBEK TERMICZNY Z POKRYWKĄ KWIATY 420 ml - CHIC-MIC<\/h1><p>OPIS<\/p><p>- Kubek termiczny o pojemności 420 ml.<\/p><p>- Ścianka ze stali nierdzewnej utrzymuje ciepłą lub zimną temperaturę płynu do 3 godzin.<\/p><p>- Zalecane mycie ręczne.<\/p><p>- Nie nadaje się do używania w mikrofali.<\/p><p>- Produkt dostępny w wielu modnych wzorach.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>chic.mic GmbH Pappelweg 8 61169 Friedberg Germany<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44834"
+    },
+    "category": {
+        "id": "88354"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "53.36",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.27",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "307.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5000.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "307.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876814398",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:30:33.158Z"
+    },
+    "createdAt": "2025-09-10T09:30:33.000Z",
+    "updatedAt": "2025-09-10T09:45:33.562Z"
+}

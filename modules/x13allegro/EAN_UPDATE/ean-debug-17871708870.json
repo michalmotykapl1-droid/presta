@@ -1,0 +1,399 @@
+{
+    "name": "SANBIOS Krem z algami i żeń-szeniem 50ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "6b743658-3245-43c1-b662-460df32ae60c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sanbios"
+                        ],
+                        "valuesIds": [
+                            "248811_1963871"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908230845697"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Sanbios"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "na dzień"
+                        ],
+                        "valuesIds": [
+                            "215870_271962"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.14"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Do wszystkich typów skóry"
+                        ],
+                        "valuesIds": [
+                            "129434_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "wielozadaniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_11"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "silikonów",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "105"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "uniwersalny"
+                        ],
+                        "valuesIds": [
+                            "215770_271366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "algi i żeń-szeń"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908230845697"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "24cf7f73-430a-49ca-a3fd-77d45ba075ca"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110caf\/d49923c949869b79546e15096a55"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.88",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 9,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110caf\/d49923c949869b79546e15096a55"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SANBIOS Krem z algami i żeń-szeniem 50ml<\/h1> <p><b>OPIS <\/b><\/p><p>Krem z algami zawiera w swojej recepturze spirulinę, żeń-szeń, oleje z awokado, z oliwek, kokosowy, masło shea, D-panthenol oraz wosk. Składniki te działają na skórę odżywczo, regenerująco, pobudzająco i rewitalizująco. Na szczególną uwagę zasługuje tu spirulina - jest to alga będąca \"super paliwem\" dla skóry. Bogata w szereg białek, enzymów, witamin i mikrolelementów. Efekt - to świeża, ujędrniona, pełna blasku i energii skóra.<\/p> <p>Polecany do skóry:<\/p><p>- suchej,<\/p><p>- zmęczonej,<\/p><p>- szarej,<\/p><p>- z oznakami starzenia<\/p> <p>Przebadany dermatologicznie.<\/p><p>Produkt nie testowany na zwierzętach<\/p> <p><b>SKŁADNIKI\/ INGREDIENTS<\/b><\/p><p>AQUA, COCO-CAPRYLATE\/CAPRATE, CAPRYLIC CAPRIC TRIGLYCERIDE, PANAX GINSENG ROOT EXTRACT, PERSEA GRATISSIMA (AVOCADO) OIL, OLEA EUROPAEA(OLIVE) FRUIT OIL, COCOS NUCIFERA (COCONUT) OIL, CERA ALBA, SORBITAN SESQUIOLEATE, SPIRULINA PLATENSIS EXTRACT, BUTYROSPERMUM PARKII (SHEA) BUTTER, PANTHENOL, MAGNESIUM SULFATE, PROPYLENE GLYCOL PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, LIMONENE, LINALOOL, HEXYL CINNAMAL, BENZYL SALICYLATE, BENZYL BENZOATE, CITRONELLOL,<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać: w suchym, nienasłonecznionym miejscu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SANKREAL"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.88",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.64",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "166.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2705.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "166.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871708870",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:12:51.443Z"
+    },
+    "createdAt": "2025-09-08T20:12:51.000Z",
+    "updatedAt": "2025-10-06T13:49:43.574Z"
+}

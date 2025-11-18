@@ -1,0 +1,322 @@
+{
+    "name": "TABLETKI DO ZMYWAREK SILNIE ODTŁUSZCZAJĄCE ECO (30 szt.) - BRIOCHIN BRIOCHI",
+    "productSet": [
+        {
+            "product": {
+                "id": "2b5a4cd6-42f3-4590-ba18-63fb6264218c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Briochin"
+                        ],
+                        "valuesIds": [
+                            "248811_1972867"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250432",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "BRIOCHIN"
+                        ],
+                        "valuesIds": [
+                            "250432_1919325"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "3383482308183"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Francja"
+                        ],
+                        "valuesIds": [
+                            "249649_1723310"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225137",
+                        "name": "Opakowanie",
+                        "values": [
+                            "karton"
+                        ],
+                        "valuesIds": [
+                            "225137_310605"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225173",
+                        "name": "Rodzaj",
+                        "values": [
+                            "tabletki"
+                        ],
+                        "valuesIds": [
+                            "225173_310673"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225782",
+                        "name": "Typ",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "225782_313582"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213906",
+                        "name": "Waga produktu",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "520"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3383482308183"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6d8c2513-1cbc-4b9a-bb32-26dfbd5c909c"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa środków do zmywania oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Drażniące działanie: Środki do zmywania mogą powodować podrażnienia skóry i oczu. Należy unikać kontaktu z oczami i skórą. W przypadku kontaktu z oczami, przemyć je dużą ilością wody i skonsultować się z lekarzem.\n2.  Zagrożenie połknięciem: Trzymać poza zasięgiem dzieci. Połknięcie może być szkodliwe. W razie połknięcia natychmiast skontaktować się z lekarzem.\n3.  Reakcje alergiczne: Niektóre środki mogą zawierać składniki powodujące reakcje alergiczne. Należy sprawdzić skład i unikać stosowania produktu, jeśli jestem uczulony na któryś ze składników.\n4.  Mieszanie z innymi środkami: Nie mieszać z innymi środkami czyszczącymi, szczególnie z wybielaczami, gdyż może to prowadzić do wydzielania się niebezpiecznych gazów.\n5.  Przechowywanie: Przechowywać w chłodnym, suchym miejscu, z dala od żywności i napojów. Upewnić się, że pojemnik jest szczelnie zamknięty.\n6.  Utylizacja: Postępować zgodnie z lokalnymi przepisami dotyczącymi utylizacji opakowań i resztek produktu. Nie wylewać do kanalizacji.\n7.  Używanie rękawic: Zalecane jest używanie rękawic ochronnych podczas zmywania, aby chronić skórę przed podrażnieniami.\n8.  Wentylacja: Podczas używania środków do zmywania należy zapewnić odpowiednią wentylację pomieszczenia.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a64c\/140f855e4fe2ac500d660b35a4e2"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "35.68",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 443,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>TABLETKI DO ZMYWAREK SILNIE ODTŁUSZCZAJĄCE ECO (30 szt.) - BRIOCHIN - BRIOCHIN<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI <\/p>\n<p>&gt;=5-&lt;15 %: ŚRODKI WYBIELAJĄCE TLENOWE, &lt;5 % SUBSTANCJE POWIERZCHNIOWO CZYNNE NIEJONOWE, SUBSTANCJE POWIERZCHNIOWO CZYNNE ANIONOWE, ENZYMY, ZAWIERAJĄ TAKŻE: SEKWESTRANTY, WĘGLAN SODU, WODOROWĘGLAN SODU, KRZEMIANY, ŚRODEK PRZECIW OSADOM, SÓL, WYCIĄG Z ROŚLIN, GLICERYNA, KWAS GLIKOLOWY.<\/p>\n<p>98 % wszystkich składników jest pochodzenia naturalnego. <\/p>\n<p>OPIS <\/p>\n<p>Tabletki do zmywarki Briochin wyróżniają się silnym działaniem odtłuszczającym. Dzięki unikalnej formule opartej na sodzie kalcynowanej skutecznie usuwają trudne i tłuste zabrudzenia, pozostawiając naczynia lśniące i bez smug. Zapewniają doskonałe efekty czyszczenia przy temperaturze już od 45°C, co sprawia, że są idealnym rozwiązaniem do szybkich cykli mycia. Naczynia są idealnie czyste, a przy tym zachowują wysoki połysk, bez konieczności używania dodatkowych środków nabłyszczających. Tabletki nie zawierają fosforanów i fosfonianów. Opakowanie zawiera 30 tabletek.<\/p>\n<p>ZASTOSOWANIE<\/p>\n<p>Tabletki do zmywarki Briochin zostały zaprojektowane z myślą o efektywnym i wygodnym czyszczeniu naczyń w zmywarkach. Ich formuła działa skutecznie już przy niskich temperaturach, co umożliwia oszczędność energii oraz wody. Tabletki są kompatybilne z większością nowoczesnych zmywarek, zapewniając świetne efekty mycia nawet w krótkich cyklach.<\/p>\n<p>SPOSÓB UŻYCIA<\/p>\n<p>Aby zmniejszyć zużycie energii, włączaj zmywarkę, gdy jest pełna, wybieraj programy mycia w niskiej temperaturze i przestrzegaj instrukcji dozowania.<\/p>\n<p>1 tabletka - 1 mycie<\/p>\n<p>Przeciętnie brudne naczynia - 1 tabletka w programie 45°C i płukanie w 50°C.<\/p>\n<p>Bardzo brudne naczynia lub bardzo twarda woda - 1 tabletka w programie 65°C i płukanie w 50°C.<\/p>\n<p>1.Włożyć tabletkę bez usuwania folii do przeznaczonej do tego przegródki.<\/p>\n<p>2.Nie dotykać tabletek wilgotnymi rękoma. Umyć ręce po dotknięciu tabletki.<\/p>\n<p>3.Kontrolować okresowo czystość filtra.<\/p>\n<p>4.Przechowywać tabletki w oryginalnym pudełku w suchym i chłodnym miejscu.<\/p>\n<p>5.Uważnie przeczytać i zachować informacje z tego opakowania podczas całego okresu stosowania produktu.<\/p>\n<p>Unikać mycia w zmywarkach - starej porcelany, kryształowych kieliszków, naczyń malowanych ręcznie, pozłacanych, posrebrzanych, drewnianych, z rogów, z posrebrzanego metalu, miedzianych lub z aluminium.<\/p>\n<p>Dobra rada - Aby wzmocnić połysk szklanek i kieliszków oraz w przypadku bardzo twardej wody polecamy stosowanie Płynu do nabłyszczania Briochin. Stosowanie płynów i soli do płukania jest zalecane przy bardzo twardej wodzie.<\/p>\n<p>UWAGA<\/p>\n<p>Zawiera Subtylisyna. Może powodować wystąpienie reakcji alergicznej. Działa drażniąco na oczy. Chronić przed dziećmi. Nie wprowadzać do oczu. Stosować ochronę oczu. W przypadku dostania się do oczu: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. W przypadku utrzymywania się działania drażniącego na oczy: zasięgnąć porady\/zgłosić się pod opiekę lekarza. <\/p>\n<p>Usunąć zawartość\/pojemnik zgodnie z obowiązującymi przepisami. <\/p>\n<p>Zużyć w ciągu 10 lat od daty produkcji podanej na opakowaniu.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>Harris SAS, 16 Rue des Rougeries, 35400 Saint-Malo, France<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45451"
+    },
+    "category": {
+        "id": "260244"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.68",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17682174025",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:24:43.974Z"
+    },
+    "createdAt": "2025-07-02T10:03:30.000Z",
+    "updatedAt": "2025-09-10T17:24:43.975Z"
+}

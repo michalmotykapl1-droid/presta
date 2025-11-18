@@ -1,0 +1,335 @@
+{
+    "name": "Ekstrakt z grzybów soplówka jeżowata 50ml ROYAL BRAND",
+    "productSet": [
+        {
+            "product": {
+                "id": "68e03a54-7d74-46f3-9864-c1d7242684ac",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Royal Brand"
+                        ],
+                        "valuesIds": [
+                            "248811_1963718"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "1838566"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Lion's Mane ( Soplówka Jeżowata ) - silny ekstrakt w kroplach 50ml"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.13"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "grzyby"
+                        ],
+                        "valuesIds": [
+                            "210698_1667847"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez aspartamu",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy",
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_1797964",
+                            "210762_8",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16",
+                            "210762_8192",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907431796623"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "7cc5b817-95ee-430d-a13f-ce10256b9d44"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/111e83\/fd60e642434a86f6d18dfc2ba0a4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "64.14",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111e83\/fd60e642434a86f6d18dfc2ba0a4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Ekstrakt z grzybów soplówka jeżowata 50ml ROYAL BRAND<\/h1> <p><b>SKŁADNIKI <\/b><\/p><p>Ekstrakt z grzybów Soplówki jeżowatej (Hericium erinaceus) (ekstrahent 90% alkoholu bio).<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Trzy razy dziennie po 15 kropli.<\/p> <p><b>UWAGA <\/b><\/p><p>Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Zróżnicowany sposób żywienia oraz zdrowy tryb życia są podstawą prawidłowego funkcjonowania organizmu. Nie zaleca się stosować przez kobiety w ciąży, kobiety karmiące, dzieci poniżej 18. roku zycia, osoby z chorobą alkoholową przy uczuleniu na którykolwiek składnik. Wytrącanie się osadu na dnie butelki jest naturalnym zjawiskiem i świadczy o wyskiej jakości produktu. Podczas stosowania może pojawić się ból brzucha, wzdęcia, nudności czy zgaga.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w chłodnym i zacienionym miejscu, w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_11ROYEKSGS"
+    },
+    "category": {
+        "id": "122568"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "64.14",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.75",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "369.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6010.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "369.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877577092",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T14:00:20.070Z"
+    },
+    "createdAt": "2025-09-10T14:00:20.000Z",
+    "updatedAt": "2025-10-20T01:58:52.032Z"
+}

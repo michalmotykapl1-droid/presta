@@ -1,0 +1,369 @@
+{
+    "name": "OLIWA Z OLIWEK EXTRA VIRGIN PGI KRETA BIO 500 ml - BIO PLANETE",
+    "productSet": [
+        {
+            "product": {
+                "id": "6530f11e-97fb-49de-8b2e-950704cbaeb3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bio planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1957816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226901",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237450",
+                        "name": "Typ",
+                        "values": [
+                            "extra virgin"
+                        ],
+                        "valuesIds": [
+                            "237450_409674"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Oliwa z oliwek extra virgin"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237458",
+                        "name": "Smak",
+                        "values": [
+                            "oliwa naturalna"
+                        ],
+                        "valuesIds": [
+                            "237458_409694"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "3445020277358"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.95"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "91"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "6.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Grecja"
+                        ],
+                        "valuesIds": [
+                            "249649_1723316"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3445020177351"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "adc061f2-049f-4e0c-9739-b8a4054291df"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11d44e\/407f021a499ca5c1c0d97d5a7b33"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "60.15",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 109,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d44e\/407f021a499ca5c1c0d97d5a7b33"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLIWA Z OLIWEK EXTRA VIRGIN PGI KRETA BIO 500 ml - BIO PLANETE<\/h1><p>SKŁADNIKI<\/p><p>ekologiczna oliwa z oliwek najwyższej jakości z pierwszego tłoczenia<\/p><p>OPIS<\/p><p>Na Krecie, greckiej wyspie pełnej legend, panuje śródziemnomorski klimat idealny do uprawy oliwek. Ciepłe lato, łagodna zima i słabe opady deszczu stwarzają ku temu najlepsze warunki.<\/p><p>Chania Kritis, Oliwa z oliwek z Krety (PGI) firmy Bio Planete powstaje w skąpanym w słońcu regionie Chania na północy wyspy. Wyjątkowość tej oliwy polega na chronionym oznaczeniu geograficznym (PGI). Oznacza to, że przynajmniej jeden z etapów jej produkcji (produkcja, przetwarzanie, wytwarzanie) musi przebiegać na wyznaczonym obszarze. Oliwki Koroneiki, z których wytwarzana jest ta wyjątkowa jednoodmianowa oliwa, są zbierane ręcznie z ponad 10 tysięcy drzew oliwnych uprawianych przez naszego partnera.<\/p><p>Oliwa nadaje przygotowywanym daniom świeżości o przyjemnej, śródziemnomorskiej nucie, doskonale komponując się z surowymi warzywami, gorącymi daniami z warzyw oraz greckim serem feta. Owocowy, zrównoważony smak pieści podniebienie subtelnymi niuansami aromatów świeżych ziół i cytryny.<\/p><p>WARTOŚĆ ODŻYWCZA W 100 g<\/p><p>Wartość energetyczna - 3367 kJ\/819 kcal<\/p><p>Tłuszcz - 91 g<\/p><p>w tym kwasy tłuszczowe nasycone - 15 g<\/p><p>Węglowodany - 0 g<\/p><p>w tym cukry - 0 g<\/p><p>Białko - 0 g<\/p><p>Sól - 0 g<\/p><p>UWAGA<\/p><p>Gdy temperatura spada w okolice 5C, niektóre kwasy tłuszczowe zawarte w oliwie zaczynają zamarzać. Przed zamarznięciem oliwa nabiera mętnego wyglądu.<\/p><p>Wystarczy, że przystawisz butelkę z oliwą do źródła ciepła, a oliwa wróci do poprzedniego wyglądu. Oczywiście oliwa jest w doskonałym stanie i nadaje się do spożycia.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BIO PLANETE HUILERIE F. J. MOOG SA, ROUTE DE LIMOUX , F-11150 BRAM<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_7948"
+    },
+    "category": {
+        "id": "261674"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "60.15",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.83",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "346.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5635.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "346.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016529900",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T08:42:06.999Z"
+    },
+    "createdAt": "2025-10-22T08:42:07.000Z",
+    "updatedAt": "2025-10-24T04:27:05.317Z"
+}

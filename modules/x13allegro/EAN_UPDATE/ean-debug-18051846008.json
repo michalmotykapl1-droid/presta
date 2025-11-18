@@ -1,0 +1,374 @@
+{
+    "name": "MAKARON (Z SOCZEWICY I GROSZKU) DLA DZIECI ZWIERZĘTA FARMA BEZGLUTENOWY BIO",
+    "productSet": [
+        {
+            "product": {
+                "id": "1a596bb0-cff7-4da5-93a8-f5ac8cb21481",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Pasta Natura"
+                        ],
+                        "valuesIds": [
+                            "248811_1962970"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8050534145793"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            " MAKARON (Z SOCZEWICY I GROSZKU) DLA DZIECI ZWIERZĘTA FARMA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_1",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "2.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "64"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "1.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "4.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.02"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8050534145793"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e6550cf4-1ad6-4d9c-a375-bbbe2ef6cfd5"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11259f\/4100c0bc4af5aff225e220199ecc"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.28",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 195,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11259f\/4100c0bc4af5aff225e220199ecc"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>MAKARON (Z SOCZEWICY I GROSZKU) DLA DZIECI ZWIERZĘTA FARMA BEZGLUTENOWY BIO<\/h1><p>SKŁADNIKI<\/p><p>Makaron z soczewicy czerwonej: mąka z soczewicy czerwonej* 50 %, mąka z ryżu pełnoziarnista* 50 %. (*certyfikowany składnik ekologiczny) <\/p><p>Makaron z groszku zielonego: maka z groszku zielonego* 50 %, mąka z ryżu pełnoziarnista* 50 %. (*certyfikowany składnik ekologiczny)<\/p><p>OPIS<\/p><p>Makaron ryżowy w kształcie zwierząt z farmy to świetna alternatywa dla niejadków. W jego skład wchodzą warzywa, takie jak soczewica czerwona i groszek zielony – to właśnie im zawdzięcza swój niepowtarzalny kolor. Ma doskonałą konsystencję i sprężystość. Jest to idealny sposób, żeby przemycić dzieciom dodatkową porcję witamin. Możemy dodać go do zupy lub podać po prostu ugotowany na talerzu, gdyż dzięki swoim kształtom i kolorom skutecznie przyciąga dziecięcą uwagę. Na pewno będzie cieszyć się większym zainteresowaniem od standardowego makaronu, nie tylko ze względów wizualnych, ale również smakowych.<\/p><p>Produkt odpowiedni dla dzieci powyżej 3 roku życia.<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Zagotować 1 L wody, dodać 10 g soli, łyżkę oliwy z oliwek i makaron. Gotować 8 - 10 minut od czasu do czasu mieszając. Po ugotowaniu makaron odcedzić i doprawić według uznania. <\/p><p>WARTOŚĆ ODŻYWCZA W 100 g<\/p><p>Wartość energetyczna: 1457 kJ\/344 kcal <\/p><p>Tłuszcz: 2,1 g <\/p><p>w tym kwasy tłuszczowe nasycone: 0,5 g <\/p><p>Węglowodany: 64 g <\/p><p>w tym cukry: 1,5 g <\/p><p>Błonnik: 4,5 g <\/p><p>Białko: 15 g <\/p><p>Sól: 0,02 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać SOJĘ<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>PASTA NATURA SRL, Via Cantarane, 1, 12020 Villafalletto CN<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_19383"
+    },
+    "category": {
+        "id": "261417"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.28",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.59",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "65.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1055.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "65.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051846008",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T16:02:00.581Z"
+    },
+    "createdAt": "2025-11-03T16:02:00.000Z",
+    "updatedAt": "2025-11-03T16:17:01.206Z"
+}

@@ -1,0 +1,359 @@
+{
+    "name": "SOS WEGAŃSKI CHILI SIN CARNE BEZGLUTENOWY 470 g - PRIMAVIKA",
+    "productSet": [
+        {
+            "product": {
+                "id": "bddbd9b0-f82d-4c6e-b987-59c2cfe3f3b0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Primavika"
+                        ],
+                        "valuesIds": [
+                            "248811_1963308"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5900672307986"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "CHILI SIN CARNE ROŚLINNE BEZGLUTENOWE 470G PRIMAVIKA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "superfood",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_1024",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu",
+                            "GMO"
+                        ],
+                        "valuesIds": [
+                            "130691_2",
+                            "130691_32768"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.47"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "470"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "1.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "9.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "1.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "1.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "6.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.76"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900672307986"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114732\/bf89a839420f8ad1c5bce2ffd1ef"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "22.42",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 40,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114732\/bf89a839420f8ad1c5bce2ffd1ef"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SOS WEGAŃSKI CHILI SIN CARNE BEZGLUTENOWY 470 g - PRIMAVIKA<\/h1><p>SKŁADNIKI <\/p><p>woda, czerwona papryka 25 %, ugotowana czerwona fasola 19 %, koncentrat pomidorowy 16 %, teksturowane białko grochu 12 %, kukurydza konserwowa (ziarno kukurydzy, woda, sól) 11 %, cebula, ekstrakt drożdżowy, skrobia kukurydziana, olej rzepakowy, przyprawy, sól, warzywa suszone (pasternak, marchew, SELER, pietruszka, por), chili 0,1 %, zioła (zawierają SELER). <\/p><p>OPIS <\/p><p>Pikantny sos składający się z kawałków teksturowanego białka grochu przypominającego mielone mięso, czerwonej fasoli, kukurydzy i papryki w gęstym pomidorowym sosie. <\/p><p>Spożywać na ciepło jako sos lub gulasz, najlepiej z ryżem lub tortillą.<\/p><p>Produkt pasteryzowany. <\/p><p>WARTOŚĆ ODŻYWCZA W 100 g <\/p><p>Wartość energetyczna: 343 kJ\/ 81 kcal <\/p><p>Tłuszcz: 1,4 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0,2 g<\/p><p>Węglowodany: 9,8 g<\/p><p>w tym cukry: 1,9 g<\/p><p>Błonnik: 1,5 g<\/p><p>Białko: 6,7 g<\/p><p>Sól: 0,76 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Produkt może zwierać SOJĘ i gorczycę. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze pokojowej. Po otwarciu przechowywać w lodówce i spożyć w ciągu 3 dni. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>PRIMAVIKA SP. Z O.O., AKACJOWA 27, 62-023 GĄDKI<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46813"
+    },
+    "category": {
+        "id": "74070"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "22.42",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.16",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "129.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2100.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "129.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915926120",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:05:48.019Z"
+    },
+    "createdAt": "2025-09-22T20:05:48.000Z",
+    "updatedAt": "2025-09-22T20:20:49.026Z"
+}

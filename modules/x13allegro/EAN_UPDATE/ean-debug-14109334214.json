@@ -1,0 +1,353 @@
+{
+    "name": "NAPÓJ RYŻOWO - KOKOSOWY BEZ DODATKU CUKRÓW BEZGLUT",
+    "productSet": [
+        {
+            "product": {
+                "id": "ead54f01-3e35-441e-9281-ed15bd185890",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Natumi"
+                        ],
+                        "valuesIds": [
+                            "248811_1939841"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4038375025300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Napój"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "242901",
+                        "name": "Pojemność",
+                        "values": [
+                            "1000"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237106",
+                        "name": "Rodzaj",
+                        "values": [
+                            "napój kokosowy"
+                        ],
+                        "valuesIds": [
+                            "237106_407690"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235637",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "235637_410554"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne",
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_1",
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "barwników",
+                            "cholesterolu",
+                            "cukru",
+                            "drożdży",
+                            "glutenu",
+                            "GMO",
+                            "jajek",
+                            "konserwantów",
+                            "laktozy",
+                            "nabiału",
+                            "oleju palmowego",
+                            "orzechów",
+                            "pestek",
+                            "pszenicy",
+                            "soi",
+                            "tłuszczy trans (utwardzanych)"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_4194304",
+                            "130691_65536",
+                            "130691_4",
+                            "130691_524288",
+                            "130691_2",
+                            "130691_32768",
+                            "130691_1048576",
+                            "130691_128",
+                            "130691_1",
+                            "130691_262144",
+                            "130691_8",
+                            "130691_32",
+                            "130691_16384",
+                            "130691_131072",
+                            "130691_16",
+                            "130691_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4038375025300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117b02\/28de91894937b48007a23b72399e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.58",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10879,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>NAPÓJ RYŻOWO - KOKOSOWY BEZ DODATKU CUKRÓW BEZGLUTENOWY BIO 1 L - NATUMI - NATUMI<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>woda, ryż* (14 %), napój kokosowy* (6 %), sól morska, naturalny aromat*. (*certyfikowany składnik ekologiczny)<\/p>\n<p>OPIS<\/p>\n<p>Napój ryżowo-kokosowy Natumi może być serwowany z lodami lub jako dodatek do owocowego shake. Dodatkowo nadaje się również do pieczenia oraz jako dodatek do deserów i musli. <\/p>\n<p>Wstrząsnąć przed użyciem.  <\/p>\n<p>Bez dodatku cukrów. Zawiera naturalnie występujace cukry. <\/p>\n<p>Produkt UHT.<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 ml<\/p>\n<p>Wartość energetyczna - 225 kJ\/53 kcal  <\/p>\n<p>Tłuszcz - 1,2 g  <\/p>\n<p>w tym kwasy tłuszczowe nasycone - 1,1 g  <\/p>\n<p>kwasy tłuszczowe jednonienasycone - &lt;0,1 g  <\/p>\n<p>kwasy tłuszczowe wielonienasycone - &lt;0,1 g  <\/p>\n<p>Węglowodany - 10 g  <\/p>\n<p>w tym cukry - 7,4 g  <\/p>\n<p>Błonnik - &lt;0,5 g  <\/p>\n<p>Białko - &lt;0,5 g  <\/p>\n<p>Sól - 0,10 g<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Po otwarciu przechowywać 4 dni w warunkach chłodniczych.  <\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>NATUMI GMBH, GIERLICHSTR. 17, 53840 TROISDORF<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_537"
+    },
+    "category": {
+        "id": "261648"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.58",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "14109334214",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:24.048Z"
+    },
+    "createdAt": "2023-08-05T16:18:28.000Z",
+    "updatedAt": "2025-09-10T17:25:24.049Z"
+}

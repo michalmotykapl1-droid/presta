@@ -1,0 +1,364 @@
+{
+    "name": "HUMMUS Z KOLENDRĄ BEZGLUTENOWY BIO 170 g - FLORENTIN",
+    "productSet": [
+        {
+            "product": {
+                "id": "1c6745db-d3f5-4613-8254-5a9b71d42812",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Florentin"
+                        ],
+                        "valuesIds": [
+                            "248811_1959691"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248588",
+                        "name": "Rodzaj",
+                        "values": [
+                            "pasta"
+                        ],
+                        "valuesIds": [
+                            "248588_932334"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235585",
+                        "name": "Smak",
+                        "values": [
+                            "słonecznikowa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "8714685902208"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "170"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8714685902208"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.23"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "7.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "1.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8714685902208"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "7e13e3e9-42c8-4af9-85ef-2c4e18e8df7e"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c63a\/8f28faa3424f8a9ebf59e3f09d24"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "20.31",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 98,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c63a\/8f28faa3424f8a9ebf59e3f09d24"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>HUMMUS Z KOLENDRĄ BEZGLUTENOWY BIO 170 g - FLORENTIN<\/h1><p>SKŁADNIKI<\/p><p>gotowana ciecierzyca* (woda, ciecierzyca*) (69 %), olej słonecznikowy*, pasta SEZAMOWA* (11 %), kolendra* (4 %), woda, sól morska, czosnek*, kminek*, regulator kwasowości: kwas mlekowy** (*certyfikowany składnik ekologiczny, **składnik pozyskany z trzciny cukrowej)<\/p><p>OPIS<\/p><p>Nasz ponadczasowy hummus powstaje z ciecierzycy z dodatkiem pasty sezamowej i kolendry.<\/p><p>Rozsmaruj go na swojej ulubionej kanapce lub ciesz się nim jako dipem do chrupiących warzywnych paluszków lub chlebka pita<\/p><p>WARTOŚĆ ODŻYWCZA W 100 g<\/p><p>Wartość energetyczna: 960 kJ\/230 kcal <\/p><p>Tłuszcz: 18 g <\/p><p>w tym kwasy nasycone: 1,8 g <\/p><p>Węglowodany: 7,8 g <\/p><p>w tym cukry: 1,3 g <\/p><p>Błonnik: 6,0 g <\/p><p>Białko: 7,3 g <\/p><p>Sól: 0,9 g<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze do +7°C. Po otwarciu spożyć w ciągu 5 dni. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>FLORENTIN BV, ENERGIEWEG 132, 3641 RT MIJDRECHT<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_5448"
+    },
+    "category": {
+        "id": "74071"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "20.31",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.67",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "117.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1905.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "117.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877724795",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T14:56:32.520Z"
+    },
+    "createdAt": "2025-09-10T14:56:32.000Z",
+    "updatedAt": "2025-09-10T15:11:33.227Z"
+}

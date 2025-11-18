@@ -1,0 +1,266 @@
+{
+    "name": "Przekąska owocowa - mango bez dodatku cukru FRUIT MOOD, 10g",
+    "productSet": [
+        {
+            "product": {
+                "id": "e8501b12-4f69-4717-bed8-50b002b30640",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Fruit Mood"
+                        ],
+                        "valuesIds": [
+                            "248811_2007302"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129287",
+                        "name": "Wiek podawania",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129287_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129271",
+                        "name": "Gramatura",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4820149742328"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249583",
+                        "name": "Rodzaj",
+                        "values": [
+                            "baton"
+                        ],
+                        "valuesIds": [
+                            "249583_1705442"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4820149742328"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11265f\/a43b31e641f58f0d7dc1f909bc5e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "2.80",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 400,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11265f\/a43b31e641f58f0d7dc1f909bc5e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Przekąska owocowa - mango bez dodatku cukru FRUIT MOOD, 10g<\/h1> <p><b>Przekąska owocowa - mango bez dodatku cukru FRUIT MOOD, 10g <\/b><\/p> <p>Przekąska owocowa FRUIT MOOD jest lepszą alternatywą dla tradycyjnych słodyczy, ponieważ nie zawiera dodanego cukru. Skład to 100% owoców - jabłko + mango, suszonych przy użyciu nowoczesnych technologii w temperaturach 40-60°C. Ten proces pozwala na niemal całkowite zachowanie wszystkich składników naturalnych owoców, w tym wielu witamin i minerałów. Fruit mood to przekąska dla osób, które potrzebują szybkiego i smacznego zastrzyku energii w ciągu dnia. Termin przydatności produktu wynosi 12 miesięcy.<\/p> <p><b>Składniki:<\/b><\/p><p>jabłko (70 %), mango (30 %)<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 1294 kJ\/ 309 kcal<\/p><p>Tłuszcz 0,5 g<\/p><p>w tym kwasy tłuszczowe nasycone 0 g<\/p><p>Węglowodany 74 g<\/p><p>w tym cukry 14 g<\/p><p>Błonnik 2 g<\/p><p>Białko 2,4 g<\/p><p>Sól 0,1 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu. Chronić przed bezpośrednim oddziaływaniem promieni słonecznych.<\/p> <p><b>Producent: <\/b><\/p><p>Sergio<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_4820149742328"
+    },
+    "category": {
+        "id": "99477"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.80",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.64",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "260.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051086487",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T11:11:49.136Z"
+    },
+    "createdAt": "2025-11-03T11:11:49.000Z",
+    "updatedAt": "2025-11-03T11:26:49.799Z"
+}

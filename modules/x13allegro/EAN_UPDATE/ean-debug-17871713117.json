@@ -1,0 +1,364 @@
+{
+    "name": "OLMA PHARM Kolagen Anti-Age kwas hialuronowy, witamina C 90 kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "0e5a4d36-8b71-407f-8fec-729ccda5496f",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "BI_9766"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Collagen"
+                        ],
+                        "valuesIds": [
+                            "250581_1934553"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "90"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "45"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904474880654"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114ff8\/984fd09347c2897a77b6083df00e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "55.85",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 11,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114ff8\/984fd09347c2897a77b6083df00e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLMA PHARM Kolagen Anti-Age kwas hialuronowy, witamina C 90 kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>KOLAGEN ANTI - AGE z kwasem hialuronowym i witaminą C - to kompozycja hydrolizowanego kolagenu rybiego, kwasu hialuronowego i witaminy C. Kolagen jest białkiem występującym w ludzkim organizmie. Stanowi główny składnik tkanki łącznej. Wchodzi w skład nie tylko skóry, ale również ścięgien, włosów, kości, paznokci i stawów. Kwas hialuronowy obok kolagenu stanowi kluczowy składnik tzw. macierzy międzykomórkowej skóry właściwej oraz jest głównym składnikiem mazi stawowej. Witamina C pomaga w prawidłowej produkcji kolagenu w celu zapewnienia prawidłowego funkcjonowania naczyń krwionośnych, chrząstki, kości, dziąseł i skóry.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Hydrolizowany kolagen rybi, substancją wypełniająca: celuloza mikrokrystaliczna, otoczka kapsułki: hydroksypropylometyloceluloza kwas L-askorbinowy (witamina C), hialuronian sodu.<\/p> <p>Zawartość składników w porcji dziennej (2 kapsułki):<\/p><p>Hydrolizowany kolagen rybi - 1000mg<\/p><p>Witamina C - 80mg<\/p><p>Hialuronian sodu - 20mg<\/p> <p>Zawartość opakowania: 90 kapsułek. Opakowanie zawiera 45 porcji dziennych.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecaną dzienną porcję kapsułek połknąć popijając wodą. Zalecana dzienna porcja do spożycia: 2 kapsułki<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt przeznaczony dla osób dorosłych. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Nie stosować w przypadku nadwrażliwości lub uczulenia na którykolwiek ze składników preparatu. Preparat nie jest przeznaczony do stosowania u dzieci, kobiet w ciąży i karmiących piersią. Dla utrzymania prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić zdrowy tryb życia. Preparat nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21OLMKOLAA"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "55.85",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.85",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "321.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5235.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "321.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871713117",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:15:13.884Z"
+    },
+    "createdAt": "2025-09-08T20:15:13.000Z",
+    "updatedAt": "2025-09-17T04:22:36.819Z"
+}

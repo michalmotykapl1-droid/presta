@@ -1,0 +1,348 @@
+{
+    "name": "ASEPTA Rozmarine R99 30ml - Olejek z rozmarynu + olejek szałwiowy",
+    "productSet": [
+        {
+            "product": {
+                "id": "5fa60e92-c5a8-40e5-b135-8d34b21f1ad3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Asepta"
+                        ],
+                        "valuesIds": [
+                            "248811_1957412"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903887825498"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Asepta Rozmarine R99 Olejek z rozmarynu"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.044"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "CLA"
+                        ],
+                        "valuesIds": [
+                            "210698_243598"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "chronić przed światłem"
+                        ],
+                        "valuesIds": [
+                            "210762_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "bezsmakowy"
+                        ],
+                        "valuesIds": [
+                            "129857_397698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224157",
+                        "name": "Rodzaj",
+                        "values": [
+                            "chondroityna"
+                        ],
+                        "valuesIds": [
+                            "224157_307081"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903887825429"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "06e9c87c-da5a-4e91-9ff1-d63d611bd8fc"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cf0c\/c02b595b4724bee9514d5f77bf1a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "62.70",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 3,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11cf0c\/c02b595b4724bee9514d5f77bf1a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ASEPTA Rozmarine R99 30ml - Olejek z rozmarynu + olejek szałwiowy<\/h1> <p><b>OPIS<\/b><\/p><p>Rozmarine R99 - suplement diety - to oryginalna formuła olejku szałwiowego z olejkiem rozmarynowym, która doskonale wspiera kondycję stawów. Wytwarzany tradycyjną metodą destylacji parą wodną. Połączenie olejku rozmarynowego z olejkiem z szałwii to kumulacja składników aktywnych z obydwu roślin w jednym produkcie. Rozmarine R99 wzbogaca dietę w niezbędne kwasy, związki aktywne i witaminy. Substancje te wspierają organizm, wzmacniają i odżywiają układ ruchu, układ pokarmowy i układ krwionośny. <\/p> <p><b>SKŁADNIKI <\/b><\/p><p>oliwa z oliwek extra virgin, olejek z liści rozmarynu lekarskiego (Rosmarinus officinalis L.); olejek z liści szałwii lekarskiej (Salvia officinalis L.).<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>4-6 kropli rozcieńczonych w ok. 1\/3 szklanki wody, herbaty lub soku, 2-4 razy dziennie. Dobrze rozmieszać. Ze względu na swój charakterystyczny, intensywny smak olejek może pobudzić wydzielanie śliny. Stosować rozcieńczony. Nie przekraczać zalecanej porcji dziennej.<\/p> <p>Zawartość składników (1 kropla):<\/p><p>Olejek z liści rozmarynu lekarskiego - 1,46 mg<\/p><p>Olejek z liści szałwii lekarskiej - 0,58 mg<\/p> <p>Zawartość składników (8 kropli):<\/p><p>Olejek z liści rozmarynu lekarskiego - 11,68 mg<\/p><p>Olejek z liści szałwii lekarskiej - 4,64 mg<\/p> <p>Zawartość składników (24 krople):<\/p><p>Olejek z liści rozmarynu lekarskiego - 35,04 mg<\/p><p>Olejek z liści szałwii lekarskiej - 13,92 mg<\/p> <p><b>UWAGA <\/b><\/p><p>Suplement diety nie może być stosowany jako substytut zróżnicowanej diety. Nie stosować w przypadku nadwrażliwości na którykolwiek ze składników produktu. Nie stosować u kobiet w ciąży i w okresie karmienia piersią. <\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w suchym miejscu w temperaturze pokojowej. Należy przechowywać w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21ASEROZ03"
+    },
+    "category": {
+        "id": "122572"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "62.70",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.42",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "361.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5875.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "361.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916008779",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:40:19.611Z"
+    },
+    "createdAt": "2025-09-22T20:40:19.000Z",
+    "updatedAt": "2025-09-22T20:55:20.602Z"
+}

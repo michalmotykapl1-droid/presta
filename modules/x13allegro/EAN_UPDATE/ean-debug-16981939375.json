@@ -1,0 +1,224 @@
+{
+    "name": "RATATOUILLE Z PARYŻA BIO 450 g - GAPA GAPA",
+    "productSet": [
+        {
+            "product": {
+                "id": "2e62b36d-6c45-4f64-bc00-12324c74abae",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "RATATOUILLE Z PARYŻA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907080467158"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112051\/51f15a9946979b377379d2d0a0af"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "40.06",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 82,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>RATATOUILLE Z PARYŻA BIO 450 g - GAPA - GAPA<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>pomidory*, cukinia*, bakłażan*, papryka czerwona*, cebula*, czosnek*, olej rzepakowy*, oliwa z oliwek pierwszego tłoczenia*, zioła prowansalskie* (cząber*, rozmaryn*, oregano*, tymianek*, bazylia*, szałwia*, majeranek*), pieprz czarny*, sól kamienna kłodawska. (*certyfikowany składnik ekologiczny)<\/p>\n<p>OPIS<\/p>\n<p>Paryż to miasto, w którym architektura i kunszt gastronomii są obecne na każdym rogu. W kawiarni na Île Saint-Louis do kawy podają małe arcydzieło - czekoladową truflę. To właśnie tam poznałam muzykę świata, od senegalskiego hip-hopu po dźwięki z Madagaskaru. Paryż, z jego niezmiennym pięknem, zawsze był tyglem kulturowym. Typowo francuskie danie ratatouille doskonale odzwierciedla tę kulinarną mozaikę. Podobnie jak miasto miłości, to danie ukazuje, jak różne składniki mogą harmonijnie współistnieć, tworząc jedną, wyjątkową całość.<\/p>\n<p>SPOSÓB PRZYGOTOWANIA<\/p>\n<p>Porada degustacyjna: aby w pełni cieszyć się aromatami i smakami potrawy, zalecam jej delikatne podgrzanie.<\/p>\n<p>WARTOŚĆ ODŻYWCZA w 100 g <\/p>\n<p>Wartość energetyczna: 134 kJ \/ 32 kcal<\/p>\n<p>Tłuszcz: 1,9 g<\/p>\n<p>w tym kwasy tłuszczowe nasycone: 0,1 g<\/p>\n<p>Węglowodany: 4,8 g<\/p>\n<p>w tym cukry: 0,1 g<\/p>\n<p>Białko: 1,7 g<\/p>\n<p>Sól: 0,1 g<\/p>\n<p>INFORMACJA ALERGENNA<\/p>\n<p>Może zawierać SOJĘ, GORCZYCĘ, SELER, ORZECHY, ORZESZKI ZIEMNE, nasiona sezamu<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w lodówce. Po otwarciu spożyć w ciągu 3 dni. <\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>GAPA Organic. Karolina Grabowska, ul. Obwodowa 29B\/U3, 84-240 Reda<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44015"
+    },
+    "category": {
+        "id": "112616"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "40.06",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "16981939375",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:39.442Z"
+    },
+    "createdAt": "2024-12-05T18:07:56.000Z",
+    "updatedAt": "2025-10-30T12:59:15.212Z"
+}

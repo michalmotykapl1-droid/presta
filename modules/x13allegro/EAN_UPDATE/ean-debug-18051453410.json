@@ -1,0 +1,361 @@
+{
+    "name": "PŁATKI OWSIANE BIO (SUROWIEC) (25 kg)",
+    "productSet": [
+        {
+            "product": {
+                "id": "9764d996-82c4-4d19-94fe-d7555baddf7d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Horeca"
+                        ],
+                        "valuesIds": [
+                            "248811_1121641"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902448160320"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "PŁATKI OWSIANE BIO (25 kg)"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250327",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Płatki"
+                        ],
+                        "valuesIds": [
+                            "250327_1880754"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237306",
+                        "name": "Rodzaj płatków",
+                        "values": [
+                            "płatki owsiane"
+                        ],
+                        "valuesIds": [
+                            "237306_408394"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "6.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "1.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "9.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "14"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.02"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902448160320"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d4d91866-7f9a-42ab-b94e-0c761cdc61e8"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1158f3\/422b958942d3b589c86256e6cba5"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "166.96",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 135,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1158f3\/422b958942d3b589c86256e6cba5"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁATKI OWSIANE BIO (SUROWIEC) (25 kg)<\/h1><p>SKŁADNIKI<\/p><p>ekologiczne płatki OWSIANE 100 %.<\/p><p>OPIS<\/p><p>Ekologiczne płatki OWSIANE to doskonała propozycja na śniadanie. Świetnie sprawdzą się w owsiance, smoothie, jogurcie, wypiekach czy jako składnik kruszonki i chleba.<\/p><p>Wysoka zawartość błonnika pokarmowego.<\/p><p>Źródło białka.<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>gotować w proporcji 1:2 (1 porcja płatków na 2 porcje wody lub mleka) na wolnym ogniu ok. 10 minut od czasu do czasu mieszając.<\/p><p>WARTOŚĆ ODŻYWCZA W 100 g<\/p><p>Wartość energetyczna 1561 kJ\/371 kcal<\/p><p>Tłuszcz 6,7 g<\/p><p>w tym kwasy tłuszczowe nasycone 1,1 g<\/p><p>Węglowodany 60 g<\/p><p>w tym cukry 0,8 g<\/p><p>Błonnik 9,7 g<\/p><p>Białko 13 g<\/p><p>Sól 0,01 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Produkt może zawierać: ORZESZKI ZIEMNE, ORZECHY, NASIONA SEZAMU, SOJĘ.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BIO PLANET S.A., WILKOWA WIEŚ 7, 05-084 LESZNO<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45567"
+    },
+    "category": {
+        "id": "261712"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "166.96",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.40",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "960.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15645.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "960.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051453410",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:19:11.490Z"
+    },
+    "createdAt": "2025-11-03T13:19:11.000Z",
+    "updatedAt": "2025-11-03T13:34:11.834Z"
+}

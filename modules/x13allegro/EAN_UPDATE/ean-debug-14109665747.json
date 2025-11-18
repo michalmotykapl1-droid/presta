@@ -1,0 +1,325 @@
+{
+    "name": "Eliksir dolegliwości żołądkowo - jelitowe bezalkoh",
+    "productSet": [
+        {
+            "product": {
+                "id": "6cbe7c0c-aeb4-4f9b-a421-29f1ca7219ca",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mir-Lek"
+                        ],
+                        "valuesIds": [
+                            "248811_1962092"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906660437802"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców",
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32",
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "CLA"
+                        ],
+                        "valuesIds": [
+                            "210698_243598"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "210762_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "21MIRELIDZ"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906660437802"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118191\/61d434b347e38d7925955965b3b2"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.62",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 34,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>Eliksir dolegliwości żołądkowo - jelitowe bezalkoholowy 100ml MIR-LEK (MIR-LEK) - MIR-LEK<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>ELIKSIR bezalkoholowy DOLEGLIWOŚCI   ŻOŁĄDKOWO-JELITOWE<\/p>\n<p>Suplement diety z rumiankiem i  prawoślazem<\/p>\n<p>Rumianek pomaga w niestrawnościach, dolegliwości   żołądkowo-jelitowych, takich jak wzdęcia, odbijanie się. Wspiera proces  trawienia.<\/p>\n<p>Eliksir przy dolegliwościach żołądkowo-jelitowych powstał z wyciągów z roślin  takich jak: rumianek, prawoślaz, lukrecja, szałwia, nagietek, babka  lancetowata,  koper włoski, łuska gryki. Rumianek pomaga w niestrawnościach i  wzdęciach,  wspiera proces trawienia,  pomaga w dolegliwościach  żołądkowo-jelitowych,  prawoślaz wspomaga układ trawienny, wspiera ruchy  jelit,  składniki aktywne  zawarte w  lukrecji pomagają utrzymać  równowagę i komfort w układzie  trawiennym u osób z wrażliwym przewodem  pokarmowym, szałwia pomaga w prawidłowym  funkcjonowaniu żołądka, nagietek  wspiera prawidłowe funkcje wątroby, babka  lancetowata oddziałuje na wzrost  korzystnej mikroflory jelit, koper włoski  łagodzi przyczyny zwrotów z żołądka,  wspiera trawienie i zdrowie przewodu  pokarmowego.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>Woda, wyciąg wodny 1:1:   z kwiatu rumianku pospolitego  (Matricaria chamomilla) 28%, z korzenia  prawoślazu (Althaea officinalis) 16%, z korzenia  lukrecji (Glycyrrhiza  glabra) 16%, z  ziela szałwii lekarskiej (Salvia officinalis) 12%, z  kwiatu  nagietka lekarskiego (Calendula officinalis) 8%, z liści babki  lancetowatej  (Plantago lanceolata )8%, z nasion kopru włoskiego (Foeniculum  vulgare) 8%, z  łuski gryki (Fagopyrum) 4%;  sok z cytryny (Citrus limon)  2%.<\/p>\n<p>Składniki w dzienne porcji (10  ml): <\/p>\n<p>Wyciągi wodne  1:1:<\/p>\n<p>z rumianku pospolitego   (Matricaria chamomilla) - 1,40 g<\/p>\n<p>z  korzenia prawoślazu (Althaea  officinalis) - 0,80 g<\/p>\n<p>z korzenia   lukrecji (Glycyrrhiza  glabra) - 0,80 g<\/p>\n<p>z ziela szałwii lekarskiej  (Salvia officinalis) -  0,60 g<\/p>\n<p>z kwiatu nagietka lekarskiego (Calendula  officinalis) - 0,40  g<\/p>\n<p>z liści babki lancetowatej (Plantago lanceolata  ) - 0,40 g<\/p>\n<p>z  nasion kopru włoskiego (Foeniculum vulgare) - 0,40  g<\/p>\n<p>z łuski  gryki (Fagopyrrum) - 0,20 g<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Zalecane spożycie: 2 razy w ciągu doby po 5  ml eliksiru ( 2 nakrętki)<\/p>\n<p>Sposób użycia: 1 nakrętkę eliksiru (5 ml) wlać do  kieliszka lub szklanki z wodą i wypić. Produkt przeznaczony dla dorosłych. Osad  jest zjawiskiem naturalnym. Wstrząsnąć przed spożyciem. Nie stosować u kobiet w  ciąży i w okresie karmienia piersią. Nie stosować u osób uczulonych na  jakikolwiek składnik produktu. Produkt pasteryzowany.<\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowywać w suchym i chłodnym miejscu,  w sposób niedostępny dla małych dzieci. Chronić przed dostępem promieni  słonecznych. Po otwarciu przechowywać w lodówce w szczelnie zamkniętej butelce,  spożyć w ciągu 7 dni.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MIRELIDZ"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.62",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "14109665747",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:15.091Z"
+    },
+    "createdAt": "2023-08-05T17:33:25.000Z",
+    "updatedAt": "2025-10-31T13:15:52.830Z"
+}

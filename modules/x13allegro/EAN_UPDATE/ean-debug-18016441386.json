@@ -1,0 +1,394 @@
+{
+    "name": "PIĘĆ PRZEMIAN Olej MCT z kokosa BIO 500ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "14da2fcf-3fa4-4acb-949f-9a174d5140aa",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Pięć Przemian"
+                        ],
+                        "valuesIds": [
+                            "248811_1963149"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902837812342"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Olej MCT z kokosa BIO 500ml"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226901",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237434",
+                        "name": "Rodzaj",
+                        "values": [
+                            "olej kokosowy"
+                        ],
+                        "valuesIds": [
+                            "237434_409446"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237450",
+                        "name": "Typ",
+                        "values": [
+                            "nierafinowany"
+                        ],
+                        "valuesIds": [
+                            "237450_2048459"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru",
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_4",
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902837812342"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117850\/5c4d3fac4237aac1ebba3b67e79d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "58.01",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 17,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117850\/5c4d3fac4237aac1ebba3b67e79d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PIĘĆ PRZEMIAN Olej MCT z kokosa BIO 500ml<\/h1> <p><b>OPIS <\/b><\/p><p>MCT to skrót od trójlicerydy średniołańcuchowe (ang. Medium Chain Triglycerides). To tłuszcze nasycone, które ciało szybko absorbuje i które dzięki bezpośredniemu metabolizmowi w wątrobie są doskonałym źródłem energii.<\/p> <p>Dzięki neutralnemu smakowi i łatwej rozpuszczalności, można go dodawać do:<\/p><p>- kawy kuloodpornej, koktajlu, sałatek<\/p><p>- posiłków ketogenicznych<\/p><p>- posiłków niskowęglowodanowych<\/p> <p>Zaleca się rozpoczęcie przyjmowania Oleju MCT od mniejszych ilości np. 1 łyżeczka (5 ml) dwa razy dziennie i zwiększanie dawki stopniowo. Nie należy przekraczać 50 ml dziennie.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Olej kokosowy MCT* 100% (kwas kaprylowy C8 - 60%, kwas kaprynowy C10 - 40%).<\/p> <p>*Certyfikowany składnik ekologiczny.<\/p> <p>Produkt bezglutenowy. Produkt może zawierać alergeny: orzechy.<\/p> <p>Wyprodukowano w UE.<\/p> <p>Wartość odżywcza w 100 ml produktu:<\/p><p>Wartość energetyczna: 3765 kJ \/ 900 kcal<\/p><p>Tłuszcz: 100 g<\/p><p>w tym kwasy tłuszczowe nasycone: 100 g<\/p><p>Węglowodany: &lt; 0,1 g<\/p><p>w tym cukry: &lt; 0,1 g<\/p><p>Błonnik: &lt; 0,1 g<\/p><p>Białko: &lt; 0,1 g<\/p><p>Sól: 0 g<\/p> <p>Referencyjna wartość spożycia dla przeciętnej osoby dorosłej: 8400 kJ \/ 2000 kcal<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_11SIMOLEMC2"
+    },
+    "category": {
+        "id": "261675"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "58.01",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.34",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "334.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5435.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "334.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016441386",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T08:14:31.796Z"
+    },
+    "createdAt": "2025-10-22T08:14:31.000Z",
+    "updatedAt": "2025-10-22T08:29:32.657Z"
+}

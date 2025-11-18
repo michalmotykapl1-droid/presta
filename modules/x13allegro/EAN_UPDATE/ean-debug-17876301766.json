@@ -1,0 +1,360 @@
+{
+    "name": "DERMESA Sok z Żyworódki z gliceryną 100ml (Kalanchoe Daigremontiana)",
+    "productSet": [
+        {
+            "product": {
+                "id": "7cb8ba26-022f-4c7c-8ea0-7065cfc3817c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Dermesa"
+                        ],
+                        "valuesIds": [
+                            "248811_1958914"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129529",
+                        "name": "Rodzaj",
+                        "values": [
+                            "inny"
+                        ],
+                        "valuesIds": [
+                            "129529_297553"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226717",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "do ciała"
+                        ],
+                        "valuesIds": [
+                            "226717_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "aluminium",
+                            "amoniaku",
+                            "barwników",
+                            "mydła",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_512",
+                            "129770_1024",
+                            "129770_65536",
+                            "129770_131072",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.14"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "0.14"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "żyworódka"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906745418320"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906745418320"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "4c703383-1087-4624-ba0e-a10f65beaa0f"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/119ca0\/c3e0ceb648b2ac7059d03068d878"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "37.36",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/119ca0\/c3e0ceb648b2ac7059d03068d878"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>DERMESA Sok z Żyworódki z gliceryną 100ml (Kalanchoe Daigremontiana)<\/h1> <p><b>OPIS <\/b><\/p><p>Sok z Żyworódki (Kalanchoe Daigremontiana) ze świeżo zebranych liści z dodatkiem gliceryny roślinnej dla zapewnienia odpowiedniej trwałości soku do użytku zewnętrznego.<\/p> <p>Preparat przeznaczony po pielęgnacji skóry twarzy i całego ciała - przebadany dermatologicznie przeznaczony do skóry wrażliwej jak i normalnej (odpowiedni u osób ze skórą normalną, mieszaną, tłustą i suchą).<\/p> <p>- łagodzi podrażnienia skóry,<\/p><p>- zmniejsza zaczerwienienia,<\/p><p>- działa kojąco,<\/p><p>- przywraca naturalny zdrowy wygląd skóry,<\/p><p>- łagodzi uczucie swędzenia,<\/p><p>- pielęgnuje i daje uczucie nawilżenia skóry,<\/p><p>- łagodzi podrażnienia skóry po ukąszeniach komarów, meszek gzów,<\/p><p>- odpowiedni jako preparat kojący na skórę po ukąszeniach - szybko przynosi ulgę, przywraca normalny wygląd skóry.<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zewnętrznie: aplikować na skórę w zależności od potrzeb nawet kilka razy dziennie. <\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Kalanchoe Daigremontiana Leaf Juice, Glycerin, Alcohol, Thymus Vulgaris Leaf Extract.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej w zacienionym miejscu w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21DERSOKZYK4"
+    },
+    "category": {
+        "id": "258390"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "37.36",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.59",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "215.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3500.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "215.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876301766",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:37:11.130Z"
+    },
+    "createdAt": "2025-09-10T04:37:11.000Z",
+    "updatedAt": "2025-09-13T16:46:49.442Z"
+}

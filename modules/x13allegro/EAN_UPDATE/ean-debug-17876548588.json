@@ -1,0 +1,330 @@
+{
+    "name": "SIARCZAN MAGNEZU 1 kg - SOUL FARM",
+    "productSet": [
+        {
+            "product": {
+                "id": "15a4d648-1f46-4886-b7b8-247ca70885cb",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Soul Farm"
+                        ],
+                        "valuesIds": [
+                            "248811_1964240"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237222",
+                        "name": "Seria",
+                        "values": [
+                            "5902706730050"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "217145",
+                        "name": "Rodzaj",
+                        "values": [
+                            "sól"
+                        ],
+                        "valuesIds": [
+                            "217145_276249"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu"
+                        ],
+                        "valuesIds": [
+                            "129770_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "1.03"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "1000"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "woreczek"
+                        ],
+                        "valuesIds": [
+                            "215766_275149"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1.03"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SOUL FARM"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902706730050"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902706730050"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "74442ddf-6865-4e0e-937d-ff52591a55ac"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c2e7\/6e4cb8fc43fea7a21594b44906df"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.06",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 709,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c2e7\/6e4cb8fc43fea7a21594b44906df"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SIARCZAN MAGNEZU 1 kg - SOUL FARM<\/h1><p>SKŁADNIKI<\/p><p>siarczan magnezu siedmiowodny<\/p><p>OPIS<\/p><p>Produkt kosmetyczny. Środek czysty chemicznie.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Do wanny z ciepłą wodą należy dodać 2 szklanki soli i poczekać, aż sól całkowicie się rozpuści. Kąpiel powinna trwać 15 - 20 minut.<\/p><p>UWAGA<\/p><p>Możliwe zbrylenie produktu jest procesem naturalnym z racji uwodnienia, odwracalnym i nie powodującym obniżenia właściwości.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym miejscu w temperaturze poniżej 25℃, zamkniętym opakowaniu, w miejscu niedostępnym dla małych dzieci.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>SOUL - FARM MACIEJ FOSZCZ, JANOWICKA 138, 43-334 BIELSKO-BIAŁA<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_9872"
+    },
+    "category": {
+        "id": "93058"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.06",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "75.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1225.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "75.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876548588",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T07:28:11.946Z"
+    },
+    "createdAt": "2025-09-10T07:28:11.000Z",
+    "updatedAt": "2025-10-24T04:27:43.435Z"
+}

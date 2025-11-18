@@ -1,0 +1,340 @@
+{
+    "name": "CIASTKA PEŁNOZIARNISTE Z OLIWĄ Z OLIWEK EXTRA VIRGIN (6,7 %) BIO 250 g - AL",
+    "productSet": [
+        {
+            "product": {
+                "id": "2c9766c3-5fa9-4e59-9af6-b26971e6dd97",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8009004812437"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "8009004812437"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250319",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Ciastka kruche"
+                        ],
+                        "valuesIds": [
+                            "250319_1879963"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "2.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "66"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "6.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.48"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8009004812437"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "85d94df2-f7bb-4183-97f4-42d8c13665ab"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ff43\/e2d57c4d4dab8cbf680772cf1c1d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.28",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 53,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ff43\/e2d57c4d4dab8cbf680772cf1c1d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>CIASTKA PEŁNOZIARNISTE Z OLIWĄ Z OLIWEK EXTRA VIRGIN (6,7 %) BIO 250 g - AL<\/h1><p>SKŁADNIKI <\/p><p>mąka PSZENNA pełnoziarnista* (62 %), cukier trzcinowy*, skrobia PSZENNA*, oliwa z oliwek extra virgin* (6,7 %), olej słonecznikowy*, syrop ryżowy*, substancje spulchniające (węglany amonu, węglany sodu), sól. (*certyfikowany składnik ekologiczny)<\/p><p>OPIS <\/p><p>Pyszna przekąska dla każdego, idealnie nadają się do chrupania przy kawie, herbacie lub szklance mleka.<\/p><p>Naturalne źródło błonnika, fosforu, magnezu, miedzi i cynku. <\/p><p>Opakowanie zawiera około 36 sztuk ciastek. <\/p><p>WARTOŚĆ ODŻYWCZA W 100 g <\/p><p>Wartość energetyczna: 1873 kJ\/446 kcal<\/p><p>Tłuszcz: 16 g <\/p><p>w tym kwasy tłuszczowe nasycone: 2,5 g <\/p><p>Węglowodany: 66 g<\/p><p>w tym cukry: 18 g <\/p><p>Błonnik: 6,0 g<\/p><p>Białko: 6,6 g <\/p><p>Sól: 0,48 g <\/p><p>Fosfor: 198 mg (28 %)**<\/p><p>Magnez: 60,1 mg (16 %)**<\/p><p>Miedź: 0,209 mg (21 %)**<\/p><p>Cynk: 1,9 mg (19 %)**<\/p><p>**dzienna referencyjna wartość spożycia. <\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać inne ZBOŻA ZAWIERAJĄCE GLUTEN, MLEKO (ŁĄCZNIE Z LAKTOZĄ), GORCZYCĘ, JAJA, ORZECHY I SOJĘ<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym, suchym miejscu, z dala od światła. Po otwarciu szczelnie zamykać opakowanie. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>GANDOLA BISCOTTI SPA VIA LAVORO E INDUSTRIA 1041 25030 RUDIANO BS<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44932"
+    },
+    "category": {
+        "id": "261443"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.28",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.05",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "76.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1245.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "76.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876812888",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:29:49.967Z"
+    },
+    "createdAt": "2025-09-10T09:29:50.000Z",
+    "updatedAt": "2025-10-30T13:12:18.850Z"
+}

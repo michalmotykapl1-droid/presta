@@ -1,0 +1,362 @@
+{
+    "name": "MAK NIEBIESKI BIO 200 g - BIO PLANET (BIO PLANET -",
+    "productSet": [
+        {
+            "product": {
+                "id": "33e119e6-86ae-4fd8-8120-feeabbbdf4e0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bio planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1957816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "łuskane"
+                        ],
+                        "valuesIds": [
+                            "210758_1781846"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907814663832"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Mak niebieski bio 200g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233381",
+                        "name": "Rodzaj nasion, ziaren, pestek",
+                        "values": [
+                            "mak niebieski"
+                        ],
+                        "valuesIds": [
+                            "233381_372237"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233377",
+                        "name": "Typ nasion",
+                        "values": [
+                            "naturalne"
+                        ],
+                        "valuesIds": [
+                            "233377_372205"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233337",
+                        "name": "Opakowanie",
+                        "values": [
+                            "zgrzewany worek"
+                        ],
+                        "valuesIds": [
+                            "233337_372117"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128428",
+                        "name": "Wielkość opakowania (g)",
+                        "values": [
+                            "200 g"
+                        ],
+                        "valuesIds": [
+                            "128428_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.21"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Turcja"
+                        ],
+                        "valuesIds": [
+                            "249649_1723467"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907814663832"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1198d1\/5aeb6e6a4efb9b9355be530cca49",
+        "https:\/\/a.allegroimg.com\/original\/110f76\/fd8d4e0245b08c0bb9f5a81ce925"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "10.05",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1099,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>MAK NIEBIESKI BIO 200 g - BIO PLANET (BIO PLANET - seria NIEBIESKA ) - BIO PLANET - seria NIEBIESKA<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>mak niebieski* 100% (*certyfikowany składnik ekologiczny)<\/p>\n<p>OPIS<\/p>\n<p>Ekologiczny mak niebieski wyróżnia się wysoką jakością oraz specyficznym smakiem. Potrawy, do których jest dodawany uzyskują wyjątkowy aromat. Polecamy jako dodatek do ciast, deserów, tortów, makówek, lodów. Doskonale komponuje się również z bakaliami, owocami, a także stanowi podstawę bożonarodzeniowej kutii.<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 g:<\/p>\n<p>Wartość energetyczna -  2166 kJ \/ 524 kcal<\/p>\n<p>Tłuszcz - 42 g,<\/p>\n<p>w tym kwasy tłuszczowe nasycone - 4,5 g<\/p>\n<p>Węglowodany - 8,6 g,<\/p>\n<p>w tym cukry - 3,0 g<\/p>\n<p>Błonnik - 20 g<\/p>\n<p>Białko - 18 g<\/p>\n<p>Sól - 0,07 g<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w suchym i chłodnym miejscu.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>BIO PLANET S.A., WILKOWA WIEŚ 7, 05-084 LESZNO<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_3757"
+    },
+    "category": {
+        "id": "112645"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.05",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "12783798094",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-04-29T18:41:23.930Z"
+    },
+    "createdAt": "2022-10-24T17:22:38.000Z",
+    "updatedAt": "2025-09-06T23:19:38.219Z"
+}

@@ -1,0 +1,280 @@
+{
+    "name": "SANBIOS Olej rokitnikowy spożywczy 100ml (SANBIOS) SANBIOS",
+    "productSet": [
+        {
+            "product": {
+                "id": "5068bcd1-ffdc-4e60-94e0-d07a05758106",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sanbios"
+                        ],
+                        "valuesIds": [
+                            "248811_1963871"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213718",
+                        "name": "Rodzaj oleju",
+                        "values": [
+                            "z rokitnika"
+                        ],
+                        "valuesIds": [
+                            "213718_262738"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908230845789"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213722",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "spożywcze"
+                        ],
+                        "valuesIds": [
+                            "213722_262826"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.23"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908230845789"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "24cf7f73-430a-49ca-a3fd-77d45ba075ca"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa olejach, olejkach i kroplach oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Możliwość wystąpienia reakcji alergicznej: Przed pierwszym użyciem wykonaj test na małym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna. W przypadku wystąpienia zaczerwienienia, swędzenia lub podrażnienia, zaprzestań stosowania i skonsultuj się z lekarzem.\n2.  Interakcje z lekami: Skonsultuj się z lekarzem lub farmaceutą przed użyciem, jeśli przyjmujesz jakiekolwiek leki, zwłaszcza leki przeciwzakrzepowe lub obniżające ciśnienie krwi. Oleje i olejki mogą wchodzić w interakcje z niektórymi lekami, wpływając na ich działanie.\n3.  Zastosowanie wewnętrzne: Niektóre oleje i olejki są przeznaczone wyłącznie do użytku zewnętrznego. Upewnij się, czy dany produkt jest bezpieczny do spożycia. W przypadku spożycia oleju lub olejku, który nie jest do tego przeznaczony, skonsultuj się z lekarzem.\n4.  Dawkowanie: Zawsze przestrzegaj zalecanego dawkowania podanego na etykiecie produktu lub zaleconego przez lekarza lub specjalistę. Przedawkowanie może prowadzić do niepożądanych skutków ubocznych.\n5.  Przechowywanie: Przechowuj oleje i olejki w miejscu niedostępnym dla dzieci i zwierząt, w szczelnie zamkniętym opakowaniu, z dala od światła słonecznego i źródeł ciepła. Niektóre olejki eteryczne mogą być toksyczne w przypadku spożycia.\n6.  Ciąża i karmienie piersią: Kobiety w ciąży i karmiące piersią powinny skonsultować się z lekarzem przed użyciem jakichkolwiek olejów i olejków, ponieważ niektóre z nich mogą być szkodliwe dla płodu lub dziecka.\n7.  Ostrożność podczas stosowania olejków eterycznych: Olejki eteryczne są silnie skoncentrowane i mogą powodować podrażnienia skóry. Zawsze rozcieńczaj olejki eteryczne w oleju bazowym (np. olej kokosowy, olej migdałowy) przed nałożeniem na skórę. Niektóre olejki eteryczne są fototoksyczne i mogą zwiększać wrażliwość skóry na słońce.\n8.  Unikaj kontaktu z oczami i błonami śluzowymi: Unikaj kontaktu olejów i olejków z oczami i błonami śluzowymi. W przypadku kontaktu, przemyj obficie wodą.\n9.  Jakość produktu: Kupuj oleje i olejki tylko od zaufanych producentów, aby mieć pewność, że produkt jest czysty i wysokiej jakości.\n10. Osoby z problemami zdrowotnymi: Osoby z problemami zdrowotnymi, takimi jak choroby wątroby, nerek lub epilepsja, powinny skonsultować się z lekarzem przed użyciem jakichkolwiek olejów i olejków.\n11. Utylizacja: Przeprowadź utylizację zgodnie z lokalnymi przepisami.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1171a9\/aafa9ff24a8f925901d5721d30ff"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "34.45",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 49,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>SANBIOS Olej rokitnikowy spożywczy 100ml (SANBIOS) - SANBIOS<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Olej Rokitnikowy 100 ml  Spożywczy, Tłoczony na zimno<\/p>\n<p>Zgodnie z opublikowanymi Oświadczeniami Zdrowotnymi na europejskiej (unijnej) liście PENDING olej z rokitnika pozytywnie wpływa na: (tłumaczenie dosłowne z angielskiej strony) :<\/p>\n<p>- naturalny system odpornośiowy\/obronny organizmu;<\/p>\n<p>- na zdrowie skóry;<\/p>\n<p>- na zdrowie układu krążenia;<\/p>\n<p>- na zdrowie układu pokarmowego;<\/p>\n<p>- jako adaptogen (czyli takie zioło, które działając całościowo na organizm wspomaga jego odporność na stres).<\/p>\n<p>Olej z rokitnika można stosować wewnętrznie i zewnętrznie.<\/p>\n<p>Wewnętrznie:<\/p>\n<p>    -Przy dolegliwościach  ze strony układu pokarmowego: zgaga, wrzody żołądka i dwunastnicy, stany zapalne i choroby jelit, zaparcia.<\/p>\n<p>    -Olej z rokitnika  to bogate źródło flawonoidów (właściwości przeciwutleniające), steroli, garbników (właściwości  przeciwzapalne i antybakteryjne), witamin: A (w postaci Beta- karotenoidów), B i C.<\/p>\n<p>    -Ciekawostką może być fakt, że rokitnik nie zawiera enzymu rozkładającego witaminę C  czyli askorbinazy, a to oznacza, że w miarę upływu czasu zarówno w oleju jak i w suszonych owocach rokitnika ilość witaminy C nie zmniejsza się, tak jak ma to miejsce w przypadku innych owoców.<\/p>\n<p>    -Ponadto olej z rokitnika zawiera wielonienasycone kwasy tłuszczowe, głównie Omega-3 i 6, a więc przy regularnym stosowaniu wpływać może na obniżenie cholesterolu, dlatego zalecany jest w profilaktyce choroby wieńcowej, a także przeciwzawałowo.<\/p>\n<p>Zewnętrznie:<\/p>\n<p>    -Wpływa pozytywnie na stan skóry - nawilża ją i przez to uelastycznia redukując zmarszczki, poprawia gojenie się ran po oparzeniach (np. słonecznych), otarciach, a także polecany jest w schorzeniach skórnych.<\/p>\n<p>    -W kosmetyce stosowany jest jako dodatek do różnego rodzajów kremów używanych do pielęgnacji skóry przesuszonej, zniszczonej, łuszczącej się.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>100% olej z owoców rokitnika (Hippophae rhamnoides)<\/p>\n<p><b>STOSOWANIE<\/b><\/p>\n<p>Spożywać na zimno od 1\/2 do 1 łyżeczki do trzech razy dziennie podczas posiłków.<\/p>\n<p>Można dodawać go do sałatek czy dressingów.<\/p>\n<p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>W ciemnym miejscu, w sposób niedostępny dla małych dzieci.<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Suplementy diety nie mogą być stosowane jako substytut zróżnicowanej diety.<\/p>\n<p>Zróżnicowana dieta i zdrowy tryb życia są istotne dla zachowania zdrowia.<\/p>\n<p>Zróżnicowany i zbilansowany sposób żywienia jest podstawowym warunkiem dobrego zdrowia, a pojedyncze produkty mają relatywne znaczenie w kontekście całego sposobu żywienia.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SANOLERO"
+    },
+    "category": {
+        "id": "258262"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.45",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17682151368",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:38.523Z"
+    },
+    "createdAt": "2025-07-02T09:55:20.000Z",
+    "updatedAt": "2025-09-10T17:25:38.524Z"
+}

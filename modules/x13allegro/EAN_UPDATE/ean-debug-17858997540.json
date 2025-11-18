@@ -1,0 +1,370 @@
+{
+    "name": "Jagoda kamczacka bez dodatku cukru o konsystencji konfitury A To Dobre!, 19",
+    "productSet": [
+        {
+            "product": {
+                "id": "5f9d0434-d22a-49d3-a4c4-9cd472506401",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "a to dobre!"
+                        ],
+                        "valuesIds": [
+                            "248811_2007227"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "246253",
+                        "name": "Rodzaj dżemu, konfitury, powidła",
+                        "values": [
+                            "konfitura"
+                        ],
+                        "valuesIds": [
+                            "246253_584001"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235585",
+                        "name": "Smak",
+                        "values": [
+                            "jagoda kamczacka"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "246245",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoik"
+                        ],
+                        "valuesIds": [
+                            "246245_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903728830162"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Jagoda kamczacka bez dodatku cukru"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "26"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "24"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.05"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903728830162"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/119ee0\/09f2e6244af9ac03931f71836af2"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.94",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 16,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/119ee0\/09f2e6244af9ac03931f71836af2"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Jagoda kamczacka bez dodatku cukru o konsystencji konfitury A To Dobre!, 19<\/h1> <p><b>Jagoda kamczacka bez dodatku cukru o konsystencji konfitury A To Dobre!, 195g <\/b><\/p> <p>A to dobre! to marka produktów: dobrych, zdrowych, bez konserwantów, barwników, bez syropu glukozowo-fruktozowego, ulepszaczy smaku i zapachu. A to dobre! to jakość bez kompromisów. Prosty design etykiet odzwierciedla prosty i czysty skład produktów sygnowanych marką a to dobre!<\/p> <p><b>Składniki:<\/b><\/p><p>jagody kamczackie 64%, zagęszczony sok jabłkowy, substancja żelująca: pektyny.<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>wartość energetyczna 486 kJ \/ 115 kcal<\/p><p>Tłuszcze &lt;0,5 g<\/p><p>w tym kwasy tłuszczowe nasycone &lt;0,1 g<\/p><p>Węglowodany 26 g<\/p><p>w tym cukry 24 g<\/p><p>Błonnik 3,2 g<\/p><p>Białko 0,9 g<\/p><p>Sól 0,05 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu. Chronić przed bezpośrednim działaniem światła. Po otwarciu przechowywać w lodówce. Ciemnienie produktu jest zjawiskiem naturalnym.<\/p> <p><b>Producent:<\/b><\/p><p>Bioone Sp. z o.o. sp.k.<\/p><p>Trybuny Ludów 15<\/p><p>30-660 Kraków<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5903728830162"
+    },
+    "category": {
+        "id": "261233"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.94",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.21",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "80.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1305.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "80.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17858997540",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T14:27:42.760Z"
+    },
+    "createdAt": "2025-09-04T14:27:42.000Z",
+    "updatedAt": "2025-10-17T14:23:24.089Z"
+}

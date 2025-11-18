@@ -1,0 +1,330 @@
+{
+    "name": "Stawia na nogi - herbatka ziołowa 100g ZIELARZPOLSKI.PL",
+    "productSet": [
+        {
+            "product": {
+                "id": "dc49b1aa-1cf5-46a8-9a33-49c00c10042c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Zielarzpolski"
+                        ],
+                        "valuesIds": [
+                            "248811_1965584"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905940370129"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213806",
+                        "name": "Typ",
+                        "values": [
+                            "mieszanki"
+                        ],
+                        "valuesIds": [
+                            "213806_263786"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "232285",
+                        "name": "Rodzaj",
+                        "values": [
+                            "dziewanna",
+                            "dzika róża",
+                            "lipa",
+                            "tymianek",
+                            "wiązówka błotna (tawuła)"
+                        ],
+                        "valuesIds": [
+                            "232285_366417",
+                            "232285_366013",
+                            "232285_366141",
+                            "232285_366333",
+                            "232285_366341"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213810",
+                        "name": "Postać",
+                        "values": [
+                            "kora",
+                            "kwiaty",
+                            "ziele"
+                        ],
+                        "valuesIds": [
+                            "213810_263806",
+                            "213810_263802",
+                            "213810_366625"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bez konserwantów",
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "213714_1",
+                            "213714_65536",
+                            "213714_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905940370129"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117b72\/e220ce4a4638af7d5e6dc55dfa67"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "34.48",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 13,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117b72\/e220ce4a4638af7d5e6dc55dfa67"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Stawia na nogi - herbatka ziołowa 100g ZIELARZPOLSKI.PL<\/h1> <h1>STAWIA NA NOGI <\/h1> <h2>dawniej PRZEZIĘBIENIE<\/h2> <p>herbatka ziołowa 100g <\/p>   <p>Mieszanka ziołowa ''PRZEZIĘBIENIE'' została stworzona na bazie wiedzy i doświadczenia fitoterapeutów - zielarzy z Zielarnia zielarzpolski.pl. <\/p>   <p>ZIOŁOWA MIESZANKA \"PRZEZIĘBIENIE\" jest szczególnie polecana osobom, które chcą wspierać prawidłowe funkcjonowanie układu odpornościowego oraz oddechowego. <\/p>   <p><b>LIPA <\/b><b>I MIODUNKA <\/b>- wspierają prawidłowe funkcjonowanie układu oddechowego i pomagają dbać o zdrowe gardło i struny głosowe. <\/p>   <p><b>TYMIANEK <\/b>- wspomaga zdrowie układu oddechowego. <\/p>   <p><b>WIĄZÓWKA <\/b>- przyczynia się do zachowania optymalnej odporności organizmu. <\/p>   <p><b>DZIKA RÓŻA <\/b>- wspiera dobre samopoczucie fizyczne. <\/p>   <p>Zioła i mieszanki ziołowe od Zielarnia zielarzpolski.pl to: <\/p>   <ul><li>Produkt 100 % naturalny.<\/li> <li>Składniki wysokiej jakości. <\/li> <li>Pakowany ręcznie w Polsce. <\/li> <li>Praktyczne i bezpieczne opakowanie z wielokrotnym zamknięciem strunowym. <\/li><\/ul> <p><b>SPOSÓB UŻYCIA: <\/b><\/p>   <p>Jedną łyżeczkę zalać szklanką wrzątku pozostawić pod przykryciem <\/p>   <p>do zaparzenia na około 10-15 minut. <\/p>   <p><b>SKŁADNIKI: <\/b><\/p>   <p>kwiat lipy, dzika róża łuska, ziele tymianku, cząber, kwiat wiązówki, kora wierzby, ziele miodunki <\/p>   <p>Produkt przeznaczony dla osób dorosłych. Nie stosować: w przypadku nadwrażliwości na produkt, u kobiet ciężarnych i kobiet karmiących. Osoby zażywające leki lub osoby chore powinny przed użyciem skontaktować się z lekarzem. <\/p>   <p><b>ZAWARTOŚĆ NETTO <\/b>: 100 G <\/p>   <p><b>Sposób przechowywania: <\/b><\/p>   <p>Przechowywać w suchym miejscu, w temperaturze pokojowej w szczelnie zamkniętym opakowaniu. Przechowywać w miejscu niedostępnym dla małych dzieci. <\/p>   <p>Zdjęcia ziół mogą być zdjęciami symbolicznymi lub propozycją podania. Informację o ziołach nie stanowią porady medycznej. <\/p>   <p><b>Wyprodukowano w Polsce dla: <\/b><\/p> <p>PERSEA SP. Z O.O. <\/p> <p>Rakowiecka 5\/37, <\/p> <p>02-517 Warszawa <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_PERSEA33STNNHE"
+    },
+    "category": {
+        "id": "258266"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.48",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.93",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "198.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3230.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "198.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859316409",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-02T18:14:38.933Z"
+    },
+    "createdAt": "2025-09-04T16:19:15.000Z",
+    "updatedAt": "2025-11-02T18:14:38.933Z"
+}

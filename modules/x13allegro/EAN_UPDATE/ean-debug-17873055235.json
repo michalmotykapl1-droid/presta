@@ -1,0 +1,404 @@
+{
+    "name": "BIO PLANET Mix strączkowych BIO 400g",
+    "productSet": [
+        {
+            "product": {
+                "id": "4af0b473-69ff-4de9-bb78-677cd89e50f3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bio planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1957816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "barwników",
+                            "cholesterolu",
+                            "cukru",
+                            "drożdży",
+                            "glutenu",
+                            "GMO",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_4194304",
+                            "130691_65536",
+                            "130691_4",
+                            "130691_524288",
+                            "130691_2",
+                            "130691_32768",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_1",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "BIO PLANET"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248631",
+                        "name": "Odmiana soczewicy",
+                        "values": [
+                            "zielona"
+                        ],
+                        "valuesIds": [
+                            "248631_935101"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250202",
+                        "name": "Rodzaj",
+                        "values": [
+                            "groch"
+                        ],
+                        "valuesIds": [
+                            "250202_1799814"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "2.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "41"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "3.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "22"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.03"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907814664709"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "adc061f2-049f-4e0c-9739-b8a4054291df"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c78b\/5662c02f489a84e16bf1c8711ef7"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.80",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c78b\/5662c02f489a84e16bf1c8711ef7"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIO PLANET Mix strączkowych BIO 400g<\/h1> <p><b>SKŁADNIKI <\/b><\/p><p>ciecierzyca*, fasolka Pinto*, fasolka biała*, fasolka czarna*, soczewica zielona*, soczewica zielona (mała)*, fasolka Kidney*, soczewica czerwona* (*certyfikowany składnik ekologiczny).<\/p> <p><b>OPIS <\/b><\/p><p>Mix roślin strączkowych to oryginalna mieszanka ekologicznych ziaren strączkowych. Polecamy do zup, dań jednogarnkowych (doskonały z warzywami), pasztetów i past.<\/p> <p><b>SPOSÓB PRZYGOTOWANIA <\/b><\/p><p>uprzednio namoczony co najmniej 12 godzin i przepłukany mix gotować w świeżej, nieosolonej wodzie ok. 60 min. Posolić pod koniec gotowania.<\/p> <p><b>WARTOŚĆ ODŻYWCZA W 100 g <\/b><\/p><p>Wartość energetyczna - 1253 kJ \/ 298 kcal<\/p><p>Tłuszcz - 2,0 g<\/p><p>w tym kwasy tłuszczowe nasycone - 0,2 g<\/p><p>Węglowodany - 36 g<\/p><p>w tym cukry - 2,4 g<\/p><p>Błonnik - 22 g<\/p><p>Białko - 23 g<\/p><p>Sól - 0,09 g<\/p> <p><b>ZALECANE WARUNKI PRZECHOWYWANIA <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_11BIPBIPMT7"
+    },
+    "category": {
+        "id": "261698"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.80",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.17",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "79.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1295.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "79.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17873055235",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-09T07:47:39.502Z"
+    },
+    "createdAt": "2025-09-09T07:47:39.000Z",
+    "updatedAt": "2025-10-04T16:25:50.581Z"
+}

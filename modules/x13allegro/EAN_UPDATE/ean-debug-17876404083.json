@@ -1,0 +1,354 @@
+{
+    "name": "PROSZEK DO PRANIA KOLOROWYCH UBRAŃ ECO 1,375 kg (27 PRAŃ) - KLAR",
+    "productSet": [
+        {
+            "product": {
+                "id": "504c6e0f-acd5-4153-a925-f41211ffd61c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250567",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Proszek do prania"
+                        ],
+                        "valuesIds": [
+                            "250567_1931485"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Klar"
+                        ],
+                        "valuesIds": [
+                            "248811_1951971"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213906",
+                        "name": "Waga produktu",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225145",
+                        "name": "Rodzaj prania",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225145_310629"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "kolorów"
+                        ],
+                        "valuesIds": [
+                            "225133_310597"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4019555100154"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Niemcy"
+                        ],
+                        "valuesIds": [
+                            "249649_1723399"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225129",
+                        "name": "Liczba prań",
+                        "values": [
+                            "27"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225137",
+                        "name": "Opakowanie",
+                        "values": [
+                            "karton"
+                        ],
+                        "valuesIds": [
+                            "225137_310605"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "bezzapachowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225153",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezzapachowy"
+                        ],
+                        "valuesIds": [
+                            "225153_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4019555100154"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "91438d68-de6a-4930-b6df-204cc030ba72"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11aa95\/7fdde93c42619361f997281381a8"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "48.44",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 73,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11aa95\/7fdde93c42619361f997281381a8"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PROSZEK DO PRANIA KOLOROWYCH UBRAŃ ECO 1,375 kg (27 PRAŃ) - KLAR<\/h1><p>SKŁADNIKI<\/p><p>Zeolithe, Sodium Carbonate, Sodium Citrate, Sodium Bicarbonate, Sodium palmate, Sodium cocoate, Potassium Cocoate, Sodium Silicate, Dinatrium silikate, Sodium C12-18 Alkyl Sulfate, Lauryl Polyglucose, Rice Starch, Sodium Polyaspartate.<\/p><p>OPIS<\/p><p>VEGAN - nie zawiera składników pochodzenia zwierzęcego.<\/p><p>SENSITIVE - odpowiedni dla wrażliwej skóry (bez zapachu).<\/p><p>Testowany dermatologicznie.<\/p><p>Uniwersalny proszek do prania, odpowiedni do stosowania przy wszystkich stopniach twardości wody oraz we wszystkich temperaturach (od 30 do 60 stopni Celsjusza). <\/p><p>Może być używany zarówno do białego jak i kolorowego prania. <\/p><p>W przypadku trudnych plam z kakao, krwi czy atramentu należy użyć odplamiacza.<\/p><p>Do białego prania należy dodać środek wybielający.<\/p><p>Opakowanie 1,375 kg powinno starczyć na ok. 27 prań.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALMAWIN REINIGUNGSKONZENTRATE GMBH, TALSTR 2, 73644 WINTERBACH<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_5802"
+    },
+    "category": {
+        "id": "260124"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "48.44",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.14",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "279.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4540.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "279.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876404083",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T06:04:30.975Z"
+    },
+    "createdAt": "2025-09-10T06:04:31.000Z",
+    "updatedAt": "2025-09-10T06:19:32.160Z"
+}

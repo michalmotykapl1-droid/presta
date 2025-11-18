@@ -1,0 +1,372 @@
+{
+    "name": "ROSE Mydło w płynie 300ml BIOFRESH",
+    "productSet": [
+        {
+            "product": {
+                "id": "b17471e8-b7c8-4d1a-bcba-29b4479268f2",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Rose of Bulgaria"
+                        ],
+                        "valuesIds": [
+                            "248811_1982560"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.36"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129531",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "do rąk"
+                        ],
+                        "valuesIds": [
+                            "129531_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129530",
+                        "name": "Rodzaj",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "129530_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "parabenów"
+                        ],
+                        "valuesIds": [
+                            "129770_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "56"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "róża damasceńska"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "brak danych"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "hydrolat róży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "107005"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3800200961890"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "331db2a6-cc5e-4d11-80f7-ed816baa80d3"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115ebb\/8dcd9e5d48dabbde8e9f97e2690d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "8.42",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 97,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115ebb\/8dcd9e5d48dabbde8e9f97e2690d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ROSE Mydło w płynie 300ml BIOFRESH<\/h1> <p><b>OPIS <\/b><\/p><p>Mydło o specjalnej formule, wyjątkowo łagodne i delikatne dla skóry dłoni. Wzbogacone naturalną wodą różaną - nie niszczy warstwy hydro-lipidowej skóry, nie podrażnia i nie wysusza. Obfita piana i świeży różany aromat sprawiają, że mycie rąk jest odświeżającą przyjemnością. Naturalna woda różana utrzymuje wilgotność skóry i ją tonizuje. <\/p> <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>Niewielką ilość mydła nanieść na dłonie, rozsmarować do uzyskania obfitej piany, spłukać wodą.<\/p> <p><b>SKŁADNIKI\/INCI<\/b><\/p><p>Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Rosa Damascena Flower Water, Cocamide Dea, Polyquaternium-7, Sodium Chloride, Peg-7 Glyceryl Cocoate, Parfum, Lactic Acid, Disodium Edta, Metyhlchloroisothiazolinone, Methylisothiazolinone, CI 14720, Geraniol, Citronellol. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71BIOROSMY1"
+    },
+    "category": {
+        "id": "93055"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.42",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.94",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "48.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "790.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "48.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016385186",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:51:27.488Z"
+    },
+    "createdAt": "2025-10-22T07:51:27.000Z",
+    "updatedAt": "2025-10-22T08:06:27.943Z"
+}

@@ -1,0 +1,355 @@
+{
+    "name": "KAWA ZIARNISTA ARABICA 100 % SELECTION BIO 1 kg - DESTINATION",
+    "productSet": [
+        {
+            "product": {
+                "id": "0be7c9cf-0be4-41b0-9586-daf8c5af6066",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250240",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "KAWA ZIARNISTA ARABICA 100 % SELECTION BIO 1 kg"
+                        ],
+                        "valuesIds": [
+                            "250240_1818933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "0"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "0089967923553"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128450",
+                        "name": "Gatunek kawy",
+                        "values": [
+                            "Arabica"
+                        ],
+                        "valuesIds": [
+                            "128450_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128453",
+                        "name": "Wielkość opakowania (g)",
+                        "values": [
+                            "1000 g"
+                        ],
+                        "valuesIds": [
+                            "128453_6"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "24028",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kawa czarna"
+                        ],
+                        "valuesIds": [
+                            "24028_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "barwników",
+                            "cholesterolu",
+                            "drożdży",
+                            "jajek",
+                            "laktozy",
+                            "nabiału",
+                            "oleju palmowego",
+                            "orzechów",
+                            "pestek",
+                            "pszenicy",
+                            "soi",
+                            "tłuszczy trans (utwardzanych)"
+                        ],
+                        "valuesIds": [
+                            "130691_4194304",
+                            "130691_65536",
+                            "130691_524288",
+                            "130691_1048576",
+                            "130691_1",
+                            "130691_262144",
+                            "130691_8",
+                            "130691_32",
+                            "130691_16384",
+                            "130691_131072",
+                            "130691_16",
+                            "130691_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "2.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "0089967923553"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f470aecb-34e1-4344-a098-ab8c9e9256e7"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a556\/95bfc0ee48079bbdae48a4fdd7a9"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "97.61",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 126,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a556\/95bfc0ee48079bbdae48a4fdd7a9"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KAWA ZIARNISTA ARABICA 100 % SELECTION BIO 1 kg - DESTINATION<\/h1><p>SKŁADNIKI<\/p><p>ekologiczna ziarnista kawa arabica 100 % <\/p><p>OPIS<\/p><p>Wyselekcjonowana mieszanka czystej, ekologicznej ziarnistej kawy Arabica.<\/p><p>Składa się wyłącznie ze 100 % organicznej kawy Arabica bez żadnych dodatków. Palona bardzo powoli, by uwolnić maksymalnie aromatyczny smak. Drzewka, z których zebrane zostają nasiona kawy rosną wysoko na wulkanicznych glebach. To pozwala uwolnić im bogactwo aromatów.<\/p><p>Pochodzenie: Ameryka Południowa i Środkowa. Uprawiana na zboczach Andów.<\/p><p>Intensywność: 7\/10<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Do filiżanki wsypać 7-10 g zmielonej kawy i zalać wrzącą wodą<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu. Po otwarciu najlepiej przechowywać kawę szczelnie zamkniętą w dolnej części lodówki<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Destination, 5-11 rue Yves Glotin, 33083 Bordeaux, Francja<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_25479"
+    },
+    "category": {
+        "id": "74035"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "97.61",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "22.45",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "561.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9145.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "561.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051766180",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T15:27:17.125Z"
+    },
+    "createdAt": "2025-11-03T15:27:17.000Z",
+    "updatedAt": "2025-11-03T15:42:17.626Z"
+}

@@ -1,0 +1,369 @@
+{
+    "name": "Serum olejowe Kocanka włoska do cery naczynkowej 30ml FITOMED",
+    "productSet": [
+        {
+            "product": {
+                "id": "bebe8f27-3c14-4581-9aad-265b0a9a56b1",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Fitomed"
+                        ],
+                        "valuesIds": [
+                            "248811_1980254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907504400341"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Mieszanka"
+                        ],
+                        "valuesIds": [
+                            "22158_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.09"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Naczynkowa"
+                        ],
+                        "valuesIds": [
+                            "129434_7"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "amoniaku",
+                            "barwników",
+                            "mydła",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_1024",
+                            "129770_65536",
+                            "129770_131072",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pipetą"
+                        ],
+                        "valuesIds": [
+                            "215766_271246"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "ziołowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Cera Naczynkowa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907504400341"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "335025cd-b528-4bec-b204-39df0a4a59b3"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11192b\/2bdf4d68456e89a1143a6af879be"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "40.89",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11192b\/2bdf4d68456e89a1143a6af879be"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Serum olejowe Kocanka włoska do cery naczynkowej 30ml FITOMED<\/h1> <p><b>OPIS <\/b><\/p><p>Najważniejsze składniki: nierafinowane oleje: z pestek maliny, ze słodkich migdałów, olej z pestek aronii, macerat z kocanki i kasztanowca, witaminy E, C.<\/p> <p>Działanie:<\/p><p>-odżywia,<\/p><p>-chroni przed smogiem i w niewielkim zakresie przed promieniami UV (SPF = 2 w badaniach spektrofotometrycznych in vitro),<\/p><p>-stosowany razem z esencją z kocanką włoską Fitomed (esencja – jako prekosmetyk) znacząco wygładza naskórek oraz łagodzi zmiany naczynkowe (86% testujących potwierdziło w badaniach aplikacyjnych skuteczność takiej kuracji).<\/p> <p>Przeznaczenie: do cery naczynkowej jako kosmetyk funkcjonalny.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>2 krople serum rozprowadzić na czystej skórze. Na dzień,w celu ochrony przed niekorzystnymi czynnikami atmosferycznymi lub na noc, w celu odżywienia i regeneracji naskórka. <\/p> <p><b>SKŁADNIKI INCI <\/b><\/p><p>Rubus Idaeus (Raspberry) Seed Oil, Aronia Melanocarpa Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tocoferyl Acetate, Helichrysum Italicum Flower, Aesculus Hippocastanum (Horse Chestnut) Extract, Ascorbyl Palmitate.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71FITSEROK"
+    },
+    "category": {
+        "id": "144743"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "40.89",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.40",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "235.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3830.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "235.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871585655",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T19:09:25.875Z"
+    },
+    "createdAt": "2025-09-08T19:09:25.000Z",
+    "updatedAt": "2025-09-09T04:48:58.344Z"
+}

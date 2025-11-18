@@ -1,0 +1,408 @@
+{
+    "name": "Czekolada gorzka z solonymi migdałami Nick's, 75g",
+    "productSet": [
+        {
+            "product": {
+                "id": "313fbfe5-dd32-4f40-83a1-92a91ca87fdf",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Nick's"
+                        ],
+                        "valuesIds": [
+                            "248811_1962496"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "Nick's czekolada ciemna ID 12569"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Nick's Dark Chocolate Almond Sea Salt 75g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250326",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Czekolady"
+                        ],
+                        "valuesIds": [
+                            "250326_1880745"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3455",
+                        "name": "Forma",
+                        "values": [
+                            "w tabliczkach"
+                        ],
+                        "valuesIds": [
+                            "3455_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3454",
+                        "name": "Rodzaj czekolady",
+                        "values": [
+                            "czekolada deserowa"
+                        ],
+                        "valuesIds": [
+                            "3454_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3456",
+                        "name": "Skład",
+                        "values": [
+                            "z orzechami"
+                        ],
+                        "valuesIds": [
+                            "3456_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208222",
+                        "name": "Zawartość  kakao",
+                        "values": [
+                            "59"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru",
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_4",
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.075"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "39"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "22"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "27"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "8.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.59"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "7350104402228"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118c30\/7cb11b714f23b398a4280e929c73",
+        "https:\/\/a.allegroimg.com\/original\/11593c\/64a6b2164bf088c0af4a600ca40f",
+        "https:\/\/a.allegroimg.com\/original\/1121b7\/17341def42158d45b6c42bc50b87"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.87",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 18,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118c30\/7cb11b714f23b398a4280e929c73"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Czekolada gorzka z solonymi migdałami Nick's, 75g<\/h1> <p><b>Czekolada gorzka z solonymi migdałami Nick's, 75g <\/b><\/p> <p>CZEKOLADA GORZKA (masa kakaowa minimum 59 %) Z MIGDAŁAMI I SOLĄ MORSKĄ (zawiera substancje słodzące). Gorzka czekolada bez cukru z kawałkami migdałów i solą morską. Bez cukru, bez glutenu oraz bez oleju pamowego, dpowiednia dla wegan. Słodzona stewią i erytrolem.<\/p> <p><b>Składniki:<\/b><\/p><p>miazga kakaowa (&gt;41 %), substancja słodząca (erytrytol), tłuszcz kakaowy (&gt;18 %), substancja wypełniająca (polidekstroza), migdały (12 %), inulina z cykorii, sól morska (0,5 %), emulgatory (lecytyny (z soi)), naturalny aromat, substancje słodzące (glikozydy stewiolowe ze stewii, sukraloza).<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 1836 Kj \/ 439 kcal<\/p><p>Tłuszcz 39 g<\/p><p>w tym kwasy tłuszczowe nasycone 20 g<\/p><p>Węglowodany 22 g<\/p><p>w tym poliole 14 g<\/p><p>w tym cukry 2,1 g<\/p><p>Błonnik 27 g<\/p><p>Białko 8,1 g<\/p><p>Sól 0,59 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Może zawierać mleko, nasiona sezamu, orzeszki ziemne i inne orzechy.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent:<\/b><\/p><p>LUB Foods AB<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11593c\/64a6b2164bf088c0af4a600ca40f"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1121b7\/17341def42158d45b6c42bc50b87"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_7350104402228"
+    },
+    "category": {
+        "id": "74020"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.87",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.57",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "114.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1860.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "114.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17858963936",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-26T23:47:00.154Z"
+    },
+    "createdAt": "2025-09-04T14:15:41.000Z",
+    "updatedAt": "2025-10-26T23:47:00.154Z"
+}

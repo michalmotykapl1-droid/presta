@@ -1,0 +1,290 @@
+{
+    "name": "KIWI ŻÓŁTE ŚWIEŻE BIO (około 0,50 kg)",
+    "productSet": [
+        {
+            "product": {
+                "id": "71eb0499-ae98-4ab0-82ad-83ac459cde46",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249601",
+                        "name": "Odmiana owoców",
+                        "values": [
+                            "kiwi"
+                        ],
+                        "valuesIds": [
+                            "249601_1706879"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249483",
+                        "name": "Region pochodzenia",
+                        "values": [
+                            "Włochy"
+                        ],
+                        "valuesIds": [
+                            "249483_1224189"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250200",
+                        "name": "Rodzaj",
+                        "values": [
+                            "inne owoce"
+                        ],
+                        "valuesIds": [
+                            "250200_1799785"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "ŚWIEŻE"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244393",
+                        "name": "Opakowanie",
+                        "values": [
+                            "karton"
+                        ],
+                        "valuesIds": [
+                            "244393_500809"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907738153785"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ]
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11bc64\/ca865bb74175ae950fcce7aba066"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "28940863-a9eb-4149-9458-a349c36332d9"
+        },
+        "returnPolicy": {
+            "id": "495ecc78-b6cd-4d5a-a421-c52b040dcd9f"
+        },
+        "warranty": {
+            "id": "a3f8e6ac-dafc-4dbd-99ef-4f90c14d8836"
+        }
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "38.26",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 22,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "08453c37-fd0f-49df-8f2e-6f0fe064e1e3"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11bc64\/ca865bb74175ae950fcce7aba066"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KIWI ŻÓŁTE ŚWIEŻE BIO (około 0,50 kg)<\/h1><p>Produkt sprzedawany na kilogramy.<\/p><p>Zalecane przechowywanie w temp. od +2°C do +4°C<\/p><p>Kiwi żółte to owoc o wielu właściwościach odżywczych. W smaku jest bardziej słodkie niż kiwi zielone. Zawarty w nim potas pozytywnie wpływa na układ krążenia. Kiwi zawiera witaminę C, która wspomaga układ odpornościowy oraz korzystnie wpływa na kondycję cery. Owoc jest także źródłem błonnika pokarmowego, co ma pozytywny wpływ na układ pokarmowy. Spożywanie kiwi w dużych ilościach nie jest jednak zalecane osobom z chorobami układu pokarmowego, jak np. refluks żołądkowo-przełykowy.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BIO PLANET S.A., WILKOWA WIEŚ 7, 05-084 LESZNO<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_15169"
+    },
+    "category": {
+        "id": "318462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.26",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.80",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "220.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3585.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "220.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17947444102",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-03T07:14:52.723Z"
+    },
+    "createdAt": "2025-10-03T07:14:52.000Z",
+    "updatedAt": "2025-10-11T11:35:19.106Z"
+}

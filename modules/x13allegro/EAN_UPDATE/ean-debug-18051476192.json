@@ -1,0 +1,357 @@
+{
+    "name": "OWOCOWE DODATKI DO MUSLI I DESERÓW JUNIOR BIO 20 g - DARY NATURY",
+    "productSet": [
+        {
+            "product": {
+                "id": "77d76125-0277-49c6-9b9f-8bc2cb6a08a0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Dary Natury"
+                        ],
+                        "valuesIds": [
+                            "248811_1132976"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250327",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Musli"
+                        ],
+                        "valuesIds": [
+                            "250327_1880752"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235585",
+                        "name": "Smak",
+                        "values": [
+                            "owocowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "EKO Dodatek do musli i deserów Junior Dary Natury 20 g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904538034351"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.035"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "58"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "48"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "27"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "4.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904538034351"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "7ab9076f-b9c9-449e-8093-51509ec31719"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ace8\/164da1284f338e4dfb905f81a6eb"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.47",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 62,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ace8\/164da1284f338e4dfb905f81a6eb"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OWOCOWE DODATKI DO MUSLI I DESERÓW JUNIOR BIO 20 g - DARY NATURY<\/h1><p>SKŁADNIKI<\/p><p>liofilizowane owoce: borówki amerykańskiej* 40 %, róży* 30 %, jabłka* 10 %, maliny* 10 %, truskawki* 8 %, poziomki* 2 %. (*certyfikowany składnik ekologiczny)<\/p><p>OPIS<\/p><p>Mieszanka starannie wyselekcjonowanych owoców liofilizowanych, pochodzących z upraw ekologicznych. Polecana, jako smaczny i wygodny dodatek do posiłków. Przyjemna chrupkość i naturalnie owocowa słodycz zachwycą każdego małego smakosza.<\/p><p>Wysoka zawartość witaminy C, potasu, wapnia, miedzi i manganu. Źródło fosforu i magnezu. <\/p><p>Witamina C, miedź pomagają w prawidłowym funkcjonowaniu układu odpornościowego.<\/p><p>Potas i magnez pomagają w prawidłowym funkcjonowaniu układu nerwowego<\/p><p>Wapń, mangan, fosfor przyczyniają się do utrzymania zdrowych kości.<\/p><p>Zrównoważony sposób żywienia oraz zdrowy tryb życia są niezbędne do prawidłowego funkcjonowania organizmu.<\/p><p>WARTOŚĆ ODŻYWCZA w 100 g<\/p><p>Wartość energetyczna: 1349 kJ\/321 kcal<\/p><p>Tłuszcz: 2,0 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0,3 g<\/p><p>Węglowodany: 58 g<\/p><p>w tym cukry: 48 g<\/p><p>Błonnik: 27 g<\/p><p>Białko: 4,6 g<\/p><p>Sól: 0 g<\/p><p>Witamina C: 850,5 mg (1063 %)**<\/p><p>Potas: 1220,6 mg (61 %)**<\/p><p>Wapń: 301,9 mg (38 %)**<\/p><p>Fosfor: 157,2 mg (22 %)**<\/p><p>Magnez: 88,7 mg (24 %)**<\/p><p>Miedź: 0,3 mg (31 %)**<\/p><p>Mangan: 4,8 mg (242 %)**<\/p><p>**dzienna referencyjna wartość spożycia <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu, w szczelnie zamkniętym opakowaniu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>\"DARY NATURY\" SP. Z O.O. KORYCINY 73, 17-315 GRODZISK<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44993"
+    },
+    "category": {
+        "id": "261711"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.47",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.64",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "66.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1075.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "66.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051476192",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:26:47.264Z"
+    },
+    "createdAt": "2025-11-03T13:26:47.000Z",
+    "updatedAt": "2025-11-03T13:41:48.165Z"
+}

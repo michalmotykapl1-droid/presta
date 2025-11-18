@@ -1,0 +1,347 @@
+{
+    "name": "APIPROGRAM Maść propolisowa 20% naprawczo-regenerująca z kwasem hialuronowy",
+    "productSet": [
+        {
+            "product": {
+                "id": "25ac1637-cd1b-4846-8712-0bf479838489",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Korana"
+                        ],
+                        "valuesIds": [
+                            "248811_1961108"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905829111034"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Maść propolisowa 50g Korana"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.55"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "maść"
+                        ],
+                        "valuesIds": [
+                            "210758_260978"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "otarcia"
+                        ],
+                        "valuesIds": [
+                            "213970_265442"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "propolis"
+                        ],
+                        "valuesIds": [
+                            "213962_265066"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez barwników",
+                            "bez cukru",
+                            "bez konserwantów"
+                        ],
+                        "valuesIds": [
+                            "213714_32768",
+                            "213714_1",
+                            "213714_65536"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905829111034"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "cb1c9ecd-0b78-4c49-a6a9-795a75eb047e"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11d35e\/8d2ca8bd40eba908918209fc4a7f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "36.45",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 59,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d35e\/8d2ca8bd40eba908918209fc4a7f"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>APIPROGRAM Maść propolisowa 20% naprawczo-regenerująca z kwasem hialuronowy<\/h1> <p><b>OPIS <\/b><\/p><p>Silnie regenerująca maść z 20-procentowym ekstraktem z propolisu i kwasem hialuronowym, przeznaczona do pielęgnacji skóry ciała. Dzięki obecności kilkuset cennych, aktywnych składników zawartych w propolisie maść doskonale sprawdza się w pielęgnacji skóry ciała dotkniętej problemem:<\/p><p>-otarć,<\/p><p>-pęknięć naskórka, np. na piętach,<\/p><p>-bardzo przesuszonej skóry,<\/p><p>-blizn potrądzikowych, pourazowych i pooperacyjnych,<\/p><p>-rozstępów,<\/p><p>-oparzeń słonecznych,<\/p><p>-odleżyn,<\/p><p>-odparzeń,<\/p><p>-odmrożeń.<\/p> <p>Propolis ma silne właściwości antybakteryjne, przeciwgrzybicze i przeciwzapalne. Zmniejsza ryzyko powstania infekcji, ogranicza namnażanie szkodliwych drobnoustrojów i przyspiesza proces gojenia się skóry. Dzięki zawartości cennych witamin (A, B1, B2, B5, B6, C, D, E)) i minerałów (np. mangan, miedź, chrom, srebro), głęboko odżywia, wzmacnia i chroni skórę, a także znacznie ogranicza ryzyko powstawania blizn.<\/p> <p>Uniwersalny środek wspomagający regenerację skóry<\/p> <p>To świetny, naturalny i wielofunkcyjny środek do pielęgnacji skóry zdrowej i dotkniętej rozmaitymi problemami dermatologicznymi. Maść sprawdza się również podczas rekonwalescencji po zabiegach kosmetycznych oraz do pielęgnacji blizn po zabiegach medycznych.<\/p> <p>Kosmetyczne właściwości maści propolisowej<\/p> <p>Dzięki zawartości najwyższej jakości kwasu hialuronowego, maść propolisowa ma doskonałe właściwości nawilżające. Pomaga zatrzymywać wodę w skórze i ograniczać jej nadmierną ucieczkę, co jest niezwykle ważne w pielęgnacji osłabionej, przesuszonej skóry. Maść tworzy na powierzchni naskórka niewidzialną warstwę, która uszczelnia naskórek i wzmacnia jego naturalne zdolności ochrony przed uszkodzeniami oraz infekcjami.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Stosować zewnętrznie, delikatnie wmasować w czystą i suchą skórę.<\/p> <p><b>SKŁADNIKI\/INGREDIENTS <\/b><\/p><p>LANOLIN, CERA ALBA, CAPRYLIC\/CAPRIC TRIGLYCERIDE, PROPOLIS EXTRACT, PROPYLENE GLYCOL, OLEA EUROPAEA (OLIVE) FRUIT OIL, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, PERSEA GRATISSIMA (AVOCADO) OIL, SODIUM HYALURONATE, TOCOPHEROL (MIXED), BETA-SITOSTEROL, SQUALENE.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71KORAPIMA"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "36.45",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.38",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "210.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3415.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "210.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17872863826",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-09T05:50:43.555Z"
+    },
+    "createdAt": "2025-09-09T05:50:43.000Z",
+    "updatedAt": "2025-09-09T06:05:44.157Z"
+}

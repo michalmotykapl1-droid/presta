@@ -1,0 +1,267 @@
+{
+    "name": "NATURALNA WODA MINERALNA NISKOGAZOWANA WYSOKOZMINERALIZOWANA 1 L - MILA MUS",
+    "productSet": [
+        {
+            "product": {
+                "id": "0ae09a62-1138-42e3-ba34-3fbd883047bb",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mila"
+                        ],
+                        "valuesIds": [
+                            "248811_1939771"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "59099109"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Mila Muszyna1L"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "59099109"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "2b1e92d8-e4a8-44c4-b8c6-f7e5268c5752"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112be7\/6a1a5b8a417cadbf881c1de2d993"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "9.81",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1317,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112be7\/6a1a5b8a417cadbf881c1de2d993"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>NATURALNA WODA MINERALNA NISKOGAZOWANA WYSOKOZMINERALIZOWANA 1 L - MILA MUS<\/h1><p>SKŁADNIKI<\/p><p>Zawartość charakterystycznych składników mineralnych w litrze wody (mg\/L)<\/p><p>aniony<\/p><p>wodorowęglanowy 2257<\/p><p>chlorkowy 10<\/p><p>siarczanowy 2<\/p><p>fluorkowy 0,2<\/p><p>kationy<\/p><p>magnezowy 150<\/p><p>wapniowy 128<\/p><p>sodowy 148<\/p><p>potasowy 8,6<\/p><p>Ogólna zawartość rozpuszczonych składników mineralnych: 2606 mg\/L<\/p><p>OPIS<\/p><p>Naturalna woda mineralna niskonasycona dwutlenkiem węgla (do 1500 mg\/l) częściowo odgazowana, wysokozmineralizowana. pH 6,6. <\/p><p>Woda zawiera wodorowęglany, magnez i wapń. <\/p><p>Poddawana jest procesowi usuwania składników nietrwałych, napowietrzania, filtracji, odżelaziania i częściowego odgazowania. <\/p><p>Ujęcie: Odwiert Piotr w Muszynie<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym i zaciemnionym miejscu, bez obcych zapachów. Po otwarciu spożyć w ciągu 12 godzin. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Polskie Zdroje Sp. z O.O., ul. Piłsudskiego 25, 33-700 Muszyna<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45017"
+    },
+    "category": {
+        "id": "261592"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.81",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.26",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "56.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "920.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "56.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051475865",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:26:40.297Z"
+    },
+    "createdAt": "2025-11-03T13:26:40.000Z",
+    "updatedAt": "2025-11-03T13:41:41.636Z"
+}

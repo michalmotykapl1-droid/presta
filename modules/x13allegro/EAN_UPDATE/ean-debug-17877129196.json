@@ -1,0 +1,330 @@
+{
+    "name": "SHAKER Z LOGO BIOGOL 600 ml - BIOGOL",
+    "productSet": [
+        {
+            "product": {
+                "id": "2e89c597-2202-48b8-856c-b7c14ecb1cf0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "249512",
+                        "name": "Kolor",
+                        "values": [
+                            "czarny"
+                        ],
+                        "valuesIds": [
+                            "249512_1647413"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "600"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biogol"
+                        ],
+                        "valuesIds": [
+                            "248811_1957844"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249395",
+                        "name": "Rodzaj",
+                        "values": [
+                            "shaker"
+                        ],
+                        "valuesIds": [
+                            "249395_1190384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213194",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "213194_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902650276390"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237206",
+                        "name": "Model",
+                        "values": [
+                            "Shaker"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "229049",
+                        "name": "Średnica",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206466",
+                        "name": "Waga",
+                        "values": [
+                            "0.21"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "208"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902650276390"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "ff92b409-ef7d-463b-8d26-f00424042ba1"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/119cf9\/c2581c9845ff88a4fcd208f09424"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "23.49",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 348,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/119cf9\/c2581c9845ff88a4fcd208f09424"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SHAKER Z LOGO BIOGOL 600 ml - BIOGOL<\/h1><p>SKŁADNIKI<\/p><p>materiał PP5.<\/p><p>OPIS<\/p><p>Shaker wyprodukowany został z wysokiej jakości nietoksycznego materiału PP5. Pojemność 600 ml. <\/p><p>Shaker z logo Biogol to idealny produkt do przygotowywania oraz przechowywania różnego rodzaju napojów i odżywek wysokobiałkowych. Sprawdzi się także w przygotowaniu i przenoszeniu koktajli owocowych. <\/p><p>Shaker zawiera specjalne sitko, które ułatwia mieszanie się komponentów. Zatykany dziubek umożliwia szczelne zamknięcie oraz łatwe korzystanie z produktu.<\/p><p>Shaker jest szczelny. Nie musisz obawiać się przeciekania.<\/p><p>Łatwy do czyszczenia - zalecane mycie ręczne. <\/p><p>Potrzebujesz dodatkowej motywacji, aby zdrowo się odżywiać? Kup nasz shaker.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>GK4 FOOD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Wojska Polskiego 13, 72-320 Trzebiatów<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_24020"
+    },
+    "category": {
+        "id": "147582"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.49",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.40",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "135.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2200.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "135.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877129196",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T11:37:03.658Z"
+    },
+    "createdAt": "2025-09-10T11:37:03.000Z",
+    "updatedAt": "2025-10-21T08:26:26.730Z"
+}

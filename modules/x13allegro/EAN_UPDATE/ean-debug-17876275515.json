@@ -1,0 +1,378 @@
+{
+    "name": "ZIELKO Odplamiacz granat i imbir 400ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "859d4253-1ab8-4e85-a662-183b5aaafb62",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "zielko"
+                        ],
+                        "valuesIds": [
+                            "248811_1955697"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902249017052"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Zielko Odplamiacz granat imbir 400 ml"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225197",
+                        "name": "Rodzaj",
+                        "values": [
+                            "w płynie"
+                        ],
+                        "valuesIds": [
+                            "225197_310749"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225133_310601"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "460"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Polska"
+                        ],
+                        "valuesIds": [
+                            "249649_1723418"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225129",
+                        "name": "Liczba prań",
+                        "values": [
+                            "9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225181",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka plastikowa"
+                        ],
+                        "valuesIds": [
+                            "225181_310689"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225145",
+                        "name": "Rodzaj prania",
+                        "values": [
+                            "automatyczne"
+                        ],
+                        "valuesIds": [
+                            "225145_310625"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225193",
+                        "name": "Rodzaj plam",
+                        "values": [
+                            "wszystkie rodzaje"
+                        ],
+                        "valuesIds": [
+                            "225193_256"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225189",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "do naturalnych tkanin",
+                            "nie zawiera chloru",
+                            "przyjazny dla środowiska"
+                        ],
+                        "valuesIds": [
+                            "225189_1024",
+                            "225189_256",
+                            "225189_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.35"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902249017052"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "94899c6d-f143-41e2-a1a0-afa72aa8d20a"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/111994\/00b8503541199279559e1786ddd4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "26.87",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111994\/00b8503541199279559e1786ddd4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ZIELKO Odplamiacz granat i imbir 400ml<\/h1> <p><b>OPIS <\/b><\/p><p>Naturalny odplamiacz na bazie kwasku cytrynowego. Skutecznie zwalcza nawet najbardziej uporczywe plamy, nie niszcząc przy tym delikatnych tkanin. <\/p> <p>Tajemnica skuteczności odplamiacza ZIELKO tkwi w kwasie cytrynowym, który skutecznie zwalcza plamy, nie niszcząc przy tym delikatnych tkanin, zarówno naturalnych, jak i syntetycznych. Pomoże szybko i skutecznie pozbyć się nawet najbardziej uporczywych plam, dzięki czemu twoje ubrania dłużej będą wyglądać jak nowe.<\/p> <p>Płyn nadaje się zarówno do ręcznego prania, jak i prania w pralce. Możesz używać odplamiacza bezpośrednio na plamy lub jako dodatek do proszku lub płynu do prania.<\/p> <p>Nie musisz już tolerować nieprzyjemnych zapachów związanych z używaniem odplamiaczy. Nasz produkt ma delikatny aromat imbiru i granatu, który pozostawia przyjemny zapach na tkaninach.<\/p> <p>Specjalnie opracowana formuła odplamiacza sprawia, że produkt jest w pełni biodegradowalny. Co więcej, odplamiacz jest w pełni bezpieczny dla flory bakteryjnej w przydomowych oczyszczalniach ścieków!<\/p> <p>Naturalny żel do usuwania plam z tkanin naturalnych i syntetycznych. Najskuteczniej działa w przypadku świeżych zabrudzeń. Można używać bezpośrednio na plamy oraz jako dodatek do proszku lub płynu do prania. Jako dodatek do środka piorącego: wlać 1 (45 ml) nakrętkę do dozownika w pralce razem ze środkiem piorącym.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Bezpośrednio: użyć żelu (1 nakrętkę - 45 ml) bezpośrednio na plamę i pozostawić na 5-10 minut, następnie wyprać jak zawsze.<\/p><p><b>UWAGA <\/b><\/p><p>Powoduje poważne uszkodzenia oczu. Może powodować reakcję alergiczną skóry. Chronić przed dziećmi. Stosować rękawice ochronne \/ odzież ochronną \/ ochronę oczu \/ ochronę twarzy. W przypadku wystąpienia podrażnień lub wysypki: Zasięgnąć porady \/ Zgłosić się pod opiekę lekarza. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. W przypadku utrzymywania się działania drażniącego na oczy: Zasięgnąć porady \/ zgłosić się pod opiekę lekarza<\/p>  <p><b>PRODUCENT <\/b><\/p><p>Producent<\/p><p>Sylveco Sp. z o.o.<\/p><p>Łąka 260F, 36-004 Łąka<\/p><p>sklep@sylveco.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SYZODPL"
+    },
+    "category": {
+        "id": "260129"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "26.87",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.18",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "155.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2520.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "155.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876275515",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:12:45.355Z"
+    },
+    "createdAt": "2025-09-10T04:12:45.000Z",
+    "updatedAt": "2025-09-10T04:27:46.892Z"
+}

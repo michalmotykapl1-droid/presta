@@ -1,0 +1,351 @@
+{
+    "name": "Syrop z porostu islandzkiego i kwiatu bzu z wit. C 100ml HERBAPOL KRAKÓW",
+    "productSet": [
+        {
+            "product": {
+                "id": "edc2eaa2-ba3b-4055-927a-8f7121d4968d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Herbapol Kraków"
+                        ],
+                        "valuesIds": [
+                            "248811_1960379"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903850014591"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Syrop z porostu islandzkiego"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "syrop"
+                        ],
+                        "valuesIds": [
+                            "210758_244698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "czarny bez"
+                        ],
+                        "valuesIds": [
+                            "210698_244254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez aspartamu",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_1797964",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903850014591"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0e97c98a-5674-43a3-b63f-02e06c7be384"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11b9df\/ddd57af641a4ab1aad1640a9f659"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.09",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11b9df\/ddd57af641a4ab1aad1640a9f659"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Syrop z porostu islandzkiego i kwiatu bzu z wit. C 100ml HERBAPOL KRAKÓW<\/h1> <p><b>OPIS <\/b><\/p><p>Syrop Z POROSTU ISLANDZKIEGO I KWIATU BZU z witaminą C 100ml - Suplement diety<\/p><p>Porost islandzki łagodzi gardło i struny głosowe<\/p><p>Zawartość netto: 100ml<\/p> <p>Porost islandzki korzystnie wpływa na układ oddechowy, przyczynia się do łagodzenia podrażnienia gardła oraz ma kojący wpływ na gardło, krtań i struny głosowe. Bez przyczynia się do łagodzenia objawów przeziębienia, jest pomocny przy kaszlu i chrypce oraz wspomaga naturalną odporność organizmu. Witamina C i porost islandzki pomagają w prawidłowym funkcjonowaniu układu odpornościowego.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Cukier, woda, wyciąg z porostu islandzkiego i kwiatu bzu czarnego - 30%, witamina C - 0,08%, regulator kwasowości - kwas cytrynowy.<\/p> <p>Zawartość poszczególnych składników w przeliczeniu na zalecaną do spożycia dzienną porcję produktu wynosi: <\/p><p>Wyciąg z porostu islandzkiego i kwiatu bzu czarnego - 7,8g<\/p><p>Witamina C - 20mg<\/p> <p>Produkt pasteryzowany.<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Stosować po rozcieńczeniu z niewielką ilością wody lub bez rozcieńczenia. Zaleca się przyjmowanie po 2 łyżeczki (10 ml) 2 razy dziennie.<\/p><p>Nie przekraczać zalecanej do spożycia dziennej porcji produktu.<\/p> <p>Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety.<\/p><p>Zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w zamkniętym opakowaniu, w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21HEWSYRPO"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.09",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.78",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "70.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1135.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "70.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871719333",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:18:00.935Z"
+    },
+    "createdAt": "2025-09-08T20:18:00.000Z",
+    "updatedAt": "2025-09-19T12:51:52.754Z"
+}

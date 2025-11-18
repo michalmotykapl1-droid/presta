@@ -1,0 +1,245 @@
+{
+    "name": "Kubuś Play Oranżada bez dodatku cukru - mango i pomarańcza 250 ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "d589e970-62a6-4022-9a96-2ac35eeecf43",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "242901",
+                        "name": "Pojemność",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Kubuś"
+                        ],
+                        "valuesIds": [
+                            "248811_1961177"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901067408660"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "8e1e4e73-d7bf-4dd5-b419-c34ad5292c99"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11823a\/5737d4894fe49e0706c8d3651c04"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "3.62",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 283,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11823a\/5737d4894fe49e0706c8d3651c04"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Kubuś Play Oranżada bez dodatku cukru - mango i pomarańcza 250 ml<\/h1> <p><b>Kubuś Play Oranżada bez dodatku cukru - mango i pomarańcza 250 ml <\/b><\/p> <p>Kubuś Play Oranżada cytryna i limonka bez dodatku cukru. Zawiera naturalnie występujące cukry.<\/p> <p><b>Składniki: <\/b> <\/p><p>woda, soki z zagęszczonych soków z: białych winogron (25%), jabłek (5%), pomarańczy (3%) oraz mango (3%), dwutlenek węgla, ekstrakt z krokosza barwierskiego, aromaty<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 92 kJ \/ 22 kcal<\/p><p>Tłuszcz 0g<\/p><p>w tym kwasy nasycone 0g<\/p><p>Węglowodany 5,4g<\/p><p>w tym cukry 5,4g<\/p><p>Białko 0g<\/p><p>Sól 0g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu w temperaturze 5 - 22 °C<\/p> <p><b>Producent: <\/b><\/p><p>MWS Sp. z o.o. Sp. k.<\/p><p>Strefowa 13<\/p><p>43-100 Tychy<\/p><p>Polska<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5901067408660"
+    },
+    "category": {
+        "id": "112633"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.62",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.83",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "340.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859158180",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T15:23:05.086Z"
+    },
+    "createdAt": "2025-09-04T15:23:05.000Z",
+    "updatedAt": "2025-09-24T15:07:31.262Z"
+}

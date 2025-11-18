@@ -1,0 +1,353 @@
+{
+    "name": "Wafle waniliowe bez glutenu laktozy i bez dodatku cukru Lea Life 48g",
+    "productSet": [
+        {
+            "product": {
+                "id": "5b451fc5-b493-4310-b493-5b24ed444019",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "FLIS"
+                        ],
+                        "valuesIds": [
+                            "248811_1959488"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "48"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908234813722"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Lea Life"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "27"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "24"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "67"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "2.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "2.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.47"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908234813722"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "73091f3c-1a80-4942-901f-629f03cdaa63"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1128b0\/5fc9849b4775bd751997d39e2607"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "3.08",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 375,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1128b0\/5fc9849b4775bd751997d39e2607"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Wafle waniliowe bez glutenu laktozy i bez dodatku cukru Lea Life 48g<\/h1> <p><b>Wafle waniliowe bez glutenu, laktozy i bez dodatku cukru Lea Life, 95g <\/b><\/p> <p>Wafle waniliowe bez glutenu, laktozy i bez dodatku cukru marki Lea Life to smaczna i zdrowa przekąska, po którą chętnie sięgną wszystkie osoby lubiące słodkości, ale jednocześnie poszukujące zdrowszych alternatyw dla tego rodzaju przysmaków. Produkt wzbudzi w szczególności zainteresowanie tych wszystkich, którzy pragną ograniczyć lub całkowicie wyeliminować ze swojej diety gluten. Będzie też świetnym wyborem dla uczulonych na laktozę. Ponadto zwrócą na niego uwagę ci, którzy ograniczają spożycie cukru - zarówno w swojej diecie, jak i w diecie swoich dzieci.<\/p> <p><b>Składniki:<\/b><\/p><p>skrobia kukurydziana, tłuszcz kokosowy, substancja słodząca: maltitole, mąka ryżowa, <b>mleko <\/b>w proszku odtłuszczone bez laktozy skrobia ziemniaczana, błonnik bambusowy, żółtko <b>jaja <\/b>kurzego w proszku, sól, błonnik z <b>owsa <\/b>bezglutenowego (beta-karoten 0,1%), emulgator: lecytyny (z rzepaku), substancja zagęszczjąca: guma guar, aromaty, substancja spulchanijąca (węglan sodu), zmielona laska wanilii 0,002%.<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 2063 kJ \/ 494 kcal<\/p><p>Tłuszcz 27 g<\/p><p>- w tym kwasy tłuszczowe nasycone 24 g<\/p><p>Węglowodany 67 g<\/p><p>- w tym cukry 2,3 g<\/p><p>- w tym poliole 20 g<\/p><p>Błonnik 1,0 g Białko 2,8 g<\/p><p>Sól 0,47 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Mleko, jaja.<\/p><p>Produkt może zawierać: orzeszki arachidowe, orzechy laskowe, inne orzechy oraz nasiona sezamu, soję.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent:<\/b><\/p><p>Flis<\/p><p>Kuranów 12<\/p><p>96-325 Radziejowice<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5908234813722"
+    },
+    "category": {
+        "id": "261420"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.08",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.71",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "290.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877561577",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T13:54:54.533Z"
+    },
+    "createdAt": "2025-09-10T13:54:54.000Z",
+    "updatedAt": "2025-09-10T14:09:55.475Z"
+}

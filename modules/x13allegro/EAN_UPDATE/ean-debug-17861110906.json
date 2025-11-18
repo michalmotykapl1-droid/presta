@@ -1,0 +1,321 @@
+{
+    "name": "FarmVix Maść z Wrotyczu 150ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "963c5306-75a4-4e74-a414-e44bf7d75af7",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Farm-Vix"
+                        ],
+                        "valuesIds": [
+                            "248811_1959548"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "FV416"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129529",
+                        "name": "Rodzaj",
+                        "values": [
+                            "spray"
+                        ],
+                        "valuesIds": [
+                            "129529_1879851"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "<p><BR> Petrolatum, Tanacetum Vulgare Extract<\/p>"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "spray"
+                        ],
+                        "valuesIds": [
+                            "215766_271254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "1000"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8594015708416"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "73e5bae6-b5e4-4a83-b347-73975c80412c"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa balsamów, maseł i kremów oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Przed pierwszym użyciem wykonaj test na małym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n*   Nie stosuj produktu na uszkodzoną lub podrażnioną skórę.\n*   Unikaj kontaktu z oczami. W przypadku dostania się produktu do oczu, natychmiast przemyj je dużą ilością wody.\n*   Nie połykaj. Produkt przeznaczony jest wyłącznie do użytku zewnętrznego.\n*   Trzymaj produkt poza zasięgiem dzieci.\n*   Przechowuj w chłodnym i suchym miejscu, z dala od bezpośredniego światła słonecznego i wysokich temperatur.\n*   Nie używaj produktu, jeśli jesteś uczulony na którykolwiek ze składników.\n*   Jeśli wystąpi podrażnienie, zaczerwienienie lub swędzenie, zaprzestań stosowania produktu i skonsultuj się z lekarzem.\n*   Upewnij się, że opakowanie jest szczelnie zamknięte po każdym użyciu.\n*   Produkt może powodować śliskość powierzchni, dlatego zachowaj ostrożność podczas aplikacji.\n*   W przypadku stosowania u dzieci, upewnij się, że produkt jest odpowiedni dla ich wieku i skóry.\n*   Nie używaj produktu po upływie daty ważności.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115255\/8d28b2e04ef597033ae90ad716c4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "38.77",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115255\/8d28b2e04ef597033ae90ad716c4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>FarmVix Maść z Wrotyczu 150ml<\/h1> <p><b>OPIS <\/b><\/p><p>MAŚĆ Z WROTYCZU – Maść przeznaczona jest do pielęgnacji skóry suchej i normalnej. Skuteczna w pielęgnacji skóry skłonnej do trądziku i łuszczycy.<\/p> <p><b>SKŁADNIKI (INCI) <\/b><\/p><p>Petrolatum, Tanacetum Vulgare Extract<\/p> <p>Oryginalna receptura Medin Terra Brno<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Maść wcierać 2-3 razy dziennie.<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt do użytku zewnętrznego. Nie stosować na otwarte rany i w okolicach nosa , oczu i ust.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21FAXMASWR2"
+    },
+    "category": {
+        "id": "5351"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.77",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.92",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "223.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3635.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "223.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861110906",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T07:13:24.237Z"
+    },
+    "createdAt": "2025-09-05T07:13:24.000Z",
+    "updatedAt": "2025-09-10T11:49:22.662Z"
+}

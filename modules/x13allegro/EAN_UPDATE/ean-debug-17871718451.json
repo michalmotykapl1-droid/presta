@@ -1,0 +1,250 @@
+{
+    "name": "Para Farm w kroplach 30ml INVENT FARM",
+    "productSet": [
+        {
+            "product": {
+                "id": "fbb1cf3b-8a1d-4045-a5b3-0c0bca6c270c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Invent Farm"
+                        ],
+                        "valuesIds": [
+                            "248811_1960624"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907751403805"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d532b80d-8863-40ff-a4dd-0e68d275a5c6"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/111c56\/da0b3faf44809cc76140c37fd977"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "32.46",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 24,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111c56\/da0b3faf44809cc76140c37fd977"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Para Farm w kroplach 30ml INVENT FARM<\/h1> <p><b>SKŁADNIKI <\/b><\/p><p>Ziele bylicy piołunu, Nasiona dyni zwyczajnej, Ziele tymianku pospolitego, Liść szałwii lekarskiej, Owoc kopru włoskiego, Ziele macierzanki piaskowej, Korzeń prawoślazu lekarskiego, substancja konserwująca: sorbinian potasu, nośnik: glicerol, woda.<\/p>  <p>Zawartość w maksymalnej porcji dziennej 4ml (80 kropli):<\/p><p>Ziele bylicy piołunu (Artemisia absinthium herba) - 86mg<\/p><p>Nasiona dyni zwyczajnej (Cucurbita pepo L. semen) - 86mg<\/p><p>Ziele tymianku pospolitego (Thymus vulgaris herba) - 84mg<\/p><p>Liść szałwii lekarskiej (Salvia officinalis folium) - 64mg<\/p><p>Owoc kopru włoskiego (Foeniculum vulgare fructus) - 36mg<\/p><p>Ziele macierzanki piaskowej (Thymus serpyllum herba) - 36mg<\/p><p>Korzeń prawoślazu lekarskiego (Althaea officinalis radix) - 8mg<\/p><p>substancja konserwująca: sorbinian potasu<\/p> <p>Preparat zawiera 60-65% glicerolu.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Dorośli: 2x dziennie po 40 kropli (2x po 2ml) na 30 minut przed posiłkiem.<\/p> <p>Maksymalna porcja dzienna 4ml (80 kropli) dorośli. Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety.<\/p> <p>Aby zachować dobrą kondycję i zapewnić prawidłowe funkcjonowanie organizmu należy prowadzić zdrowy tryb życia oraz stosować zróżnicowaną dietę.<\/p> <p><b>UWAGA <\/b><\/p><p>Preparat nie jest wskazany dla kobiet w ciąży i matek karmiących. Produkt nie powinien być stosowany przez osoby uczulone na którykolwiek ze składników.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Preparat należy przechowywać w temperaturze pokojowej w miejscu niedostępnym dla małych dzieci oraz chronić przed wilgocią i bezpośrednim działaniem promieni słonecznych.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21INVPAR32"
+    },
+    "category": {
+        "id": "122566"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "32.46",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.47",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "187.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3040.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "187.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871718451",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:17:38.922Z"
+    },
+    "createdAt": "2025-09-08T20:17:38.000Z",
+    "updatedAt": "2025-10-20T01:58:18.834Z"
+}

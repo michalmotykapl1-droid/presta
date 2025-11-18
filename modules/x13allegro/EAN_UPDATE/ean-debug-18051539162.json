@@ -1,0 +1,260 @@
+{
+    "name": "BARTOLINI Makaron orkiszowy 3-smakowy BIO 250g",
+    "productSet": [
+        {
+            "product": {
+                "id": "65404c3c-ce27-4293-a703-e38ae287cf3d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bartolini"
+                        ],
+                        "valuesIds": [
+                            "248811_1131777"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "238789",
+                        "name": "Rodzaj",
+                        "values": [
+                            "świderki"
+                        ],
+                        "valuesIds": [
+                            "238789_415869"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901902009045"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a0f94465-bc10-4533-8abc-095fd84b2ecf"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11d5c4\/e7f9f4f1408291de5c7cdf5c3500"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "7.40",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 44,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d5c4\/e7f9f4f1408291de5c7cdf5c3500"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BARTOLINI Makaron orkiszowy 3-smakowy BIO 250g<\/h1> <p><b>OPIS <\/b><\/p><p>Makaron z nisko-przetworzonej mąki ekologicznej uzyskanej z połączenia sproszkowanych warzyw oraz orkiszu – pradawnej odmiany pszenicy charakteryzującej się lepiej przyswajalnym glutenem. Bogactwo smaku i wartości odżywczych sprawia, że stanowi znakomitą alternatywę dla klasycznych makaronów z pszenicy zwyczajnej. Dodatek buraka i szpinaku nadaje makaronikom fantastyczny kolor, który umili zajadanie się ulubioną sałatką czy zupą, a także zachęci do posiłku najmłodszych niejadków.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Mąka z pszenicy orkisz jasna (typ 500), warzywa w zmiennych proporcjach (szpinak suszony, burak czerwony suszony*) <\/p> <p>*certyfikowany składnik ekologiczny.<\/p> <p>Wartość odżywcza w 100 g:<\/p><p>• Wartość energetyczna - 1472 kj (347 kcal)<\/p><p>• Tłuszcz - 1,2 g w tym kwasy tłuszczowe nasycone - 0,5 g<\/p><p>• Węglowodany - 71 g, w tym cukry - 2,7 g<\/p><p>• Błonnik - 6,5 g<\/p><p>• Białko - 9,9 g<\/p><p>• Sól &lt; 0,01 g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Przed spożyciem gotować 5-6 minut (100 g makaronu na 1 litr osolonej wody). Nie hartować\"<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt może zawierać jaja.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Chronić przed światłem, przechowywać w suchym miejscu, w temperaturze pokojowej.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z11BARMORK3S"
+    },
+    "category": {
+        "id": "111094"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.40",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.70",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "43.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "695.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "43.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051539162",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:51:48.863Z"
+    },
+    "createdAt": "2025-11-03T13:51:48.000Z",
+    "updatedAt": "2025-11-03T14:06:49.724Z"
+}

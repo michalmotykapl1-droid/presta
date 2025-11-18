@@ -1,0 +1,350 @@
+{
+    "name": "PROSZEK DO CZYSZCZENIA PRALEK I ZMYWAREK (KONCENTRAT) ECO 200 g - ALMAWIN",
+    "productSet": [
+        {
+            "product": {
+                "id": "0955fb45-7575-421f-bbb9-f888ea1099a3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "AlmaWin"
+                        ],
+                        "valuesIds": [
+                            "248811_1957096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "77-0190200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Čistící prostředek Almawin Čistič myčky a pračky 200 g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225181",
+                        "name": "Opakowanie",
+                        "values": [
+                            "kartonik"
+                        ],
+                        "valuesIds": [
+                            "225181_310709"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225794",
+                        "name": "Rodzaj",
+                        "values": [
+                            "proszek"
+                        ],
+                        "valuesIds": [
+                            "225794_313594"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Niemcy"
+                        ],
+                        "valuesIds": [
+                            "249649_1723399"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225814",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "225814_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220153",
+                        "name": "Liczba sztuk w zestawie",
+                        "values": [
+                            "2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4019555705601"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9c08eeda-23d2-4b95-a33f-2db7c913392d"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a843\/5de3866f458fa106995a88344cc1"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "21.28",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 87,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a843\/5de3866f458fa106995a88344cc1"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PROSZEK DO CZYSZCZENIA PRALEK I ZMYWAREK (KONCENTRAT) ECO 200 g - ALMAWIN<\/h1><p>SKŁADNIKI<\/p><p>&lt;5% anionowe środki powierzchniowo czynne. Pozostałe składniki: kwas cytrynowy. 100% składników jest pochodzenia naturalnego. <\/p><p>OPIS<\/p><p>Proszek do czyszczenia zmywarki i pralki. Usuwa brud, kamień, osady, tłuszcz, brzydkie zapachy, szczególnie w miejscach trudno dostępnych, takich jak bęben, części wewnętrzne, ramiona natryskowe, rury, pręty grzejne itp. Regularne stosowanie chroni twoją maszynę, a oszczędzanie energii zwiększa jej optymalną wydajność i wydłuża żywotność twojej maszyny. Także dla twojej pralki.<\/p><p>SPOSÓB UŻYCIA<\/p><p>zmywarka: napełnij komorę dozującą, zamknij klapę. Pozostały proszek rozsyp na powierzchni otwartych drzwi zmywarki i rozpocznij program zmywania bez naczyń i bez płynu do mycia naczyń w najwyższej temperaturze (co najmniej 60°C). Po wyczyszczeniu zmywarka jest od razu gotowa do ponownego użycia. <\/p><p>pralka: do komory dozującej wsypać zawartość 1 saszetki. Rozpocząć cykl prania głównego (co najmniej 60°C) bez prania wstępnego, bez detergentu i bez prania. Po wyczyszczeniu pralka jest od razu gotowa do ponownego użycia. <\/p><p>UWAGA<\/p><p>Powoduje poważne podrażnienie oczu. Może podrażniać drogi oddechowe. <\/p><p>Jeżeli konieczna jest porada lekarska, należy przygotować opakowanie lub etykietę identyfikacyjną.<\/p><p>Unikać wdychania pyłu.<\/p><p>W przypadku dostania się do oczu: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Kontynuować płukanie. <\/p><p>W przypadku utrzymywania się działania drażniącego na oczy: Zasięgnąć porady\/zgłosić się pod opiekę lekarza<\/p><p>Oddaj pojemnik do punktu zbiórki surowców wtórnych dopiero wtedy, gdy będzie całkowicie pusty.<\/p><p>Aby chronić środowisko, używaj pralki tylko wtedy, gdy jest pełna, preferuj programy prania i płukania w niskiej temperaturze i postępuj zgodnie z instrukcjami dozowania. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w miejscu niedostępnym dla dzieci.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALMAWIN REINIGUNGSKONZENTRATE GMBH, TALSTR 2, 73644 WINTERBACH<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_11425"
+    },
+    "category": {
+        "id": "260248"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.28",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.89",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "122.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1995.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "122.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877383744",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T12:59:16.116Z"
+    },
+    "createdAt": "2025-09-10T12:59:16.000Z",
+    "updatedAt": "2025-09-10T13:14:17.036Z"
+}

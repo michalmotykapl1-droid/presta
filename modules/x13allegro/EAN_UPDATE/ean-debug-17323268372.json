@@ -1,0 +1,328 @@
+{
+    "name": "MyVita Żelki Probiotic z pektyny cytrusowej 60 sztuk (dzieci i dorośli) (MY",
+    "productSet": [
+        {
+            "product": {
+                "id": "41e8b011-a5cb-4292-9e3f-f05f5215039d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "żelki"
+                        ],
+                        "valuesIds": [
+                            "210758_244714"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "MyVita"
+                        ],
+                        "valuesIds": [
+                            "248811_1962299"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210770",
+                        "name": "Smak",
+                        "values": [
+                            "owoce leśne"
+                        ],
+                        "valuesIds": [
+                            "210770_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903021592637"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Probiotic naturalne żelki dla dzieci 60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "probiotyki"
+                        ],
+                        "valuesIds": [
+                            "210698_244054"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "18834",
+                        "name": "Wiek dziecka",
+                        "values": [
+                            "36 m +"
+                        ],
+                        "valuesIds": [
+                            "18834_1737858"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903021592637"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113c40\/cb70ce8f4defa128a670808a285c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "33.90",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 12,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>MyVita Żelki Probiotic z pektyny cytrusowej 60 sztuk (dzieci i dorośli) (MYVITA) - MYVITA<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>MyVita PROBIOTIC 60sztuk - Naturalne żelki z pektyny cytrusowej - Bifidobacterium lactis + Lactobacillus rhamnosus<\/p>\n<p>• bez żelatyny<\/p>\n<p>• bez sztucznych aromatów i barwników<\/p>\n<p>• bez oleju palmowego<\/p>\n<p>• wegańskie<\/p>\n<p>Żelki zawierają żywe kultury bakterii probiotycznych, które wspierają prawidłowe funkcjonowanie całego organizmu.<\/p>\n<p>Składniki zawarte w żelkach MyVita gwarantują wyborny smak i odpowiednią porcje witamin i innych składników odżywczych wspomagających prawidłowe funkcjonowanie organizmu.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>syrop glukozowy, cukier, woda, substancja żelująca: pektyna, regulatory kwasowości: kwas cytrynowy i cytrynian sodu, naturalny olej kokosowy, substancja glazurująca: wosk carnauba, naturalny aromat jeżynowy, żywe kultury bakterii jelitowych: Bifidobacterium lactis, Lactobacillus rhamnosus, naturalny barwnik roślinny: antocyjany. Produkt bez sztucznych dodatków.<\/p>\n<p>Dzienna porcja (2 żelki) zawiera:<\/p>\n<p>Bifidobacterium lactis 100B 1 mld CFU*<\/p>\n<p>Lactobacillus rhamnosus 100B 1 mld CFU*<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>2 żelki dziennie.<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Nie należy przekraczać zalecanej dziennej porcji do spożycia. Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Nie zaleca się kobietom w ciąży, karmiącym piersią bez konsultacji z lekarzem. Przechowywać w temperaturze pokojowej, w sposób niedostępny dla małych dzieci. Dla utrzymania prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić zdrowy styl życia.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21PRNZELP1"
+    },
+    "category": {
+        "id": "122565"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "33.90",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17323268372",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:24:58.731Z"
+    },
+    "createdAt": "2025-03-10T17:39:14.000Z",
+    "updatedAt": "2025-10-27T14:36:16.518Z"
+}

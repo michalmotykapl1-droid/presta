@@ -1,0 +1,350 @@
+{
+    "name": "OSTROPEST PLAMISTY MIELONY BIO 200 g - BIO PLANET SUPERFOODS BIO PLANET - s",
+    "productSet": [
+        {
+            "product": {
+                "id": "53c38fbf-3fa2-4ecb-9554-18b74db1fa6a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bio planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1957816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "232285",
+                        "name": "Rodzaj",
+                        "values": [
+                            "ostropest"
+                        ],
+                        "valuesIds": [
+                            "232285_366225"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213810",
+                        "name": "Postać",
+                        "values": [
+                            "ziarno"
+                        ],
+                        "valuesIds": [
+                            "213810_905945"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez barwników",
+                            "bez cukru",
+                            "bez GMO",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez konserwantów",
+                            "bez laktozy",
+                            "BIO",
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "213714_16",
+                            "213714_32768",
+                            "213714_1",
+                            "213714_131072",
+                            "213714_2",
+                            "213714_4",
+                            "213714_65536",
+                            "213714_8",
+                            "213714_1770038",
+                            "213714_1024",
+                            "213714_4096",
+                            "213714_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213806",
+                        "name": "Typ",
+                        "values": [
+                            "jednoskładnikowe"
+                        ],
+                        "valuesIds": [
+                            "213806_263782"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "ZD-BP-826682"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Ostropest plamisty mielony"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "ostropest"
+                        ],
+                        "valuesIds": [
+                            "213962_265034"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903900369862"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "adc061f2-049f-4e0c-9739-b8a4054291df"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118f40\/50fe8d8c4d75a576b9da068e176d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.69",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 690,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OSTROPEST PLAMISTY MIELONY BIO 200 g - BIO PLANET SUPERFOODS - BIO PLANET - seria SUPERFOODS<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>﻿SKŁADNIKI<\/p>\n<p>ekologiczne odtłuszczone mielone ziarno ostropestu plamistego (Silybum marianum) 100 %.<\/p>\n<p>OPIS<\/p>\n<p>Ostropest plamisty przyczynia się do ochrony wątroby oraz wspomaga trawienie i oczyszczanie organizmu.<\/p>\n<p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety.<\/p>\n<p>ZALECANE SPOŻYCIE<\/p>\n<p>4 g dziennie tj. 2 miarki dołączone do produktu zalać gorącą, ale nie wrzącą wodą (250 ml) i zaparzać pod przykryciem przez 15 minut. Doskonale sprawdzi się również jako dodatek do koktajli, musli, sałatek. Zalecana do spożycia dzienna porcja zawiera 178,4 mg sylimaryny.<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100  g<\/p>\n<p>Wartość energetyczna 1108 kJ\/270 kcal<\/p>\n<p>Tłuszcz 7,7 g<\/p>\n<p>w tym kwasy tłuszczowe nasycone 1,6 g<\/p>\n<p>Węglowodany 2,0 g<\/p>\n<p>w tym cukry 1,2 g<\/p>\n<p>Błonnik 56 g<\/p>\n<p>Białko 20 g<\/p>\n<p>Sól 0,03 g<\/p>\n<p>Sylimaryna 4460 mg\/100 g<\/p>\n<p>UWAGI<\/p>\n<p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety.<\/p>\n<p>INFORMACJA ALERGENNA<\/p>\n<p>Produkt może zawierać: ZBOŻA ZAWIERAJĄCE GLUTEN, ORZESZKI ZIEMNE, ORZECHY, NASIONA SEZAMU, SOJĘ.<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w temepraturze pokojowej w sposób niedostępny dla małych dzieci.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>BIO PLANET S.A., WILKOWA WIEŚ 7, 05-084 LESZNO<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_21727"
+    },
+    "category": {
+        "id": "258266"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.69",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17682093516",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:24:46.490Z"
+    },
+    "createdAt": "2025-07-02T09:31:27.000Z",
+    "updatedAt": "2025-09-10T17:24:46.491Z"
+}

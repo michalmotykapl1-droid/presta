@@ -1,0 +1,318 @@
+{
+    "name": "Olej rokitnikowy 100ml ALTER MEDICA (ALTER MEDICA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "d4b6c301-fcd9-4aee-a75b-eb9d66b35fe6",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Alter Medica"
+                        ],
+                        "valuesIds": [
+                            "248811_1957131"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8121301"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "olej z rokitnika"
+                        ],
+                        "valuesIds": [
+                            "210698_243998"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "210762_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.212"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Olej rokitnikowy"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907530440038"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110b76\/a8e9228f42329376fc52b7786af7",
+        "https:\/\/a.allegroimg.com\/original\/1134ba\/918bcc954d06844e92c7fa45ec5a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "51.26",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>Olej rokitnikowy 100ml ALTER MEDICA (ALTER MEDICA) - ALTER MEDICA<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Olej rokitnikowy 100 ml suplement diety<\/p>\n<p>Olej rokitnikowy otrzymywany jest z owoców rokitnika rosnącego na czystych ekologicznie terenach Syberii.<\/p>\n<p>Przeciwwskazania: kamica żółciowa, zapalenie trzustki.<\/p>\n<p>Ze względu na zawartość naturalnych składników - kolor, zapach i smak poszczególnych partii mogą się różnić. Nie ma to żadnego wpływu na jakość i działanie produktu.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>100% olej z owoców rokitnika.<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Zalecane spożycie: od 2,5 do 10 ml dziennie przed posiłkiem. Nie należy przekraczać zalecanej do spożycia dziennej porcji.<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Suplementy diety należy przechowywać w sposób niedostępny dla małych dzieci. Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Stosowanie suplementu diety przez kobiety w ciąży, w okresie laktacji oraz przez dzieci należy skonsultować z lekarzem. Zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowywać szczelnie zamknięty, w temperaturze pokojowej, nieprzekraczającej 25°C. Chronić przed wilgocią i bezpośrednim działaniem promieni słonecznych.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SZUALTOR"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "51.26",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "13003560669",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-04-29T21:30:02.705Z"
+    },
+    "createdAt": "2022-12-10T18:08:19.000Z",
+    "updatedAt": "2025-09-28T16:31:05.947Z"
+}

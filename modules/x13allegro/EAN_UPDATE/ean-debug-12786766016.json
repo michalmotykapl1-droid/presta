@@ -1,0 +1,335 @@
+{
+    "name": "CUKIER TRZCINOWY MASCOBADO BEZGLUTENOWY BIO 500 g",
+    "productSet": [
+        {
+            "product": {
+                "id": "341bf881-c4c1-42d0-abce-275776c1bad3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Alternativa"
+                        ],
+                        "valuesIds": [
+                            "248811_1957132"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250322",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Cukier"
+                        ],
+                        "valuesIds": [
+                            "250322_1880713"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "cukier drobny"
+                        ],
+                        "valuesIds": [
+                            "210758_1781920"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8435030563003"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "8435030563003"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237282",
+                        "name": "Rodzaj cukru",
+                        "values": [
+                            "cukier trzcinowy"
+                        ],
+                        "valuesIds": [
+                            "237282_408246"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Fair Trade (Sprawiedliwy Handel)"
+                        ],
+                        "valuesIds": [
+                            "10643_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "barwników",
+                            "GMO",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_4194304",
+                            "130691_32768",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.69"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8435030563003"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11267c\/52f370d9402b9dfbcba7a79dea45",
+        "https:\/\/a.allegroimg.com\/original\/11e973\/aa796c9a49dd8dd5a8f5600100dc"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "20.23",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 488,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>CUKIER TRZCINOWY MASCOBADO BEZGLUTENOWY BIO 500 g - ALTERNATIVA3 (ALTERNATIVA3 ) - ALTERNATIVA3<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>ekologiczny cukier trzcinowy Mascobado. <\/p>\n<p>OPIS<\/p>\n<p>Cukier Muscovado i cukier Mascobado to praktycznie to samo. Różnica w nazwie wynika głównie z transliteracji lub regionalnych różnic w zapisie, ale oba terminy odnoszą się do tego samego rodzaju cukru. <\/p>\n<p>Cukier Muscovado powstaje poprzez krystalizację i suszenie soku trzcinowego, z minimalnym przetwarzaniem. Część melasy pozostaje w kryształkach cukru, nadając mu charakterystyczny smak.<\/p>\n<p>Cukier ma lepką, wilgotną konsystencję. Kryształki są drobne i ciemnobrązowe. Wyraźny, intensywny smak melasy, z nutami lukrecji i toffi.<\/p>\n<p>Stosowany w wypiekach, marynatach, chutneyach i daniach o bogatym smaku. Popularny w kuchniach azjatyckich i brytyjskich.<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 g<\/p>\n<p>Wartość energetyczna: 1573 kJ\/376 kcal <\/p>\n<p>Tłuszcz: 0 g <\/p>\n<p>w tym kwasy nasycone: 0 g <\/p>\n<p>Węglowodany: 93,6 g <\/p>\n<p>w tym cukry: 90,7 g <\/p>\n<p>Błonnik: 0,7 g <\/p>\n<p>Białko: 0,6 g <\/p>\n<p>Sól: 0,02 g<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w suchym i chłodnym miejscu.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>ALTERNATIVA3 S.C.C.L, CR. CTRA. CASTELLAR 526, 8227 TERRASSA (BARCELONA)<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_6023"
+    },
+    "category": {
+        "id": "111089"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "20.23",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "12786766016",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-04-29T19:38:41.738Z"
+    },
+    "createdAt": "2022-10-25T09:47:55.000Z",
+    "updatedAt": "2025-09-11T04:23:21.848Z"
+}

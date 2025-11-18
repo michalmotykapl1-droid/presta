@@ -1,0 +1,340 @@
+{
+    "name": "GORVITA Artrevit 60kaps. (GORVITA) GORVITA",
+    "productSet": [
+        {
+            "product": {
+                "id": "ea3cd4b1-004e-42c2-a0fe-815cde940db4",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Gorvita"
+                        ],
+                        "valuesIds": [
+                            "248811_1960074"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_8192",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców",
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32",
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "glukozamina"
+                        ],
+                        "valuesIds": [
+                            "210698_243714"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907636994800"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Gorvita Artrevit 60 K.stawy"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907636994800"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "249829",
+            "name": "Wyrób medyczny",
+            "values": [
+                "nie"
+            ],
+            "valuesIds": [
+                "249829_1765555"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112d95\/c0cba9f64bfd9d49ed510e9b1c38"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "40.82",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 2,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>GORVITA Artrevit 60kaps. (GORVITA) - GORVITA<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>W trosce o Twoje stawy 6 składników w jednej kapsułce. Glukozamina, Kolagen, Chondroityna, Kwas hialuronowy, Dzika róża, Imbir<\/p>\n<p>ARTREVIT:<\/p>\n<p>• uzupełnia dietę w składniki wspomagające funkcjonowanie narządów ruchu,<\/p>\n<p>• stymuluje fizjologiczne procesy związane z funkcjonowaniem stawów,<\/p>\n<p>• wzmacnia szkielet układu kostnego,<\/p>\n<p>• wspiera funkcjonowanie chrząstki stawowej,substancji poślizgowej ( płynu maziowego) oraz syntezę kolagenu.<\/p>\n<p>Polecany jako suplement uzupełniający dietę we wszystkich  stanach fizjologicznych związanych ze zmianami struktury chrząstki stawowej spowodowanych  starzeniem się organizmu lub znacznym obciążeniem stawów ( sportowcy, osoby z nadwagą).<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>siarczan glukozaminy, kolagen hydrolizowany, sproszkowany owoc dzikiej róży, sproszkowany korzeń imbiru, siarczan chondroityny, kwas hialuronowy<\/p>\n<p>Składniki w 1 kapsułce:<\/p>\n<p>Siarczan glukozaminy - 275 mg<\/p>\n<p>Kolagen hydrolizowany typ II - 50 mg<\/p>\n<p>Sproszkowany owoc dzikiej róży - 50 mg<\/p>\n<p>Sproszkowany korzeń imbiru - 50 mg<\/p>\n<p>Siarczan chondroityny - 20 mg<\/p>\n<p>Kwas hialuronowy - 1 mg<\/p>\n<p>Obszar pochodzenia surowca: Unia Europejska<\/p>\n<p> <\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Przyjmować jedną kapsułkę 2 razy dziennie: rano i wieczór, najlepiej o jednej porze.<\/p>\n<p>Kapsułkę należy połknąć i popić wodą. <\/p>\n<p> <\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplementy diety nie mogą być stosowane jako substytut zróżnicowanej diety. Ważne jest stosowanie zrównoważonego jedzenia i zdrowego trybu życia. Nie stosować w przypadku nadwrażliwości na jakikolwiek składnik preparatu. <\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowywać w suchym miejscu w temperaturze pokojowej (15- 25ºC) w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21GORARTRE"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "40.82",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "14983193739",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:26:05.205Z"
+    },
+    "createdAt": "2024-01-02T18:03:23.000Z",
+    "updatedAt": "2025-09-10T17:26:05.205Z"
+}

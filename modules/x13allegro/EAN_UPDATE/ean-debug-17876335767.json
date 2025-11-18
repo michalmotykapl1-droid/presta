@@ -1,0 +1,345 @@
+{
+    "name": "Olej z uczepu trójlistkowego 100ml NAMI",
+    "productSet": [
+        {
+            "product": {
+                "id": "8d0a6498-76b5-460f-8a08-56af70976fd5",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "NAMI"
+                        ],
+                        "valuesIds": [
+                            "248811_1060704"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "69-51508"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Inny"
+                        ],
+                        "valuesIds": [
+                            "22158_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu"
+                        ],
+                        "valuesIds": [
+                            "129770_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pipetą"
+                        ],
+                        "valuesIds": [
+                            "215766_271246"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247999",
+                        "name": "Typ",
+                        "values": [
+                            "olej"
+                        ],
+                        "valuesIds": [
+                            "247999_840184"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Subtelny ziołowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.118"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906365360061"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0345664c-7406-45dd-8ee9-ef9a42c51801"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117e87\/5bb022d14f0985b6142575d9f927"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "30.42",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 45,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117e87\/5bb022d14f0985b6142575d9f927"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Olej z uczepu trójlistkowego 100ml NAMI<\/h1> <p><b>OPIS <\/b><\/p><p>Naturalny olej do pielęgnacji skóry wrażliwej, skłonnej do alergii. Do twarzy i całego ciała.<\/p><p>Uczep trójlistkowy to roślina o unikatowych właściwościach łagodzących schorzenia skóry. Lekki olej o subtelnym ziołowym zapachu.<\/p> <p>Wskazania: <\/p><p>• łuszczyca<\/p><p>• alergia<\/p><p>• trądzik<\/p><p>• stany zapalne<\/p><p>• podrażnienia<\/p><p>• swędzenie<\/p><p>• egzema<\/p><p>• poparzenia słoneczne<\/p><p>• ukąszenia owadów<\/p> <p>Uczep trójlistkowy jest naturalnym środkiem kosmetycznym do pielęgnacji skóry wrażliwej skłonnej do alergii. W dawnych czasach uczep używano głównie ze względu na niemowlęta i dzieci. W celu łagodzenia podrażnień, odparzeń i uczuleń do kąpieli dodawano wywar z uczepu.<\/p> <p>Surowcem zielarskim są górne części pędów uczepu trójlistkowego. Zawiera flawonoidy, olejek eteryczny, garbniki, składniki mineralne, kwasy organiczne, witaminę C, karoten.<\/p><p>Olejek skutecznie pomaga zniwelować podrażnienia, odparzenia, potówki i ciemieniuchę u niemowląt. Na Wschodzie dodawano ziele uczepu do kąpieli, by skóra dziecka była piękna i zdrowa. Szeroko stosowany w medycynie ludowej jako roślina łagodząca schorzenia skórne.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Codzienna pielęgnacja twarzy i ciała:<\/p><p>Nanieś niewielką ilość oleju i delikatnie wmasuj.<\/p> <p>Pielęgnacja skóry przy swędzeniu i podrażnieniach:<\/p><p>Wacikiem nasączonym olejem 2-3 razy dziennie smaruj swędzące i podrażnione miejsca.<\/p> <p>Pielęgnacja skóry głowy:<\/p><p>Niewielką ilość oleju wmasuj w skórę głowy i wetrzyj we włosy. Zabieg wykonuj 2-3 razy w tygodniu na 20-30 minut przed myciem.<\/p> <p>Demakijaż:<\/p><p>Na wacik zwilżony ciepłą wodą nanieś 2-3 krople oleju i delikatnie oczyść rzęsy, powieki i twarz.<\/p><p>Masaż twarzy i ciała:<\/p><p>Delikatnie wmasuj olej w wybrane partie ciała.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Składniki\/Ingredients: Bidens Tripartita Leaf Extract.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21NAMOLEUC"
+    },
+    "category": {
+        "id": "144742"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "30.42",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "175.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2850.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "175.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876335767",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:10:00.856Z"
+    },
+    "createdAt": "2025-09-10T05:10:00.000Z",
+    "updatedAt": "2025-09-17T12:49:25.767Z"
+}

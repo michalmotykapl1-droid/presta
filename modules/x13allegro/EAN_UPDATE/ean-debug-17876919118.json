@@ -1,0 +1,367 @@
+{
+    "name": "SERUM POD OCZY Z WITAMINĄ C ROZJAŚNIAJĄCE PRZECIWZMARSZCZKOWE 15 ml - UZDRO",
+    "productSet": [
+        {
+            "product": {
+                "id": "f0a73400-52fa-4bd8-9661-b5cff82aadb6",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "UZDROVISCO"
+                        ],
+                        "valuesIds": [
+                            "248811_1983293"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "648941"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Do wszystkich typów skóry"
+                        ],
+                        "valuesIds": [
+                            "129434_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "redukujący cienie pod oczami"
+                        ],
+                        "valuesIds": [
+                            "129469_271378"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129435",
+                        "name": "Rodzaj",
+                        "values": [
+                            "serum"
+                        ],
+                        "valuesIds": [
+                            "129435_1780917"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "składników pochodzenia zwierzęcego"
+                        ],
+                        "valuesIds": [
+                            "129770_64"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "452",
+                        "name": "SPF",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "452_7"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "kartonik"
+                        ],
+                        "valuesIds": [
+                            "215766_275141"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "30+"
+                        ],
+                        "valuesIds": [
+                            "215770_271330"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Świetlik"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904917482308"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e0942088-fe0b-4b5d-9913-f09daff9ac35"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116f53\/53df0abe4c00908a776fc8149e86"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "35.16",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 25,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116f53\/53df0abe4c00908a776fc8149e86"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SERUM POD OCZY Z WITAMINĄ C ROZJAŚNIAJĄCE PRZECIWZMARSZCZKOWE 15 ml - UZDRO<\/h1><p>SKŁADNIKI<\/p><p>AQUA*, GLYCERIN, TRIPELARGONIN, ETHYLHEXYL PELARGONATE, DICAPRYLYL CARBONATE, SQUALANE, ISOSTEARYL ISOSTEARATE, ALBIZIA JULIBRISSIN BARK EXTRACT, EUPHRASIA OFFICINALIS, ASCORBYL METHYLSILANOL PECTINATE, DARUTOSIDE, SODIUM STEAROYL GLUTAMATE, GLYCERYL STEARATE, CETEARYL ALCOHOL, ZEA MAYS STARCH, XANTHAN GUM, HECTORITE, LYSOLECITHIN, SCLEROTIUM GUM, PENTYLENE GLYCOL, PULLULAN, SILICA, TOCOPHEROL, ALLANTOIN, TETRASODIUM GLUTAMATE DIACETATE, LACTIC ACID, LAURYL ALCOHOL DIPHOSPHONIC ACID, LAURIC ACID, DEHYDROACETIC ACID, PHENETHYL ALCOHOL, BENZYL ALCOHOL, SODIUM BENZOATE. *INFUSION OF EUPHRASIA OFFICINALIS<\/p><p>OPIS<\/p><p>DLA KOGO?<\/p><p>Dla delikatnej skóry wokół oczu, szczególnie szarej, zmęczonej, wiotkiej, na której uwidoczniły się cienie i zmarszczki. Cudownie jedwabiste serum z witaminą C pod oczy, natychmiast poprawia uczucie komfortu skóry wokół oczu. Opracowane, aby rozjaśniać cienie pod oczami, ujędrniać skórę i przywracać świeżość i blask spojrzenia. Bo oczy powinny być wyłącznie zwierciadłem duszy, a nie wieku. Naturalnie!<\/p><p>Takie są nasze składniki roślinne. Najwyższej jakości „esencje”, standaryzowane i mianowane na aktywne molekuły. Bo warto patrzeć głębiej, by odkrywać to, co naprawdę działa. <\/p><p>CO DZIAŁA?<\/p><p>INNOWACJA! Wektorowa witamina C 3% – w stabilnej, biodostępnej formie. Wykazuje aktywność antyoksydacyjną, rozjaśnia i stymuluje produkcję kolagenu.<\/p><p>100% napar ze świetlika lekarskiego – baza kosmetyku. Doskonale znany z własności łagodzących i redukujących objawy zmęczenia oraz pielęgnujących wrażliwą skórę wokół oczu.<\/p><p>Eye perfector (ekstrakt z boskiej trawy i drzewa jedwabnego) – standaryzowany, bogaty w darutozyd. Silnie stymuluje produkcję kolagenu i elastyny w skórze, poprawia jędrność i napięcie oraz wpływa na redukcję zmarszczek i cieni pod oczami.<\/p><p>Efekty potwierdzone w badaniach aplikacyjnych po 4 tygodniach stosowania serum:<\/p><p>rozjaśnia cienie pod oczami<\/p><p>sprawia, że skóra wygląda świeżo i promiennie<\/p><p>redukuje oznaki zmęczenia skóry pod oczami, jak szarość i ziemistość<\/p><p>zmniejsza widoczność zmarszczek wokół oczu<\/p><p>przy regularnym stosowaniu ujędrnia skórę<\/p><p>natychmiastowo wygładza i poprawia nawilżenie<\/p><p>SPOSÓB UŻYCIA<\/p><p>Niewielką ilość serum rozprowadź wokół oczu rano i wieczorem po dokładnym oczyszczeniu skóry. Poczekaj, aż produkt się wchłonie. Unikaj rozciągania skóry. Pamiętaj! Jeśli twoja skóra ma skłonność do alergii, koniecznie przetestuj wcześniej produkt np. za płatkiem ucha.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BRANDCLINIC Sp. z o.o. ul. Granicka 10, 05-806 Komorów<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_41270"
+    },
+    "category": {
+        "id": "5359"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.16",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "202.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3295.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "202.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876919118",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:16:21.642Z"
+    },
+    "createdAt": "2025-09-10T10:16:21.000Z",
+    "updatedAt": "2025-09-10T10:31:21.871Z"
+}

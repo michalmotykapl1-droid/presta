@@ -1,0 +1,357 @@
+{
+    "name": "KSYLITOL 250 g - SANTINI (FINLANDIA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "8276ef34-2a76-45b3-9843-c784ddab6381",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Santini"
+                        ],
+                        "valuesIds": [
+                            "248811_1947218"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249689",
+                        "name": "Rodzaj ksylitolu",
+                        "values": [
+                            "Ksylitol fiński"
+                        ],
+                        "valuesIds": [
+                            "249689_1728628"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908234462029"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Ksylitol cukier brzozowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250322",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Ksylitol"
+                        ],
+                        "valuesIds": [
+                            "250322_1880716"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "barwników",
+                            "drożdży",
+                            "glutenu",
+                            "GMO",
+                            "jajek",
+                            "konserwantów",
+                            "laktozy",
+                            "nabiału",
+                            "oleju palmowego",
+                            "orzechów",
+                            "pestek",
+                            "pszenicy",
+                            "soi",
+                            "tłuszczy trans (utwardzanych)"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_4194304",
+                            "130691_524288",
+                            "130691_2",
+                            "130691_32768",
+                            "130691_1048576",
+                            "130691_128",
+                            "130691_1",
+                            "130691_262144",
+                            "130691_8",
+                            "130691_32",
+                            "130691_16384",
+                            "130691_131072",
+                            "130691_16",
+                            "130691_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908234462029"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114b49\/af8ff0464dd1af66488cea687338"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "17.25",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 129,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114b49\/af8ff0464dd1af66488cea687338"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KSYLITOL 250 g - SANTINI (FINLANDIA)<\/h1><p>SKŁADNIKI<\/p><p>100 % ksylitol (substancja słodząca)<\/p><p>OPIS<\/p><p>Ksylitol, nazywany \"cukrem brzozowym\" to słodzik pozyskiwany z drewna drzew liściastych, głównie z brzozy. <\/p><p>Ksylitol jest substancją pochodzenia naturalnego używaną jako zamiennik białego cukru. <\/p><p>Indeks glikemiczny ksylitolu jest bliski 8, co oznacza, że jest przetwarzany w organizmie z minimalnym udziałem insuliny, a wartość energetyczna to jedynie 240 kcal na 100 g, czyli 12 kcal na łyżeczkę (5 g).<\/p><p>Wytwarzanie ksylitolu odbywa się bez udziału drożdży. Ksylitol nie fermentuje i nie ulega karmelizacji.<\/p><p>WARTOŚĆ ODŻYWCZA W 100 g<\/p><p>Warość energetyczna: 1000 kJ\/240 kcal<\/p><p>Tłuszcz: 0 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0 g<\/p><p>Węglowodany: 99,8 g<\/p><p>w tym cukry: 0,2 g<\/p><p>w tym alkohole wielowodorotlenowe: 98,5 g<\/p><p>Białko: 0 g<\/p><p>Sól: 0,01 g<\/p><p>SPOSÓB UŻYCIA<\/p><p>- jako słodzik stołowy, gdzie jedna łyżeczka ksylitolu odpowiada około 1 łyżeczce cukru białego.<\/p><p>- do słodzenia potraw, deserów, napojów<\/p><p>- do wypieków z uwzględnieniem, że ksylitol nie jest pożywką dla drożdży oraz, że jest mocno higroskopijny i nie ulega karmelizacji.<\/p><p>UWAGA<\/p><p>Spożycie w nadmiernych ilościach może mieć efekt przeczyszczający. Nie podawać dzieciom do 3 roku życia<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym miejscu w temperaturze poniżej 25 stopni Celsjusza.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>SANTINI JUSTYNA ZJAWIŃSKA, CHLEBOWA 4\/8, 61-003 POZNAŃ<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_4863"
+    },
+    "category": {
+        "id": "111090"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.25",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.97",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1615.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016560631",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T08:51:34.676Z"
+    },
+    "createdAt": "2025-10-22T08:51:34.000Z",
+    "updatedAt": "2025-10-22T09:06:35.160Z"
+}

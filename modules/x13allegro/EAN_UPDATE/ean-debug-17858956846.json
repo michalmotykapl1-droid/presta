@@ -1,0 +1,286 @@
+{
+    "name": "Kaszka ryżowa z truskawkami i malinami BIO Bonitas, 250g",
+    "productSet": [
+        {
+            "product": {
+                "id": "1e219aeb-239b-4451-912e-2a92734ae64d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129281",
+                        "name": "Wiek podawania",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129281_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129271",
+                        "name": "Gramatura",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129280",
+                        "name": "Rodzaj kaszki",
+                        "values": [
+                            "bez cukru",
+                            "bezmleczna"
+                        ],
+                        "valuesIds": [
+                            "129280_1867556",
+                            "129280_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Bonitas Kaszka ryżowa z truskawkami i malinami BIO 250 g gluten free"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8586018953801"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8586018953801"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cb4f\/44579cec43ebb419be8d6c61a301"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "18.21",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 41,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11cb4f\/44579cec43ebb419be8d6c61a301"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Kaszka ryżowa z truskawkami i malinami BIO Bonitas, 250g<\/h1> <p><b>Kaszka ryżowa z truskawkami i malinami BIO Bonitas, 250g <\/b><\/p>   <p><b>Składniki:<\/b><\/p><p>kaszka ryżowa, lucuma w proszku, płatki jaglane, liofilizowana truskawka w proszku, liofilizowana truskawka, liofilizowana malina w proszku<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>Wartość energetyczna 1491 kJ\/ 351 kcal<\/p><p>Tłuszcz 1,6 g<\/p><p>w tym kwasy tłuszczowe nasycone 0,3 g<\/p><p>Węglowodany 73 g<\/p><p>w tym cukry 5,6 g<\/p><p>Białko 8,4 g<\/p><p>Sól 0,02 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent:<\/b><\/p><p>APEKA, s.r.o.<\/p><p>Sobotske namestie 1748\/46<\/p><p>058 01 Poprad<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_8586018953801"
+    },
+    "category": {
+        "id": "99473"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.21",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.19",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "105.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1705.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "105.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17858956846",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T14:12:43.616Z"
+    },
+    "createdAt": "2025-09-04T14:12:43.000Z",
+    "updatedAt": "2025-09-04T14:55:20.081Z"
+}

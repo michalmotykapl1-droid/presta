@@ -1,0 +1,365 @@
+{
+    "name": "SZAMPON DO WŁOSÓW ZIOŁOWY MANGO 210 ml - SATTVA (AYURVEDA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "cee65c58-370a-47e3-9d57-c601010de15d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "regeneracja i nawilżenie"
+                        ],
+                        "valuesIds": [
+                            "129469_1778815"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "do każdego typu włosów"
+                        ],
+                        "valuesIds": [
+                            "226825_317513"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "210"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "mango"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903794180543"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SATTVA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794180543"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "50b05e79-8340-4d65-b710-bdec465dda52"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11553d\/f8c22cd444d5b4700f755807e2d5"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "51.96",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 68,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11553d\/f8c22cd444d5b4700f755807e2d5"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SZAMPON DO WŁOSÓW ZIOŁOWY MANGO 210 ml - SATTVA (AYURVEDA)<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Decyl Glucoside, Sodium Lauryl Sarcosinate, Sodium Cocoyl Glycinate, Hibiscus Sabdariffa Flower Extract, Manglifera Indica Pulp Extract, Aloe Barbadenis Leaf Juice, Saprindus Trifoliatus Fruit Extract, Eclipta Officianlis Fruit, Azadirachta Indica Seed Oil, Thymus Serpillum Oil, Prunus Amygdalus Dulcis Oil,Mango Fragrence Oil,Tocopheryl Acetate, Phenoxyethanol, Citryus Limon Peel Oil, Rozmarinus Officianlis Leaf Oil, Undecylenoyl Glycine, Sodium Benzoate, Citric Acid, Triethanolamine.<\/p><p>OPIS<\/p><p>Łagodny, naturalnie nawilżający, łatwo spłukujący szampon o zapachu mango. Redukuje elektryzowanie się włosów pozostawiając je miękkie, zdrowe, jedwabiście lśniące i naturalnie piękne. Dzięki zawartemu wyciągowi z mango odżywia oraz nawilża włosy.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Rozprowadzić niewielką ilość szamponu na dłoniach. Nanieść na skórę głowy i włosy. Masować do powstania piany i pozostawić na 5-10 minut. Po tym czasie należy spłukać szampon wodą. W razie potrzeby czynność powtórzyć.<\/p><p>UWAGA<\/p><p>Ze względu na naturalne składniki produktu, kolor oraz zapach mogą z czasem ulec zmianie. Jednakże skuteczność produktu pozostaje bez zmian.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym miejscu.<\/p><p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BOMBAY BAZAAR ASHISH HINDUJA, AL. KRAKOWSKA 61A, 05-090 SĘKOCIN NOWY<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_31993"
+    },
+    "category": {
+        "id": "5363"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "51.96",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.95",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "299.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4870.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "299.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877445221",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T13:17:19.437Z"
+    },
+    "createdAt": "2025-09-10T13:17:19.000Z",
+    "updatedAt": "2025-09-10T13:32:20.240Z"
+}

@@ -1,0 +1,393 @@
+/**
+* 2007-2025 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+* @author PrestaShop SA <contact@prestashop.com>
+* @copyright  2007-2025 PrestaShop SA
+* @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+* International Registered Trademark & Property of PrestaShop SA
+*/
+
+/************* category ***************/
+.tvcategory-slider-content-box {
+    display: flex;
+    overflow: hidden;
+}
+.tvcategory-slider-wrapper-info {
+    /*display: inline-block;*/
+}
+.tvcmscategory-slider {
+    position: relative;
+    margin-bottom: 30px; 
+}
+.owl-item .tvcategory-slider-wrapper-info{
+    min-width: initial;
+}
+.tvcategory-slider-wrapper-info {
+    /*padding: 0 15px;*/
+    /*position: relative;*/
+    min-width: 212px;
+    /* Dodano transition dla płynnego efektu hover */
+    transition: all 0.35s ease-in-out 0s;
+    /* Ustawienie pozycji dla elementu :before (overlay) */
+    position: relative; 
+    z-index: 0;
+}
+
+/* DODANO: Pseudoelement dla efektu nakładki (overlay) */
+.tvcategory-slider-wrapper-info:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0); /* Start: przezroczysty */
+    pointer-events: none; /* Pozwala na klikanie elementu pod overlayem */
+    z-index: 1; 
+    border-radius: 3px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.tvcategory-slider-info-box {
+    /* Upewnienie się, że tekst jest widoczny nad nakładką */
+    position: relative; 
+    z-index: 2; 
+    transition: all 0.35s ease-in-out 0s;
+    -webkit-transition: all 0.35s ease-in-out 0s;
+    -moz-transition: all 0.35s ease-in-out 0s;
+    -ms-transition: all 0.35s ease-in-out 0s;
+    -o-transition: all 0.35s ease-in-out 0s;
+}
+
+.tvcategory-slider-main-title-wrapper {
+    position: relative;
+}
+.tvcategory-slider-inner-info-box {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+@media (max-width: 991px) {
+    .tvcmscategory-slider {
+        margin-bottom: 50px;
+    }
+}
+
+.tvcategory-img-block {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border-radius: 3px;
+    overflow: hidden;
+    transition: all 0.35s ease-in-out 0s;
+    background-color: #fff; 
+}
+.tvcategory-slider-inner-info-box {
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.07);
+    border-radius: 3px;
+    padding: 20px 0; 
+}
+.tvcategory-slider-wrapper-info a {
+    display: block;
+    cursor: pointer;
+}
+.tvcategory-slider-info-box {
+    position: initial;
+    text-align: center;
+    transform: unset;
+    margin-top: 10px;
+}
+.tvcategory-slider-info-box {
+    color: #333333;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    position: relative;
+    padding-bottom: 12px;
+    top: 0;
+    right: 0;
+}
+
+/* START: NOWOCZESNY EFEKT HOVER (Overlay) */
+.tvcategory-slider-wrapper-info:hover {
+    background-color: #ffffff; 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); 
+    transform: translateY(-3px); 
+    z-index: 5; 
+}
+
+/* Aktywacja nakładki (Overlay) */
+.tvcategory-slider-wrapper-info:hover:before {
+    background-color: rgba(0, 0, 0, 0.04); 
+}
+
+.tvcategory-slider-wrapper-info:hover .tvcategory-slider-info-box {
+    color: #d90244; 
+}
+
+.tvcategory-slider-wrapper-info:hover .tvcategory-img-block {
+    box-shadow: none; 
+}
+/* END: NOWOCZESNY EFEKT HOVER (Overlay) */
+
+
+.tvcategory-slider-info-box:after {
+    position: absolute;
+    content: "";
+    background-color: #ffd741;
+    width: 0;
+    height: 2px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    transition: all 0.35s ease-in-out 0s;
+    -webkit-transition: all 0.35s ease-in-out 0s;
+    -moz-transition: all 0.35s ease-in-out 0s;
+    -ms-transition: all 0.35s ease-in-out 0s;
+    -o-transition: all 0.35s ease-in-out 0s;
+}
+.tvcategory-slider-wrapper-info:hover .tvcategory-slider-info-box:after {
+    width: 50px;
+    transition: all 0.35s ease-in-out 0s;
+    -webkit-transition: all 0.35s ease-in-out 0s;
+    -moz-transition: all 0.35s ease-in-out 0s;
+    -ms-transition: all 0.35s ease-in-out 0s;
+    -o-transition: all 0.35s ease-in-out 0s;
+}
+.tvcategory-slider-wrapper-info {
+    padding: 10px; 
+}
+@media (max-width: 991px) {
+    .tvcmscategory-slider {
+        margin-bottom: 30px;
+    }
+    .tvcategory-slider-inner-info-box {}
+}
+@media(max-width: 575px) {
+    .tvcategory-slider-inner-info-box {
+        padding: 0;
+    }
+    .tvcategory-slider-wrapper-info {
+        padding: 0 10px 12px 10px;
+    }
+}
+.tvcategory-img-block img.category-img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.tvcategory-slider-inner-info-box .item {
+  padding: 0 10px;
+}
+
+@media (max-width: 768px) {
+  .tvcategory-slider-info-box {
+    text-align: center;
+    font-size: 0.9rem;
+  }
+}
+.tvcategory-img {
+  max-height: 140px;
+  width: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .tvcategory-img {
+    max-height: 100px;
+  }
+}
+/*
+ * Plik: /themes/twoj_motyw/assets/css/custom.css
+ * Opis: Style dla ikon diet w module Mega Menu.
+*/
+
+/*
+ * Stylizuje link, aby był blokiem typu flex,
+ * co pozwala ułożyć ikonę i tekst jeden pod drugim.
+*/
+.diet-icon-link {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-decoration: none;
+    color: #333;
+    padding: 15px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+/* Zmienia kolor tekstu po najechaniu myszką */
+.diet-icon-link:hover {
+    color: #d90244;
+}
+
+/* Definiuje rozmiar obrazka/ikony i dodaje margines pod nim */
+.diet-icon-link img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain; 
+    margin-bottom: 10px; 
+}
+
+/***********************************************/
+/* ZMIANY DLA TYTUŁU: NOWA STRUKTURA W JEDNEJ LINII (FLEXBOX) */
+/***********************************************/
+
+/* Kontener Flexbox dla elementów w jednej linii */
+.tv-diet-heading-flex {
+    display: flex;
+    align-items: center; /* Wyrównuje w pionie */
+    text-align: left;    /* Wyrównanie do lewej strony */
+}
+
+/* Styl dla akcentu "MASZ DIETĘ ?" z czerwonym tłem */
+.tvcms-diet-heading-accent {
+    background-color: #d90244; /* Czerwone tło */
+    color: #ffffff;           /* Biały tekst */
+    font-size: 18px;          /* ZMIANA: Zwiększony rozmiar czcionki */
+    font-weight: 700;
+    padding: 8px 20px;        /* ZMIANA: Zwiększony padding */
+    margin-right: 25px;       /* ZMIANA: Odstęp od głównego tytułu */
+    margin-bottom: 0;         
+    display: inline-block;    
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    white-space: nowrap;      
+}
+
+/* Styl dla głównego tytułu "PRODUKTY DOPASOWANE DO DIETY" */
+.tvcms-diet-main-title {
+    color: #333333 !important; /* Ciemny kolor, pasujący do ikon */
+    font-weight: 700;          
+    font-size: 30px;           /* ZMIANA: Zwiększony rozmiar czcionki */
+    text-transform: uppercase; 
+    margin: 0;                 /* Usunięcie marginesów, by Flexbox mógł działać */
+    flex-grow: 1;              
+}
+
+/* Upewniamy się, że cały kontener tytułu jest wyrównany do lewej */
+.tvmain-title {
+    text-align: left; 
+}
+
+/* Usuwamy już niepotrzebne/nadpisane style */
+.tvcategory-slider-main-title {
+    color: #333 !important; 
+    font-weight: 700; 
+    font-size: 24px; 
+    text-align: left;
+}
+
+.tvcms-title-accent {
+    color: #333 !important;
+}
+
+
+/***********************************************/
+/* Zmiany dla wyświetlania w statycznej siatce (GRID/FLEXBOX) */
+/***********************************************/
+
+.tvcategory-slider-content-box.tv-grid-layout {
+    overflow: visible; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+    align-items: flex-start; 
+}
+
+/* Styl dla pojedynczego elementu w siatce */
+.tvcategory-slider-wrapper-info.tv-grid-item {
+    min-width: unset;
+    width: 20%; 
+    padding: 10px; 
+    margin-bottom: 20px;
+    box-sizing: border-box; 
+}
+
+/* Dostosowanie dla różnych rozdzielczości (Responsywność) */
+
+/* Desktop Extra Large (1400px+) - 4 kolumny */
+@media (min-width: 1400px) {
+    .tvcategory-slider-wrapper-info.tv-grid-item {
+        width: 25%; 
+    }
+}
+
+/* Desktop Large (1200px - 1399px) - 4 kolumny */
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .tvcategory-slider-wrapper-info.tv-grid-item {
+        width: 25%; 
+    }
+}
+
+/* Desktop Medium (992px - 1199px) - 3 kolumny */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .tvcategory-slider-wrapper-info.tv-grid-item {
+        width: 33.33%; 
+    }
+}
+
+/* Tablet / Desktop Small (768px - 991px) - 3 kolumny */
+@media (min-width: 768px) and (max-width: 991px) {
+    .tvcategory-slider-content-box.tv-grid-layout {
+        justify-content: space-around;
+    }
+    .tvcategory-slider-wrapper-info.tv-grid-item {
+        width: 33.33%; 
+    }
+}
+
+/* Mobile Large (576px - 767px) - 2 kolumny */
+@media (min-width: 576px) and (max-width: 767px) {
+    .tvcategory-slider-wrapper-info.tv-grid-item {
+        width: 50%; 
+    }
+}
+
+/* Mobile Small (poniżej 575px) - 1 kolumna (największa czytelność) */
+@media (max-width: 575px) {
+    /* Cofamy Flexbox na małym ekranie, aby akcent był nad tytułem */
+    .tv-diet-heading-flex {
+        display: block; 
+        text-align: center;
+    }
+    .tvcms-diet-heading-accent {
+        margin: 0 auto 10px auto;
+    }
+
+    .tvcategory-slider-content-box.tv-grid-layout {
+        justify-content: center;
+    }
+    .tvcategory-slider-wrapper-info.tv-grid-item {
+        width: 90%;
+        padding: 15px 5%;
+    }
+    .tvcategory-img-block { 
+        height: 120px; 
+        width: 120px;
+    }
+    .tvcategory-slider-info-box { 
+        font-size: 18px;
+    }
+}

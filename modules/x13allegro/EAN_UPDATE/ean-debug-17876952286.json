@@ -1,0 +1,382 @@
+{
+    "name": "KREM DO TWARZY PRO-AGE NA DZIEŃ 50 ml - SATTVA (AYURVEDA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "015665c1-0e22-4fbd-b2ee-d1af5491baa5",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva Ayurveda"
+                        ],
+                        "valuesIds": [
+                            "248811_1963910"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903794189157"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "pro-age"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "na dzień"
+                        ],
+                        "valuesIds": [
+                            "215870_271962"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Do wszystkich typów skóry"
+                        ],
+                        "valuesIds": [
+                            "129434_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "wielozadaniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_11"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "parabenów",
+                            "silikonów",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_128",
+                            "129770_32",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "uniwersalny"
+                        ],
+                        "valuesIds": [
+                            "215770_271366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794189157"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "50b05e79-8340-4d65-b710-bdec465dda52"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112e72\/591319424f44bcae034ddf426201"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "46.61",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 25,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112e72\/591319424f44bcae034ddf426201"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KREM DO TWARZY PRO-AGE NA DZIEŃ 50 ml - SATTVA (AYURVEDA)<\/h1><p>SKŁADNIKI <\/p><p>AQUA, PROPANEDIOL, NIACINAMIDE, GLYCERYL MONO STEARATE SE, PSORALEA CORYLIFOLIA (BABCHI\/BAKUCHI) OIL, SESAMUM INDICUM SEED OIL, CROCUS SATIVUS FLOWER EXTRACT, CURCUMA LONGA ROOT EXTRACT, SACCHARIDE ISOMERATE, GLYCINE SOYA SEED EXTRACT, CAFFEINE, CROCUS SATIVUS FLOWER FILAMENT POWDER, MADHUA LONGIFOLIA FLOWER POWDER, VETIVERIA ZIZANIOIDES ROOT POWDER, NELUMBO NUCIFERA FLOWER POWDER, SODIUM BENZOATE, SODIUM GLUCONATE, PARFUM. <\/p><p>OPIS <\/p><p>Pro - age krem do twarzy na dzień.<\/p><p>Z olejkiem kumkumadi, bakuchiolem, ekstraktem z nasion soi.<\/p><p>Olej Kumkumadi to ajurwedyjski eliksir młodości. Bakuchiol i ekstrakt z nasion SOI wspomagają naturalną witalność i blask skóry. <\/p><p>Używaj tego kremu, aby poprawić elastyczność skóry, zredukować zmarszczki, wyrównać koloryt oraz odżywić. Do wszystkich typów skóry i dla osób w każdym wieku.<\/p><p>Poznaj kluczowe składniki kremu Pro-age na dzień:<\/p><p>1. Bakuchiol: Pozyskiwany z rośliny Babchi, Bakuchiol to bardzo efektywny roślinny składnik przeciwstarzeniowy. Wspomaga elastyczność i jędrność skóry, redukując widoczność drobnych linii zmarszczek. Bakuchiol działa delikatnie, ale skutecznie.<\/p><p>2. Ekstrakt z Nasion Soi: Bogaty w składniki odżywcze i przeciwutleniacze, ekstrakt z nasion SOI pomaga w odżywianiu i odświeżaniu skóry. Wyrównuje ton cery i sprawia, że wygląda ona młodziej.<\/p><p>3. Ajurwedyjski Olejek Kumkumadi: to tradycyjna mieszanka silnych ziół i olejów, w tym szafranu, kurkumy i drzewa sandałowego, jest ceniona za właściwości regeneracyjne, redukcję niedoskonałości skóry i promowania naturalnego blasku.<\/p><p>Jakie korzyści przynosi regularne stosowanie kremu Pro-age na dzień?<\/p><p>1. Poprawa elastyczności: bakuchiol pomaga zwiększyć elastyczność skóry, widocznie poprawiając jędrność i sprężystość skóry.<\/p><p>2. Redukcja drobnych linii zmarszczek: dodaje pewności siebie i wydobywa naturalne piękno niezależnie od wieku.<\/p><p>3. Wyrównanie tonu skóry: ekstrakt z SOI przyczynia się do uzyskania bardziej równomiernego i promiennego kolorytu skóry, redukując widoczność niedoskonałości związanych z wiekiem.<\/p><p>4. Odżywienie skóry: krem jest wypełniony niezbędnymi składnikami odżywczymi i przeciwutleniaczami, które odżywiają i regenerują Twoją skórę, wspierając jej zdrowie i witalność.<\/p><p>5. Delikatne działanie: formuła kremu na dzień pro-age została zaprojektowana tak, aby była łagodna, ale skuteczna. Działa odpowiednio dla wszystkich rodzajów skóry i niezależnie od wieku. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Niewielką ilość kremu nanieś na oczyszczoną skórę twarzy i szyi, omijając okolice oczu. Delikatnie wmasuj lub wklep w skórę. <\/p><p>Do użytku zewnętrznego<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowuj w temperaturze pokojowej w suchym i zacienionym miejscu. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Bombay Bazaar Ashish Hinduja, Al.. Krakowska 61a, 05-090 Sękocin Nowy<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_41137"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.61",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.72",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "268.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4365.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "268.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876952286",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:31:22.286Z"
+    },
+    "createdAt": "2025-09-10T10:31:22.000Z",
+    "updatedAt": "2025-09-10T10:46:23.119Z"
+}

@@ -1,0 +1,373 @@
+{
+    "name": "YOPE Mydło w płynie Figa 500ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "bb155ac3-5919-4101-8fee-ca9762b12dbe",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "YOPE"
+                        ],
+                        "valuesIds": [
+                            "248811_1144139"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.55"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129531",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "do rąk"
+                        ],
+                        "valuesIds": [
+                            "129531_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129530",
+                        "name": "Rodzaj",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "129530_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "barwników",
+                            "parabenów",
+                            "silikonów",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_65536",
+                            "129770_128",
+                            "129770_32",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "0.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Figa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903111747015"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903111747015"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "de2126b0-e451-4aaf-bda9-c8af8a362fc9"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/119c5e\/29a74fe043a1ac1132d388623868"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "21.48",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 11,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/119c5e\/29a74fe043a1ac1132d388623868"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>YOPE Mydło w płynie Figa 500ml<\/h1> <p><b>OPIS <\/b><\/p><p>Delikatne dla skóry, nawilżające mydło figowe w płynie.<\/p> <p>Charakter zapachu: owocowy, śródziemnomorski, słodko-świeży.<\/p> <p>Co pielęgnuje dłonie? Do mydła dodaliśmy naturalny ekstrakt z owoców figowca, który pomaga komórkom skóry walczyć z wolnymi rodnikami, regeneruje ja i nawilża dzięki zawartości witamin B i C oraz cennych dla naskórka mikroelementów. Kosmetyk zawiera też dużą dawkę gliceryny roślinnej, która nawilża, uelastycznia i wygładza skórę. W składzie są także witamina B5 i alantoina łagodzące podrażnienia i wspomagające regenerację naskórka.<\/p> <p>Czego nie ma? Figowe mydło w płynie nie zawiera parabenów, silikonów, barwników, SLES-u i SLS-u.<\/p> <p><b>SKŁADNIKI<\/b><\/p><p>Aqua, Cocamidopropyl Betaine, Lauryl Glucoside, Glyceryl Laurate, Glycerin, Ficus Carica Fruit Extract, Sodium Sunflowerseedamphoacetate, Parfum, Panthenol, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate<\/p> <p>98% składników pochodzenia naturalnego oraz o niskim stopniu przetworzenia.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71YOPMYDFI"
+    },
+    "category": {
+        "id": "93055"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.48",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.94",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "124.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2015.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "124.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915496536",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T17:13:28.486Z"
+    },
+    "createdAt": "2025-09-22T17:13:28.000Z",
+    "updatedAt": "2025-09-22T17:28:29.547Z"
+}

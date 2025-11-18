@@ -1,0 +1,341 @@
+{
+    "name": "BIAŁKO SERWATKOWE O SMAKU WANILIOWYM (KONCENTRAT WPC 85) BIO 500 g - DIET-F",
+    "productSet": [
+        {
+            "product": {
+                "id": "df7e826c-6b74-480d-878e-52e63afc2ddf",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250569",
+                        "name": "Nazwa",
+                        "values": [
+                            "Bio Białko Serwatkowe z Wanilią 500 g"
+                        ],
+                        "valuesIds": [
+                            "250569_1931586"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Diet Food"
+                        ],
+                        "valuesIds": [
+                            "248811_1958956"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "Polska"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224161",
+                        "name": "Rodzaj",
+                        "values": [
+                            "koncentrat białka serwatkowego (WPC)"
+                        ],
+                        "valuesIds": [
+                            "224161_307129"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "waniliowy"
+                        ],
+                        "valuesIds": [
+                            "129857_37"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "9372",
+                        "name": "Forma",
+                        "values": [
+                            "proszek"
+                        ],
+                        "valuesIds": [
+                            "9372_10"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "9373",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "40"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903933643588"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "5b665e40-f384-4363-b508-f34475b106df"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "127308",
+            "name": "Data ważności",
+            "values": [
+                "brak informacji"
+            ],
+            "valuesIds": [
+                "127308_382861"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114064\/add63427413d98130ce89e7b5a14"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "121.09",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 31,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114064\/add63427413d98130ce89e7b5a14"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIAŁKO SERWATKOWE O SMAKU WANILIOWYM (KONCENTRAT WPC 85) BIO 500 g - DIET-F<\/h1><p>SKŁADNIKI<\/p><p>koncentrat białka serwatkowego* (z MLEKA) 85 %, substancja słodząca: erytrytol*, aromat waniliowy* 5 %. (*certyfikowany składnik ekologiczny)<\/p><p>OPIS<\/p><p>Produkt ten to bogate źródło białka - podstawowego budulca mięśni. Pomaga w utrzymaniu zdrowych kości. Zawiera cenne dla zdrowia aminokwasy. Jest to idealny sposób na przekąskę w ciągu dnia lub po wysiłku fizycznym, bez zbędnych węglowodanów, cukru i nadmiernego tłuszczu. Polecany osobom, które intensywnie trenują, są aktywne, chcą mieć szczupłe i wysportowane ciało. Do ekologicznego białka serwatkowego dodaliśmy ekologiczny aromat wanilii, by podkreślić smak i aromat produktu. Słodkiego smaku dodaje ekologiczny erytrytol. MLEKO uzyskiwane do produkcji serwatki pochodzi od krów wolno wypasanych na ekologicznych łąkach.<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Wymieszaj 2 łyżki (40 g) produktu z 250 ml wody, MLEKA lub soku w shakerze lub zblenduj by uzyskać proteinowy koktajl. Można dodać owoce by uzyskać smoothie.<\/p><p>Spożywaj 1 - 3 razy dziennie. <\/p><p>WARTOŚĆ ODŻYWCZA w 100 g <\/p><p>Wartość energetyczna: 1403 kJ \/ 331 kcal<\/p><p>Tłuszcz: 4,3 g<\/p><p>w tym kwasy tłuszczowe nasycone: 2,8 g<\/p><p>Węglowodany: 18 g<\/p><p>w tym cukry: 7,6 g<\/p><p>Białko: 65 g<\/p><p>Sól: 0,01 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Produkt może zawierać zboża zawierające GLUTEN, orzechy.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu. Po użyciu szczelnie zamknij opakowanie. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>MIPAMA E.Z. SZAFARZ SPÓŁKA JAWNA, ROGATKA 7A, 62-860 OPATÓWEK<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44417"
+    },
+    "category": {
+        "id": "19662"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "121.09",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "27.85",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "696.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11345.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "696.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876865757",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:53:29.045Z"
+    },
+    "createdAt": "2025-09-10T09:53:29.000Z",
+    "updatedAt": "2025-10-24T12:46:27.298Z"
+}

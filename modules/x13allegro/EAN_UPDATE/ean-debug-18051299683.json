@@ -1,0 +1,386 @@
+{
+    "name": "DMSO - Dimetylosulfotlenek 500ml STANLAB",
+    "productSet": [
+        {
+            "product": {
+                "id": "eee1049c-10ec-4a8d-967a-a2f2535be7d0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248914",
+                        "name": "Producent",
+                        "values": [
+                            "Stanlab"
+                        ],
+                        "valuesIds": [
+                            "248914_1971366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Dmso"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224829",
+                        "name": "Nazwa odczynnika",
+                        "values": [
+                            "dmso"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224813",
+                        "name": "Rodzaj",
+                        "values": [
+                            "rozpuszczalnik"
+                        ],
+                        "valuesIds": [
+                            "224813_309613"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224817",
+                        "name": "Gatunek",
+                        "values": [
+                            "czysty do analizy"
+                        ],
+                        "valuesIds": [
+                            "224817_309645"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224821",
+                        "name": "Czystość",
+                        "values": [
+                            "99.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224825",
+                        "name": "Wzór sumaryczny",
+                        "values": [
+                            "C2H6OS"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224833",
+                        "name": "Numer CAS",
+                        "values": [
+                            "C"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224837",
+                        "name": "Numer WE",
+                        "values": [
+                            "200-664-3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902815401896"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "217541",
+                        "name": "Stężenie",
+                        "values": [
+                            "99"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.832"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902815401896"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "74b4379c-eb69-482e-8dcd-77f246d1f373"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "249829",
+            "name": "Wyrób medyczny",
+            "values": [
+                "nie"
+            ],
+            "valuesIds": [
+                "249829_1765555"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112505\/e449b5064cde876895af47280189"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "77.11",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 58,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112505\/e449b5064cde876895af47280189"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>DMSO - Dimetylosulfotlenek 500ml STANLAB<\/h1> <p><b>PARAMETRY<\/b><\/p><p>Nazwa substancji : DIMETYLOSULFOTLENEK (DMSO) <\/p><p>Gatunek: czysty do analizy<\/p><p>Wzór chemiczny : C2H6OS <\/p><p>Numer CAS : 67-68-5 <\/p><p>Numer WE : 200-664-3 <\/p><p>Synonimy : DMSO<\/p><p>Postać: ciecz <\/p><p>Barwa: bezbarwna <\/p><p>Zapach: siarkowy <\/p><p>Wartość pH: nie dotyczy <\/p><p>Temperatura topnienia: 18,5°C <\/p><p>Temperatura wrzenia: 189°C <\/p><p>Temperatura zapłonu: 87°C (zamknięty tygiel) <\/p><p>Palność: produkt palny (w stanie gorącym) <\/p><p>Granice wybuchowości: dolna - 2,6%(V); górna - 28,5% (V) <\/p><p>Prężność par: 0,556 hPa w 20°C; 4 hPa w 50°C; 20 hPa w 80°C; 49 hPa w 100°C <\/p><p>Gęstość par: 3,48 kg\/ m3 <\/p><p>Względna gęstość par: 2,7 (powietrze = 1) <\/p><p>Gęstość (20°C): 1104 kg\/m3 <\/p><p>Gęstość względna (20°C): 1,104 (woda = 1) <\/p><p>Rozpuszczalność w wodzie: całkowicie rozpuszczalny w 20°C; &gt;1000 g\/l w rozpuszczalnikach organicznych: rozpuszczalny w eterze etylowym, alkoholach, węglowodorach aromatycznych <\/p><p>Współczynnik podziału (n-oktanol\/woda): logKow: -1,35 <\/p><p>Temperatura samozapłonu: 300 -302°C <\/p><p>Rozkład termiczny: powyżej 190°C <\/p><p>Lepkość dynamiczna (20°C): 2,14 mPa*s <\/p><p>Właściwości wybuchowe: nie dotyczy <\/p><p>Właściwości utleniające: nie dotyczy <\/p><p>Napięcie powierzchniowe (20°C): 43,5 mN\/m pKa: 35,1 <\/p><p>Stała Henry’ego: 868E-06 Pa*m3 (Substancja nie jest lotna) <\/p><p>Współczynnik refrakcji bezwzględny (20°C): 1,4785 <\/p><p><b>UWAGA<\/b><\/p><p>Poniżej temperatury 18,5°C produkt krystalizuje, co nie zmienia jego właściwości.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_11STADMS50"
+    },
+    "category": {
+        "id": "260070"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "77.11",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.74",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "443.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7225.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "443.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051299683",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T12:21:53.776Z"
+    },
+    "createdAt": "2025-11-03T12:21:53.000Z",
+    "updatedAt": "2025-11-03T12:36:54.821Z"
+}

@@ -1,0 +1,345 @@
+{
+    "name": "PŁYN DO PRANIA SPORTOWYCH UBRAŃ (KONCENTRAT) ECO 750 ml (16 PRAŃ) - ALMAWIN",
+    "productSet": [
+        {
+            "product": {
+                "id": "108b2463-9eb9-4726-bf0b-8172efd30eac",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "AlmaWin"
+                        ],
+                        "valuesIds": [
+                            "248811_1957096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225145",
+                        "name": "Rodzaj prania",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225145_310629"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225133_310601"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250454",
+                        "name": "Postać",
+                        "values": [
+                            "żel"
+                        ],
+                        "valuesIds": [
+                            "250454_1921940"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "77-8007750"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250570",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "AlmaWin"
+                        ],
+                        "valuesIds": [
+                            "250570_1989979"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.86"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Niemcy"
+                        ],
+                        "valuesIds": [
+                            "249649_1723399"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225129",
+                        "name": "Liczba prań",
+                        "values": [
+                            "16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225153",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bio"
+                        ],
+                        "valuesIds": [
+                            "225153_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4019555705014"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9c08eeda-23d2-4b95-a33f-2db7c913392d"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11abe2\/3029785244a1a60bfc711e7b0618"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "43.16",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 95,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11abe2\/3029785244a1a60bfc711e7b0618"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁYN DO PRANIA SPORTOWYCH UBRAŃ (KONCENTRAT) ECO 750 ml (16 PRAŃ) - ALMAWIN<\/h1><p>SKŁADNIKI<\/p><p>⩾5 % &lt;15 % niejonowe środki powierzchniowo czynne, anionowe czynne. zawiera: substancje zapachowe (olejek lawendowy), linalol. inne składniki: woda, etanol, sole sodowe kwasu bursztynowego oraz poliasparaginowego, kwas cytrynowy, rycynooleinian cynku, mlekowy. 96 składników jest pochodzenia naturalnego. <\/p><p>OPIS<\/p><p>Do ubrań sportowych i funkcjonalnej odzieży, mikrofibry, bawełny, tkanin mieszanych. Skutecznie usuwa nieprzyjemne zapachy. Nie łączyć z innymi detergentami. <\/p><p>Nie stosować do wełny i jedwabiu. <\/p><p>1 opakowanie 750 ml pozwala na 16 prań.<\/p><p>Prać w temperaturze 20°C - 30°C - 40°C. <\/p><p>SPOSÓB UŻYCIA<\/p><p>1 miarka = 30 ml<\/p><p>Pranie ręczne: 15 ml na 5 L wody.<\/p><p>Pranie w pralce (4-5 kg):<\/p><p>twardość wody: <\/p><p>-woda miękka: lekkie zabrudzenie: 40 ml, średnie zabrudzenie: 50 ml; silne zabrudzenie: 60 ml<\/p><p>-średnia twardość wody: lekkie zabrudzenie: 45 ml; średnie zabrudzenie: 55 ml; silne zabrudzenie: 65 ml<\/p><p>-woda twarda: lekkie zabrudzenie: 60 ml, średnie zabrudzenie: 70 ml; silne zabrudzenie: 80 ml.<\/p><p>Pranie w pralce (2-3 kg): - 15 ml płynu<\/p><p>Pranie w pralce (6-8 kg): + 45 ml płynu.<\/p><p>UWAGA<\/p><p>Wskazówki dotyczące ochrony środowiska: używaj pralki tylko wtedy, gdy jest pełna, wybieraj cykle prania w niskich temperaturach i przestrzegaj instrukcji dozowania. <\/p><p>Działa drażniąco na skórę. Powoduje poważne uszkodzenie oczu. W razie konieczności zasięgnięcia porady lekarza należy pokazać pojemnik lub etykietę. Chronić oczy. W przypadku dostania się do oczu: ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. W przypadku złego samopoczucia skontaktować się z Ośrodkiem zatruć\/lekarzem. Zawiera linalol. Może powodować reakcje alergiczne.<\/p><p>Zawiera alkilopoliglukozyd. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w miejscu niedostępnym dla dzieci.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALMAWIN REINIGUNGSKONZENTRATE GMBH, TALSTR 2, 73644 WINTERBACH<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_3690"
+    },
+    "category": {
+        "id": "260128"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "43.16",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.93",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "248.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4045.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "248.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876961020",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:34:27.879Z"
+    },
+    "createdAt": "2025-09-10T10:34:27.000Z",
+    "updatedAt": "2025-09-10T10:49:29.005Z"
+}

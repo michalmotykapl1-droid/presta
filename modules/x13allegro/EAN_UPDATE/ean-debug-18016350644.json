@@ -1,0 +1,356 @@
+{
+    "name": "NATUR BLANC Pasta do zębów FRESH EUCALYPTUS do wrażliwych zębów 100ml SYLVE",
+    "productSet": [
+        {
+            "product": {
+                "id": "96e0901b-7418-46cc-8c94-e006c405e420",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sylveco"
+                        ],
+                        "valuesIds": [
+                            "248811_1138019"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902249019988"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225385",
+                        "name": "Smak",
+                        "values": [
+                            "Eukaliptusowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207166",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "na stojącej tubie",
+                            "produkt wegański",
+                            "z chlorheksydyną"
+                        ],
+                        "valuesIds": [
+                            "207166_2",
+                            "207166_4096",
+                            "207166_524288"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "SYLVECO"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207158",
+                        "name": "Działanie",
+                        "values": [
+                            "nadwrażliwość"
+                        ],
+                        "valuesIds": [
+                            "207158_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208806",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla dorosłych"
+                        ],
+                        "valuesIds": [
+                            "208806_236886"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902249019988"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "7bd81174-0fa4-4494-b940-36d762d349e0"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f448\/ee65e7f946f0b00caae17fae2d4c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "17.27",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f448\/ee65e7f946f0b00caae17fae2d4c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>NATUR BLANC Pasta do zębów FRESH EUCALYPTUS do wrażliwych zębów 100ml SYLVE<\/h1> <p><b>OPIS <\/b><\/p><p>SYLVECO Natur Blanc FRESH EUCALYPTUS to połączenie skutecznej pielęgnacji i naturalnych składników, które zapewnią Ci zdrowy, świeży oddech i komfort każdego dnia.<\/p><p>• Łagodzi nadwrażliwość – dzięki starannie dobranym składnikom, pasta pomaga zmniejszyć uczucie dyskomfortu podczas spożywania zimnych lub gorących napojów. Zawarta w paście chlorheksydyna zapobiega podrażnieniom i chroni przed mikrouszkodzeniami w jamie ustnej. <\/p><p>• Wspiera zdrowie dziąseł – Ekstrakt z aloesu łagodzi podrażnienia, koi dziąsła i wspiera ich regenerację. <\/p><p>• Zapewnia długotrwałą świeżość – olejek eukaliptusowy odświeża oddech i wspomaga ochronę dziąseł, zapewniając naturalne uczucie czystości. <\/p> <p><b>SKŁADNIKI (INCI) <\/b><\/p><p>Aqua, Glycerin, Xylitol, Hydrated Silica, Sodium Coco-Sulfate, Polysorbate 20, Silica, Cellulose Gum, Menthol, Sodium Benzoate, Chlorhexidine Digluconate, Eucalyptus Globulus Leaf Oil, Sodium Saccharin, Allantoin, Sodium Fluoride, Chamomilla Recutita Flower Oil, Aloe Barbadensis Leaf Juice Powder, Chamomila Recutita Flower Extract, Potassium Sorbate, Limonene. <\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Niewielką ilością pasty szczotkować zęby przez 2-3 minuty minimum dwa razy dziennie, a najlepiej po każdym posiłku. <\/p> <p><b>UWAGA <\/b><\/p><p>Dzieci poniżej 6 roku życia powinny myć zęby pod opieką osoby dorosłej, nakładając pastę w ilości ziarenka groszku. Przeciwwskazania: Uczulenie na którykolwiek ze składników produktu. <\/p> <p><b>PRODUCENT <\/b><\/p><p>Sylveco Sp. z o.o.<\/p><p>Łąka 260F, 36-004 Łąka<\/p><p>sklep@sylveco.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SYNPASFR"
+    },
+    "category": {
+        "id": "257765"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.27",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.97",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1620.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016350644",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:39:53.114Z"
+    },
+    "createdAt": "2025-10-22T07:39:53.000Z",
+    "updatedAt": "2025-10-24T12:50:10.372Z"
+}

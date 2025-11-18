@@ -1,0 +1,353 @@
+{
+    "name": "NOW FOODS Witamina A 25000IU, 100sgels. (NOW FOODS",
+    "productSet": [
+        {
+            "product": {
+                "id": "3c124adb-40ec-478b-ac5c-cb8659ea7121",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Now foods"
+                        ],
+                        "valuesIds": [
+                            "248811_1946506"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina A"
+                        ],
+                        "valuesIds": [
+                            "210698_244162"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez aspartamu",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez laktozy"
+                        ],
+                        "valuesIds": [
+                            "210762_1797964",
+                            "210762_8",
+                            "210762_4",
+                            "210762_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "733739003409"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "80"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Vitamin A"
+                        ],
+                        "valuesIds": [
+                            "250581_1934087"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "733739003409"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "127308",
+            "name": "Data ważności",
+            "values": [
+                "brak informacji"
+            ],
+            "valuesIds": [
+                "127308_382861"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cc1a\/2759acab4f1f84a31510dd966bba",
+        "https:\/\/a.allegroimg.com\/original\/119d42\/7b5117c447598b9e8d99a5af5906"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.97",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 38,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>NOW FOODS Witamina A 25000IU, 100sgels. (NOW FOODS) - NOW FOODS<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Witamina A jest niezbędna do utrzymania zdrowej tkanki nabłonkowej, która znajduje się w oczach, skórze, układzie oddechowym, przewodzie pokarmowym i drogach moczowych.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>Zawartość w 1 kapsułce: <\/p>\n<p>Witamina A (z oleju z wątroby ryb) - 25 000 jm<\/p>\n<p>Pozostałe składniki: Kapsułki Softgel (żelatyna, gliceryna, woda) i olej sojowy.<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Dorośli: 1 kapsułka dziennie. Nie należy przekraczać porcji zalecanej do spożycia w ciągu dnia. Suplementy diety nie mogą być stosowane jako substytut zróżnicowanej diety oraz nie zastąpią zdrowego trybu życia.<\/p>\n<p><b>OSTRZEŻENIE<\/b><\/p>\n<p>Produkt przeznaczony dla dorosłych. nie stosować u kobiet w okresie ciąży i karmienia piersią.  <\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowywać w temperaturze pokojowej, w suchym miejscu, w szelnie zamkniętym oryginalnym opakowaniu, w sposób niedostępny dla małych dzieci. <\/p>\n<p>PKWiU10.89.19.0<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21PROWITA2"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.97",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "13003922386",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-04-29T21:43:57.467Z"
+    },
+    "createdAt": "2022-12-10T19:07:41.000Z",
+    "updatedAt": "2025-10-24T12:41:37.126Z"
+}

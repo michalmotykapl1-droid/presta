@@ -1,0 +1,368 @@
+{
+    "name": "Masło Shea nierafinowane 100ml NATUR PLANET",
+    "productSet": [
+        {
+            "product": {
+                "id": "a193b232-400e-450b-887b-cc6c7e138e5e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Natur Planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1962394"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903111743109"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.126"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "masło shea"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129529",
+                        "name": "Rodzaj",
+                        "values": [
+                            "masło"
+                        ],
+                        "valuesIds": [
+                            "129529_7"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "masło shea"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244721",
+                        "name": "Zapach",
+                        "values": [
+                            "ORZECHOWY"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903111743109"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "3388afb1-40f8-4272-9282-d90c5313d2d3"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11993f\/f209d77546be9d1170387657d4b4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.47",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 50,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11993f\/f209d77546be9d1170387657d4b4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Masło Shea nierafinowane 100ml NATUR PLANET<\/h1> <p><b>OPIS<\/b><\/p><p>Masło SHEA (Karite) pozyskiwane jest z nasion Masłosza Parka (Vitellaria paradoxa) w procesie tłoczenia na zimno. Produkt nierafinowany, posiada naturalną barwę od beżowego do lekko zielonej i charakterystyczny roślinny zapach. <\/p><p>Bogactwo składu obejmuje nasycone i nienasycone kwasy tłuszczowe, związki niezmydlające, fitosterole, witaminę A, katechiny w tym pochodne kwasu cynamonowego. Do każdego rodzaju skóry. Masło Shea to produkt naturalny, partie między sobą mogą się różnić kolorem oraz intensywnością zapachu<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Butyrospermum Parkii Fruit Butter<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Gęste masło rozetrzeć w dłoniach. Następnie delikatnie wmasowywać w skórę. Pozostawić do wchłonięcia. Stosować dwa razy dziennie.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>w suchym i chłodnym miejscu, chronić przed światłem słonecznym.<\/p> <p><b>PRODUCENT <\/b><\/p><p>INFO-FARM Marcelina Pacula-Staś <\/p><p>ul. J. Baildona 24\/3, 40-115 Katowice<\/p><p>info@naturplanet.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z71NAPMASSHN1"
+    },
+    "category": {
+        "id": "5351"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.47",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.10",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "77.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1260.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "77.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915484755",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T17:08:32.479Z"
+    },
+    "createdAt": "2025-09-22T17:08:32.000Z",
+    "updatedAt": "2025-10-17T13:30:54.099Z"
+}

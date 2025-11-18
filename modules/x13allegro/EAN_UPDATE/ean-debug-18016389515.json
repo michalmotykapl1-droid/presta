@@ -1,0 +1,328 @@
+{
+    "name": "Slim Strong 30tabl. STARPHARMA",
+    "productSet": [
+        {
+            "product": {
+                "id": "3985e449-5286-4ff8-bb81-0a1895174886",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Starpharma"
+                        ],
+                        "valuesIds": [
+                            "248811_1964320"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902989930321"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Slim Strong"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.03"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "tabletki"
+                        ],
+                        "valuesIds": [
+                            "210758_244702"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.04"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "czerwona herbata"
+                        ],
+                        "valuesIds": [
+                            "210698_243630"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "chronić przed światłem"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902989930321"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9833a064-ab6a-496d-9a59-fe5e673a3bab"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f089\/626c7d8c4a1c9d4d8ff6c77de0ae"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.17",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f089\/626c7d8c4a1c9d4d8ff6c77de0ae"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Slim Strong 30tabl. STARPHARMA<\/h1> <p><b>OPIS <\/b><\/p><p>Slim Strong - suplement diety - wspomaganie metabolizmu, naturalne ekstrakty roślinne, 30 tabletek.<\/p><p>Suplement diety SlimStrong® jest bogaty w wyciągi roślinne z czerwonej herbaty i fasoli zwyczajnej, L-karnitynę oraz cynk i chrom. <\/p><p>Składniki zawarte w preparacie pozytywnie wpływają na organizm, wspomagając metabolizm tłuszczów, węglowodanów oraz makroskładników odżywczych.<\/p> <p>• Odpowiednio wyselekcjonowane składniki suplementu diety SlimStrong® wspomagają metabolizm węglowodanów i tłuszczów w organizmie. Przyśpieszają spalanie tkanki tłuszczowej, zmniejszają łaknienie oraz oczyszczają organizm z toksyn.<\/p><p>• Cynk pomaga w utrzymaniu prawidłowego metabolizmu węglowodanów i kwasów tłuszczowych.<\/p><p>• Chrom przyczynia się do zachowania odpowiedniego poziomu glukozy we krwi.<\/p><p>• Składniki suplementu diety SlimStrong® w połączeniu z aktywnością fizyczną pomagają ograniczyć wchłanianie się tłuszczów w organizmie oraz pomagają w utrzymaniu prawidłowej masy ciała.<\/p><p>• Pomaga magazynowanie insuliny oraz system immunologiczny.<\/p><p>• Chrom utrzymuje prawidłowy metabolizm oraz poziom glukozy we krwi, wspomaga proces odchudzania. Reguluje zarówno przemianę cukrów, jak i tłuszczów w organizmie.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Substancja wypełniająca: celuloza mikrokrystaliczna; ekstrakt z liści czerwonej herbaty (Camellia sinesis O. Ktze) DER 6:1; ekstrakt z nasion fasoli zwyczajnej (Phaseolus vulgaris L.) DER 4:1; winian L-karnityny (L-karnityna); glukonian cynku (cynk); ekstrakt z owoców pieprzu Cayenne (Capsicum annuum); substancja glazurująca: hydroksypropylometyloceluloza; substancja przeciwzbrylająca: sole magnezowe kwasów tłuszczowych; amid kwasu nikotynowego (niacyna); barwnik: węglan wapnia; substancja przecizbrylająca: dwutlenek krzemu; substancje glazurujące: glikol polietylenowy, poliwinylopirolidon, guma arabska; barwnik: koszenila, kwas karminowy, karminy; chlorek chromu (III) (chrom); substancja przeciwzbrylająca: kwasy tłuszczowe.<\/p> <p>Zawartość w 2 tabletkach:<\/p><p>Ekstrakt z owoców pieprzu Cayenne - 62,5mg<\/p><p>w tym kapsaicyna - 5mg<\/p><p>Ekstrakt z liści czerwonej herbaty - 400mg<\/p><p>w tym kofeina - 32mg<\/p><p>Ekstrakt z nasion fasoli zwyczajnej - 200mg<\/p><p>Winian L-karnityny - 100mg<\/p><p>w tym L-karnityna - 68mg<\/p><p>Cynk - 10mg<\/p><p>Chrom - 40mcg<\/p><p>Niacyna - 16mg<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Spożywać 1 tabletkę 2 razy dziennie, popijając wodą. Nie należy przekraczać zalecanej dziennej porcji, tj. 2 tabletek w ciągu dnia.<\/p>  <p><b>UWAGA <\/b><\/p><p>Suplement diety nie może być stosowany, jako substytut (zamiennik) zróżnicowanej diety. Należy pamiętać o zrównoważonym sposobie żywienia i zdrowym trybie życia. Produkt nie jest przeznaczony dla kobiet w ciąży, karmiących matek oraz dzieci.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej, w suchym miejscu w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21STASLIST"
+    },
+    "category": {
+        "id": "257513"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.17",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.80",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "70.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1140.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "70.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016389515",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:52:43.676Z"
+    },
+    "createdAt": "2025-10-22T07:52:43.000Z",
+    "updatedAt": "2025-10-22T08:07:43.989Z"
+}

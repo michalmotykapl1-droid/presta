@@ -1,0 +1,326 @@
+{
+    "name": "Eliksir dla utrzymania prawidłowego poziomu ciśnienia krwi bezalkoholowy 10",
+    "productSet": [
+        {
+            "product": {
+                "id": "91bcb116-e4fc-4dc9-af6b-0149585226af",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mir-Lek"
+                        ],
+                        "valuesIds": [
+                            "248811_1962092"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906660437833"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Eliksir na ciśnienie krwi"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "głóg"
+                        ],
+                        "valuesIds": [
+                            "210698_243722"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "210762_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906660437833"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "cb0e5a50-7bc9-4ec5-8ec5-935b68899f02"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110141\/4a68120c4185aa87979f76cc4460"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.62",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 17,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110141\/4a68120c4185aa87979f76cc4460"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Eliksir dla utrzymania prawidłowego poziomu ciśnienia krwi bezalkoholowy 10<\/h1> <p><b>OPIS <\/b><\/p><p>Eliksir bezalkoholowy dla utrzymania prawidłowego poziomu CIŚNIENIA KRWI - Suplement diety z koniczyną łąkową i oregano<\/p><p>Oregano i koniczyna łąkowa pomaga normalizować ciśnienie krwi.<\/p> <p>Eliksir dla prawidłowego ciśnienia krwi powstał z wyciągów z roślin takich jak: koniczyna łąkowa, serdecznik, czarna porzeczka, czarny bez, oregano, gryka. Koniczyna łąkowa wspiera układ sercowo-naczyniowy, pomaga normalizować ciśnienie krwi , serdecznik zwiększa elastyczność i wytrzymałość naczyń krwionośnych i ścian naczyń włosowatych, normalizuje ciśnienie krwi, czarna porzeczka wspiera krążenie, bez czarny przyczynia się do poprawy krążenia krwi, oregano normalizuje ciśnienie krwi.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Woda, wyciągi wodne 1:1: z ziela koniczyny łąkowej (Trifolium pratense) 30%, z ziela serdecznika (Leonurus cardiaca) 25%, z liścia czarnej porzeczki (Ribes nigrum) 20%, z owocu bzu czarnego (Sambucus nigra) 15%, z ziela oregano (Oreganum vulgare) 5%, z łuski gryki (Fagopyrum esculentum )5 %, sok z cytryny (Citrus limon).<\/p><p>Składniki w porcji dziennej (10ml):<\/p><p>Wyciągi wodne 1:1: <\/p><p>z ziela koniczyny łąkowej (Trifolium pratense) - 1,50g<\/p><p>z ziela serdecznika (Leonurus cardiaca) - 1,26g<\/p><p>z liścia czarnej porzeczki (Ribes nigrum) - 1,00g<\/p><p>z owocu bzu czarnego (Sambucus nigra) - 0,76g<\/p><p>z ziela oregano (Oreganum vulgare) - 0,26g<\/p><p>z łuski gryki (Fagopyrum esculentum ) - 0,26g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecane spożycie: 2 razy w ciągu doby po 5 ml eliksiru ( 2 nakrętki)<\/p><p>Sposób użycia: 1 nakrętkę eliksiru (5 ml) wlać do kieliszka lub szklanki z wodą i wypić. Produkt przeznaczony dla dorosłych. Osad jest zjawiskiem naturalnym. Wstrząsnąć przed spożyciem. Nie stosować u kobiet w ciąży i w okresie karmienia piersią. Nie stosować u osób uczulonych na jakikolwiek składnik produktu. Produkt pasteryzowany.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywanie: przechowywać w suchym i chłodnym miejscu, w sposób niedostępny dla małych dzieci. Chronić przed dostępem promieni słonecznych. Po otwarciu przechowywać w lodówce w szczelnie zamkniętej butelce, spożyć w ciągu 7 dni.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MIRELIDS"
+    },
+    "category": {
+        "id": "257514"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.62",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.51",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1840.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916001487",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:37:19.370Z"
+    },
+    "createdAt": "2025-09-22T20:37:19.000Z",
+    "updatedAt": "2025-09-22T20:52:20.715Z"
+}

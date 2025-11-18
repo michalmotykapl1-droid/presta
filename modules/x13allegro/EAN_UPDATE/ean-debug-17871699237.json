@@ -1,0 +1,376 @@
+{
+    "name": "BIOrythm Biowitalny krem-maska na noc z olejem z opuncji figowej 50ml NATUR",
+    "productSet": [
+        {
+            "product": {
+                "id": "56eb0c3a-081f-4e04-a31f-8b23966c51ef",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Naturalis"
+                        ],
+                        "valuesIds": [
+                            "248811_1939842"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "NAT01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "NATURALIS"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "na noc"
+                        ],
+                        "valuesIds": [
+                            "215870_271966"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.21"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Dojrzała"
+                        ],
+                        "valuesIds": [
+                            "129434_317713"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciwstarzeniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "składników pochodzenia zwierzęcego"
+                        ],
+                        "valuesIds": [
+                            "129770_64"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "25+"
+                        ],
+                        "valuesIds": [
+                            "215770_271326"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "olej z opuncji"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907573460543"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "96184b92-753b-43ef-bd3a-58891e1c6e29"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117e72\/5482dcb24a1eafeb8a7778d42675"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "84.05",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117e72\/5482dcb24a1eafeb8a7778d42675"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIOrythm Biowitalny krem-maska na noc z olejem z opuncji figowej 50ml NATUR<\/h1> <p><b>OPIS <\/b><\/p><p>Laboratorium NATURALIS opracowało serię BIOrythm w celu dopasowania pielęgnacji do dobowego rytmu potrzeb Twojej skóry. W ciągu dnia skóra nastawiona jest na ochronę, a w nocy na regenerację.<\/p> <p>Bogata i otulająca skórę formuła kremu-maski jest zgodna z naturalnym biorytmem skóry, która podczas snu uruchamia procesy regeneracji. Redukuje oznaki starzenia i dba o regularny kontur twarzy zatrzymując na długo jej młody wygląd. Zapewnia efekt wypoczętej i świeżej skóry po przebudzeniu. Skóra staje się piękna i wygląda młodziej.<\/p> <p>BIOaktywne składniki:<\/p><p>• Olej z opuncji figowej<\/p><p>• Olej ze słodkich migdałów<\/p><p>• Olej awokado<\/p><p>oraz<\/p><p>• VOLUFORM -biomimetyczny peptyd o działaniu przeciwutleniającym, wspierający nocny detoks i regenerację skóry. Stymuluje wewnątrzkomórkowy proces detoksykacji, poprawia elastyczność i jędrność skóry.<\/p> <p>Działanie:<\/p><p>• wspiera naturalną regenerację skóry,<\/p><p>• zapewnia jędrność i elastyczność ,<\/p><p>•utrzymuje młody wygląd.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>nałożyć krem-maskę na oczyszczoną skórę twarzy i szyi. Pozostawić do wchłonięcia. Stosować na noc. <\/p> <p>W celu spotęgowania działania zalecamy kompleksową pielęgnację z zastosowaniem pełnej linii kosmetyków.<\/p> <p>Odpowiedni dla wegan i wegetarian.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>AQUA, CAPRYLIC\/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII BUTTER, GLYCERIN, THEOBROMA CACAO SEED BUTTER, MYRISTYL MYRISTATE, POLYGLYCERYL-3 STEARATE, PRUNUS AMYGDALUS DULCIS OIL, PERSEA GRATISSIMA OIL, HYDROGENATED VEGETABLE GLYCERIDES CITRATE, GLYCERYL STEARATE, OPUNTIA FICUS INDICA SEED OIL, PALMITOYL ISOLEUCINE, SODIUM HYALURONATE, SODIUM LEVULINATE, AROMA, SODIUM STEAROYL LACTYLATE, SCLEROTIUM GUM, SODIUM ANISATE, XANTHAN GUM, CITRIC ACID, PALMITIC ACID, LIMONENE, LINALOOL, BENZYL BENZOATE, BENZYL SALICYLATE, GERANIOL.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71ADABIRBF"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "84.05",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.33",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "483.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7875.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "483.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871699237",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:06:12.962Z"
+    },
+    "createdAt": "2025-09-08T20:06:12.000Z",
+    "updatedAt": "2025-09-08T20:21:13.310Z"
+}

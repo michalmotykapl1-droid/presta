@@ -1,0 +1,281 @@
+{
+    "name": "PODSTAWKA POD KADZIDEŁKO PODŁUŻNA 26 cm - YOUR CANDLE",
+    "productSet": [
+        {
+            "product": {
+                "id": "2c3ed85f-e7aa-4b6e-a27e-00e8dd14ed0a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906849682368"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237514",
+                        "name": "Materiał",
+                        "values": [
+                            "drewno"
+                        ],
+                        "valuesIds": [
+                            "237514_409898"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "2977",
+                        "name": "Długość",
+                        "values": [
+                            "26"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "223333",
+                        "name": "Szerokość produktu",
+                        "values": [
+                            "26"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906849682368"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "27daa68d-0527-42c4-9f59-8fff1604a73f"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11bd2b\/fc772ba44a0eaf81bf08883942b6"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "6.52",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 138,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11bd2b\/fc772ba44a0eaf81bf08883942b6"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PODSTAWKA POD KADZIDEŁKO PODŁUŻNA 26 cm - YOUR CANDLE<\/h1><p>SKŁADNIKI <\/p><p>drewno naturalne <\/p><p>OPIS <\/p><p>Dodaj wyjątkowego klimatu swojemu wnętrzu z elegancką, podłużną podstawką do kadzideł marki Your Candle. Wykonana z wysokiej jakości materiałów, łączy w sobie prostotę, funkcjonalność i estetykę, idealnie wpisując się w styl boho, minimalistyczny, jak i klasyczny.<\/p><p>Dzięki swojej wydłużonej formie podstawka skutecznie zbiera popiół, zapewniając czystość i wygodę użytkowania. To idealny wybór dla osób ceniących rytuały relaksu, medytację lub po prostu piękne zapachy unoszące się w domu. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Trzymać z dala od przedmiotów\/powierzchni łatwopalnych. Nigdy nie pozostawiać palącego się kadzidła bez nadzoru. Trzymać z dala od dzieci i zwierząt domowych.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>STAR LIGHT ALICJA AGATA GOŁASZEWSKA ul. STARY RYNEK 2 18-400 ŁOMŻA<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46427"
+    },
+    "category": {
+        "id": "254301"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.52",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.50",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "37.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "610.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "37.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016844985",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T10:38:23.621Z"
+    },
+    "createdAt": "2025-10-22T10:38:23.000Z",
+    "updatedAt": "2025-10-22T10:53:24.908Z"
+}

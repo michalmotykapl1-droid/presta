@@ -1,0 +1,380 @@
+{
+    "name": "ODŻYWKA WZMACNIAJĄCA DO WŁOSÓW SŁABYCH I ŁAMLIWYCH BAMBUS I POTRÓJNY KOMPLE",
+    "productSet": [
+        {
+            "product": {
+                "id": "0ed288ca-7ea7-48f2-9899-65a021e58925",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sante"
+                        ],
+                        "valuesIds": [
+                            "248811_1947217"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250671",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "inna"
+                        ],
+                        "valuesIds": [
+                            "250671_2005432"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "parabenów",
+                            "silikonów",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_128",
+                            "129770_32",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "osłabione"
+                        ],
+                        "valuesIds": [
+                            "226825_317517"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "regeneracja i nawilżenie"
+                        ],
+                        "valuesIds": [
+                            "129469_1778815"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226833",
+                        "name": "Typ",
+                        "values": [
+                            "do spłukiwania"
+                        ],
+                        "valuesIds": [
+                            "226833_317589"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "tubka"
+                        ],
+                        "valuesIds": [
+                            "215766_271230"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4055297220026"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Sante"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4055297220026"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a7489deb-5521-4fe4-8e05-5992ee537706"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11632b\/9853a9a64a6ea01e4fa4edc50b10"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "21.95",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 40,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11632b\/9853a9a64a6ea01e4fa4edc50b10"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ODŻYWKA WZMACNIAJĄCA DO WŁOSÓW SŁABYCH I ŁAMLIWYCH BAMBUS I POTRÓJNY KOMPLE<\/h1><p>SKŁADNIKI<\/p><p>Aqua (Water), Cetearyl Alcohol, Glycerin, Distearoylethyl Dimonium Chloride, Hydrolyzed Corn Protein, Hydrolyzed Wheat Protein, Hydrolyzed Soy Protein, Lactic Acid, Arginine, Sodium Lactate, Tocopherol, Leuconostoc\/Radish Root Ferment Filtrate, Helianthus Annuus (Sunflower) Seed Oil, Bambusa Vulgaris Leaf Extract*, Potasium Sorbate, Parfum (Fragrance)**, Limonene**, Linalool**, Citronellol**, Citral**. (*składniki pochodzące z upraw ekologicznych, **składniki pochodzące z naturalnych olejków eterycznych)<\/p><p>OPIS<\/p><p>Intensywnie skuteczna formuła pielęgnacyjna do włosów słabych i łamliwych. Ekologiczny ekstrakt z bambusa - wzmacnia włosy i zmniejsza ich łamliwość. Potrójny kompleks białkowy - wzmacnia, odżywia i chroni włosy od nasady aż po końcówki. Nawilżający kompleks pielęgnacyjny - wypełnia i wzmacnia włosy, zapewniając im naturalnie mocną strukturę. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Rozprowadzić odżywkę na całej długości wilgotnych włosów. Pozostawić na chwilę, po czym dokładnie spłukać. <\/p><p>ŚRODKI OSTROŻNOŚCI<\/p><p>W przypadku dostania się produktu do oczu, natychmiast przemyć je obficie wodą. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>LOGOCOS NATURKOSMETIK AG, ZUR KRÄUTERWIESE , 31020 SALZHEMMENDORF<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43738"
+    },
+    "category": {
+        "id": "5364"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.95",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.05",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "126.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2055.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "126.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876858077",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:50:42.870Z"
+    },
+    "createdAt": "2025-09-10T09:50:42.000Z",
+    "updatedAt": "2025-09-10T10:05:43.630Z"
+}

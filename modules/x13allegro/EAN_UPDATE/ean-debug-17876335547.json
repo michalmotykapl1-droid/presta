@@ -1,0 +1,365 @@
+{
+    "name": "SANBIOS Krem Anti-Age z komórkami macierzystymi 50ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "9a0b8779-43ee-4e84-9172-539bd8b3f271",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sanbios"
+                        ],
+                        "valuesIds": [
+                            "248811_1963871"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908230845475"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "xxx"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "dzień i noc"
+                        ],
+                        "valuesIds": [
+                            "215870_271998"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Dojrzała"
+                        ],
+                        "valuesIds": [
+                            "129434_317713"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciwstarzeniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "103"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "30+"
+                        ],
+                        "valuesIds": [
+                            "215770_271330"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908230845475"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "4aaadd34-b2ff-4e15-8307-66cfe1602d17"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f6de\/73541a7a435ba2b73b376be85252"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "34.23",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 9,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f6de\/73541a7a435ba2b73b376be85252"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SANBIOS Krem Anti-Age z komórkami macierzystymi 50ml<\/h1> <p><b>OPIS <\/b><\/p><p>Nawilżanie to najważniejszy etap każdej odmładzającej kuracji kosmetycznej.<\/p><p>Warstwa rogowa naszego naskórka w młodym wieku zawiera około 13% wody, a warstwy głębsze do 70%.<\/p><p>W miarę starzenia się oraz działania środowiska zewnętrznego (chemia gospodarcza, słońce, zimno itp.) skóra traci wodę, a także jędrność i elastyczność.<\/p><p>Zaczyna się łuszczyć, bywa wrażliwsza na podrażnienia.<\/p><p>Ewentualne spękania tym bardziej ułatwiają utratę wody.<\/p><p>Naskórek, a dokładnie jego warstwa rogowa odpowiadają za prawidłowe nawilżenie całej skóry, dlatego nasz wysiłek skierowany jest głównie w stronę optymalnego nawilżenia i ochrony wspomnianej warstwy rogowej.<\/p> <p>Krem z komórkami macierzystymi pochodzącymi z liści białej lilii to produkt mający na celu:<\/p><p>-dotlenienie skóry - poprawia oddychanie komórek, co dodatkowo wywołuje efekt odtruwający czyli detoksykacyjny<\/p><p>-efekt przeciwstarzeniowy - stymuluje syntezę nowego kolagenu w starzejących się komórkach, co prowadzi do ujędrnienia skóry, wypełnienia i wygładzenia zmarszczek<\/p><p>-wzmacnianie żywotności komórek wszystkich warstw skóry - wspomaga jej ochronę przed nadmiernym starzeniem się<\/p><p>-pozostałe składniki aktywne kremu pełnią dodatkowo funkcję nawilżającą, odżywczą i ochronną<\/p> <p>Polecany do codziennej pielęgnacji twarzy, szyi i dekoltu.<\/p><p>Do stosowania na dzień i na noc.<\/p><p>Przebadany dermatologicznie.<\/p><p>Produkt nie testowany na zwierzętach.<\/p><p>Produkt zgłoszony w UE.<\/p> <p>Wyprodukowano w Polsce.<\/p> <p><b>SKŁADNIKI\/INCI <\/b><\/p><p>aqua, caprylic capric triglyceride, coco-caprylate\/caprate, vitis vinifera seed oil, olea europaea fruit oil, glycerin, hydrolyzed caesalpinia spinosa gum, caesalpinia spinosa gum, polyglyceryl-3-metyl glucose distearate, glyceryl stearate, butyrospermum parkii (shea) butter, panthenol, cetyl alcohol,nymphaea alba leaf cell extract, phenoxyethanol, ethylhexylglycerin, allantoin, parfum, benzyl salicylate, linalool, geraniol, citronellol, isoeugenol, limonene, citral.<\/p> <p>Składniki aktywne: komórki macierzyste, hydromanil, D'panthenol, masło Shea, oliwa z oliwek, olej z pestek winogron, alantoina<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać: w suchym, ciemnym miejscu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SANKREAN"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.23",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.87",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "197.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3205.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "197.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876335547",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:09:43.752Z"
+    },
+    "createdAt": "2025-09-10T05:09:43.000Z",
+    "updatedAt": "2025-10-22T12:49:58.575Z"
+}

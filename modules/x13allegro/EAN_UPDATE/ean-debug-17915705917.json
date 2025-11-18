@@ -1,0 +1,358 @@
+{
+    "name": "Pasta do zębów naturalna bez fluoru 100ml SYLVECO",
+    "productSet": [
+        {
+            "product": {
+                "id": "6bf1abaa-d7ae-4507-90b1-999935cda3d4",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sylveco"
+                        ],
+                        "valuesIds": [
+                            "248811_1138019"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902249010688"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225385",
+                        "name": "Smak",
+                        "values": [
+                            "Ziołowo-miętowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "116"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207166",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez fluoru",
+                            "na stojącej tubie",
+                            "ziołowa"
+                        ],
+                        "valuesIds": [
+                            "207166_16",
+                            "207166_2",
+                            "207166_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Naturalna pasta do zębów"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207158",
+                        "name": "Działanie",
+                        "values": [
+                            "oczyszczanie",
+                            "świeży oddech"
+                        ],
+                        "valuesIds": [
+                            "207158_4096",
+                            "207158_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208806",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla dorosłych"
+                        ],
+                        "valuesIds": [
+                            "208806_236886"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902249010688"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a6d05d3f-a9e1-4408-bf87-401e3ef3d1c3"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11837b\/c05e5cc34fff8f27eac4fa6563d0"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "23.14",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 26,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11837b\/c05e5cc34fff8f27eac4fa6563d0"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Pasta do zębów naturalna bez fluoru 100ml SYLVECO<\/h1> <p><b>OPIS <\/b><\/p><p>Hypoalergiczna, naturalna pasta, przeznaczona do codziennego mycia zębów u dorosłych i dzieci. Nie zawiera fluoru ani jego pochodnych. Jest bogata w ekstrakty ziołowe (szałwia, mięta, rozmaryn, goździki), ksylitol, który zapobiega próchnicy i łagodzącą alantoinę. Dokładnie i bezpiecznie oczyszcza dzięki niskocząsteczkowym składnikom ścierającym, a olejki eteryczne z mięty pieprzowej i eukaliptusa mocno odświeżają oddech. <\/p><p><b>SPOSÓB UŻYCIA <\/b><\/p><p>niewielką ilością pasty szczotkować zęby przez 2-3 minuty minimum dwa razy dziennie, a najlepiej po każdym posiłku.<\/p><p><b>INCI <\/b><\/p><p>Aqua, Glycerin, Alumina Silicate, Sorbitol, Xylitol, Cocamidopropyl Betaine, Sodium Benzoate, Mentha Piperita Leaf Extract, Salvia Officinalis Leaf Extract, Rosmarinus Officinalis Leaf Extract, Eugenia Caryophyllus Flower Extract, Mentha Piperita Oil, Hydroxyethylocellulose, Allantoin, Sodium Bicarbonate, Eucalyptus Globulus Leaf Oil.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Woda, gliceryna, krzemian glinu, sorbitol, ksylitol, betaina kokamidopropylowa, benzoesan sodu, ekstrakt z liści mięty pieprzowej, ekstrakt z liści szałwii lekarskiej, ekstrakt z liści rozmarynu lekarskiego, ekstrakt z goździków, olejek eteryczny miętowy, hydroksyetyloceluloza, alantoina, wodorowęglan sodu, olejek eteryczny eukaliptusowy.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SYLPASDZ"
+    },
+    "category": {
+        "id": "257765"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.14",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.32",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "133.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2170.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "133.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915705917",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T18:36:56.226Z"
+    },
+    "createdAt": "2025-09-22T18:36:56.000Z",
+    "updatedAt": "2025-09-22T18:51:56.880Z"
+}

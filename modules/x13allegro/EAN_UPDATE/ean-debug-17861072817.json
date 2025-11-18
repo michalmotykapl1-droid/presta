@@ -1,0 +1,369 @@
+{
+    "name": "Makaron KONJAC rice shirataki BEZGL. 200 g",
+    "productSet": [
+        {
+            "product": {
+                "id": "1be0835e-8415-41aa-b3d7-bff5fc0e01e3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Diet Food"
+                        ],
+                        "valuesIds": [
+                            "248811_1958956"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Makaron (konjac w kształcie kulek) bezglutenowy 370 g diet-food"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "238789",
+                        "name": "Rodzaj",
+                        "values": [
+                            "makaron drobny"
+                        ],
+                        "valuesIds": [
+                            "238789_415889"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "niesiarkowane",
+                            "niski indeks glikemiczny",
+                            "niskotłuszczowe",
+                            "odpowiednie dla diety ketogenicznej",
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_2",
+                            "233345_32",
+                            "233345_256",
+                            "233345_128",
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "10643_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "cholesterolu",
+                            "cukru",
+                            "drożdży",
+                            "glutenu",
+                            "GMO",
+                            "jajek",
+                            "konserwantów",
+                            "laktozy",
+                            "nabiału",
+                            "oleju palmowego",
+                            "orzechów",
+                            "pestek",
+                            "pszenicy",
+                            "soi",
+                            "tłuszczy trans (utwardzanych)"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_65536",
+                            "130691_4",
+                            "130691_524288",
+                            "130691_2",
+                            "130691_32768",
+                            "130691_1048576",
+                            "130691_128",
+                            "130691_1",
+                            "130691_262144",
+                            "130691_8",
+                            "130691_32",
+                            "130691_16384",
+                            "130691_131072",
+                            "130691_16",
+                            "130691_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901549275049"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "778e452f-7d3e-455b-b848-6cc82b584f6e"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cd54\/bcba351c4a73a32c7cb023640765"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "8.00",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 191,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11cd54\/bcba351c4a73a32c7cb023640765"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Makaron KONJAC rice shirataki BEZGL. 200 g<\/h1><p>Makaron Shirataki Rice Diet Food to makaron, który nie zawiera GLUTENu, laktozy, cukru, SOJA. <\/p><p>Ma niewielką ilość kalorii, za to zawiera dużo błonnika. <\/p><p>To doskonały substytut ryżu lub makaronu. <\/p><p>Polecany dla osób dbających o szczupłą sylwetkę. <\/p><p>Makaron Konjac Shirataki Diet Rice może być stosowany przez osoby chore na cukrzycę i celiakię oraz nietolerujące laktozy i pszenicy. <\/p><p>Produkowany jest z rośliny konjac glucomannan. <\/p><p>Jest szybki w przygotowaniu i niezwykle smaczny. <\/p><p>SKŁADNIKI: konjac glucomannan, woda, wodorotlenek wapnia<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_05901"
+    },
+    "category": {
+        "id": "111094"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.00",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.84",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "750.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861072817",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T07:00:20.965Z"
+    },
+    "createdAt": "2025-09-05T07:00:21.000Z",
+    "updatedAt": "2025-09-05T07:15:21.359Z"
+}

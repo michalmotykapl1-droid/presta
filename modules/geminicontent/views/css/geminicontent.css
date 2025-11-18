@@ -1,0 +1,112 @@
+    /* geminicontent/views/css/geminicontent.css */
+
+    /* Style dla nowego opisu (generowanego przez AI) */
+    .gemini-new-description {
+        margin-bottom: 25px;
+        line-height: 1.6; /* Lepsza czytelność */
+        font-size: 1.05em; /* Nieco większa czcionka */
+    }
+
+    .gemini-new-description h2 {
+        font-size: 1.5em; /* Rozmiar nagłówków */
+        color: #333;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        border-bottom: 1px solid #eee; /* Delikatna linia pod nagłówkiem */
+        padding-bottom: 5px;
+    }
+
+    .gemini-new-description p {
+        margin-bottom: 1em;
+    }
+
+    .gemini-new-description ul {
+        list-style-type: disc;
+        margin-left: 20px;
+        margin-bottom: 1em;
+    }
+
+    .gemini-new-description li {
+        margin-bottom: 0.5em;
+    }
+
+    /* Style dla separatora */
+    .gemini-separator {
+        border: 0;
+        border-top: 1px solid #e0e0e0;
+        margin: 30px 0;
+    }
+
+    /* Style dla sekcji oryginalnego opisu */
+    .gemini-product-old-details {
+        margin-top: 25px;
+        background-color: #f9f9f9; /* Lekkie tło, aby odróżnić */
+        border: 1px solid #eee;
+        border-radius: 8px; /* Zaokrąglone rogi */
+        padding: 20px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* Delikatny cień */
+    }
+
+    .gemini-product-old-details h3 {
+        font-size: 1.3em; /* Mniejszy nagłówek niż dla nowego opisu */
+        color: #555;
+        border-bottom: 2px solid #f0ad4e; /* Podkreślenie */
+        padding-bottom: 5px;
+        margin-bottom: 15px;
+    }
+
+    .gemini-product-old-details .original-description-text {
+        margin-bottom: 0; /* Usuń domyślny dolny margines */
+        line-height: 1.5; /* Lepsza czytelność */
+        color: #666; /* Delikatniejszy kolor tekstu */
+        font-size: 0.95em; /* Nieco mniejsza czcionka */
+    }
+    
+    .import-preview-product .panel-heading {
+        font-size: 1.2em;
+        line-height: 1.5;
+    }
+
+    .import-preview-product .panel-heading .pull-right {
+        font-size: 0.9em;
+        color: #777;
+        margin-top: 3px;
+    }
+
+    .import-preview-product .table td {
+        vertical-align: middle !important;
+    }
+
+    .import-preview-product .new-content-cell {
+        font-weight: 500;
+        word-break: break-word; /* Lepsze łamanie długich ciągów */
+    }
+
+    .import-preview-product .text-muted {
+        font-style: italic;
+        color: #999;
+    }
+
+    /* === NOWE STYLE DLA MODALA PODGLĄDU PRODUKTU === */
+    #geminiProductPreviewModal .modal-lg {
+        width: 90%;
+        max-width: 1200px;
+    }
+
+    .product-description-preview {
+        border: 1px solid #ddd;
+        padding: 15px;
+        max-height: 50vh;
+        overflow-y: auto;
+        background-color: #f9f9f9;
+    }
+
+    /* Dostosowanie stylów z frontu do podglądu w BO */
+    .product-description-preview .gemini-description-wrapper h3 {
+        font-size: 1.3em;
+    }
+
+    .product-description-preview .table-ingredients,
+    .product-description-preview .table-nutrition {
+        background-color: #fff;
+    }

@@ -1,0 +1,301 @@
+{
+    "name": "PIANKA DO TWARZY CONTROL-T OCZYSZCZAJĄCA REGULUJĄCA WYDZIELANIE SEBUM 200 m",
+    "productSet": [
+        {
+            "product": {
+                "id": "89b07b8e-020c-440f-abbf-105588a9b7ba",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Real Barrier"
+                        ],
+                        "valuesIds": [
+                            "248811_1982467"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8809911692678"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "15852",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Pianki"
+                        ],
+                        "valuesIds": [
+                            "15852_10"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "świeży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8809911692678"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9f38425e-8e21-4d70-969c-858a74bd9d19"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów z kategorii: 'Oczyszczanie i demakijaż' oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Uważaj na kontakt z oczami: Jeśli produkt dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W przypadku utrzymującego się podrażnienia skonsultuj się z lekarzem.\n2.  Testuj na małym obszarze: Przed pierwszym użyciem nowego produktu do oczyszczania twarzy, wykonaj test na małym, niewidocznym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n3.  Nie połykaj: Produkty do oczyszczania i demakijażu są przeznaczone wyłącznie do użytku zewnętrznego. Nie połykaj ich. W przypadku połknięcia natychmiast skontaktuj się z lekarzem.\n4.  Przechowuj w bezpiecznym miejscu: Trzymaj produkty do oczyszczania i demakijażu z dala od dzieci i zwierząt.\n5.  Używaj zgodnie z instrukcją: Zawsze stosuj się do instrukcji producenta dotyczących używania i dawkowania produktu.\n6.  Unikaj podrażnień: Jeśli po użyciu produktu wystąpi zaczerwienienie, swędzenie, pieczenie lub wysypka, przerwij stosowanie i skonsultuj się z dermatologiem.\n7.  Ostrożnie z wrażliwą skórą: Jeśli masz skórę wrażliwą, wybieraj produkty hipoalergiczne i bezzapachowe.\n8.  Nie mieszaj produktów: Nie łącz różnych produktów do oczyszczania i demakijażu, ponieważ może to prowadzić do niepożądanych reakcji chemicznych.\n9.  Chroń przed słońcem: Niektóre składniki zawarte w produktach do oczyszczania twarzy mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem po użyciu takiego produktu.\n10. Uważaj na termin ważności: Nie używaj przeterminowanych produktów, ponieważ mogą być mniej skuteczne lub powodować podrażnienia.\n11. Zwróć uwagę na skład: Jeżeli masz alergię, upewnij się, że produkt nie zawiera substancji, na które jesteś uczulony.\n12. Higiena: Używaj czystych rąk i akcesoriów (np. wacików) podczas aplikacji, by zapobiec przenoszeniu bakterii.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1106fa\/8a1ab55b4705b3d2da6a454c272a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "100.41",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 23,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1106fa\/8a1ab55b4705b3d2da6a454c272a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PIANKA DO TWARZY CONTROL-T OCZYSZCZAJĄCA REGULUJĄCA WYDZIELANIE SEBUM 200 m<\/h1><p>SKŁADNIKI <\/p><p>Water\/Aqua, Lauryl Hydroxysultaine, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Sodium Chloride, Sodium Methyl Cocoyl Taurate, Potassium Cocoyl Glycinate, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Houttuynia Cordata Extract, Coco-Glucoside, Potassium Cocoate, Glycerin, Butylene Glycol, Myristoyl\/ Palmitoyl Oxostearamide\/ Arachamide Mea, Linoleic Acid, 2-Capryloyl Capryloyl Methyl Alaninate, Spirulina Platensis Extract, Triticum Vulgare (Wheat) Sprout Extract, Calendula Officinalis Flower Extract, Hamamelis Virginiana (Witch Hazel) Leaf Water, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, Trifolium Pratense (Clover) Flower Extract, Isopentyldiol, Sodium Phytate, Citric Acid, Sodium Citrate, Hexylene Glycol, 1,2-Hexanediol, Caprylyl Glycol, Phenethyl Alcohol, Artemisia Vulgaris Oil, Copaifera Officinalis (Balsam Copaiba) Resin, Pogostemon Cablin Oil, Santalum Album (Sandalwood) Oil<\/p><p>OPIS <\/p><p>Real Barrier Control-T Cleansing Foam to pianka myjąca o działaniu regulującym sebum, stworzona specjalnie dla skóry tłustej, mieszanej i skłonnej do niedoskonałości. Dzięki unikalnej formule oczyszczającej skutecznie usuwa nadmiar sebum, zanieczyszczenia oraz pozostałości makijażu, nie naruszając bariery ochronnej skóry.<\/p><p>Formuła produktu została wzbogacona o kwas salicylowy (BHA), który pomaga w odblokowywaniu porów i redukcji zaskórników. MLE® (Multi-Lamellar Emulsion) wzmacnia barierę hydrolipidową, zapobiegając nadmiernemu przesuszeniu skóry po myciu. Pantenol i alantoina działają łagodząco i kojąco, redukując podrażnienia oraz wspomagając regenerację skóry. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Nanieś niewielką ilość pianki na wilgotne dłonie i rozprowadź na twarzy, delikatnie masując. Następnie dokładnie spłucz letnią wodą. Stosuj rano i wieczorem jako pierwszy krok pielęgnacji skóry mieszanej i tłustej. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze pokojowej <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>NeoPharm Co., Ltd. Heungdeok 1-ro, 13beon-gil, Giheung-gu, Yongin-si 7F, 13,16957 Gyeonggi-do, South Korea<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46614"
+    },
+    "category": {
+        "id": "5361"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "100.41",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "577.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9410.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "577.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051444482",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:15:47.889Z"
+    },
+    "createdAt": "2025-11-03T13:15:47.000Z",
+    "updatedAt": "2025-11-03T13:30:48.648Z"
+}

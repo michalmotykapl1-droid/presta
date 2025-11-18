@@ -1,0 +1,290 @@
+{
+    "name": "Herbalex Plastry oczyszczające z konopiami 2szt.",
+    "productSet": [
+        {
+            "product": {
+                "id": "cc0de91c-816f-4c68-9fba-627a724af4d6",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248914",
+                        "name": "Producent",
+                        "values": [
+                            "Herbamedicus"
+                        ],
+                        "valuesIds": [
+                            "248914_1969773"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "HM098"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.02"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237206",
+                        "name": "Model",
+                        "values": [
+                            "HM098"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "213714_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8595607500098"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e14c512f-1b78-465a-8fc5-4b16fcc4f21f"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa plastrów oczyszczających oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR)\n\n*  Przed użyciem plastrów, szczególnie jeśli masz wrażliwą skórę, skonsultuj się z lekarzem lub dermatologiem, aby uniknąć reakcji alergicznych lub podrażnień.\n*  Nie stosuj plastrów na uszkodzoną, podrażnioną lub poparzoną skórę, aby zapobiec infekcjom lub pogorszeniu stanu skóry.\n*  Jeśli w trakcie stosowania plastra wystąpi zaczerwienienie, swędzenie, obrzęk lub wysypka, natychmiast przerwij stosowanie i skonsultuj się z lekarzem.\n*  Plastry oczyszczające nie są przeznaczone dla dzieci, chyba że pod ścisłym nadzorem osoby dorosłej, aby zapobiec przypadkowemu połknięciu lub podrażnieniu skóry.\n*  Kobiety w ciąży lub karmiące piersią powinny skonsultować się z lekarzem przed użyciem plastrów, aby upewnić się, że składniki plastrów nie zaszkodzą dziecku.\n*  Osoby z chorobami skóry, takimi jak egzema lub łuszczyca, powinny zachować szczególną ostrożność i skonsultować się z lekarzem przed użyciem plastrów, aby uniknąć zaostrzenia objawów.\n*  Używaj plastrów zgodnie z instrukcją producenta, nie przekraczaj zalecanego czasu stosowania, aby uniknąć podrażnień lub innych negatywnych skutków.\n*  Nie używaj plastrów w przypadku nadwrażliwości na którykolwiek ze składników, aby uniknąć reakcji alergicznych.\n*  Przechowuj plastry w miejscu niedostępnym dla zwierząt, aby zapobiec przypadkowemu spożyciu.\n*  Plastry przechowuj w suchym i chłodnym miejscu, z dala od bezpośredniego światła słonecznego i źródeł ciepła, aby zachować ich właściwości i uniknąć degradacji składników.\n*  Nie stosuj plastrów po upływie daty ważności, aby uniknąć zmniejszenia skuteczności lub podrażnień skóry.\n*  Nie stosuj plastrów w miejscach narażonych na otarcia lub ucisk, aby uniknąć odklejania się plastra i podrażnień.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c2dd\/37dfd4ef4ecbbf9368aa53887f1c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "15.27",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 13,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c2dd\/37dfd4ef4ecbbf9368aa53887f1c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Herbalex Plastry oczyszczające z konopiami 2szt.<\/h1>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21HEMPLAOC"
+    },
+    "category": {
+        "id": "261426"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.27",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.51",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "88.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1430.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "88.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861803715",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T10:33:24.329Z"
+    },
+    "createdAt": "2025-09-05T10:33:24.000Z",
+    "updatedAt": "2025-09-05T10:48:49.586Z"
+}

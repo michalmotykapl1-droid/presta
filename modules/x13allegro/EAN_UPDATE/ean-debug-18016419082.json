@@ -1,0 +1,328 @@
+{
+    "name": "BIOWEN Ogórecznik forte 1055mg, 90 kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "edcd25d7-8c60-4386-a0ca-8ef70cad3994",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "Ogórecznik"
+                        ],
+                        "valuesIds": [
+                            "210698_244282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biowen"
+                        ],
+                        "valuesIds": [
+                            "248811_1957883"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904806120793"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Biowen Ogórecznik Forte, 90 kapsułek"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.283"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "90"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "95"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "210762_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904806120793"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "7b4e6387-c9b6-43a8-8be8-6150485454c4"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118c47\/b1fa28dc490e90fb4f070b1259c8"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "85.27",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118c47\/b1fa28dc490e90fb4f070b1259c8"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIOWEN Ogórecznik forte 1055mg, 90 kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>Ogórecznik Forte Biowen to suplement diety zawierający zimnotłoczony olej z nasion ogórecznika lekarskiego oraz naturalną witaminę E EVnol™ z palmy malezyjskiej. Wszystko zamknięte w wegańskich kapsułkach, idealnych dla osób dbających o zdrowie i środowisko. Olej z ogórecznika to źródło cennych kwasów tłuszczowych – GLA (20%) i LA (40%). Wspiera zbilansowaną dietę i jest znany z działania wspomagającego układ oddechowy, moczowy oraz łagodzenia objawów RZS. Witamina E działa jako silny antyoksydant, chroniąc komórki przed stresem oksydacyjnym. Suplement zawiera też roślinny skwalen, fitosterole, karotenoidy i koenzym Q10.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Olej z nasion ogórecznika lekarskiego, tłoczony na zimno, nierafinowany, d-alfa tokoferol (witamina E), naturalny kompleks witaminy E z palmy malezyjskiej EVnol™ (mieszanina tokotrienolu i tokoferolu), substancja utrzymująca wilgoć: glicerol, otoczka kapsułki: tapioka, woda oczyszczona.<\/p> <p>Zawartość 2 kapsułek:<\/p><p>Olej z nasion ogórecznika lekarskiego tłoczony na zimno - 2080 mg, w tym:<\/p><p>• 20% kwas gamma-linolenowy (GLA) - 416 mg<\/p><p>• 40% kwas linolowy (LA) - 832 mg<\/p><p>Witamina E - 30 mg \/ 44IU, w tym:<\/p><p>• D-tokotrienole - 10 mg<\/p><p>• D-alfa tokoferol - 20 mg<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecane jest spożywać 1 do 2 kapsułek, w trakcie posiłku. <\/p> <p><b>UWAGA <\/b><\/p><p>Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Zalecany jest zrównoważony sposób żywienia i zdrowy styl życia. Kobiety w ciąży i karmiące piersią przed spożyciem powinny skontaktować się z lekarzem. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej w sposób niedostępny dla małych dzieci. Chronić przed promieniami słonecznymi i w suchym miejscu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21BIDBOGOF"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "85.27",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.61",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "490.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7990.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "490.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016419082",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T08:05:54.113Z"
+    },
+    "createdAt": "2025-10-22T08:05:54.000Z",
+    "updatedAt": "2025-10-22T08:20:54.750Z"
+}

@@ -1,0 +1,366 @@
+{
+    "name": "ZUPA W KUBKU Z MAKARONEM I KURCZAKIEM W STYLU AZJATYCKIM BIO 55 g - NATUR C",
+    "productSet": [
+        {
+            "product": {
+                "id": "fb129275-336c-488d-952f-3090ac889269",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Natur Campagnie"
+                        ],
+                        "valuesIds": [
+                            "248811_1962392"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4000345045113"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Natur Compagnie Danie W Kubku Zupa Z Kurczakiem I Makaronem W Stylu Azjatyckim Bio 55 g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "230801",
+                        "name": "Waga",
+                        "values": [
+                            "55"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "pszenicy"
+                        ],
+                        "valuesIds": [
+                            "130691_131072"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.09"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "0.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "14.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "1.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "3.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4000345045113"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1143f1\/340e3cfe4817b6134514d5a63ce1",
+        "https:\/\/a.allegroimg.com\/original\/1137fa\/64ee4095463ea939cf6f56d16b6f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "8.13",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 66,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1143f1\/340e3cfe4817b6134514d5a63ce1"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ZUPA W KUBKU Z MAKARONEM I KURCZAKIEM W STYLU AZJATYCKIM BIO 55 g - NATUR C<\/h1><p>SKŁADNIKI<\/p><p>makaron z PSZENICY durum* (63,5 %), syrop glukozowy*, sól morska, sproszkowany kurczak* (3,5 %), nierafinowany cukier trzcinowy*, ekstrakt drożdżowy*, marchew*, przyprawy* (kmin rzymski*, imbir*, kurkuma*, pieprz*, cynamon*, nasiona kozieradki*, papryka*, kardamon*, gałka muszkatołowa*, ziele angielskie*, goździk*, chili*), skrobia kukurydziana*, zioła* (szczypiorek*, kolendra*), papryka*, tłuszcz z kurczaka* 0,3 %, czosnek*. (*certyfikowany składnik ekologiczny)<\/p><p>SPOSÓB PRZYGOTOWANIA <\/p><p>Zalać gorącą wodą do poziomu zaznaczonego wewnątrz kubka wymieszać, odczekać 4 minuty. Mieszać od czasu do czasu.<\/p><p>WARTOŚĆ ODŻYWCZA W 100 g PO PRZYGOTOWANIU<\/p><p>Wartość energetyczna 331 kJ\/78 kcal <\/p><p>Tłuszcz: 0,6 g <\/p><p>w tym kwasy tłuszczowe nasycone: 0,2 g <\/p><p>Węglowodany: 15,2 g <\/p><p>w tym cukry: 1,8 g<\/p><p>Białko: 2,5 g <\/p><p>Sól: 0,8 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać MLEKO (łącznie z LAKTOZĄ), SOJĘ, GORCZYCĘ, SELER, JAJA<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym miejscu<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>HEIRLER CENOVIS GMBH, SCHUTZENSTRASSE 24, 78315 RADOLFZELL<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1137fa\/64ee4095463ea939cf6f56d16b6f"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_8822"
+    },
+    "category": {
+        "id": "112612"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.13",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.87",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "47.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "760.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "47.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051345825",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T12:38:51.059Z"
+    },
+    "createdAt": "2025-11-03T12:38:51.000Z",
+    "updatedAt": "2025-11-03T12:53:51.891Z"
+}

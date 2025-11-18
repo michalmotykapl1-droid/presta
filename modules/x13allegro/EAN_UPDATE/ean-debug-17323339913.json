@@ -1,0 +1,254 @@
+{
+    "name": "CIASTKA OWSIANE BIO 170 g - BIOMINKI (BIOMINKI ) BIOMINKI",
+    "productSet": [
+        {
+            "product": {
+                "id": "c9e724ee-8ce8-416f-9770-587889ef653b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biominki"
+                        ],
+                        "valuesIds": [
+                            "248811_1957859"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129287",
+                        "name": "Wiek podawania",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129287_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129271",
+                        "name": "Gramatura",
+                        "values": [
+                            "170"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249583",
+                        "name": "Rodzaj",
+                        "values": [
+                            "ciastka"
+                        ],
+                        "valuesIds": [
+                            "249583_1705441"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902425050989"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902425050989"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11147b\/9834f5c04d8d811b3299ac174558"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "16.35",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 168,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>CIASTKA OWSIANE BIO 170 g - BIOMINKI - BIOMINKI<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>płatki OWSIANE (bez glutenu)* 53,7 %,inulina*, JAJA*, syrop z agawy*, olej rzepakowy*, sól himalajska, substancja spulchniająca: wodorowęglan sodu (*certyfikowany składnik ekologiczny).<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 g<\/p>\n<p>Wartość energetyczna - 1485 kJ \/ 355 kcal  <\/p>\n<p>Tłuszcz - 13 g  <\/p>\n<p>w tym kwasy tłuszczowe nasycone - 1,7 g  <\/p>\n<p>Węglowodany - 42 g  <\/p>\n<p>w tym cukry - 9,7 g  <\/p>\n<p>Błonnik - 17 g  <\/p>\n<p>Białko - 8,6 g  <\/p>\n<p>Sól - 0,75 g<\/p>\n<p>INFORMACJA ALERGENNA<\/p>\n<p>Produkt może zawierać ORZESZKI ZIEMNE, ORZECHY, NASIONA SEZAMU.<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w suchym i chłodnym miejscu.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44562"
+    },
+    "category": {
+        "id": "99477"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.35",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17323339913",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:45.589Z"
+    },
+    "createdAt": "2025-03-10T18:04:50.000Z",
+    "updatedAt": "2025-09-10T17:25:45.590Z"
+}

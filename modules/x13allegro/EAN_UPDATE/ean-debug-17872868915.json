@@ -1,0 +1,343 @@
+{
+    "name": "GORVITA Maść z żyworódki + aloes 130ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "5a0dfa23-63a3-4f61-be9f-64e55d7540df",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Gorvita"
+                        ],
+                        "valuesIds": [
+                            "248811_1960074"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907636994657"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Maść z Żyworódki"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "maść"
+                        ],
+                        "valuesIds": [
+                            "210758_260978"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "grzybica"
+                        ],
+                        "valuesIds": [
+                            "213970_265342"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "żyworódka"
+                        ],
+                        "valuesIds": [
+                            "213962_367077"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "130"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "130"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "213714_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907636994657"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "fdf56e12-3053-474d-977e-17bc8948f4a1"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ad97\/dbcaa86645bca8878be568373902"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "29.14",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 39,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ad97\/dbcaa86645bca8878be568373902"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>GORVITA Maść z żyworódki + aloes 130ml<\/h1> <p><b>OPIS <\/b><\/p><p>Maść z żyworódki wzbogacona ekstraktem aloesu<\/p> <p>Działanie maści jest związane z naturalnymi właściwościami ekstraktu żyworódki pierzastej oraz aloesu. Rośliny te zawierają flawonoidy, katechiny, witaminę C, mikro i makroelementy takie jak: krzem, miedź, mangan, selen, glin, potas, wapń, żelazo. Wykazują działanie antybakteryjne, antywirusowe, grzybobójcze przeciwzapalne i regenerujące naskórek. Maść skutecznie przyspiesza proces jego odnowy, stabilizuje gospodarkę hydro-lipidową, przywraca skórze elastyczność i odpowiednie nawilżenie. Zawarta w składzie allantoina, dzięki właściwościom keratolitycznym, oczyszcza, zmiękcza oraz wygładza powierzchnię skóry. Przywraca jej elastyczność i witalność. Może być stosowana do każdego rodzaju skóry.<\/p> <p><b>SKŁADNIKI ( INCI)<\/b><\/p><p>Aqua, ( modyfikowany roztwór leczniczej wody: wodorowęglanowo-chlorkowo-sodowej, bromkowo - jodkowo - borowej z Uzdrowiska Rabka S.A), Propylene Glycol, Glycerin, Polysorbate 20, Polyglyceryl-3 Methylglucose Distearate, Octyl Stearate, Paraffinum Liquidum, Petrolatum, Dimethicone, Carbomer, Triethanoloamine, Kalanchore Daigremontiana Extract, Aloe Vera (Aloe Barbadiensis) Extract, Stearyl Alkohol, Methylparaben, Allantoin, D-Panthenol.<\/p> <p>Składniki pochodzenia naturalnego. Testowany dermatologicznie. Produkt nie testowany na zwierzętach.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Stosować zewnętrznie kilka razy dziennie lub w zależności od potrzeb, delikatnie wmasowując maść w skórę aż do wchłonięcia.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21GORMASZW"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "29.14",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.70",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "168.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2730.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "168.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17872868915",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-09T05:55:26.751Z"
+    },
+    "createdAt": "2025-09-09T05:55:26.000Z",
+    "updatedAt": "2025-09-09T06:10:27.988Z"
+}

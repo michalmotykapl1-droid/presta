@@ -1,0 +1,344 @@
+{
+    "name": "AURA HERBALS Reishi zarodniki 800mg + witamina C 60 veg. kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "d906c9fa-66d5-4d5a-b480-d966b3c0fcf3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Aura Herbals"
+                        ],
+                        "valuesIds": [
+                            "248811_1957448"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "WITAMINY VITAMIN ODPRONOŚĆ KRĄŻENIE"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "REGULUJE CHOLESTEROL ZMĘCZENIE ZNUŻENIE"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "110"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina C"
+                        ],
+                        "valuesIds": [
+                            "210698_244198"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy",
+                            "chronić przed światłem",
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_8",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16",
+                            "210762_4096",
+                            "210762_8192",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902479613321"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "eb3d771a-eb6d-4d19-85a0-05b193c2610b"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a448\/d6c3520a481ba8d6ce8316f24f3f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.95",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a448\/d6c3520a481ba8d6ce8316f24f3f"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>AURA HERBALS Reishi zarodniki 800mg + witamina C 60 veg. kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>Reishi zarodniki 800 mg + witamina C, kapsułki 60 szt. - naturalne wsparcie odporności<\/p><p>Dlaczego warto wybrać preparat Reishi zarodniki 800 mg + witamina C w kapsułkach?<\/p><p>-100% naturalnych składników<\/p><p>-aż 800 mg ekstraktu z zarodników czerwonych grzybów reishi w dziennej porcji<\/p><p>-preparat wzbogacony o 100 mg witaminy C<\/p><p>-clean label – najprostszy skład, bez zbędnych dodatków<\/p><p>-roślinne kapsułki Vcaps® – otoczka kapsułki z celulozy roślinnej<\/p><p>Szczególne właściwości składników aktywnych:<\/p><p>-Reishi wspiera prawidłowe działanie układu odpornościowego, przyczynia się do utrzymania prawidłowego i sprawnego układu krążenia oraz wpływa na obniżenie poziomu cholesterolu.<\/p><p>-Witamina C pomaga w prawidłowym funkcjonowaniu układu odpornościowego i pomaga w ochronie komórek przed stresem oksydacyjnym. Przyczynia się do zmniejszenia uczucia zmęczenia i znużenie. Pomaga w utrzymaniu prawidłowych funkcji psychologicznych oraz w prawidłowym funkcjonowaniu układu nerwowego. Zwiększa przyswajanie żelaza oraz przyczynia się do utrzymania prawidłowego metabolizmu energetycznego. Pomaga w prawidłowej produkcji kolagenu w celu zapewnienia prawidłowego funkcjonowania naczyń krwionośnych, kości, zębów i dziąseł oraz skóry.<\/p> <p>Suplement diety wyprodukowany w polskim zakładzie produkcyjnym Aura Herbals. Wszystkie procesy odbywają się zgodnie z procedurami GMP\/HACCP.<\/p> <p>Produkt przebadany w niezależnej jednostce J.S. Hamilton. Badanie potwierdziło brak metali ciężkich i zanieczyszczeń mikrobiologicznych.<\/p>  <p>Reishi (Ganoderma lucidum) to grzyb o cennych właściwościach, które są znane w krajach Dalekiego Wschodu już od tysięcy lat. Zarodniki grzybów reishi są bogate w substancje aktywne wspomagające organizm w utrzymaniu prawidłowego poziomu cholesterolu oraz wspierające układ odpornościowy. <\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>Ekstrakt z zarodników czerwonych grzybów reishi (Ganoderma lucidum) DER 4:1, inulina, kwas L-askorbinowy (witamina C), L-leucyna, otoczka kapsułki: hydroksypropylometyloceluloza.<\/p> <p>Składniki aktywne w dziennej porcji (2 kapsułki):<\/p><p>Ekstrakt z reishi DER 4:1 - 800 mg<\/p><p>Witamina C - 100 mg - 125% RWS<\/p><p>*RWS - Referencyjna Wartość Spożycia<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1 kapsułkę popić wodą. Stosować dwa razy dziennie. Zalecana porcja do spożycia w ciągu dnia: 2 kapsułki. Nie przekraczaj zalecanej dziennej porcji do spożycia.<\/p><p><b>UWAGA <\/b><\/p><p>Nie stosować w przypadku alergii na jakikolwiek składnik suplementu.<\/p><p>Suplement diety nie może być stosowany jako substytut zróżnicowanej diety. Pamiętaj, że bardzo ważny i zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p><p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowuj w suchym miejscu w temperaturze poniżej 25°C. Suplement diety przechowuj w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21AURREIWI"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.95",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.35",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2995.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916007029",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:39:41.736Z"
+    },
+    "createdAt": "2025-09-22T20:39:41.000Z",
+    "updatedAt": "2025-10-24T10:21:35.414Z"
+}

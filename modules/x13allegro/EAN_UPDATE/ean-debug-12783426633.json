@@ -1,0 +1,345 @@
+{
+    "name": "MANGO SUSZONE BIO 100 g - BIO PLANET (BIO PLANET -",
+    "productSet": [
+        {
+            "product": {
+                "id": "11cf6920-4a20-4b82-baa6-3c8ba1803d6e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bio planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1957816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "w kawałkach"
+                        ],
+                        "valuesIds": [
+                            "210758_1781876"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Mango suszone Bio Planet 100 g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907814661838"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233413",
+                        "name": "Rodzaj suszonych owoców",
+                        "values": [
+                            "mango"
+                        ],
+                        "valuesIds": [
+                            "233413_372433"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233337",
+                        "name": "Opakowanie",
+                        "values": [
+                            "zgrzewany worek"
+                        ],
+                        "valuesIds": [
+                            "233337_372117"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233401",
+                        "name": "Typ suszonych owoców",
+                        "values": [
+                            "naturalne"
+                        ],
+                        "valuesIds": [
+                            "233401_372365"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128428",
+                        "name": "Wielkość opakowania (g)",
+                        "values": [
+                            "100 g"
+                        ],
+                        "valuesIds": [
+                            "128428_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Burkina Faso"
+                        ],
+                        "valuesIds": [
+                            "249649_1723286"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907814661838"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114729\/b540f3db4af5898bc55bf229319c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "14.54",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 3118,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>ekologiczne mango suszone 100 %.<\/p>\n<p>OPIS<\/p>\n<p>Bez dodatku cukrów. Zawiera naturalnie występujące cukry.<\/p>\n<p>Ekologiczne mango suszone to zarówno pożywna przekąska, jak również świetny dodatek do różnych potraw np. do porannej owsianki lub innych kasz, kompotów, deserów, sałatek, ciast, powideł oraz do nadziewania mięs. <\/p>\n<p>Barwa i smak mogą się różnić w zależności od partii. Na suszonym mango może występować biały nalot. Jest to zjawisko naturalne, związane z wytrącaniem się fruktozy, które nie wpływa na jakość produktu.<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 g<\/p>\n<p>Wartość energetyczna 1450 kJ\/343 kcal<\/p>\n<p>Tłuszcz 2,1 g<\/p>\n<p>w tym kwasy tłuszczowe nasycone 0,5 g<\/p>\n<p>Węglowodany 72 g<\/p>\n<p>w tym cukry 72 g<\/p>\n<p>Błonnik 8,6 g<\/p>\n<p>Białko 4,4 g<\/p>\n<p>Sól 0,07 g<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w suchym i chłodnym miejscu.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>BIO PLANET S.A., WILKOWA WIEŚ 7, 05-084 LESZNO<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_3528"
+    },
+    "category": {
+        "id": "261227"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.54",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "12783426633",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-04-29T18:33:18.682Z"
+    },
+    "createdAt": "2022-10-24T16:02:46.000Z",
+    "updatedAt": "2025-08-19T10:31:47.241Z"
+}

@@ -1,0 +1,352 @@
+#ximport_configuration_wholesaler_form .form-wrapper {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  width: 100%;
+  max-width: 100%;
+}
+
+#ximport_configuration_wholesaler_form .nav-tab-wholesaler {
+  margin-bottom: 14px;
+  border-bottom: 1px solid #ddd;
+}
+
+#ximport_configuration_wholesaler_form .nav-tab-wholesaler-option .list-group-item {
+  padding: 0;
+}
+#ximport_configuration_wholesaler_form .nav-tab-wholesaler-option .list-group-item a {
+  color: #555;
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+}
+#ximport_configuration_wholesaler_form .nav-tab-wholesaler-option .list-group-item.active a {
+  color: #fff;
+}
+#ximport_configuration_wholesaler_form .nav-tab-wholesaler-option .list-group-item a:hover {
+  background-color: #f5f5f5;
+}
+#ximport_configuration_wholesaler_form .nav-tab-wholesaler-option .list-group-item.active a:hover {
+  background-color: #00aff0;
+}
+
+#ximport_configuration_wholesaler_form .tab-wholesaler-option .cleaner-recommended {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+#ximport_configuration_wholesaler_form .tab-wholesaler-option .mce-container iframe {
+  min-height: 60px;
+}
+
+#form-ximport_category table thead > tr > th.word-break > span {
+  word-wrap: normal !important;
+  white-space: normal !important;
+}
+
+#form-ximport_category .panel-footer {
+  display: none !important;
+}
+
+#form-ximport_manufacturer .nav-tab-wholesaler,
+#form-ximport_attribute_group .nav-tab-wholesaler,
+#form-ximport_feature .nav-tab-wholesaler {
+  margin-bottom: 18px;
+  border-bottom: 1px solid #ddd;
+}
+
+#form-ximport_manufacturer .panel-heading-action,
+#form-ximport_attribute_group .panel-heading-action,
+#form-ximport_feature .panel-heading-action {
+  display: none;
+}
+
+#form-ximport_manufacturer .ximport-bulk-actions,
+#form-ximport_attribute_group .ximport-bulk-actions,
+#form-ximport_feature .ximport-bulk-actions {
+  position: relative;
+  height: 40px;
+}
+#form-ximport_manufacturer .ximport-bulk-actions > div,
+#form-ximport_attribute_group .ximport-bulk-actions > div,
+#form-ximport_feature .ximport-bulk-actions > div {
+  position: absolute;
+  bottom: 0;
+}
+#form-ximport_manufacturer .ximport-bulk-actions > div.text-left,
+#form-ximport_attribute_group .ximport-bulk-actions > div.text-left,
+#form-ximport_feature .ximport-bulk-actions > div.text-left {
+  left: 0;
+}
+#form-ximport_manufacturer .ximport-bulk-actions > div.text-right,
+#form-ximport_attribute_group .ximport-bulk-actions > div.text-right,
+#form-ximport_feature .ximport-bulk-actions > div.text-right {
+  right: 0;
+}
+
+#table-ximport_manufacturer td.row-selector input,
+#table-ximport_attribute_group td.row-selector input,
+#table-ximport_feature td.row-selector input {
+  cursor: pointer;
+}
+
+#table-ximport_attribute_group td.column-group_name i[class^=icon-],
+#table-ximport_feature td.column-name i[class^=icon-] {
+  margin-right: 6px;
+}
+#table-ximport_attribute_group td.column-group_name i.icon-chevron-down,
+#table-ximport_feature td.column-name i.icon-chevron-down {
+  font-size: 10px;
+  position: relative;
+  margin-left: 4px;
+  top: -1px;
+}
+
+#table-ximport_feature td.column-import_as_custom label {
+  margin: 0 auto;
+  font-weight: initial;
+  cursor: pointer;
+}
+#table-ximport_feature td.column-import_as_custom label input {
+  position: relative;
+  top: 2px;
+  cursor: pointer;
+}
+
+#table-ximport_attribute_group tr.attribute-row-option label,
+#table-ximport_feature tr.feature-value-row-option label {
+  display: inline-block;
+  margin: 0 7px 0 14px;
+  font-weight: initial;
+  font-style: italic;
+}
+#table-ximport_attribute_group tr.attribute-row-option select,
+#table-ximport_feature tr.feature-value-row-option select {
+  display: inline-block;
+  width: 250px;
+  height: 29px;
+  padding: 0 8px;
+  line-height: 1;
+}
+
+#table-ximport_attribute_group tr.attribute-row > td.column-name label,
+#table-ximport_feature tr.feature-value-row > td.column-value label {
+  margin: 0 auto 0 14px;
+  font-weight: initial;
+  cursor: pointer;
+}
+#table-ximport_attribute_group tr.attribute-row > td.column-name label input,
+#table-ximport_feature tr.feature-value-row > td.column-value label input {
+  position: relative;
+  top: 2px;
+  margin-right: 2px;
+  cursor: pointer;
+}
+
+#table-ximport_manufacturer > tbody > tr > td:last-child,
+#table-ximport_attribute_group > tbody > tr > td:last-child,
+#table-ximport_feature > tbody > tr > td:last-child {
+  width: 260px;
+}
+#table-ximport_manufacturer > tbody > tr > td:last-child > .btn-group,
+#table-ximport_attribute_group > tbody > tr > td:last-child > .btn-group,
+#table-ximport_feature > tbody > tr > td:last-child > .btn-group {
+  display: none;
+}
+#table-ximport_manufacturer > tbody > tr > td:last-child > .btn-group .btn-primary,
+#table-ximport_attribute_group > tbody > tr > td:last-child > .btn-group .btn-primary,
+#table-ximport_feature > tbody > tr > td:last-child > .btn-group .btn-primary {
+  color: #fff;
+  text-transform: uppercase;
+  background-color: #25b9d7;
+  border-color: #25b9d7;
+}
+#table-ximport_manufacturer > tbody > tr > td:last-child > .btn-group .btn-primary i,
+#table-ximport_attribute_group > tbody > tr > td:last-child > .btn-group .btn-primary i,
+#table-ximport_feature > tbody > tr > td:last-child > .btn-group .btn-primary i {
+  color: #fff;
+}
+#table-ximport_manufacturer > tbody > tr > td:last-child > .btn-group .btn-primary:hover,
+#table-ximport_attribute_group > tbody > tr > td:last-child > .btn-group .btn-primary:hover,
+#table-ximport_feature > tbody > tr > td:last-child > .btn-group .btn-primary:hover {
+  background-color: #1e94ab;
+}
+
+#table-ximport_manufacturer select.readonly,
+#table-ximport_attribute_group select.readonly,
+#table-ximport_feature select.readonly {
+  pointer-events: none;
+  background-color: #eee;
+  opacity: 1;
+}
+
+.ximport-overlay-loader {
+  position: absolute;
+  z-index: 400;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(239, 241, 242, 0.4);
+}
+.ximport-overlay-loader > i {
+  font-size: 45px;
+  position: absolute;
+  color: #444;
+  left: 50%;
+  margin-top: 52px;
+  margin-left: -30px; /* font-size 45px is ~ 60px/60px */
+}
+
+.x13import-option-slider-input {
+  float: left;
+  width: 80px !important;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-right: 10px;
+}
+.x13import-option-slider {
+  position: relative;
+  top: 14px;
+}
+
+i.x-categories-import:before {
+  content: '\f019' !important;
+}
+
+/* modal
+ * ------------------------------------------------------------------------------------------------------------------ */
+.x13import-modal-header{
+  background: #FFF;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #dbe6e8;
+  -webkit-border-top-right-radius: 6px;
+  -webkit-border-top-left-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -moz-border-radius-topleft: 6px;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+
+.x13import-modal-footer{
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 60%, rgba(255,255,255,0) 100%);
+  padding-top:20px !important;
+  position: sticky;
+  bottom: 0;
+  z-index: 3;
+  border:none !important;
+  -webkit-border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+.x13import-modal-footer .btn-left{
+  float: left;
+}
+
+.x13import-modal-footer-left{
+  float: left;
+  text-align: left;
+}
+
+.x13import-modal-title{
+  color:#363A41 !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+
+.x13import-modal-title-small{
+  font-size:13px !important;
+  color: #1F1F1F !important;
+  margin-top:-3px;
+  margin-bottom:2px;
+}
+.x13import-modal-title-small span{
+  font-weight: 600 !important;
+}
+
+.x13import-modal-close {
+  font-size:32px !important;
+  color:#363A41 !important;
+  opacity: 0.5 !important;
+}
+.x13import-modal-close:hover{
+  opacity: 1 !important;
+}
+
+.x13import-modal-body{
+  padding-bottom: 0 !important;
+}
+
+/* select2
+ * ------------------------------------------------------------------------------------------------------------------ */
+select.ximport-select2 + .select2-container .select2-selection {
+  height: 39px !important;
+  padding: 8px 16px !important;
+  font-size: 12px !important;
+  line-height: 1.428571429 !important;
+  color: #555 !important;
+  background-color: #fff !important;
+  background-image: none !important;
+  border: 1px solid #66afe9 !important;
+  border-radius: 4px !important;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);
+}
+
+select.ximport-select2 + .select2-container .select2-selection__rendered {
+  color: #555 !important;
+  line-height: 1.8 !important;
+  position: relative !important;
+  left: 4px !important;
+  padding: 0 !important;
+}
+
+select.ximport-select2 + .select2-container .select2-selection__arrow b {
+  display: inline-block;
+  margin-top: -1px;
+  border: none;
+  font: 10px/1 FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0,0);
+}
+select.ximport-select2 + .select2-container .select2-selection__arrow b:before {
+  content: "\F078";
+}
+
+.ximport-select2.select2-dropdown {
+  background-color: #fff !important;
+  background-image: none !important;
+  border-color: #bbcdd2 !important;
+  border-radius: 4px !important;
+}
+
+.ximport-select2.select2-dropdown .select2-results {
+  overflow: hidden !important;
+}
+.ximport-select2.select2-dropdown .select2-results .select2-results__options {
+  margin-bottom: 0 !important;
+}
+
+.ximport-select2.select2-dropdown .ximport-select2-custom-input {
+  padding: 4px !important;
+}
+.ximport-select2.select2-dropdown .ximport-select2-custom-input input {
+  width: 180px !important;
+}
+.ximport-select2.select2-dropdown .ximport-select2-custom-input button {
+  height: 39px !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-left-radius: 0 !important;
+}

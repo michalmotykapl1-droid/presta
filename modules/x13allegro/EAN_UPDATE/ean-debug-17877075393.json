@@ -1,0 +1,356 @@
+{
+    "name": "PASTA DO ZĘBÓW MORNING FRESH BEZ FLUORU ECO 75 ml - NORDICS",
+    "productSet": [
+        {
+            "product": {
+                "id": "ddd934d5-968f-4fa8-a67d-c6732083dc28",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Nordics"
+                        ],
+                        "valuesIds": [
+                            "248811_2006658"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4197"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225385",
+                        "name": "Smak",
+                        "values": [
+                            "Kokos a máta"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "116"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207166",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez barwników"
+                        ],
+                        "valuesIds": [
+                            "207166_32768"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Zubní pasta Nordics přírodní osvěžující s kokosem a mátou 75 ml"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207158",
+                        "name": "Działanie",
+                        "values": [
+                            "oczyszczanie",
+                            "próchnica",
+                            "świeży oddech"
+                        ],
+                        "valuesIds": [
+                            "207158_4096",
+                            "207158_32",
+                            "207158_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208806",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla dorosłych"
+                        ],
+                        "valuesIds": [
+                            "208806_236886"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.116"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3800500324197"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "8770638c-315a-45a9-88a0-51ac980f6da1"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1195aa\/cb70a82942bda2757e2d518c8438"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.63",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 769,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1195aa\/cb70a82942bda2757e2d518c8438"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PASTA DO ZĘBÓW MORNING FRESH BEZ FLUORU ECO 75 ml - NORDICS<\/h1><p>SKŁADNIKI<\/p><p>Hydrogenated Starch Hydrolysate, Hydrated Silica, Aqua, Glycerin, Xylitol, Lauryl Glucoside, Zinc Citrate, Xanthan Gum, Aroma, Mentha Piperita Oil*, Cocos Nucifera Oil*, Disodium Cocoyl Glutamate, Sodium Cocoyl Glutamate, Aloe Barbadensis Leaf Extract*, Sesamum Indicum Seed Oil*, Helianthus Annuus Seed Oil*, Olea Europeae Fruit Oil*, Limonene. (*składniki z rolnictwa ekologicznego)<\/p><p>OPIS<\/p><p>Naturalna pasta do zębów Nordics Morning Fresh z olejem kokosowym i miętą. Idealna do porannej rutyny. Kompleksowa pielęgnacja do codziennego użytku o właściwościach przeciwpróchniczych. <\/p><p>Zawiera olej kokosowy, który ma działanie antybakteryjne i pomaga zwalczać bakterie. Wysokie stężenie olejku miętowego działa jak silny środek antyseptyczny i usuwa nieświeży oddech. Ekstrakt z aloesu łagodzi podrażnienia w jamie ustnej i wzmacnia dziąsła.<\/p><p>Efekty<\/p><p>- oczyszczone zęby<\/p><p>- ochrona przed próchnicą<\/p><p>- długotrwale świeży oddech<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Norte Ltd. Sofia, Blvd. Shipchenski Prohod 240<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_30050"
+    },
+    "category": {
+        "id": "257765"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.63",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.90",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "73.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1185.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "73.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877075393",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T11:17:20.927Z"
+    },
+    "createdAt": "2025-09-10T11:17:20.000Z",
+    "updatedAt": "2025-09-10T11:32:21.932Z"
+}

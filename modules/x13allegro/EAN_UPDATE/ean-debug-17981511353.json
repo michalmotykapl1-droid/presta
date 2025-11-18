@@ -1,0 +1,398 @@
+{
+    "name": "Baton proteinowy w polewie czekoladowej „CHOCO + ALMOND” Fizi, 45g",
+    "productSet": [
+        {
+            "product": {
+                "id": "67ebbcda-f99e-4f27-8a0c-2250c691943a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248601",
+                        "name": "Rodzaj",
+                        "values": [
+                            "baton"
+                        ],
+                        "valuesIds": [
+                            "248601_933021"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Baton Proteinowy Migdał + Czekolada 45g - FIZI"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "45"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru",
+                            "glutenu",
+                            "jajek",
+                            "laktozy",
+                            "nabiału",
+                            "pszenicy"
+                        ],
+                        "valuesIds": [
+                            "130691_4",
+                            "130691_2",
+                            "130691_1048576",
+                            "130691_1",
+                            "130691_262144",
+                            "130691_131072"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "w czekoladzie",
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_16384",
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Licencja na Znak Przekreślonego Kłosa"
+                        ],
+                        "valuesIds": [
+                            "10643_4194304"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4820262540061"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.05"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "9.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "15.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "12.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "2.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "11.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4820262540399"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c005\/390658d8427c88d553d8ab5d01fe",
+        "https:\/\/a.allegroimg.com\/original\/11e64f\/a9f4dc1d4421bca0d826391cfa0f",
+        "https:\/\/a.allegroimg.com\/original\/112d95\/7e64ca3140999133ccdc373137d2"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "6.61",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 49,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c005\/390658d8427c88d553d8ab5d01fe"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Baton proteinowy w polewie czekoladowej „CHOCO + ALMOND” Fizi, 45g<\/h1> <p><b>Baton proteinowy w polewie czekoladowej „CHOCO + ALMOND” Fizi, 45g <\/b><\/p> <p>Kiedy usłyszeliśmy i stworzyliśmy mix Guilty i 12 g białka w 1 batonie! Ten crush sprawia, że na chwilę zapominasz, że nie zawiera białego cukru, laktozy i glutenu... Bo jak to możliwe, że jest tak smaczny i zdrowy jednocześnie?<\/p> <p><b>Składniki:<\/b><\/p><p>Koncentrat soku jabłkowego, <b>migdały <\/b>(27,8%), izolat białka grochu (26,9%), polewa czekoladowa (11,6%) (miazga kakaowa, słodzik maltitol, tłuszcz kakaowy, kakao w proszku o obniżonej zawartości tłuszczu, masło shea, emulgator lecytyna, naturalny aromat waniliowy), guma ksantanowa.<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>Wartość energetyczna 1583 kJ\/ 337 kcal<\/p><p>Tłuszcz 17,4 g<\/p><p>w tym kwasy tłuszczowe nasycone 3,3 g<\/p><p>Węglowodany 30,7 g<\/p><p>w tym cukry 24,1 g<\/p><p>Błonnik 4,8 g<\/p><p>Białko 30,4 g<\/p><p>Sól &lt;0,01 g<\/p> <p><b>Alergeny:<\/b><\/p><p><b>Migdały. <\/b>Może zawierać śladowe ilości orzechów ziemnych oraz innych orzechów (orzechy nerkowca, orzechy laskowe).<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym, chłodnym, ciemnym miejscu. Chronić przed bezpośrednim działaniem promieni słonecznych.<\/p> <p><b>Producent:<\/b><\/p><p>FIZI LLC<\/p><p>7A Mykoly Vasylebka St.<\/p><p>Kviv, 03124 Ukraine<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11e64f\/a9f4dc1d4421bca0d826391cfa0f"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112d95\/7e64ca3140999133ccdc373137d2"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_4820262540399"
+    },
+    "category": {
+        "id": "261647"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.61",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.52",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "620.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981511353",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T09:31:16.081Z"
+    },
+    "createdAt": "2025-10-14T09:31:16.000Z",
+    "updatedAt": "2025-10-30T13:12:49.168Z"
+}

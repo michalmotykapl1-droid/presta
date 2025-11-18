@@ -1,0 +1,389 @@
+{
+    "name": "SZAMPON NO 1 NA CEDROWYM PROPOLISIE WZMACNIAJĄCY 550 ml - RECEPTURY BABCI A",
+    "productSet": [
+        {
+            "product": {
+                "id": "928b8a7a-3466-4daa-b0ae-eac54a90f6d4",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Babuszka Agafia"
+                        ],
+                        "valuesIds": [
+                            "248811_1972532"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "regeneracja i nawilżenie"
+                        ],
+                        "valuesIds": [
+                            "129469_1778815"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "do każdego typu włosów"
+                        ],
+                        "valuesIds": [
+                            "226825_317513"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "aluminium",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_512",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "550"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.65"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "bezzapachowa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247073",
+                        "name": "Porowatość włosów",
+                        "values": [
+                            "włosy średnioporowate"
+                        ],
+                        "valuesIds": [
+                            "247073_642973"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4744183013490"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "123"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4744183013490"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e7b17d05-0f0e-46ca-8ee8-1dded3202cd2"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c6b2\/8e0e30b0489899f272fe54997b96"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "15.71",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 233,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c6b2\/8e0e30b0489899f272fe54997b96"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SZAMPON NO 1 NA CEDROWYM PROPOLISIE WZMACNIAJĄCY 550 ml - RECEPTURY BABCI A<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocoamide DEA, Cocoamidopropyl Betaine, Guar Hydroxypropyltrimonium Chloride, Propolis Extact*, Pinus Sibirica Seed Oil, Inula Helenium Extract, humulus Lupulus Flower Extract, Helianthus Annus Hybrid Oil, Cera Alba*, Cedrus Atlantic bark oil, Chamomila Recutita Oil, Geranium Sibiricum Extract*, Panax Ginseng Root Extract*, Panthenol, Niacinamid, Saponaria Officinalis Root Extract*, Citric Acid, parfum, Methylchloroisothiazolinone, Methylisothiazolinone, Ci15985, CI194140, Ci42090, CI14720, CI 16035. (*składnik z rolnictwa ekologicznego)<\/p><p>Składniki aktywne: ekstrakt propolisu, olej cedrowy(z nasion sosny syberyjskiej), ekstrakt omanu, szyszki chmielu, wosk pszczeli, olejek cedrowy, olejek rumiankowy, ekstrakt z geranium, ekstrakt z żeń-szenia. <\/p><p>OPIS<\/p><p>Działanie: Aktywne wzmocnienie i poprawa struktury włosów. <\/p><p>Przeznaczenie: Przeznaczony do mycia i pielęgnacji słabych i zniszczonych włosów. <\/p><p>SPOSÓB UŻYCIA <\/p><p>Nanieść szampon na wilgotne włosy i skórę głowy i okrężnymi, masującymi ruchami wzbudzić pianę. Spłukać wodą.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>EUROBIO LAB OÜ, LEVIA 3, TALLIN, 12618 ESTONIA<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_7781"
+    },
+    "category": {
+        "id": "5363"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.71",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.61",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "90.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1470.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "90.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876553891",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T07:31:12.614Z"
+    },
+    "createdAt": "2025-09-10T07:31:12.000Z",
+    "updatedAt": "2025-10-24T04:26:39.909Z"
+}

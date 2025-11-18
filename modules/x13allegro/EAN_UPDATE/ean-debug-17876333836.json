@@ -1,0 +1,362 @@
+{
+    "name": "ETJA Olej z Pestek Moreli 50ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "bd196a45-6d3a-4e9d-a8c5-4bf43df75720",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Etja"
+                        ],
+                        "valuesIds": [
+                            "248811_984388"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908310446639"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Pestki moreli"
+                        ],
+                        "valuesIds": [
+                            "22158_20"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "amoniaku",
+                            "barwników",
+                            "mydła",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_1024",
+                            "129770_65536",
+                            "129770_131072",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "atomizer"
+                        ],
+                        "valuesIds": [
+                            "215766_275137"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247999",
+                        "name": "Typ",
+                        "values": [
+                            "olejek"
+                        ],
+                        "valuesIds": [
+                            "247999_840182"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Świeży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908310446639"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9b22bd8c-6140-47d9-81f0-d63774981ca5"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c31e\/5c185d8e4bc0b3ea2b24c4267b4e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.40",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 13,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c31e\/5c185d8e4bc0b3ea2b24c4267b4e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ETJA Olej z Pestek Moreli 50ml<\/h1> <p><b>OPIS <\/b><\/p><p>NATURLANY OLEJ Z PESTEK MORELI \/Prunus Armeniaca Kernel Oil\/<\/p> <p>Naturalny, nierafinowany, kosmetyczny, tłoczony na zimno olej otrzymywany z pestek moreli. Zawiera nienasycone kwasy tłuszczowe, witaminy A, B i E. Doskonale się wchłania utrzymując odpowiedni poziom nawilżenia skóry. Jego lekka i delikatna konsystencja nadaje się do każdego rodzaju skóry zwłaszcza suchej, dojrzałej i wrażliwej.<\/p> <p>Olej z Pestek Moreli oferowany przez firmę ETJA jest w 100% naturalny. Produkt przebadany dermatologicznie. <\/p> <p>Olej nośnikowy jest naturalnym produktem. Wpływ sezonowych zmian pogodowych może wywołać niewielkie różnice w kolorze, zapachu i gęstości.<\/p><p><b>SPOSÓB UŻYCIA <\/b><\/p><p>-bezpośrednio na skórę<\/p><p>-masaż całego ciała<\/p><p>-dodatek do kremów i balsamów<\/p><p>-idealna baza do rozcieńczania naturalnych olejków eterycznych<\/p><p>-godny polecenia jako dodatek do kąpieli dzieci i niemowląt<\/p><p>-moczenie stóp<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Zawsze po użyciu zamykać korkiem pompkę dozującą i starać się przechowywać w chłodnym miejscu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71ETJOLEPESMO"
+    },
+    "category": {
+        "id": "144742"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.40",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.85",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "71.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1160.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "71.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876333836",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:07:39.112Z"
+    },
+    "createdAt": "2025-09-10T05:07:39.000Z",
+    "updatedAt": "2025-10-28T12:48:22.993Z"
+}

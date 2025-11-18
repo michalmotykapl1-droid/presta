@@ -1,0 +1,332 @@
+{
+    "name": "Niepokalanek owoc mielony 100g FLOS (FLOS) FLOS",
+    "productSet": [
+        {
+            "product": {
+                "id": "5a44ac89-71bd-4c34-bb90-6ef521be14b4",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Flos"
+                        ],
+                        "valuesIds": [
+                            "248811_1080169"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905279799196"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Niepokalanek"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213806",
+                        "name": "Typ",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "213806_382013"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "232285",
+                        "name": "Rodzaj",
+                        "values": [
+                            "niepokalanek"
+                        ],
+                        "valuesIds": [
+                            "232285_366209"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213810",
+                        "name": "Postać",
+                        "values": [
+                            "nasiona"
+                        ],
+                        "valuesIds": [
+                            "213810_263798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez barwników",
+                            "bez konserwantów",
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "213714_16",
+                            "213714_32768",
+                            "213714_65536",
+                            "213714_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "niacyna"
+                        ],
+                        "valuesIds": [
+                            "213962_264990"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905279799196"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11fa35\/904794084eb0a96759d23bacfa4b"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.38",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 45,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>Niepokalanek owoc mielony 100g FLOS (FLOS) - FLOS<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>SKŁADNIKI<\/b><\/p>\n<p>Zmielone owoce niepokalanka (Vitex agnus-castus L.) – 100 %<\/p>\n<p>Do opakowania dołączona jest miarka dozująca znajdująca się pomiędzy opakowaniem zewnętrznym a bezpośrednim produktu.<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Miarkę dozującą dołączoną do opakowania napełnić produktem (miarka pozwala na odmierzenie porcji dobowej do spożycia). Odmierzoną porcję spożywać bezpośrednio 1 raz dziennie popijając wodą. 96 mg produktu (odmierzone za pomocą miarki dozującej) stanowi dzienną porcję do spożycia.<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia. Suplementy diety nie mogą być stosowane jako substytut zróżnicowanej diety. Suplementy diety powinny być przechowywane w sposób niedostępny dla małych dzieci.<\/p>\n<p>Produkt może powodować ciężkie reakcje alergiczne, w tym reakcje skórne(wysypka, pokrzywka), duszność i trudności w połykaniu, zawroty oraz bóle głowy, dolegliwości żołądkowo – jelitowe (np. nudności i bóle brzucha), a także trądzik. Produkt nie jest przeznaczony dla kobiet w ciąży oraz karmiących piersią.<\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowywać w suchym miejscu, chronić od światła.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_31FLONIEOW"
+    },
+    "category": {
+        "id": "258266"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.38",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "13180011152",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:24:46.839Z"
+    },
+    "createdAt": "2023-01-25T16:46:44.000Z",
+    "updatedAt": "2025-09-10T17:24:46.839Z"
+}

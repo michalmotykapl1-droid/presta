@@ -1,0 +1,327 @@
+{
+    "name": "GRZEBIEŃ Z DRZEWA NEEM Z RĄCZKĄ - SATTVA (WELLNESS)",
+    "productSet": [
+        {
+            "product": {
+                "id": "c76a94e6-816e-4987-862b-b08056d4632d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250183",
+                        "name": "Typ",
+                        "values": [
+                            "grzebienie"
+                        ],
+                        "valuesIds": [
+                            "250183_1799294"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "219993",
+                        "name": "Rodzaj",
+                        "values": [
+                            "do rozczesywania"
+                        ],
+                        "valuesIds": [
+                            "219993_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220017",
+                        "name": "Materiał włosia",
+                        "values": [
+                            "tworzywo naturalne"
+                        ],
+                        "valuesIds": [
+                            "220017_289561"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "219997",
+                        "name": "Cechy",
+                        "values": [
+                            "odporność na działanie wysokich temperatur"
+                        ],
+                        "valuesIds": [
+                            "219997_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249512",
+                        "name": "Kolor",
+                        "values": [
+                            "beżowy"
+                        ],
+                        "valuesIds": [
+                            "249512_1647424"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903794180697"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220485",
+                        "name": "Materiał uchwytu",
+                        "values": [
+                            "mieszane"
+                        ],
+                        "valuesIds": [
+                            "220485_291017"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794180697"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "50b05e79-8340-4d65-b710-bdec465dda52"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa szczotek i grzebieni oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Ryzyko zranienia: Ostre zakończenia lub uszkodzenia mogą powodować skaleczenia skóry głowy. Sprawdzaj regularnie stan szczotki\/grzebienia i wymień na nowy w przypadku uszkodzeń.\n*   Alergie: Materiały, z których wykonane są szczotki\/grzebienie, mogą wywoływać reakcje alergiczne. Przerwij stosowanie, jeśli zauważysz zaczerwienienie, swędzenie lub podrażnienie skóry.\n*   Urazy mechaniczne: Nieprawidłowe używanie (np. zbyt silne szarpanie włosów) może prowadzić do uszkodzenia włosów i skóry głowy. Używaj delikatnie, unikaj szarpania i ciągnięcia.\n*   Zagrożenia dla dzieci: Małe elementy (np. wypadające włosie) mogą stanowić zagrożenie zadławienia dla małych dzieci. Przechowuj szczotki\/grzebienie poza zasięgiem dzieci.\n*   Higiena: Niekonserwowane szczotki\/grzebienie mogą stać się siedliskiem bakterii i grzybów. Regularnie czyść szczotkę\/grzebień, usuwaj wypadnięte włosy.\n*   Uszkodzenia termiczne: Niektóre materiały mogą ulec uszkodzeniu pod wpływem wysokiej temperatury (np. suszarki). Unikaj przegrzewania szczotki\/grzebienia.\n*    Zagrożenie elektryczne: Używając elektrycznych szczotek, chroń je przed kontaktem z wodą.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11139f\/417594d64194a88fe51f93b71d72"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "17.39",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 15,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11139f\/417594d64194a88fe51f93b71d72"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>GRZEBIEŃ Z DRZEWA NEEM Z RĄCZKĄ - SATTVA (WELLNESS)<\/h1><p>OPIS <\/p><p>Grzebień z drewna neem to wyjątkowy dodatek do codziennej pielęgnacji włosów, inspirowany ajurwedyjską tradycją. Jest znacznie delikatniejszy od tradycyjnych grzebieni i nie podrażnia skóry głowy lub brody podczas czesania.<\/p><p>Długość grzebienia - 19 cm.<\/p><p>Właściwości:<\/p><p>- ułatwia rozczesywanie włosów zarówno na sucho jak i mokro, nie uszkadzając struktury włosa<\/p><p>- umożliwia równomierne rozprowadzanie odżywek<\/p><p>- nie elektryzuje włosów<\/p><p>- zapobiega wypadaniu włosów<\/p><p>- wygładza włosy<\/p><p>SPOSÓB UŻYCIA<\/p><p>Używanie grzebienia z drewna neem jest wskazane zarówno do włosów krótkich, jak i długich. Czesanie grzebieniem powinno trwać około 5-10 minut, być łagodne, relaksujące i stymulujące.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Bombay Bazaar Ashish Hinduja, Al.. Krakowska 61a, 05-090 Sękocin Nowy<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_34588"
+    },
+    "category": {
+        "id": "259388"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.39",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "100.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1630.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "100.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051603322",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T14:21:03.090Z"
+    },
+    "createdAt": "2025-11-03T14:21:03.000Z",
+    "updatedAt": "2025-11-03T14:36:03.609Z"
+}

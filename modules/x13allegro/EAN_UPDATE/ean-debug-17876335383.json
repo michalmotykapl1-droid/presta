@@ -1,0 +1,350 @@
+{
+    "name": "Naczynie do kiełkowania BIO NATURA",
+    "productSet": [
+        {
+            "product": {
+                "id": "5fbd966f-4297-4314-8629-617ec887178d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bio-Natura"
+                        ],
+                        "valuesIds": [
+                            "248811_950055"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "243601",
+                        "name": "Materiał dominujący",
+                        "values": [
+                            "tworzywo sztuczne"
+                        ],
+                        "valuesIds": [
+                            "243601_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "2977",
+                        "name": "Długość",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "223333",
+                        "name": "Szerokość produktu",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "223329",
+                        "name": "Wysokość produktu",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "214478",
+                        "name": "Waga",
+                        "values": [
+                            "0.69"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "11530",
+                        "name": "Pojemność",
+                        "values": [
+                            "12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "243605",
+                        "name": "Liczba poziomów",
+                        "values": [
+                            "3"
+                        ],
+                        "valuesIds": [
+                            "243605_486225"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "243609",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "możliwość mycia w zmywarce",
+                            "pokrywka"
+                        ],
+                        "valuesIds": [
+                            "243609_1",
+                            "243609_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.85"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905533000013"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905533000013"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "1a0245dc-515c-4ae9-a76e-04558565ac53"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11401a\/36aac2e545b594be994bde16d7da",
+        "https:\/\/a.allegroimg.com\/original\/11d280\/29eed3684309b5fe3f28c31a41eb"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "33.07",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 12,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11401a\/36aac2e545b594be994bde16d7da"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Naczynie do kiełkowania BIO NATURA<\/h1> <p><b>ZAWARTOŚĆ <\/b><\/p><p>1. Pokrywa - gwarantuje stabilny, wilgotny klimat, także przy wahaniach temperatury.<\/p> <p>2. Szalki do kiełkowania - trzy duże szalki pozwalają na jednoczesne kiełkowanie różnych gatunków nasion albo kontynuować zbiory poprzez stopniowy wysiew nasion. <\/p> <p>3. Syfony odpływowe - regulują wilgotność i zapewniają odpływ nadmiaru wody.<\/p> <p>4. Wentylatory - w pokrywie i w szalkach, służące do odprowadzania gazów i tlenu.<\/p> <p>5. Zbiornik - po nawodnieniu gromadzi nadmiar wody (idealna do podlewania kwiatów).<\/p> <p>Wymiary: średnica 20 cm x wysokość 15 cm.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d280\/29eed3684309b5fe3f28c31a41eb"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_51PLANACKI"
+    },
+    "category": {
+        "id": "302817"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "33.07",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.61",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "190.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3100.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "190.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876335383",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:09:31.050Z"
+    },
+    "createdAt": "2025-09-10T05:09:31.000Z",
+    "updatedAt": "2025-09-10T05:24:32.384Z"
+}

@@ -1,0 +1,283 @@
+{
+    "name": "BUSKODENT Płyn do płukania jamy ustnej bez alkoholu i fluoru 500ml SULPHUR",
+    "productSet": [
+        {
+            "product": {
+                "id": "0d54e22c-3ede-40de-849b-5169208369d0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sulphur"
+                        ],
+                        "valuesIds": [
+                            "248811_1976351"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907256000387"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "5907256000387"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207158",
+                        "name": "Działanie",
+                        "values": [
+                            "paradontoza"
+                        ],
+                        "valuesIds": [
+                            "207158_256"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207122",
+                        "name": "Pojemność",
+                        "values": [
+                            "500 ml"
+                        ],
+                        "valuesIds": [
+                            "207122_230574"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907256000387"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d044f376-655e-4296-8c03-5fcea12a89cd"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa płynów do płukania ust oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Nie połykaj płynu do płukania ust. Jest on przeznaczony wyłącznie do użytku zewnętrznego w jamie ustnej. Połknięcie może spowodować problemy żołądkowe lub inne komplikacje zdrowotne.\n2.  Trzymaj płyn do płukania ust poza zasięgiem dzieci. Dzieci mogą przypadkowo połknąć płyn, co może być dla nich szkodliwe.\n3.  Nie używaj płynu do płukania ust, jeśli masz alergię na którykolwiek ze składników. Przeczytaj uważnie listę składników przed użyciem.\n4.  Skonsultuj się z dentystą przed użyciem płynu do płukania ust, jeśli masz jakiekolwiek problemy zdrowotne jamy ustnej lub po zabiegach dentystycznych.\n5.  Nie rozcieńczaj płynu do płukania ust, chyba że jest to wyraźnie zalecane przez producenta. Rozcieńczenie może zmniejszyć skuteczność płynu.\n6.  Przestań używać płynu do płukania ust i skonsultuj się z lekarzem lub dentystą, jeśli wystąpią podrażnienia, ból lub obrzęk w jamie ustnej.\n7.  Płyny do płukania ust zawierające alkohol mogą powodować suchość w ustach. Jeśli masz suchość w ustach, rozważ użycie płynu bezalkoholowego.\n8.  Nie używaj płynu do płukania ust częściej niż zalecane. Nadmierne używanie może prowadzić do zaburzenia naturalnej flory bakteryjnej w jamie ustnej.\n9.  Nie używaj płynu do płukania ust jako zamiennika szczotkowania i nitkowania zębów. Płyn jest jedynie uzupełnieniem codziennej higieny jamy ustnej.\n10. Przechowuj płyn do płukania ust w temperaturze pokojowej, z dala od bezpośredniego światła słonecznego i ciepła.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f51d\/9ea9eab74eebb385ba2642566219"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.05",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f51d\/9ea9eab74eebb385ba2642566219"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BUSKODENT Płyn do płukania jamy ustnej bez alkoholu i fluoru 500ml SULPHUR<\/h1> <p><b>OPIS <\/b><\/p><p>Działanie BUSKODENT płynu do płukania jamy ustnej związane jest z aktywnymi biologicznie składnikami naturalnych wód siarczkowych. Zawierają one bogactwo cennych związków siarki, jodki, bromki, sole wapnia, magnezu, potasu i inne mikroelementy. Zawarty w wodzie siarczkowej chlorek sodowy wykazuje działanie antyseptyczne, działa pobudzająco na błonę śluzową. Mineralne składniki płynu wpływają na odnowę i regenerację nabłonka śluzówki jamy ustnej. Zawarte w płynie olejeki mięty pieprzowej i słodkiej zapewniają długotwałe uczucie świeżości i zapobiegają przykremu zapachowi z ust.<\/p> <p><b>SKŁADNIKI (INCI) <\/b><\/p><p>Ingredients (INCI): Aqua; Propylene glycol; Glycerin; Sulphide-Sulphide Hydrogen Salty Mineral Water,; Hydrogenated Starch Hydrosylate; PEG-40 Hydrogenated Castor Oil; Potassium Sorbate; Sodium benzoate; Parfum; Polysorbate 20; Citric Acid; Menthol; Sodium Saccharin; Mentha Piperita Oil; Acid Blue 9 (CI 42090); Limonene; Anethole.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Stosować dwa raz dziennie w ilości jednej nakrętki (około 20ml) płucząc intensywnie przez 30 sekund. Do optymalnej skuteczności działania stosować rano i wieczorem po szczotkowaniu zębów (zalecana siarczkowa pasta do zębów BUSKODENT). Nie połykać. Odpowiedni dla dzieci powyżej 12 roku życia. Otwierać poprzez ściśnięcie nakrętki w miejscu z gładką powierzchnią i przekręcić.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze do 25 stopni.<\/p> <p><b>PRODUCENT <\/b><\/p><p>Firma P. Farm. Sulphur Zdrój Exim Sp. z o.o.<\/p><p>ul.Bohaterów Warszawy 116A, 28-100 Busko Zdrój.<\/p><p>Kontakt@sulphur.com.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z71SULBUZPL"
+    },
+    "category": {
+        "id": "257767"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.05",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.45",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "161.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2630.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "161.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051087551",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T11:12:06.045Z"
+    },
+    "createdAt": "2025-11-03T11:12:06.000Z",
+    "updatedAt": "2025-11-03T11:27:07.048Z"
+}

@@ -1,0 +1,376 @@
+{
+    "name": "Oliwki kalamata drylowane BIO IORGOS, 180g",
+    "productSet": [
+        {
+            "product": {
+                "id": "7cf04aee-c3be-4209-b080-6d3f7e67b14b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Iorgos"
+                        ],
+                        "valuesIds": [
+                            "248811_1960628"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "GMO",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_32768",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Iorgos"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "360"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226901",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "29.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "2.76"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "1.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "2.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "1.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "4.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903900941433"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11eeb1\/1f5faf794e1381b3bf0e5a61e297",
+        "https:\/\/a.allegroimg.com\/original\/110435\/9860df0844b6a98916896e7cf6f7"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.81",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 23,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11eeb1\/1f5faf794e1381b3bf0e5a61e297"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Oliwki kalamata drylowane BIO IORGOS, 180g<\/h1> <p><b>Oliwki kalamata drylowane BIO IORGOS, 180g <\/b><\/p> <p>Oliwki BIO kalamata drylowane marki IORGOS to ekologiczne, drylowane oliwki kalamata, dostępne w opakowaniu o masie netto 360 gramów. Masa odsączonych oliwek wynosi 180 gramów.<\/p><p>Oliwki Kalamata to odmiana oliwek pochodząca z Grecji, charakteryzująca się ciemno-purpurową barwą i charakterystycznym, intensywnym smakiem. Są one często uważane za jedne z najsmaczniejszych i najbardziej cenionych oliwek na świecie. Oliwki Kalamata są wyjątkowe zarówno jako przekąska, jak i składnik różnych potraw, szczególnie kuchni śródziemnomorskiej.<\/p><p>Oliwki kalamata są bogate w zdrowe tłuszcze, przede wszystkim kwas oleinowy, który jest korzystny dla serca. Zawierają również antyoksydanty, witaminy i minerały, które wspierają ogólną kondycję organizmu.<\/p><p>Oliwki kalamata BIO IORGOS mogą być używane jako przekąska, dodatek do sałatek, dania główne czy pizze. Produkt ten jest odpowiedni dla osób poszukujących ekologicznych i smacznych produktów spożywczych, które wpisują się w zdrowy styl życia.<\/p><p>Uwaga!!! Może zawierać pestki lub ich fragmenty.<\/p> <p><b>Składniki:<\/b><\/p><p>ekologiczne oliwki kalamata drylowane 50%, woda, sól, regulator kwasowości (kwas mlekowy)<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>Wartość energetyczna 1162 kj\/278 kcal<\/p><p>Tłuszcz 29,5 g<\/p><p>w tym kwasy tłuszcze nasycone 2,76g<\/p><p>*jednonienasycone 18,4 g<\/p><p>*wielonienasycone 2,66 g<\/p><p>Węglowodany 1,4 g<\/p><p>w tym cukry 0,5 g<\/p><p>Białko 1,7 g<\/p><p>Sól 4,4 g<\/p><p>Błonnik 2,8 g <\/p> <p><b>Alergeny:<\/b><\/p><p>Brak.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu. Nie wystawiać na działanie promieni słonecznych. Po otwarciu przechowywać w lodówce i spożyćw ciągu 14 dni.<\/p> <p><b>Producent:<\/b><\/p><p>Natureat | Dameco Sp. z o.o.<\/p><p>ul. Grochowska 207\/106<\/p><p>04\/077 Warszawa<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110435\/9860df0844b6a98916896e7cf6f7"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5903900941433"
+    },
+    "category": {
+        "id": "321613"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.81",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.56",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "114.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1855.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "114.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17858878965",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T13:41:26.735Z"
+    },
+    "createdAt": "2025-09-04T13:41:26.000Z",
+    "updatedAt": "2025-09-04T14:11:46.252Z"
+}

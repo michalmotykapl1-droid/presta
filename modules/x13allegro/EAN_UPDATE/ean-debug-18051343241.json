@@ -1,0 +1,298 @@
+{
+    "name": "Ananas BIO IMPORT 1 szt",
+    "productSet": [
+        {
+            "product": {
+                "id": "9303aaaa-a5df-491f-84b1-bed72b97541c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249601",
+                        "name": "Odmiana owoców",
+                        "values": [
+                            "ananas"
+                        ],
+                        "valuesIds": [
+                            "249601_1706830"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249483",
+                        "name": "Region pochodzenia",
+                        "values": [
+                            "Ameryka Północna"
+                        ],
+                        "valuesIds": [
+                            "249483_1224145"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250200",
+                        "name": "Rodzaj",
+                        "values": [
+                            "ananasy"
+                        ],
+                        "valuesIds": [
+                            "250200_1799769"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "WARZYWA I OWOCE"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244393",
+                        "name": "Opakowanie",
+                        "values": [
+                            "inne"
+                        ],
+                        "valuesIds": [
+                            "244393_500829"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908249975972"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a7a8\/075c423c4aacb17c2720b65ed123",
+        "https:\/\/a.allegroimg.com\/original\/119357\/2c6a74164612bb1d644039406900"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "26.72",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 49,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a7a8\/075c423c4aacb17c2720b65ed123"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Ananas BIO IMPORT 1 szt<\/h1><p>Ilość dostępna jest ograniczona. <\/p><p>Dostępność zależna jest od warunków atmosferycznych i jakości produktu. <\/p><p>Cennik aktualizowany w poniedziałki i czwartki (przy importowych)\/ w piątki (przy polskich) Obowiązują ceny z dnia zamówienia. <\/p><p>CHŁODNIA wysyłane są luzem. <\/p><p>Istnieje możliwość pakowania warzyw i owoców po kontakcie z przedstawicielem handlowym. <\/p><p>KRAJ POCHODZENIA: KOSTARYKA <\/p><p>KALIBER: 9-10 (DUŻE SZTUKI, WAGA SZTUKI OKOŁO 1,1-1,3 KG)<\/p><p>OPAKOWANIE ZBIORCZE: 10 SZT. <\/p><p>SKŁADNIKI:<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/119357\/2c6a74164612bb1d644039406900"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_06960"
+    },
+    "category": {
+        "id": "318462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "26.72",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.15",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "154.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2505.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "154.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051343241",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T12:37:49.902Z"
+    },
+    "createdAt": "2025-11-03T12:37:49.000Z",
+    "updatedAt": "2025-11-03T12:52:50.118Z"
+}

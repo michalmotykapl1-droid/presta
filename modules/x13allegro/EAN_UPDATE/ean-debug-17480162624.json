@@ -1,0 +1,354 @@
+{
+    "name": "MEDICA HERBS Wierzbownica drobnokwiatowa 520mg, 60 kaps. (MEDICA HERBS) MED",
+    "productSet": [
+        {
+            "product": {
+                "id": "271aa1c1-fe1d-466f-ab00-4a182ee337a1",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Medica Herbs"
+                        ],
+                        "valuesIds": [
+                            "248811_1961957"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla mężczyzn"
+                        ],
+                        "valuesIds": [
+                            "210774_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bez jodu",
+                            "bez laktozy",
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_256",
+                            "210762_16",
+                            "210762_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "koenzym Q10"
+                        ],
+                        "valuesIds": [
+                            "210698_243790"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903968202354"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "bezsmakowy"
+                        ],
+                        "valuesIds": [
+                            "129857_397698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Wierzbownica Drobnokwiatowa"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903968202354"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "fea27629-7a09-47d2-84a5-167c40b71761"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11733b\/dd803d53482caa9daeda7a7f5c7f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "23.34",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 43,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>MEDICA HERBS Wierzbownica drobnokwiatowa 520mg, 60 kaps. (MEDICA HERBS) - MEDICA HERBS<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Wierzbownica Drobnokwiatowa - suplement diety - 20%  polifenoli<\/p>\n<p>Wierzbownica drobnokwiatowa (Epilobium parviflorum) wspiera właściwe  funkcjonowanie prostaty i układu moczowego u mężczyzn, dzięki czemu pomaga  utrzymać prawidłowy przepływ moczu oraz częstotliwość jego oddawania.  Wierzbownica wspomaga dobre samopoczucie fizyczne i psychiczne oraz sprzyja  zachowaniu właściwego poziomu sił witalnych.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>Wyciąg z ziela Epilobium parviflorum; kapsułka  (żelatyna – składnik otoczki).<\/p>\n<p>Produkt nie zawiera żadnych sztucznych dodatków takich jak konserwanty,  barwniki, aromaty, wypełniacze. Odcień produktu może się różnić ze względu na  intensywność koloru naturalnego składnika.<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>1 kapsułka 1-2 razy dziennie.<\/p>\n<p>Zawartość w 1 kapsułce:<\/p>\n<p>Wyciąg z ziela Epilobium parviflorum -  520mg<\/p>\n<p>w tym polifenole - 104mg<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Nie stosować u kobiet w ciąży oraz karmiących  piersią. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Nie stosować  w przypadku uczulenia na którykolwiek ze składników produktu. Suplement diety  nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Zalecany  jest zbilansowany sposób żywienia oraz zdrowy tryb  życia.<\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowywać w temperaturze  pokojowej w suchym miejscu niedostępnym dla małych dzieci. Chronić przed  wilgocią i światłem.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MEHWIERZB"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.34",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17480162624",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:13.253Z"
+    },
+    "createdAt": "2025-04-30T17:40:12.000Z",
+    "updatedAt": "2025-10-04T16:24:14.765Z"
+}

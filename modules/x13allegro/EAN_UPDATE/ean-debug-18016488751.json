@@ -1,0 +1,314 @@
+{
+    "name": "Kalendarz Adwentowy przekąski i galaretki B\/C 97g",
+    "productSet": [
+        {
+            "product": {
+                "id": "f027a3c1-76e2-49e2-b8b9-015e6eaef15b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bob Snail"
+                        ],
+                        "valuesIds": [
+                            "248811_1957933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129287",
+                        "name": "Wiek podawania",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129287_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129271",
+                        "name": "Gramatura",
+                        "values": [
+                            "97"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.097"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129272",
+                        "name": "Rodzaj opakowania",
+                        "values": [
+                            "kartonik"
+                        ],
+                        "valuesIds": [
+                            "129272_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249583",
+                        "name": "Rodzaj",
+                        "values": [
+                            "rollsy"
+                        ],
+                        "valuesIds": [
+                            "249583_1867548"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235269",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez laktozy",
+                            "ekologiczny",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "235269_1",
+                            "235269_4",
+                            "235269_2",
+                            "235269_8",
+                            "235269_16",
+                            "235269_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4820219347040"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6afc73db-67fb-47e4-9c74-32a35ae57bf1"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1129f9\/ec3028174c17b1013a2127b9e817",
+        "https:\/\/a.allegroimg.com\/original\/112859\/09899cec4be0b915deaa57025755",
+        "https:\/\/a.allegroimg.com\/original\/11b2c4\/68a308bf4ea6aeec7be4f9768148"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "52.17",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 112,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1129f9\/ec3028174c17b1013a2127b9e817"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Kalendarz Adwentowy przekąski i galaretki B\/C 97g<\/h1><p>Bezglutenowy mix przekąsek Bob Snail to 100% owoców - 100% naturalnej energii i słodyczy, bez dodatku cukru, barwników i konserwantów. <\/p><p>SKŁADNIKI:<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112859\/09899cec4be0b915deaa57025755"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11b2c4\/68a308bf4ea6aeec7be4f9768148"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_12075"
+    },
+    "category": {
+        "id": "99477"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "52.17",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "300.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4890.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "300.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016488751",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T08:29:35.144Z"
+    },
+    "createdAt": "2025-10-22T08:29:35.000Z",
+    "updatedAt": "2025-10-26T06:24:56.852Z"
+}

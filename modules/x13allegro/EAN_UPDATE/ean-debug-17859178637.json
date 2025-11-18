@@ -1,0 +1,277 @@
+{
+    "name": "Napój o smaku mandarynka z brzoskwinią Kubuś, 200 ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "df834364-7857-462d-97a6-a905cd098bba",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Tymbark"
+                        ],
+                        "valuesIds": [
+                            "248811_1964915"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129283",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5901067411394"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235585",
+                        "name": "Smak",
+                        "values": [
+                            "owocowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129281",
+                        "name": "Wiek podawania",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129281_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901067411394"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "cef0b434-5191-49e8-8819-6b9f3c5ec6e0"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1190f0\/b84e830642569aeed46a08e10fde"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "3.47",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 342,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1190f0\/b84e830642569aeed46a08e10fde"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Napój o smaku mandarynka z brzoskwinią Kubuś, 200 ml<\/h1> <p><b>Napój o smaku mandarynka z brzoskwinią Kubuś, 200 ml <\/b><\/p> <p>Połączenie słodkiej brzoskwini i cytrusowej świeżości mandarynki tworzy pyszny duet, który smakuje jak letni dzień pełen zabawy. To najlepszy wybór dla Twojego dziecka, bo jest bez dodatku cukru i konserwantów.<\/p> <p><b>Składniki:<\/b><\/p><p>woda, soki z zagęszczonych soków z: jabłek (48 %), mandarynek (1 %) i brzoskwiń (1 %), aromaty.<\/p> <p><b>Wartość odżywcza w 100ml: <\/b><\/p><p>Wartość energetyczna 92 kJ \/ 22 kcal<\/p><p>Tłuszcz 0 g<\/p><p>w tym kwasy nasycone 0 g<\/p><p>Węglowodany 5,1 g<\/p><p>w tym cukry 5,1 g<\/p><p>Białko 0 g<\/p><p>Sól 0 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Temperatura pokojowa. <\/p> <p><b>Producent:<\/b><\/p><p>MWS sp. z o. o.<\/p><p>ul.Strefowa 13<\/p><p>43-100 Tychy<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5901067411394"
+    },
+    "category": {
+        "id": "253519"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.47",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.80",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "20.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "20.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859178637",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T15:30:50.074Z"
+    },
+    "createdAt": "2025-09-04T15:30:50.000Z",
+    "updatedAt": "2025-09-04T16:39:57.088Z"
+}

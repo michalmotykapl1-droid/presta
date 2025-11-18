@@ -1,0 +1,273 @@
+{
+    "name": "PIELUCHY MAXI ECO 7 - 16 kg (50 szt.) - GRON BALANCE",
+    "productSet": [
+        {
+            "product": {
+                "id": "1d69048f-ef9a-4d1f-a821-32f76ae2c5bd",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "249951",
+                        "name": "Linia",
+                        "values": [
+                            "GRON BALANCE"
+                        ],
+                        "valuesIds": [
+                            "249951_1786187"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249975",
+                        "name": "Rodzaj pieluszek",
+                        "values": [
+                            "jednorazowe"
+                        ],
+                        "valuesIds": [
+                            "249975_1789487"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249970",
+                        "name": "Rozmiar",
+                        "values": [
+                            "Rozmiar 4"
+                        ],
+                        "valuesIds": [
+                            "249970_1789350"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "457",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5701410405199"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0c039018-f902-4d9d-bab9-46d3592fa00a"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa pieluch jednorazowych oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1. Ryzyko zadławienia:\n* Pieluszki, zwłaszcza te z odpinanymi elementami (np. rzepy), mogą stanowić zagrożenie zadławienia dla małych dzieci, jeśli zostaną rozerwane lub odgryzione.\n* Przechowuj pieluszki w miejscu niedostępnym dla dzieci, aby uniknąć ryzyka połknięcia małych części.\n\n2. Podrażnienia skóry i alergie:\n* Niektóre składniki pieluszek (np. substancje zapachowe, lateks) mogą powodować podrażnienia skóry lub reakcje alergiczne u niektórych dzieci.\n* W przypadku wystąpienia zaczerwienienia, swędzenia lub wysypki, natychmiast zaprzestań używania pieluszki i skonsultuj się z lekarzem.\n* Wybieraj pieluszki hipoalergiczne, bez dodatków zapachowych i lateksu, aby zminimalizować ryzyko podrażnień.\n\n3. Zespół wstrząsu toksycznego (TSS):\n* Długotrwałe noszenie pieluszki, zwłaszcza w przypadku niemowląt płci żeńskiej, może zwiększać ryzyko TSS.\n* Regularnie zmieniaj pieluszki, aby zapobiec rozwojowi bakterii i zmniejszyć ryzyko infekcji.\n\n4. Zagrożenia związane z nieprawidłową utylizacją:\n* Nie spłukuj zużytych pieluszek w toalecie, ponieważ mogą zatkać kanalizację.\n* Zużyte pieluszki wyrzucaj do odpowiednich pojemników na śmieci, zgodnie z lokalnymi przepisami.\n* Rozważ używanie pieluszek biodegradowalnych lub wielorazowych, aby zmniejszyć negatywny wpływ na środowisko.\n\n5. Ryzyko przegrzania:\n* Używanie zbyt ciasnych pieluszek, zwłaszcza w upalne dni, może prowadzić do przegrzania dziecka.\n* Upewnij się, że pieluszka nie krępuje ruchów dziecka i pozwala na swobodną cyrkulację powietrza.\n\n6. Infekcje dróg moczowych:\n* Zbyt rzadkie zmienianie pieluszek może zwiększać ryzyko infekcji dróg moczowych u dzieci.\n* Zmieniaj pieluszki regularnie, zwłaszcza po oddaniu moczu lub stolca, aby utrzymać higienę i zapobiec infekcjom.\n\n7. Oparzenia chemiczne:\n* Niektóre chusteczki nawilżane używane do czyszczenia skóry dziecka podczas zmiany pieluszki mogą zawierać substancje chemiczne, które w połączeniu z moczem lub kałem mogą powodować oparzenia chemiczne.\n* Używaj delikatnych chusteczek bez alkoholu i substancji zapachowych.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11af94\/8d1024684996869f681d4df0849b"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "79.25",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 29,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11af94\/8d1024684996869f681d4df0849b"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PIELUCHY MAXI ECO 7 - 16 kg (50 szt.) - GRON BALANCE<\/h1><p>SKŁADNIKI <\/p><p>WARSTWA WEWNĘTRZNA: włóknina polipropylenowa (non-woven PP) <\/p><p>WARSTWA ROZPROWADZAJĄCA: włóknina polipropylenowa (non-woven PP) z systemem kanalików do lepszej dystrybucji cieczy <\/p><p>WARSTWA CHŁONNA: pulpa celulozowa z SAP. SAP = super chłonny materiał z poliakrylanu - ma kształt małych kulek, które pęcznieją w stanie mokrym i przypominają żel <\/p><p>WARSTWA ZEWNĘTRZNA: włóknina polipropylenowa i polietylen (non-woven PP i PE) <\/p><p>ELASTYCZNA TAŚMA WOKÓŁ NÓŻEK: elastan <\/p><p>ZAMKNIĘCIE: rzep oraz elastyczne zamknięcia z (polietylen) PE<\/p><p>OPIS <\/p><p>Produkt testowany dermatologicznie. Anatomiczny kształt pieluch idealnie dopasowuje się do ciała. Zawarty we wkładzie chłonnym superabsorbent szybko wchłania wilgoć i zatrzymuje ją wewnątrz, dając uczucie suchości. Nie wyrzucać zużytych pieluch do toalety.<\/p><p>SPOSÓB UŻYCIA <\/p><p>Przed założeniem upewnić się, że skóra jest czysta i sucha. W razie potrzeby odczekać 15 minut.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA <\/p><p>Przechowywać w miejscu niedostępnym dla dzieci, ponieważ plastikowe opakowanie może spowodować zranienie.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>DAGROFA LOGISITK A\/S, TORVARER MORUPVEJ 2-4, 7400 HERNING<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_19915"
+    },
+    "category": {
+        "id": "99391"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "79.25",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.23",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "456.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7425.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "456.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051795406",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T15:39:01.230Z"
+    },
+    "createdAt": "2025-11-03T15:39:01.000Z",
+    "updatedAt": "2025-11-03T15:54:01.827Z"
+}

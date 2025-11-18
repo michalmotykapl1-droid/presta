@@ -1,0 +1,851 @@
+/* ================================================================ */
+/* SEKCJA 1: Oryginalne style modułu (Desktop i Mobile) */
+/* ================================================================ */
+
+/* Desktop-only scope for search dropdown */
+@media (min-width: 769px) {
+/************************************************** desktop search ***************************/
+#header .header-top .search-widget {
+    float: left;
+    min-width: auto;
+}
+.tvcmsheader-search.search-widget form input[type=text] {
+    border: none;
+}
+/* Selektor kategorii w nagłówku (domyślnie ukryty) */
+.tvcmsheader-search .tvcms-select-category {
+    display: none;
+}
+
+.lang-rtl #header .tvsearch-header-display-wrappper {
+    right: auto;
+    left: 0;
+}
+#pagenotfound .page-not-found .search-widget .tvsearch-header-display-wrappper {
+    position: inherit;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+}
+.tvsearch-top-wrapper.open .tvsearch-header-display-wrappper {
+    display: block;
+}
+.tvsearch-top-wrapper .tvsearch-close i {
+    /*display: none;*/
+}
+.tvsearch-top-wrapper .tvsearch-close {
+    display: none;
+}
+.tvsearch-top-wrapper.open .tvheader-search-display-icon {
+    display: none;
+}
+.tvsearch-header-display-wrappper form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    z-index: 10;
+    border: 1px solid #eee;
+    background-color: #ffffff;
+    max-width: 100%;
+}
+.tvheader-top-search-wrapper {
+    background-color: #ffffff;
+    flex-grow: 1;
+}
+.search-widget form button[type=submit] {
+    cursor: pointer;
+}
+.tvcmsheader-search.search-widget form button[type=submit] {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    top: 0;
+    position: inherit;
+}
+.tvcmssearch-wrapper {
+    position: relative;
+    cursor: pointer;
+}
+
+#_desktop_search .tvcmsheader-search .tvserach-name {
+    display: none;
+}
+.tvcmsheader-search form input::placeholder {
+    opacity: 1;
+}
+/* search result */
+.tvsearch-dropdown-total-wrapper {
+    display: none; /* Ukrywa cały blok "Wynik wyszukiwania: (XX)" */
+}
+
+/* * ORYGINALNE STYLE .tvsearch-result i .tvcmssearch-dropdown 
+ * Zostają tutaj, aby wersja mobilna działała poprawnie.
+ * Zostaną one NADPISANE w SEKCJI 2 (tylko dla desktop)
+ */
+.tvsearch-result {
+    position: absolute;
+    z-index: 20;
+    top: 100%;
+    margin-top: 10px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 95vw;
+    min-width: 900px;
+}
+.tvsearch-header-display-wrappper {
+    position: relative;
+}
+.tvcmssearch-dropdown {
+    padding: 15px;
+    border-bottom: 4px solid #ff5252; /* ZMIANA KOLORU */
+    width: 900px !important;
+}
+/* Układ dwukolumnowy dla wyników wyszukiwania */
+.tvsearch-results-container {
+    display: flex;
+    flex-wrap: wrap;    
+    margin: 0 -7.5px;    
+}
+
+.tvsearch-filter-column {
+    flex: 0 0 35%;
+    max-width: 35%;
+    padding: 0 7.5px;
+    border-right: 1px solid #eee;    
+    box-sizing: border-box;    
+}
+
+.tvsearch-products-column {
+    flex: 0 0 65%;
+    max-width: 65%;
+    padding: 0 7.5px;
+    box-sizing: border-box;
+}
+
+/* Stylizacja listy kategorii w oknie wyników */
+.tvsearch-filter-column h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #333;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.tvsearch-category-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tvsearch-category-item, /* Zastosuj te same style do obu typów elementów listy */
+.tvsearch-diet-filter-item { /* Dodano selektor dla elementów listy dietetycznych */
+    margin-bottom: 5px;
+}
+
+.tvsearch-category-item a, /* Zastosuj te same style do linków w obu typach list */
+.tvsearch-diet-filter-item a { /* Dodano selektor dla linków dietetycznych */
+    display: block;
+    padding: 5px 0;
+    color: #555;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.tvsearch-category-item a:hover,
+.tvsearch-diet-filter-item a:hover { /* Usunięto .active z tej reguły, aby przenieść do dedykowanej poniżej */
+    color: #ff5252;    
+    font-weight: bold;
+}
+
+/* Style dla tytułu kategorii dietetycznych */
+.tvsearch-category-title {
+    font-weight: bold;
+    color: #333;
+    margin-top: 15px;
+    margin-bottom: 10px; /* Zwiększono margines, aby pasował do Categories */
+    padding-top: 5px;
+    border-top: 1px solid #eee;
+    font-size: 16px; /* Zmieniono na 16px, aby pasował do Categories */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.tvsearch-all-dropdown-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -7.5px 15px -7.5px;
+}
+.tvsearch-dropdown-wrapper {
+    margin-bottom: 15px;
+    width: 100%;             
+}
+.tvsearch-dropdown-wrapper a {
+    display: flex;
+    align-items: center;    
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    padding: 10px; /* Zwiększony padding dla lepszego "powietrza" */
+    border: 1px solid #eeeeee;
+    text-decoration: none;
+    color: inherit;
+    transition: background-color 0.2s ease;
+}
+.tvsearch-dropdown-wrapper a:hover {
+    background-color: #f5f5f5;
+}
+
+/* Rozmiar obrazka i kontenera treści w wynikach */
+.tvsearch-dropdown-img-block {
+    height: auto;
+    width: 20%; /* Zmniejszona szerokość obrazka, aby dać więcej miejsca na tekst i cenę */
+    min-width: 60px;
+    overflow: hidden;
+    flex-shrink: 0;
+    margin-right: 10px;
+}
+.tvsearch-dropdown-img-block img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.tvsearch-dropdown-content-box {
+    text-align: left;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+}
+.tvsearch-dropdown-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2; /* 2 linie dla tytułu, aby cena mogła być obok */
+    overflow: hidden;
+    white-space: normal;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 0;
+}
+.tvsearch-result .product-price-and-shipping {
+    display: flex;
+    align-items: baseline;
+    margin-top: 0;
+    margin-left: auto; /* Przesuwa cenę na prawą stronę */
+    flex-shrink: 0;
+    padding-left: 10px;
+}
+.tvsearch-dropdown-price .price,
+.tvsearch-dropdown-price .regular-price {
+    font-size: 15px;
+    font-weight: bold;
+    color: #ff5252; /* ZMIANA KOLORU */
+}
+.tvsearch-dropdown-price .regular-price {
+    color: #888;
+    text-decoration: line-through;
+    font-weight: normal;
+    font-size: 13px;
+    margin-left: 5px;
+}
+
+/* DODANE STYLE DLA KATEGORII PRODUKTÓW W WYNIKACH WYSZUKIWANIA */
+.tvsearch-dropdown-categories {
+    font-size: 12px; /* Mniejsza czcionka dla kategorii */
+    color: #666; /* Szary kolor, aby odróżnić od tytułu i ceny */
+    margin-top: 5px; /* Mały margines od góry */
+    line-height: 1.2;
+    overflow: hidden; /* Upewnij się, że tekst się nie wylewa */
+    text-overflow: ellipsis; /* Dodaj trzy kropki, jeśli tekst jest zbyt długi */
+    white-space: nowrap; /* Zapobiegaj zawijaniu tekstu */
+}
+
+.tvsearch-dropodwn-close-wrapper {
+    margin-bottom: 35px;
+}
+.tvheader-top-search {
+    width: 100%;
+}
+.tvsearch-dropdown-close {
+    border: 1px solid #eeeeee;
+    text-align: center;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+.tvsearch-more-search {
+    border: 1px solid #ff5252; /* ZMIANA KOLORU */
+    text-align: center;
+    padding: 10px 15px;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #ff5252; /* ZMIANA KOLORU */
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.tvsearch-more-search:hover {
+    background-color: #e64a4a; /* ZMIANA KOLORU (lekko ciemniejszy) */
+    border-color: #e64a4a; /* ZMIANA KOLORU (lekko ciemniejszy) */
+}
+
+.tvsearch-more-search.tvall-inner-btn {
+    margin-bottom: 0;
+    width: 100%;
+}
+} /* Koniec @media (min-width: 769px) */
+
+
+/************* mobile search css ************/
+/* Ta sekcja pozostaje NIETKNIĘTA, aby zachować oryginalny wygląd mobilny */
+@media(max-width: 768px) {
+    /* Style mobilne (z tvcmssearch.mobile.css) są ładowane osobno przez <link>, 
+       więc style @media(max-width: 575px) poniżej są OK */
+}
+@media(max-width: 575px) {
+    .tvcmssearch-wrapper {
+        position: inherit;
+    }
+    .search-widget form input[type=text] {
+        min-width: auto;
+    }
+    
+    .tvsearch-dropdown-wrapper a {
+        display: flex;
+        align-items: center;
+        gap: 12px; 
+        padding: 10px 0;
+        border-bottom: 1px solid #f0f0f0;
+    }
+    .tvsearch-dropdown-wrapper:last-child a {
+        border-bottom: none;
+    }
+
+    .tvsearch-dropdown-img-block {
+        width: 75px; 
+        flex-shrink: 0; 
+        margin-right: 0; 
+    }
+    
+    .tvsearch-dropdown-content-box {
+        width: auto; 
+        flex-grow: 1; 
+        display: flex;
+        flex-direction: column; 
+    }
+    
+    .tvsearch-dropdown-title {
+        -webkit-line-clamp: 3; 
+        font-size: 14px;
+        text-transform: uppercase; 
+        font-weight: 500;
+        color: #232323;
+        line-height: 1.3;
+        margin-bottom: 8px; 
+    }
+
+    .tvsearch-result .product-price-and-shipping {
+        margin-top: 0; 
+        margin-left: 0; 
+        padding-left: 0; 
+        width: auto; 
+        justify-content: flex-start; 
+        display: flex;
+        align-items: baseline;
+    }
+    
+    .tvsearch-dropdown-price .price {
+        font-size: 16px;
+        font-weight: bold;
+        color: #111;
+    }
+    
+    .tvsearch-dropdown-price .regular-price {
+        font-size: 14px;
+        color: #999;
+        margin-left: 8px; 
+    }
+    
+    .tvsearch-result .product-rating {
+        margin-bottom: 5px;
+        line-height: 1; 
+    }
+
+    .tvsearch-dropdown-categories {
+        font-size: 12px;
+        color: #777;
+        margin-top: 5px;
+    }
+    
+    .tvsearch-hint br {
+        display: none !important;
+    }
+}
+
+
+/************************ rtl **************/
+.lang-rtl .tvsearch-dropdown-total {
+    direction: ltr;
+}
+.lang-rtl .tvsearch-dropdown-img-block {
+    /*float: right;*/
+}
+.lang-rtl .tvsearch-dropdown-content-box {
+    padding-right: 10px;
+    padding-left: 0;
+    text-align: right;
+}
+.lang-rtl .tvsearch-dropdown-price .tvsearch-dropdown-new-price,
+.lang-rtl .tvsearch-dropdown-price .tvsearch-dropdown-old-price {
+    float: right;
+    margin-left: 5px;
+}
+/* Styl dla płynnego ładowania wyników */
+.tvsearch-products-column.loading-overlay {
+    position: relative;
+    opacity: 0.6;
+    min-height: 200px; 
+    pointer-events: none; 
+}
+
+.tvsearch-products-column.loading-overlay::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    margin: -20px 0 0 -20px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #ff5252; 
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+/* Zmiana koloru dla aktywnej kategorii w wynikach wyszukiwania */
+.tvsearch-category-link.active {
+  color: #ff5252; 
+  font-weight: bold; 
+}
+/* Nowoczesny styl "ghost button" dla przycisku "Pokaż Produkty" */
+.tvsearch-show-filtered-btn {
+  background-color: transparent; 
+  color: #ff5252; 
+  border: 2px solid #ff5252; 
+  padding: 10px 15px; 
+  width: 100%;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease; 
+  margin-top: 15px;
+}
+
+/* Efekt po najechaniu myszką */
+.tvsearch-show-filtered-btn:hover {
+  background-color: #ff5252; 
+  color: #ffffff; 
+}
+
+
+/* ================================================================ */
+/* SEKCJA 2: Nowe style i nadpisania TYLKO DLA DESKTOP */
+/* ================================================================ */
+@media (min-width: 769px) {
+
+  /* Nakładka przyciemniająca tło z efektem blur */
+  .tvsearch-page-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    z-index: 1000; 
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease, visibility 0.25s ease;
+  }
+  @supports not (backdrop-filter: blur(5px)) {
+    .tvsearch-page-overlay {
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+  }
+
+  .tvsearch-page-overlay.is-visible {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* Klasa blokująca przewijanie strony w tle */
+  body.tvsearch-scroll-lock {
+    overflow: hidden;
+  }
+
+  /* Widget wyszukiwarki nad nakładką */
+  .tvcmsheader-search {
+    position: relative;
+    z-index: 10; 
+  }
+  body.tvsearch-scroll-lock .tvcmsheader-search {
+    z-index: 1001; 
+  }
+
+  /* Logika przełączania szerokości kontenera */
+  .tvsearch-result {
+      z-index: 1001; /* Nad overlayem */
+      
+      /* STAN 1: Domyślny (Hint) - wąski, wyrównany do lewej */
+      left: 0; 
+      right: auto;
+      width: auto; /* Dziecko (.tvsearch-hint) definiuje szerokość */
+      
+      /* ZMIANA: Poszerzenie kontenera podpowiedzi */
+      max-width: 550px; 
+      transform: none;
+      
+      transition: left 0.1s ease, transform 0.1s ease, width 0.1s ease;
+      
+      pointer-events: none; 
+  }
+
+  /* STAN 2: Wyniki - szeroki, wyśrodkowany */
+  /* Używamy body.tvsearch-scroll-lock jako wskaźnika, że wyniki są aktywne */
+  body.tvsearch-scroll-lock .tvsearch-result {
+      left: 50%;
+      transform: translateX(-50%);
+      width: 95vw;
+      max-width: 1320px;
+      min-width: 1100px;
+  }
+  
+  /* Nadpisanie wyglądu okna WYNIKÓW */
+  /* Używamy body.tvsearch-scroll-lock aby wygrać z 'width: 900px !important' z oryginalnego pliku */
+  body.tvsearch-scroll-lock .tvcmssearch-dropdown {
+      width: 100% !important; /* Wymuszenie 100% szerokości rodzica */
+      padding: 15px;
+      
+      border: 1px solid #E0E0E0; 
+      box-shadow: none; /* Usunięcie czarnej kreski/cienia */
+      
+      border-radius: 8px; 
+      background: #ffffff !important;
+      pointer-events: auto;
+  }
+  
+  /* Poprawki czcionek i zawijania w filtrach */
+  .tvsearch-category-item a, 
+  .tvsearch-diet-filter-item a { 
+      font-size: 13px;
+      white-space: normal;
+      line-height: 1.3;
+  }
+
+  .tvsearch-feature-item label {
+      font-size: 13px;
+      white-space: normal;
+      line-height: 1.3;
+  }
+  
+  /* Przeniesiona sekcja filtrów dodatkowych */
+  .tvsearch-extra-filter-section {
+      border-top: 1px solid #f0f0f0; 
+      margin-top: 20px;
+      padding-top: 20px;
+  }
+
+  .tvsearch-filter-toggle {
+      padding: 0; 
+      margin: 0 0 15px 0; 
+      font-size: 15px;
+      font-weight: 600; 
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #333;
+      background-color: transparent; 
+  }
+
+  .tvsearch-toggle-icon {
+      transition: transform 0.3s ease;
+      font-size: 14px;
+      color: #888;
+  }
+
+  .tvsearch-filter-toggle.is-open .tvsearch-toggle-icon {
+      transform: rotate(180deg);
+  }
+
+  .tvsearch-feature-grid-wrapper {
+      padding: 0;
+      background-color: transparent;
+      border-top: none; 
+  }
+
+  .tvsearch-feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 12px 15px; 
+      list-style: none;
+      padding: 0;
+      margin: 0;
+  }
+
+  /* Ustawienia przewijania kolumn */
+  .tvsearch-products-column {
+      display: flex; 
+      flex-direction: column; 
+      max-height: 90vh; 
+  }
+
+  .tvsearch-actions-wrapper {
+      flex-shrink: 0; 
+      padding-bottom: 10px;
+  }
+          
+  .tvsearch-all-dropdown-wrapper {
+      flex-grow: 1; 
+      overflow-y: auto; 
+      padding-right: 10px; 
+  }
+          
+  .tvsearch-more-search-wrapper {
+      flex-shrink: 0;
+      padding-top: 10px;
+  }
+
+  /* Równe kolumny */
+  .tvcmssearch-dropdown .tvsearch-results-container{
+    display: flex;
+    align-items: stretch;
+  }
+
+  .tvcmssearch-dropdown .tvsearch-filter-column,
+  .tvcmssearch-dropdown .tvsearch-products-column{
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+
+  .tvcmssearch-dropdown .tvsearch-filter-column .tvsearch-category-list{
+    max-height: none;
+  }
+
+  /* Przyklejone CTA */
+  .tvcmssearch-dropdown .tvsearch-filter-column{
+    display: flex;
+    flex-direction: column;
+    height: 70vh;          
+    max-height: 70vh;
+    overflow: visible;     
+    position: relative;
+  }
+
+  .tvcmssearch-dropdown .tvsearch-filter-column > h4{
+    position: sticky;
+    top: 0;
+    background: #fff;
+    z-index: 3;
+    padding: 10px 12px 8px 12px;
+    margin: 0 0 6px 0;
+    border-bottom: 1px solid rgba(0,0,0,.08);
+  }
+
+  .tvcmssearch-dropdown .tvsearch-filter-column .tvsearch-category-list{
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-right: 6px;
+    padding-bottom: 56px;  
+  }
+
+  .tvcmssearch-dropdown .tvsearch-filter-column .tvsearch-show-filtered-wrapper{
+    position: sticky;
+    bottom: 0;
+    background: #fff;
+    z-index: 4;
+    padding: 10px 0 8px;
+    margin-top: 8px !important;
+    border-top: 1px solid rgba(0,0,0,.08);
+  }
+  
+  /* Poprawka podpowiedzi "Wpisz min. X znaków" */
+  .tvsearch-hint {
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0; 
+      font-size: 14px;
+      line-height: 1.45;
+      color: #3a3a3a;
+      
+      /* ZMIANA: Wymuszenie solidnego tła (jak w oryginale) */
+      background: #fafafa !important; 
+      background-color: #fafafa !important; /* Podwójne wymuszenie */
+      
+      border: 1px solid #ececec;
+      border-radius: 6px;
+      padding: 16px 12px;
+      
+      /* ZMIANA: Lekki cień, aby odciąć się od tła (zamiast ramki) */
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      
+      /* ZMIANA: Usunięcie nowrap - tekst może się zawijać, jeśli musi */
+      /* white-space: nowrap; */
+      
+      width: 100%;
+      /* max-width: 450px; */ /* Usunięte - szerokość kontroluje .tvsearch-result */
+      box-sizing: border-box;
+      
+      pointer-events: auto;
+      
+      animation: tvsearch-fade-in .15s ease;
+  }
+  
+  /* Zawijanie tekstu w przycisku "Pokaż wszystkie..." */
+  .tvsearch-show-all-for-term-btn {
+      white-space: normal; 
+      height: auto;        
+      text-align: left;    
+      line-height: 1.4;    
+      padding: 12px 15px;  
+      display: block;      
+      width: 100%;
+  }
+  
+  /* Poprawki przewijania w lewej kolumnie */
+  .tvcmssearch-dropdown .tvsearch-filter-column{
+    overflow: hidden; 
+  }
+  .tvcmssearch-dropdown .tvsearch-filter-column > h4.tvsearch-category-title{
+    flex: 0 0 auto;
+    margin: 8px 0;
+  }
+  .tvcmssearch-dropdown .tvsearch-filter-column > ul.tvsearch-category-list{
+    margin: 0;
+    padding: 0;
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible;
+  }
+  .tvcmssearch-dropdown .tvsearch-filter-column > ul.tvsearch-category-list:first-of-type{
+    flex: 0 1 260px;          
+    overflow-y: auto !important;
+  }
+  .tvcmssearch-dropdown .tvsearch-filter-column > ul.tvsearch-category-list:nth-of-type(2){
+    flex: 1 1 auto;
+    overflow-y: auto !important;
+  }
+  .tvcmssearch-dropdown .tvsearch-filter-column::before,
+  .tvcmssearch-dropdown .tvsearch-filter-column::after,
+  .tvcmssearch-dropdown .tvsearch-category-list::before,
+  .tvcmssearch-dropdown .tvsearch-category-list::after{
+    content: none !important;
+  }
+
+} /* Koniec @media (min-width: 769px) */
+
+
+/* ================================================================ */
+/* SEKCJA 3: Pozostałe style globalne (Spinner, RTL, itp.) */
+/* ================================================================ */
+.tvsearch-hint i.material-icons{ font-size:20px; opacity:.7; margin-top:0; } 
+.tvsearch-hint strong{ font-weight:600; }
+.tvsearch-hint-counter{ opacity:.65; margin-left:4px; }
+@keyframes tvsearch-fade-in{ from{opacity:0;transform:translateY(2px);} to{opacity:1;transform:translateY(0);} }
+
+/* Gdy lewa kolumna jest pusta, zachowaj spójne odstępy */
+.tvsearch-category-list--empty{ padding: 6px 12px 0 12px; min-height: 32px; }
+/* === END === */
+
+
+/* === tvcmssearch UX additions (hint + spinner) — 2025-10-06 === */
+.tvsearch-hint .tvsearch-hint-text {
+    line-height: 1.4;
+}
+
+/* Spinner (brand) w polu wyszukiwarki */
+.tvcmsheader-search{ position:relative; }
+.tvcmsheader-search.tvcmssearch--loading::after{
+  content:""; position:absolute; right:18px; top:50%;
+  width:22px; height:22px; margin-top:-11px;
+  border:3px solid rgba(0,0,0,0.06);
+  border-top-color:#ff5252; border-right-color:rgba(0,0,0,0.06);
+  border-radius:50%; animation:tvcmssearch-spin .9s linear infinite; pointer-events:none;
+}
+@keyframes tvcmssearch-spin{ to{ transform:rotate(360deg); } }
+
+
+/* === tvcmssearch: DOM inline spinner (brand) — 2025-10-06 === */
+.tvcmsheader-search{ position:relative; }
+.tvcmssearch-inline-spinner{
+  position:absolute; right:18px; top:50%;
+  width:22px; height:22px; margin-top:-11px;
+  display:none; pointer-events:none; z-index:2;
+}
+.tvcmssearch-inline-spinner.is-visible{ display:block; }
+.tvcmssearch-inline-spinner::before{
+  content:""; display:block; width:100%; height:100%;
+  border:3px solid rgba(0,0,0,0.06);
+  border-top-color:#ff5252;
+  border-right-color:rgba(0,0,0,0.06);
+  border-radius:50%;
+  animation:tvcmssearch-spin .9s linear infinite;
+}
+
+
+/* === tvcmssearch: spinner near magnifying icon + loading row — 2025-10-06 === */
+.tvcmsheader-search{ position:relative; }
+.tvcmssearch-inline-spinner{
+  position:absolute;
+  top:50%;
+  width:22px; height:22px; margin-top:-11px;
+  display:none; pointer-events:none; z-index:2;
+}
+.tvcmssearch-inline-spinner--near-icon{ right:52px; } 
+.tvcmssearch-inline-spinner.is-visible{ display:block; }
+.tvcmssearch-inline-spinner::before{
+  content:""; display:block; width:100%; height:100%;
+  border:3px solid rgba(0,0,0,0.06);
+  border-top-color:#ff5252;
+  border-right-color:rgba(0,0,0,0.06);
+  border-radius:50%;
+  animation:tvcmssearch-spin .9s linear infinite;
+}
+
+/* Wewnętrzny pasek "Ładowanie wyników…" w prawej kolumnie */
+.tvsearch-products-column .tvsearch-loading-row{
+  display:flex; align-items:center; gap:10px;
+  padding:16px 12px; margin:8px 12px 0 12px;
+  background:#fafafa; border:1px solid #ececec; border-radius:6px;
+  font-size:14px; color:#3a3a3a;
+}
+.tvsearch-loading-spinner{
+  width:20px; height:20px; display:inline-block;
+  border:3px solid rgba(0,0,0,0.06);
+  border-top-color:#ff5252;
+  border-right-color:rgba(0,0,0,0.06);
+  border-radius:50%;
+  animation:tvcmssearch-spin .9s linear infinite;
+}

@@ -1,0 +1,342 @@
+{
+    "name": "BATON PROTEINOWY Z KARMELEM I ORZESZKAMI ZIEMNYMI W CZEKOLADZIE MLECZNEJ BE",
+    "productSet": [
+        {
+            "product": {
+                "id": "716d7664-501e-4a7f-9008-66b57da3933a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8588007836416"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "8588007836416"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "14"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "5.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "42"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "2.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "31"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8588007836416"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "bb0108f4-274b-4c5c-bfef-f646697eeaf0"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116c2c\/9a31e1fb453bb46a34e2961b3f15"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "8.74",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 167,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116c2c\/9a31e1fb453bb46a34e2961b3f15"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BATON PROTEINOWY Z KARMELEM I ORZESZKAMI ZIEMNYMI W CZEKOLADZIE MLECZNEJ BE<\/h1><p>SKŁADNIKI<\/p><p>mieszanka proteinowa 30,3 % (koncentrat białka MLEKA, hydrolizowany kolagen, izolat białka SOJOWEGO, koncentrat białka SERWATKOWEGO), substancja słodząca: maltitol; czekolada mleczna 20 % (substancja słodząca: maltitol, tłuszcz kakaowy, krem MLECZNY 10 % [fruktooligosacharydy, słodzone MLEKO zagęszczone (MLEKO, cukier), tłuszcz palmowy, substancja utrzymująca wilgoć: glicerol; sól], substancja utrzymująca wilgoć: glicerol; prażone ORZESZKI ZIEMNE 3 %, płatki SOJOWE, olej rzepakowy, chrupki z białka SOJOWEGO (izolat białka SOJOWEGO 80 %, skrobia z tapioki, sól), sól 0,34 %, tlenek magnezu 0,3 %, aromat, emulgator: lecytyny (z SOI). <\/p><p>OPIS<\/p><p>Białko jest kluczowym składnikiem dla osób aktywnych fizycznie, ponieważ pomaga w budowie i regeneracji mięśni po treningu. Nasze batony proteinowe zawierają 31 % białka, co sprawia, że są idealną przekąską jeśli ćwiczysz lub biegasz oraz wszystkich, którzy dbają o swoje ciało. <\/p><p>Kolejnym niezwykle cennym składnikiem zawartym w naszych batonach jest kolagen i magnez. Kolagen jest białkiem strukturalnym występującym naturalnie w organizmie człowieka, odpowiedzialnym m.in. za elastyczność i jędrność skóry, zdrowie stawów oraz utrzymanie włosów i paznokci w dobrej kondycji. <\/p><p>Magnez przyczynia się do zmniejszenia uczucia zmęczenia i znużenia, pomaga w prawidłowym funkcjonowaniu mięśni oraz pomaga w prawidłowej syntezie białka. <\/p><p>WARTOŚĆ ODŻYWCZA w 100 g<\/p><p>Wartość energetyczna: 1532 kJ \/ 367 kcal<\/p><p>Tłuszcz: 14 g<\/p><p>w tym kwasy tłuszczowe nasycone: 5,8 g<\/p><p>Węglowodany: 42 g<\/p><p>w tym cukry: 2,7 g<\/p><p>w tym poliole: 24 g<\/p><p>Błonnik: 6,0 g<\/p><p>Białko: 31 g<\/p><p>Sól: 0,5 g<\/p><p>Magnez 300 mg (80 %)* <\/p><p>* Dzienna referencyjna wartość spożycia magnezu (dla osoby dorosłej)<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać orzechy<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym, chłodnym miejscu, z dala od promieni słonecznych, w temperaturze do 25°C.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BAULI SLOVAKIA &amp; CZECH REPUBLIC s.r.o., Mlynské Luhy 76\/A 821 05 Bratislava<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44723"
+    },
+    "category": {
+        "id": "261779"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.74",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.01",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "50.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "820.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "50.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876864474",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:53:05.538Z"
+    },
+    "createdAt": "2025-09-10T09:53:05.000Z",
+    "updatedAt": "2025-10-30T13:14:31.300Z"
+}

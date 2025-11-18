@@ -1,0 +1,360 @@
+{
+    "name": "CZEKOLADA O SMAKU CAPPUCCINO BIO 100 g - VIVANI (V",
+    "productSet": [
+        {
+            "product": {
+                "id": "59cbe669-5edb-4b7b-b21a-b74e573d8903",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Vivani"
+                        ],
+                        "valuesIds": [
+                            "248811_1965190"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250326",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Czekolady"
+                        ],
+                        "valuesIds": [
+                            "250326_1880745"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Czekolada cappuccino BIO 100g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4044889001075"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3455",
+                        "name": "Forma",
+                        "values": [
+                            "w tabliczkach"
+                        ],
+                        "valuesIds": [
+                            "3455_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3454",
+                        "name": "Rodzaj czekolady",
+                        "values": [
+                            "czekolada mleczna"
+                        ],
+                        "valuesIds": [
+                            "3454_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3456",
+                        "name": "Skład",
+                        "values": [
+                            "nadziewane"
+                        ],
+                        "valuesIds": [
+                            "3456_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "120"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208222",
+                        "name": "Zawartość  kakao",
+                        "values": [
+                            "40"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208230",
+                        "name": "Waga netto (g)",
+                        "values": [
+                            "25"
+                        ],
+                        "valuesIds": [
+                            "208230_235478"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4044889001075"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11571b\/5e4c235d4c8d8b3e17faf3716884",
+        "https:\/\/a.allegroimg.com\/original\/110bd2\/440aa53c45f5b321c0039447ec19"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "14.97",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 325,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>CZEKOLADA O SMAKU CAPPUCCINO BIO 100 g - VIVANI (VIVANI ) - VIVANI<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>cukier trzcinowy nierafinowany*, tłuszcz kakaowy*, MLEKO pełne w proszku*, miazga kakaowa*, ŚMIETANA w proszku* (zawiera MLEKO), kawa* (2,5 %), odtłuszczone MLEKO w proszku*, SERWATKA w proszku* (zawiera MLEKO), ekstrakt z wanilii Bourbon*. (*certyfikowany składnik ekologiczny). Masa kakaowa minimum 40 %. <\/p>\n<p>OPIS<\/p>\n<p>Pyszna czekolada, która zachwyca bogatym, głębokim smakiem. Doskonała opcja na każdą okazję – czy to jako szybka przekąska, czy też jako mały upominek dla kogoś bliskiego.<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 g<\/p>\n<p>Wartość energetyczna: 2434 kJ\/585 kcal <\/p>\n<p>Tłuszcz: 40,9 g <\/p>\n<p>w tym kwasy tłuszczowe nasycone: 25,5 g <\/p>\n<p>Węglowodany: 47,8 g <\/p>\n<p>w tym cukry: 46,7 g <\/p>\n<p>Białko: 5,4 g <\/p>\n<p>Sól: 0,18 g<\/p>\n<p>INFORMACJA ALERGENNA<\/p>\n<p>Może zawierać ZBOŻA ZAWIERAJĄCE GLUTEN, ORZESZKI ZIEMNE i inne ORZECHY<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w temperaturze 15 - 18℃. Chronić przed ciepłem.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>ECOFINIA GMBH, DIEBROCKER 17, 32051 HERFORD<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_5515"
+    },
+    "category": {
+        "id": "74020"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.97",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "12787635306",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-26T23:44:30.747Z"
+    },
+    "createdAt": "2022-10-25T12:46:03.000Z",
+    "updatedAt": "2025-10-26T23:44:30.747Z"
+}

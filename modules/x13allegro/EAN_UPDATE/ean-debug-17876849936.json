@@ -1,0 +1,378 @@
+{
+    "name": "MYDŁO W PŁYNIE 300 g - TERRA ZDRÓJ (SERIA SOLANKOWA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "4ae373a2-9d64-4aec-b4ca-b944ecb7ba00",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Terra Zdrój"
+                        ],
+                        "valuesIds": [
+                            "248811_1983135"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129531",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "do rąk"
+                        ],
+                        "valuesIds": [
+                            "129531_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129530",
+                        "name": "Rodzaj",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "129530_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "amoniaku",
+                            "barwników"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_1024",
+                            "129770_65536"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Delikatny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "terra zdrój"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "Połczyńska solanka"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "184643"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902596184643"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "525efea5-3bb5-454b-a031-01e95302f312"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f024\/c39883204235b3614288d4d37c42"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "21.73",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 13,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f024\/c39883204235b3614288d4d37c42"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>MYDŁO W PŁYNIE 300 g - TERRA ZDRÓJ (SERIA SOLANKOWA)<\/h1><p>SKŁADNIKI <\/p><p>AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE\/ SODIUM BENZOATE, GLYCERIN, PEG-7 GLYCERYL COCOATE, PANTHENOL, GLYCYRRHIZA GLABRA ROOT EXTRACT\/ POTASSIUM SORBATE, DISODIUM EDTA, SODIUM CHLORIDE, POLYSORBATE 80, PHENOXYETHANOL\/ ETHYLHEXYLGLYCERIN, PARFUM, LIMONENE, HEXYL CINNAMAL, CITRONELLOL<\/p><p>OPIS<\/p><p>Mydło przeznaczone do codziennej pielęgnacji dłoni. Odpowiednio opracowana receptura została wzbogacona o solankę z ujęcia IG-1 Uzdrowiska Połczyn Grupa PGU S.A.<\/p><p>Regularnie stosowane pielęgnuje oraz doskonale oczyszcza skórę dłoni. Działa kojąco i łagodząco, pozostawia uczucie nawilżonej skóry dłoni. Staje się ona gładka i miła w dotyku. Mydło pozostawia przyjemne uczucie czystości i świeżości. <\/p><p>Formuła zawiera składniki aktywne: ekstrakt z lukrecji, D-pantenol, gliceryna<\/p><p>SPOSÓB UŻYCIA<\/p><p>Nanieść niewielką ilość mydła na zwilżone dłonie. Delikatnie masować do momentu wytworzenia się piany. Następnie dokładnie spłukać skórę czystą, bieżącą wodą. Unikać kontaktu z oczami i ustami. <\/p><p>UWAGA<\/p><p>Nie stosować na uszkodzoną, podrażnioną skórę i w przypadku nadwrażliwości lub alergii na jakikolwiek składnik produktu. Jeśli produkt dostanie się do oczu, natychmiast wypłukać je dużą ilością czystej wody. Nie stosować u dzieci, przechowywać poza ich zasięgiem. Wyłącznie do użytku zewnętrznego, produkt nie do spożycia. Zaprzestać używania, jeśli wystąpi podrażnienie. Nie stosować na skórę twarzy. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Produkt przechowywać w pomieszczeniu suchym, w temperaturze nie niższej niż +10°C i nie wyższej niż +25°C. Chronić przed światłem słonecznym. W okresie ważności produktu, jego barwa może ulec zmianie. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BIO-LIFE COSMETICS WIOLETTA MLECZEK ul. Kraszewskiego 1 33-380 Krynica-Zdrój<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44586"
+    },
+    "category": {
+        "id": "93055"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.73",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "125.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2035.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "125.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876849936",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:47:17.107Z"
+    },
+    "createdAt": "2025-09-10T09:47:17.000Z",
+    "updatedAt": "2025-09-10T10:02:18.122Z"
+}

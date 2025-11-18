@@ -1,0 +1,382 @@
+{
+    "name": "OLEJEK DO WŁOSÓW RYŻOWY Z OLEJKIEM ROZMARYNOWYM I ARGANOWYM 200 ml - SATTVA",
+    "productSet": [
+        {
+            "product": {
+                "id": "be2d33a0-146e-44ff-8947-0c0c387295bb",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "do każdego typu włosów"
+                        ],
+                        "valuesIds": [
+                            "226825_317513"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "uniwersalna pielęgnacja"
+                        ],
+                        "valuesIds": [
+                            "129469_1778809"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226833",
+                        "name": "Typ",
+                        "values": [
+                            "do spłukiwania"
+                        ],
+                        "valuesIds": [
+                            "226833_317589"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Mieszanka"
+                        ],
+                        "valuesIds": [
+                            "22158_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "parabenów",
+                            "PEG",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_128",
+                            "129770_256",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Naturalny składników"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.23"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "3120"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Zapobiega przesuszeniu i puszeniu włosów"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794187528"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "50b05e79-8340-4d65-b710-bdec465dda52"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11daeb\/b01579f14f6580620c01dab6285a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "33.70",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 52,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11daeb\/b01579f14f6580620c01dab6285a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLEJEK DO WŁOSÓW RYŻOWY Z OLEJKIEM ROZMARYNOWYM I ARGANOWYM 200 ml - SATTVA<\/h1><p>SKŁADNIKI<\/p><p>Oryza sativa L Seed oil, Sesamum Indicum seed oil, Olea europaea seed oil, Argania spinosa seed oil, Cocos nucifera fruit oil, Rosmarinus officinalis plant oil, Triticum sativum plant oil. <\/p><p>OPIS<\/p><p>Olej do włosów ze sfermentowanego ryżu to unikalna mieszanka naturalnych olejków, które bardzo skutecznie poprawiają kondycję włosów.<\/p><p>Olej zawiera niezbędne witaminy i kwasy tłuszczowe, które głęboko odżywiają włosy.<\/p><p>Składa się w 100 % z naturalnych olejków i nie zawiera sztucznych substancji zapachowych.<\/p><p>Regularne stosowanie tego oleju:<\/p><p>- sprawia, że włosy stają się zdrowsze, dłuższe i grubsze<\/p><p>- pomaga zachować elastyczność włosów<\/p><p>- pielęgnuje skórę głowy i działa jak odżywka na włosy, zapobiegając ich przesuszeniu i puszeniu się. <\/p><p>SPOSÓB UŻYCIA <\/p><p>Delikatnie i okrężnymi ruchami wmasuj olejek w skórę głowy. Wykonuj na całej skórze głowy masaż przez 10-15 minut. Po zakończeniu pracy ze skórą głowy delikatnie rozprowadź olej na długości aż do końcówek włosów. Zmyj olej szamponem po 30-60 minutach. Można również pozostawić olej na włosach na noc. <\/p><p>UWAGA<\/p><p>Produkt do użytku zewnętrznego. Nie stosować u dzieci. Nie stosować w ciąży i podczas karmienia piersią.<\/p><p>Przed użyciem zaleca się wykonanie testu alergicznego na niewielkim fragmencie skóry.<\/p><p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Bombay Bazaar Ashish Hinduja, Al.. Krakowska 61a, 05-090 Sękocin Nowy<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_31904"
+    },
+    "category": {
+        "id": "144744"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "33.70",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.75",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "194.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3160.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "194.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877449184",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T13:18:25.673Z"
+    },
+    "createdAt": "2025-09-10T13:18:25.000Z",
+    "updatedAt": "2025-09-10T13:33:26.576Z"
+}

@@ -1,0 +1,356 @@
+{
+    "name": "Kozłek korzeń 50g FLOS",
+    "productSet": [
+        {
+            "product": {
+                "id": "79337264-dc4e-4e80-b006-bb3a946b411f",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Flos"
+                        ],
+                        "valuesIds": [
+                            "248811_1080169"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "FL9813"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Korzeń kozłka"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.07"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213806",
+                        "name": "Typ",
+                        "values": [
+                            "jednoskładnikowe"
+                        ],
+                        "valuesIds": [
+                            "213806_263782"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "232285",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kozłek lekarski"
+                        ],
+                        "valuesIds": [
+                            "232285_366113"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213810",
+                        "name": "Postać",
+                        "values": [
+                            "korzeń"
+                        ],
+                        "valuesIds": [
+                            "213810_263810"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez barwników",
+                            "bez GMO",
+                            "bez konserwantów",
+                            "bez laktozy",
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "213714_32768",
+                            "213714_131072",
+                            "213714_65536",
+                            "213714_8",
+                            "213714_1024",
+                            "213714_4096",
+                            "213714_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kozłek lekarski"
+                        ],
+                        "valuesIds": [
+                            "213962_264826"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905279799813"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "10674382-0708-4ec2-b2de-b20728e4144f"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1138c5\/1f58f70d4f33842ccf6df748f887"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "6.66",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 19,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1138c5\/1f58f70d4f33842ccf6df748f887"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Kozłek korzeń 50g FLOS<\/h1> <p><b>SKŁADNIKI <\/b><\/p><p>Wysuszony, rozdrobniony korzeń kozłka (Valerianae radix) – 100%<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Przygotowanie naparu: 1 łyżeczkę korzenia kozłka zalać 1 filiżanką wrzącej wody, zaparzać pod przykryciem przez 5-10 minut. Przecedzić. Spożywać świeży i ciepły napar 2 razy dziennie: w godzinach popołudniowo-wieczornych oraz przed snem.<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt nie jest przeznaczony dla kobiet w ciąży i karmiących piersią oraz dla dzieci poniżej 12 r.ż.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w suchym miejscu, chronić od światła.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_31FLOKOZKO"
+    },
+    "category": {
+        "id": "258266"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.66",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.53",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "625.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "38.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915789428",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T19:12:09.968Z"
+    },
+    "createdAt": "2025-09-22T19:12:09.000Z",
+    "updatedAt": "2025-10-17T13:30:43.627Z"
+}

@@ -1,0 +1,281 @@
+{
+    "name": "SERUM ELIKSIR DO TWARZY KOMPLEKS MINERALNY Z KURKUMĄ 30 ml - SATTVA (AYURVE",
+    "productSet": [
+        {
+            "product": {
+                "id": "909bc911-e469-4008-8eee-c5d4f4e4b5e0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903794189898"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SATTVA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794189898"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "2a357e9d-7707-46f7-bc7b-98c6dc200be9"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa serum oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Przed użyciem: Zawsze wykonaj test na małym obszarze skóry, aby upewnić się, że nie wystąpi reakcja alergiczna.\n2.  Unikaj kontaktu z oczami: Jeśli serum dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W przypadku podrażnienia, skonsultuj się z lekarzem.\n3.  Przechowywanie: Przechowuj serum w miejscu niedostępnym dla dzieci, w temperaturze pokojowej i z dala od bezpośredniego światła słonecznego.\n4.  Data ważności: Nie używaj serum po upływie daty ważności.\n5.  Składniki aktywne: Jeśli serum zawiera silne składniki aktywne, takie jak kwasy AHA\/BHA lub retinol, zacznij od stosowania go raz lub dwa razy w tygodniu, stopniowo zwiększając częstotliwość, aby uniknąć podrażnień.\n6.  Interakcje z innymi produktami: Uważaj na interakcje z innymi produktami do pielęgnacji skóry. Nie łącz serum z produktami zawierającymi składniki, które mogą powodować podrażnienia, takie jak wysokie stężenia witaminy C, kwasy lub inne silne eksfolianty.\n7.  Podrażnienia: W przypadku wystąpienia podrażnień, zaczerwienienia, swędzenia lub pieczenia, natychmiast przerwij stosowanie serum i skonsultuj się z dermatologiem.\n8.  Stosowanie w ciąży: Jeśli jesteś w ciąży lub karmisz piersią, skonsultuj się z lekarzem przed użyciem serum.\n9.  Aplikacja: Aplikuj serum na czystą i suchą skórę, delikatnie wklepując je opuszkami palców. Unikaj nadmiernego pocierania, aby nie podrażnić skóry.\n10. Ochrona przed słońcem: Jeśli używasz serum z kwasami lub retinolem, pamiętaj o stosowaniu kremu z filtrem SPF każdego ranka, ponieważ skóra może być bardziej wrażliwa na słońce.\n11. Higiena: Utrzymuj aplikator serum w czystości, aby zapobiec zanieczyszczeniu produktu.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114b06\/8806c6e448379edaaf1389eb9427"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "48.87",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 33,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114b06\/8806c6e448379edaaf1389eb9427"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SERUM ELIKSIR DO TWARZY KOMPLEKS MINERALNY Z KURKUMĄ 30 ml - SATTVA (AYURVE<\/h1><p>SKŁADNIKI <\/p><p>Aqua, Niacinamide, 3-O-Ethyl Ascorbic Acid, Curcuma Longa Root Extract, Propanediol, Betaine, Saccharide Isomerate, Panthenol, Hyaluronic Acid, Glycolic Acid, Phenoxyethanol, Ethylhexylglycerin, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate, Sclerotium Gum, Sodium Gluconate, Parfum, Citric Acid, Sodium Citrate.<\/p><p>OPIS <\/p><p>Wyjątkowe serum łączy aktywny kompleks miedzi, magnezu i cynku z kwasem hialuronowym, kwasem glikolowym, niacynamidem, witaminą C i ajurwedyjskim ekstraktem z kurkumy, zapewniając kompleksowe korzyści pielęgnacyjne. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Po oczyszczeniu skóry twarzy, nałóż 2-3 krople przy użyciu zakraplacza. Wykonaj delikatny masaż. Stosuj rano, po czym nałóż krem na dzień. <\/p><p>UWAGA<\/p><p>Przed zastosowaniem należy wykonać próbę uczuleniową.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze pokojowej, w suchym i zacienionym miejscu. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BOMBAY BAZAAR ASHISH HINDUJA, AL. KRAKOWSKA 61A, 05-090 SĘKOCIN NOWY<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44051"
+    },
+    "category": {
+        "id": "89000"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "48.87",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.24",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "281.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4580.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "281.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17864747131",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-06T09:51:10.702Z"
+    },
+    "createdAt": "2025-09-06T09:51:10.000Z",
+    "updatedAt": "2025-09-06T10:14:27.195Z"
+}

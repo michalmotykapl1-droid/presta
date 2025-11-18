@@ -1,0 +1,305 @@
+{
+    "name": "PŁYN DO DEMAKIJAŻU DWUFAZOWY ECO 110 ml - SANTE",
+    "productSet": [
+        {
+            "product": {
+                "id": "3584f137-19bd-429b-9b27-afedf2f3630c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sante"
+                        ],
+                        "valuesIds": [
+                            "248811_1947217"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "40383"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "15852",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Płyny dwufazowe"
+                        ],
+                        "valuesIds": [
+                            "15852_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129434_383777"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "110"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4025089085485"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "207d4ab2-d9df-4b45-abd0-8ca3e1102214"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów z kategorii: 'Oczyszczanie i demakijaż' oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Uważaj na kontakt z oczami: Jeśli produkt dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W przypadku utrzymującego się podrażnienia skonsultuj się z lekarzem.\n2.  Testuj na małym obszarze: Przed pierwszym użyciem nowego produktu do oczyszczania twarzy, wykonaj test na małym, niewidocznym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n3.  Nie połykaj: Produkty do oczyszczania i demakijażu są przeznaczone wyłącznie do użytku zewnętrznego. Nie połykaj ich. W przypadku połknięcia natychmiast skontaktuj się z lekarzem.\n4.  Przechowuj w bezpiecznym miejscu: Trzymaj produkty do oczyszczania i demakijażu z dala od dzieci i zwierząt.\n5.  Używaj zgodnie z instrukcją: Zawsze stosuj się do instrukcji producenta dotyczących używania i dawkowania produktu.\n6.  Unikaj podrażnień: Jeśli po użyciu produktu wystąpi zaczerwienienie, swędzenie, pieczenie lub wysypka, przerwij stosowanie i skonsultuj się z dermatologiem.\n7.  Ostrożnie z wrażliwą skórą: Jeśli masz skórę wrażliwą, wybieraj produkty hipoalergiczne i bezzapachowe.\n8.  Nie mieszaj produktów: Nie łącz różnych produktów do oczyszczania i demakijażu, ponieważ może to prowadzić do niepożądanych reakcji chemicznych.\n9.  Chroń przed słońcem: Niektóre składniki zawarte w produktach do oczyszczania twarzy mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem po użyciu takiego produktu.\n10. Uważaj na termin ważności: Nie używaj przeterminowanych produktów, ponieważ mogą być mniej skuteczne lub powodować podrażnienia.\n11. Zwróć uwagę na skład: Jeżeli masz alergię, upewnij się, że produkt nie zawiera substancji, na które jesteś uczulony.\n12. Higiena: Używaj czystych rąk i akcesoriów (np. wacików) podczas aplikacji, by zapobiec przenoszeniu bakterii.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118985\/41913c464b839545e9d2ff215b49"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.48",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 81,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118985\/41913c464b839545e9d2ff215b49"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁYN DO DEMAKIJAŻU DWUFAZOWY ECO 110 ml - SANTE<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Glycine SOJA (Soybean) Oil*, Glycerin, Propanediol, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Olea Europaea (Olive) Fruit Oil*, Isoamyl Laurate, Rosa Damascena Flower Water*, Cucumis Sativus (Cucumber) Fruit Extract*, Coco-Glucoside, Sodium Levulinate, Disodium Cocoyl Glutamate, Sodium Cocoyl Glutamate, Sodium PCA, Sodium Anisate, Lactic Acid, Citric acid, Sodium Lactate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, PCA Ethyl Cocoyl Arginate, Parfum (Fragrance)**, CI 75810 (Chlorophyllin-Copper Complex). (*z rolnictwa ekologicznego; **z naturalnych olejków eterycznych)<\/p><p>OPIS<\/p><p>Dwufazowy płyn do demakijażu Sante. Wysoce skuteczny płyn do demakijażu oczyszcza skórę łagodnymi środkami powierzchniowo czynnymi i cennymi olejkami organicznymi. Wzbogacona organicznym sokiem z aloesu, wodą różaną i organicznym ogórkiem, dwufazowa formuła uwalnia delikatną skórę wokół oczu i ust od makijażu. Pozostawia odświeżający zapach na oczyszczonych partiach twarzy.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Przed otwarciem energicznie wstrząśnij. Otwórz, nanieś niewielką dozę produktu na wacik, po czym delikatnie przetrzyj twarz, szyję i dekolt, w celu usunięcia pozostałości makijażu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>LOGOCOS NATURKOSMETIK AG, ZUR KRÄUTERWIESE , 31020 SALZHEMMENDORF<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46664"
+    },
+    "category": {
+        "id": "5361"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.48",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.24",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "181.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2950.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "181.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016588527",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T09:01:28.796Z"
+    },
+    "createdAt": "2025-10-22T09:01:28.000Z",
+    "updatedAt": "2025-10-22T09:16:29.520Z"
+}

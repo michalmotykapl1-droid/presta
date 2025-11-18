@@ -1,0 +1,345 @@
+{
+    "name": "PŁYN DO PRANIA WEŁNIANYCH I JEDWABNYCH UBRAŃ (KONCENTRAT) ECO 750 ml (50 PR",
+    "productSet": [
+        {
+            "product": {
+                "id": "0c965f48-73fd-4a24-8ff8-80120f5bf8f3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250570",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Sun Rincage"
+                        ],
+                        "valuesIds": [
+                            "250570_1931819"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "AlmaWin"
+                        ],
+                        "valuesIds": [
+                            "248811_1957096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225145",
+                        "name": "Rodzaj prania",
+                        "values": [
+                            "automatyczne"
+                        ],
+                        "valuesIds": [
+                            "225145_310625"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225133_310601"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250454",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "250454_1921941"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "Sun Rincage"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.86"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Niemcy"
+                        ],
+                        "valuesIds": [
+                            "249649_1723399"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225129",
+                        "name": "Liczba prań",
+                        "values": [
+                            "0"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225153",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "do jedwabiu lub wełny"
+                        ],
+                        "valuesIds": [
+                            "225153_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4019555700071"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9c08eeda-23d2-4b95-a33f-2db7c913392d"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117e22\/5952cfe84f82bc090e4f30a4a276"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "30.82",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 93,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117e22\/5952cfe84f82bc090e4f30a4a276"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁYN DO PRANIA WEŁNIANYCH I JEDWABNYCH UBRAŃ (KONCENTRAT) ECO 750 ml (50 PR<\/h1><p>SKŁADNIKI<\/p><p>&lt;5% niejonowe środki powierzchniowo czynne (cukrowe środki powierzchniowo czynne), anionowe środki powierzchniowo czynne (siarczany alkoholi tłuszczowych), substancje zapachowe (olejek eteryczny z lawendy*), linalol. Zawiera również: woda, etanol, sól, glicerydy kwasów tłuszczowych, kwas mlekowy, białka PSZENICY. (*certyfikowany składnik ekologiczny)<\/p><p>SPOSÓB UŻYCIA<\/p><p>Pranie ręczne: 10 ml na 5 litrów wody. <\/p><p>Pranie w pralce: 15 ml na 1 pranie. <\/p><p>Postępować zgodnie z instrukcją na metce ubrania.<\/p><p>Ilość prań - 50<\/p><p>1 nakrętka = 30 ml - do wszystkich twardości wody<\/p><p>UWAGA<\/p><p>Powoduje poważne podrażnienia oczu. <\/p><p>W razie konieczności zasięgnięcia porady lekarza należy pokazać pojemnik lub etykietę.<\/p><p>W przypadku dostania się do oczu: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Kontynuować płukanie. <\/p><p>W przypadku utrzymywania się działania drażniącego na oczy: Zasięgnąć porady\/zgłosić się pod opiekę lekarza.<\/p><p>Dostarczać do miejsca recyklingu tylko wtedy, gdy pojemnik jest całkowicie pusty.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w miejscu niedostępnym dla dzieci<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALMAWIN REINIGUNGSKONZENTRATE GMBH, TALSTR 2, 73644 WINTERBACH<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_3689"
+    },
+    "category": {
+        "id": "260128"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "30.82",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "177.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2890.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "177.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876961111",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:34:30.025Z"
+    },
+    "createdAt": "2025-09-10T10:34:30.000Z",
+    "updatedAt": "2025-09-10T10:49:30.823Z"
+}

@@ -1,0 +1,365 @@
+{
+    "name": "Przekąski i gazaretki owocowe z zabawką i naklejką - Wagon 107 g",
+    "productSet": [
+        {
+            "product": {
+                "id": "c70fa8c4-ae94-4c3c-8454-8d7e9c6e6997",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Bob Snail"
+                        ],
+                        "valuesIds": [
+                            "248811_1957933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129287",
+                        "name": "Wiek podawania",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "129287_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129271",
+                        "name": "Gramatura",
+                        "values": [
+                            "107"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "Świąteczny na prezent wagnik 107g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.26"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129272",
+                        "name": "Rodzaj opakowania",
+                        "values": [
+                            "puszka"
+                        ],
+                        "valuesIds": [
+                            "129272_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249583",
+                        "name": "Rodzaj",
+                        "values": [
+                            "galaretki"
+                        ],
+                        "valuesIds": [
+                            "249583_1705451"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235269",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez laktozy",
+                            "ekologiczny",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "235269_1",
+                            "235269_4",
+                            "235269_2",
+                            "235269_8",
+                            "235269_16",
+                            "235269_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4820219348641"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6afc73db-67fb-47e4-9c74-32a35ae57bf1"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11fb13\/133b0c134dd3976e986ebf90ab3a",
+        "https:\/\/a.allegroimg.com\/original\/11a69d\/0b9c06bb4b0d95714a89c0677e4d",
+        "https:\/\/a.allegroimg.com\/original\/115fe3\/1f693ff545caa0a26775d55f58ea",
+        "https:\/\/a.allegroimg.com\/original\/11eaa3\/6cf93caf4d1fa53b66625a9cf3b1",
+        "https:\/\/a.allegroimg.com\/original\/11d16b\/519295e8450ab46e4f7211c81b80",
+        "https:\/\/a.allegroimg.com\/original\/11e1c0\/32e5db56402f81fe5b7c034f3e73",
+        "https:\/\/a.allegroimg.com\/original\/118f38\/a131c7924ad09ad4fac218c0d3e9",
+        "https:\/\/a.allegroimg.com\/original\/11fb3f\/3fc239da4edbbb7536049c5cee42",
+        "https:\/\/a.allegroimg.com\/original\/110a4c\/d96a98b04966961cc41f3bd578ed"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "26.70",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 323,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11fb13\/133b0c134dd3976e986ebf90ab3a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Przekąski i gazaretki owocowe z zabawką i naklejką - Wagon 107 g<\/h1><p>Zestaw przekąsek Bob Snail to 100% owoców - 100% naturalnej energii i słodyczy, bez dodatku cukru, barwnikowi konserwantów. <\/p><p>SKŁADNIKI: Przekąski Jabłkowe (2×10 g) = 20 g (Jabłko 100 %)<\/p><p>Przekąska Jabłkowo-Malinowa 10 g (Jabłko 80 %, malina 20 %)<\/p><p>Przekąska Jabłkowo-Gruszkowa 10 g (Jabłko 70 %, gruszka 30 %)<\/p><p>Przekąska Jabłko-Czarna porzeczka 10 g (Jabłko 80 %, czarna porzeczka 20 %)<\/p><p>Przekąska Mango 10 g (Mango 100 %)<\/p><p>Przekąska Jabłkowo-Truskawkowa 10 g (Jabłko 80 %, truskawka 20 %)<\/p><p>Przekąska Jabłkowo-Wiśniowa 10 g (Jabłko 80 %, wiśnia 20 %)<\/p><p>Galaretka Jabłko-Gruszka-Cytryna 9 g (Koncentrat soku jabłkowego 78,2 %, koncentrat soku gruszkowego 18,4 %, substancja zagęszczająca: agar 2,9 %, koncentrat soku cytrynowego 0,5 %)<\/p><p>Galaretki Jabłko-Mango-Dynia-Chia 9 g (Koncentrat soku jabłkowego 80,5 %, przecier z mango 8,2 %, przecier z dyni 8,2 %, substancja zagęszczająca: agar 2,3 %, chia - nasiona szałwii hiszpańskiej (Salvia hispanica) 0,8 %)<\/p><p>Galaretka Jabłko-Wiśnia 9 g (Koncentrat soku jabłkowego 83,3 %, koncentrat soku wiśniowego 13,8 %, substancja zagęszczająca: agar 2,9 %)<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a69d\/0b9c06bb4b0d95714a89c0677e4d"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115fe3\/1f693ff545caa0a26775d55f58ea"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11eaa3\/6cf93caf4d1fa53b66625a9cf3b1"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d16b\/519295e8450ab46e4f7211c81b80"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11e1c0\/32e5db56402f81fe5b7c034f3e73"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118f38\/a131c7924ad09ad4fac218c0d3e9"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11fb3f\/3fc239da4edbbb7536049c5cee42"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110a4c\/d96a98b04966961cc41f3bd578ed"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_11685"
+    },
+    "category": {
+        "id": "99477"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "26.70",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.14",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "154.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2500.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "154.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981770298",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T10:40:40.055Z"
+    },
+    "createdAt": "2025-10-14T10:40:40.000Z",
+    "updatedAt": "2025-10-26T06:47:25.107Z"
+}

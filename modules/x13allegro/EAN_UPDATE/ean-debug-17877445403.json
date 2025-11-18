@@ -1,0 +1,378 @@
+{
+    "name": "SZAMPON DO WŁOSÓW ZIOŁOWY NEEM I ALOES 210 ml - SATTVA (AYURVEDA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "34ddd26f-0073-4acd-8ce9-b9dfa55194f6",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "stymulacja porostu włosów"
+                        ],
+                        "valuesIds": [
+                            "129469_1778820"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "226825_384473"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "parabenów",
+                            "SLES"
+                        ],
+                        "valuesIds": [
+                            "129770_128",
+                            "129770_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "210"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "aloes"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8905075000035"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SATTVA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794180536"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "50b05e79-8340-4d65-b710-bdec465dda52"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118f74\/5352a6d9467bbd83926a02fe45c4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "47.49",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 17,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118f74\/5352a6d9467bbd83926a02fe45c4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SZAMPON DO WŁOSÓW ZIOŁOWY NEEM I ALOES 210 ml - SATTVA (AYURVEDA)<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Decyl Glucoside, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis (Aloe Vera) Leaf Extract, Caprylyl\/Capryl Glucoside, Emblica Officinalis Fruit Extract, Azadirachta Indica (Neem) Plant Extract, Nardostachys Jatamansi (Spikenard) Root Extract, Trigonella Foenum Graecum (Fenugreek) Seed Extract, Sapindus Mukoross (Reetha) Fruit Extract, Thymus Serpyllum Extract, Ocimum Sanctum (Tulsi) Leaf Extract, Hydrolyzed Soy Protein, Eclipta Alba (Bhringraj)Extract, Lawsonia Inermis (Henna) Leaf Extract, Glycerin, Polyquaternium-7, Ethylhexylglycerin, Sodium Methyl Cocoyl Taurate, Citric Acid, Citrus Limon Fruit Oil, Rosmarinus Officinalis (Rosemary) Oil, Melaleuca Alternafolia (Tea Tree) Oil, Sodium Gluconate, Green Color. <\/p><p>OPIS<\/p><p>Łagodny szampon oparty na ajurwedyjskiej recepturze. Ekstrakty takie jak Neem i Aloes idealnie nawilżą oraz odżywią skórę głowy. Zawarta w składzie Amla oraz kozieradka wzmacnia cebulki włosów. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Rozprowadzić niewielką ilość szamponu na dłoniach. Nanieść na skórę głowy i włosy. Masować do powstania piany i pozostawić na 5-10 minut. Po tym czasie należy spłukać szampon wodą. W razie potrzeby czynność powtórzyć. <\/p><p>UWAGA<\/p><p>Ze względu na naturalne składniki produktu, kolor oraz zapach mogą z czasem ulec zmianie. Jednakże skuteczność produktu pozostaje bez zmian.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym miejscu.<\/p><p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BOMBAY BAZAAR ASHISH HINDUJA, AL. KRAKOWSKA 61A, 05-090 SĘKOCIN NOWY<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_31991"
+    },
+    "category": {
+        "id": "5363"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "47.49",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.92",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "273.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4450.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "273.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877445403",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T13:17:22.785Z"
+    },
+    "createdAt": "2025-09-10T13:17:22.000Z",
+    "updatedAt": "2025-09-10T13:32:23.145Z"
+}

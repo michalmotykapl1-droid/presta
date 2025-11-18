@@ -1,0 +1,385 @@
+{
+    "name": "KREM DO TWARZY NA DZIEŃ I NA NOC ODŻYWCZY 50 g - TERRA ZDRÓJ (SERIA BOROWIN",
+    "productSet": [
+        {
+            "product": {
+                "id": "9b6dcb95-ca2d-4914-8f20-4d87b44b521b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Terra Zdrój"
+                        ],
+                        "valuesIds": [
+                            "248811_1983135"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902596184612"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "terra zdrój"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "dzień i noc"
+                        ],
+                        "valuesIds": [
+                            "215870_271998"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Do wszystkich typów skóry"
+                        ],
+                        "valuesIds": [
+                            "129434_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "nawilżający"
+                        ],
+                        "valuesIds": [
+                            "129469_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "aluminium"
+                        ],
+                        "valuesIds": [
+                            "129770_512"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "1000"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "uniwersalny"
+                        ],
+                        "valuesIds": [
+                            "215770_271366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "ekstrakt z borowiny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902596184612"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "525efea5-3bb5-454b-a031-01e95302f312"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110bb8\/8edf3a4b40dba44d575f2b6ce531"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "26.06",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110bb8\/8edf3a4b40dba44d575f2b6ce531"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KREM DO TWARZY NA DZIEŃ I NA NOC ODŻYWCZY 50 g - TERRA ZDRÓJ (SERIA BOROWIN<\/h1><p>SKŁADNIKI <\/p><p>AQUA, ISOPROPYL PALMITATE, CETEARYL ALCOHOL\/ CETEARETH-20, GLYCERYL STEARATE, CETYL ALCOHOL, GLYCERIN, BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, CERA ALBA, DIMETHICONE, ALLANTOIN, ARGANIA SPINOSA KERNEL OIL, PEAT EXTRACT\/ POTASSIUM SORBATE\/ SODIUM BENZOATE, TOCOPHERYL ACETATE, XANTHAN GUM, PHENOXYETHANOL\/ ETHYLHEXYLGLYCERIN, PARFUM, CITRONELLOL, HEXYL CINNAMAL, ALPHA-ISOMETHYL IONONE, LIMONENE, CITRAL <\/p><p>OPIS<\/p><p>Odżywczy krem przeznaczony do codziennej pielęgnacji skóry twarzy, na dzień i na noc. Wzbogacony m.in o ekstrakt z borowiny pozyskany z borowin ze złoża Bronowo Uzdrowiska Połczyn Grupa PGU S.A.<\/p><p>Krem regularnie stosowany nawilża, odżywia oraz wspomaga regenerację skóry. Poprawia jej kondycję. Odświeża skórę, pozostawia ją gładką i miękką. Delikatnie natłuszcza oraz pielęgnuje przesuszoną skórę. Wpływa korzystnie na elastyczność i jędrność skóry twarzy. <\/p><p>Formuła zawiera składniki aktywne: ekstrakt z borowiny, masło shea, olej kokosowy, alantoina, olej arganowy.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Niewielką ilość kremu nanieść na oczyszczoną, suchą twarz i szyję. Stosować na dzień i na noc.<\/p><p>UWAGA<\/p><p>Nie stosować na podrażnioną, uszkodzoną skórę i w przypadku nadwrażliwości lub alergii na jakikolwiek składnik produktu. Unikać kontaktu z oczami oraz ustami. Jeśli produkt dostanie się do oka, natychmiast wypłukać je obficie czystą, bieżącą wodą. Wyłącznie do użytku zewnętrznego, nie do spożycia. Nie stosować u dzieci, przechowywać poza ich zasięgiem. Zaprzestać używania, jeśli wystąpi podrażnienie. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Produkt przechowywać w pomieszczeniu suchym, w temperaturze nie niższej niż +10°C i nie wyższej niż +25°C. Chronić przed światłem słonecznym. W okresie ważności produktu, jego barwa może ulec zmianie. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BIO-LIFE COSMETICS WIOLETTA MLECZEK ul. Kraszewskiego 1 33-380 Krynica-Zdrój<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44583"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "26.06",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.99",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "150.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2440.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "150.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876821132",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:33:23.180Z"
+    },
+    "createdAt": "2025-09-10T09:33:23.000Z",
+    "updatedAt": "2025-09-10T09:48:24.571Z"
+}

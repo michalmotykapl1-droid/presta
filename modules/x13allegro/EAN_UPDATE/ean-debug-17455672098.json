@@ -1,0 +1,361 @@
+{
+    "name": "JABŁCZAN MAGNEZU + WITAMINA B6 100 KAPSUŁEK - BIOWEN BIOWEN",
+    "productSet": [
+        {
+            "product": {
+                "id": "172887f9-9c5b-4ba3-952c-974098455509",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biowen"
+                        ],
+                        "valuesIds": [
+                            "248811_1957883"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "210762_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "magnez"
+                        ],
+                        "valuesIds": [
+                            "210698_243910"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904806120762"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "bezsmakowy"
+                        ],
+                        "valuesIds": [
+                            "129857_397698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "jabłczan magnezu z B6"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "83"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904806120762"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110f2f\/9e65ead3438cb890598b3daa5d69"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "61.67",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 48,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>JABŁCZAN MAGNEZU + WITAMINA B6 100 KAPSUŁEK - BIOWEN - BIOWEN<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI <\/p>\n<p>jabłczan magnezu, witamina B6 (pirydoksalo-5-fosforan), otoczka kapsułki: hydroksypropylometyloceluloza. <\/p>\n<p>Składniki w 2 kapułkach<\/p>\n<p>jabłczan magnezu - 1660 mg<\/p>\n<p>w tym magnez - 264 mg (70,4 %)**<\/p>\n<p>witamina B6 (P-5-P) - 10 mg (714 %)**<\/p>\n<p>**dzienna referencyjna wartość spożycia <\/p>\n<p>OPIS <\/p>\n<p>Masz drgającą powiekę? Trudności z koncentracją, zmęczenie, znużenie? Jeśli dodatkowo cierpisz na problemy ze snem i bolesne skurcze mięśni, to mogą być sygnały niedoboru magnezu. Aby uzupełnić magnez w swojej diecie, wypróbuj Jabłczan Magnezu z aktywną formą witaminy B6 od Biowen! <\/p>\n<p>Działanie:<\/p>\n<p>-magnez i witamina B6 przyczyniają się do zmniejszenia uczucia zmęczenia i znużenia<\/p>\n<p>-magnez wspiera utrzymanie prawidłowych funkcji psychologicznych<\/p>\n<p>-magnez przyczynia się do utrzymania prawidłowego metabolizmu energetycznego<\/p>\n<p>-witamina B6 pomaga w prawidłowej produkcji czerwonych krwinek<\/p>\n<p>ZALECANE SPOŻYCIE I INNE UWAGI <\/p>\n<p>Aby zwiększyć wchłanialność, spożywaj jabłczan magnezu podczas posiłku. Zaleca się spożywanie jednej lub dwóch kapsułek dziennie. <\/p>\n<p>Nie należy przekraczaj zalecanej porcji do spożycia w ciągu dnia. <\/p>\n<p>Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. <\/p>\n<p>Zróżnicowany sposób żywienia oraz zdrowy tryb życia są podstawą prawidłowego funkcjonowania organizmu.<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w temperaturze pokojowej w sposób niedostępny dla małych dzieci. Chronić przed wilgocią oraz działaniem promieni słonecznych. <\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>Biodio Sp. z o.o. Sp. k., Ul. Choroszczańska 24, 15-732 Białystok<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43134"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "61.67",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17455672098",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:26:03.696Z"
+    },
+    "createdAt": "2025-04-22T16:44:03.000Z",
+    "updatedAt": "2025-10-24T12:44:00.467Z"
+}

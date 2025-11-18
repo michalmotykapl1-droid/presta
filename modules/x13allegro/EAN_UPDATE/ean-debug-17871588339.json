@@ -1,0 +1,356 @@
+{
+    "name": "HERBAL CARE Suchy szampon POKRZYWA (włosy przetłuszczające się) 180ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "f198269b-f950-4f1e-888f-4c0cb742aa9b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Farmona"
+                        ],
+                        "valuesIds": [
+                            "248811_1939126"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "011700293"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222745",
+                        "name": "Waga",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Ziołowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SUCHE SZAMPONY"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "dodatkowa objętość"
+                        ],
+                        "valuesIds": [
+                            "129469_1778811"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "przetłuszczające się"
+                        ],
+                        "valuesIds": [
+                            "226825_317501"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900117002933"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "1e170c7a-8418-4e83-8fef-609595305a3f"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115ee2\/5a5adaff4490b40014c9c7ba5d53"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "18.25",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115ee2\/5a5adaff4490b40014c9c7ba5d53"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>HERBAL CARE Suchy szampon POKRZYWA (włosy przetłuszczające się) 180ml<\/h1> <p><b>OPIS <\/b><\/p><p>Suchy szampon z pokrzywą został opracowany dla wszystkich, którzy mają przetłuszczające się włosy. Skomponowany go z cenionych od wieków naturalnych składników roślinnych, dzięki którym włosy, bez konieczności mycia, odzyskują komfortową świeżość.<\/p> <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>Na suche, wyszczotkowane włosy rozpylić szampon z odległości 20 cm. Pozostawić na ok. 2 minuty i dokładnie wyczesać. Przed użyciem mocno wstrząsnąć pojemnikiem. Nie rozpylać w kierunku oczu.<\/p><p><b>SKŁADNIKI AKTYWNE<\/b><\/p><p>-ekstrakt z pokrzywy reguluje aktywność gruczołów łojowych<\/p><p>-sok z aloesu nawilża i regeneruje włosy<\/p><p>-skrobia kukurydziana pochłania nadmiar sebum<\/p> <p><b>INCI <\/b><\/p><p>Butane, Propane, Isobutane, Aluminum Starch Octenylsuccinate, Alcohol Denat., Parfum (Fragrance), Linalool, Citronellol, Alpha-Isomethyl Ionone, Coumarin, Cinnamyl Alcohol, Hexyl Cinnamal, Geraniol, Propylene Glycol, Urtica Dioica (Nettle) Herb Extract, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate.<\/p> <p><b>UWAGA<\/b><\/p><p>Pojemnik pod ciśnieniem. Ogrzanie grozi wybuchem. Przechowywać z dala od źródeł ciepła, iskrzenia, otwartego ognia, gorących powierzchni. - Palenie wzbronione. Nie rozpylać nad otwartym ogniem lub innym źródłem zapłonu. Pojemnik pod ciśnieniem. Nie przekłuwać ani nie spalać, nawet po zużyciu. Chronić przed światłem słonecznym. Nie wystawiać na działanie temperatury przekraczającej 50°C\/122°F. Chronić przed dziećmi. Niebezpieczeństwo. Skrajnie łatwopalny aerozol.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71FARHERRP"
+    },
+    "category": {
+        "id": "259391"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.25",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.20",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "105.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1710.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "105.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871588339",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T19:10:52.619Z"
+    },
+    "createdAt": "2025-09-08T19:10:52.000Z",
+    "updatedAt": "2025-10-07T12:21:48.756Z"
+}

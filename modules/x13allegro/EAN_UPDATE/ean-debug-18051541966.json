@@ -1,0 +1,263 @@
+{
+    "name": "Maseczka dziecięca, profilowana rybki",
+    "productSet": [
+        {
+            "product": {
+                "id": "6c66f601-a1be-41a7-ac83-2e82eceab712",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "BeePack"
+                        ],
+                        "valuesIds": [
+                            "248811_1957688"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906746004263"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906746004263"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "09e656ed-94ef-4cac-bcd0-90bd1283992d"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów z kategorii: Artykuły higieniczne - Produkty jednorazowe oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1. Wybierz produkt odpowiedni do Twoich potrzeb:\n* Upewnij się, że produkt spełnia Twoje oczekiwania i wymagania higieniczne.\n* Jeśli masz specjalne potrzeby, skonsultuj się z lekarzem lub specjalistą.\n2. Przechowuj produkt w odpowiednich warunkach:\n* Przechowuj produkt w suchym i czystym miejscu, z dala od wilgoci i wysokich temperatur.\n* Unikaj bezpośredniego działania promieni słonecznych na produkt.\n3. Używaj produktu zgodnie z przeznaczeniem:\n* Stosuj produkt zgodnie z instrukcją producenta.\n* Nie używaj produktu w sposób niezgodny z jego przeznaczeniem.\n4. Dbaj o higienę podczas użytkowania:\n* Umyj ręce przed użyciem produktu.\n* Unikaj kontaktu produktu z zanieczyszczonymi powierzchniami.\n5. Uważaj na reakcje alergiczne:\n* Jeśli zauważysz jakiekolwiek objawy alergii (wysypka, swędzenie, obrzęk), natychmiast przerwij stosowanie produktu i skonsultuj się z lekarzem.\n6. Produkt jednorazowy - użyj raz i wyrzuć:\n* Produkt jest przeznaczony do jednorazowego użytku.\n* Nie używaj ponownie produktu, ponieważ może to zwiększyć ryzyko infekcji.\n7. Bezpieczna utylizacja zużytych produktów:\n* Wyrzucaj zużyte produkty do odpowiednich pojemników na śmieci, zgodnie z lokalnymi przepisami.\n* Nie wyrzucaj produktów do toalety lub kanalizacji, ponieważ może to spowodować problemy z odpływem.\n8. Uważaj na małe elementy:\n* Jeśli produkt zawiera małe elementy, trzymaj je z dala od dzieci, aby uniknąć ryzyka połknięcia.\n9. Uważaj na opakowanie:\n* Opakowanie produktu może stanowić zagrożenie dla dzieci (np. zadławienie).\n* Trzymaj opakowanie z dala od dzieci.\n10. Przechowuj w miejscu niedostępnym dla dzieci:\n* Przechowuj produkt w miejscu niedostępnym dla dzieci, aby uniknąć przypadkowego spożycia lub niewłaściwego użycia.\n11. Sprawdź produkt przed użyciem:\n* Przed użyciem sprawdź, czy produkt nie jest uszkodzony lub przeterminowany.\n* Nie używaj uszkodzonego lub przeterminowanego produktu.\n12. Nie modyfikuj produktu:\n* Nie modyfikuj produktu w żaden sposób, ponieważ może to wpłynąć na jego bezpieczeństwo i skuteczność.\n13. Skonsultuj się ze specjalistą:\n* W razie wątpliwości skonsultuj się z lekarzem lub specjalistą w zakresie higieny osobistej.\n14. Bądź odpowiedzialny:\n* Używaj produktów higienicznych w sposób odpowiedzialny, dbając o swoje zdrowie i środowisko.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "249829",
+            "name": "Wyrób medyczny",
+            "values": [
+                "nie"
+            ],
+            "valuesIds": [
+                "249829_1765555"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110d2f\/87a1ab564c36b7ea881de5aa880d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.07",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 166,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110d2f\/87a1ab564c36b7ea881de5aa880d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Maseczka dziecięca, profilowana rybki<\/h1><p>Kolorowa i wygodna maseczka zaprojektowana specjalnie dla najmłodszych. <\/p><p>Profilowany kształt zapewnia komfort noszenia i lepsze dopasowanie do twarzy dziecka, a wesoły wzór z rybkami sprawia, że noszenie maseczki staje się przyjemniejsze. <\/p><p>Idealna do codziennego użytku, by chronić i bawić jednocześnie! SKŁADNIKI: bawełna 100% + gumki<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_09835"
+    },
+    "category": {
+        "id": "122613"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.07",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.78",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "69.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1130.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "69.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051541966",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:53:16.662Z"
+    },
+    "createdAt": "2025-11-03T13:53:16.000Z",
+    "updatedAt": "2025-11-03T14:08:17.676Z"
+}

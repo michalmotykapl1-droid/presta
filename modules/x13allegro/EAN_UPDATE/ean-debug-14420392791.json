@@ -1,0 +1,299 @@
+{
+    "name": "Migdały mielone (mąka migdałowa) BIO 250 g (EUREKO) EUREKO",
+    "productSet": [
+        {
+            "product": {
+                "id": "0033ac5a-7bfe-48d5-83bd-01bf56c897de",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Eureko"
+                        ],
+                        "valuesIds": [
+                            "248811_1959419"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "255"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Migdały mielone (mąka migdałowa)"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908249972087"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237290",
+                        "name": "Rodzaj",
+                        "values": [
+                            "mąka migdałowa"
+                        ],
+                        "valuesIds": [
+                            "237290_408326"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.26"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908249972087"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ]
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110327\/9fa45bea453b81ad1edcfd2739de",
+        "https:\/\/a.allegroimg.com\/original\/116a78\/13128f004b0ab546c4fd92637b0e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "28940863-a9eb-4149-9458-a349c36332d9"
+        },
+        "returnPolicy": {
+            "id": "495ecc78-b6cd-4d5a-a421-c52b040dcd9f"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "24.78",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 500,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "SKAWINA",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "08453c37-fd0f-49df-8f2e-6f0fe064e1e3"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Migdały mielone (mąka migdałowa) BIO 250 g (EUREKO) -  EUREKO<\/h1>\n<p><b>EAN:<\/b> 5908249972087 <b>SKU: <\/b>EKOWIT_06222<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110327\/9fa45bea453b81ad1edcfd2739de"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Mąkę migdałową wykonuje się poprzez mielenie nieprażonych obranych nasion migdałowca. <\/p>\n<p>Posiada naturalną słodycz, która na długo pozostaje w ustach. <\/p>\n<p>SKŁADNIKI: MIGDAŁY mielone* 100% * składnik pochodzący z kontrolowanych upraw ekologicznych<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>!!! INFORMACJE DOTYCZĄCE CZASU REALIZACJI ZAMÓWIENIA !!!<\/b><\/p>\n<p><b>Zamówienie złożone DO godziny 12:00<\/b> będą wysyłane następnego dnia roboczego<\/p>\n<p><b>Zamówienia złożone PO godzinie 12:00<\/b> będą wysyłane w ciągu 48 godzin<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_06222"
+    },
+    "category": {
+        "id": "111095"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "24.78",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "14420392791",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-08-03T14:54:19.449Z"
+    },
+    "createdAt": "2023-09-30T16:08:04.000Z",
+    "updatedAt": "2025-10-24T12:49:11.889Z"
+}

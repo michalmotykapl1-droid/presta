@@ -1,0 +1,326 @@
+{
+    "name": "Magnez cytrynian + B6 100 kaps. SUPLIIV",
+    "productSet": [
+        {
+            "product": {
+                "id": "6771b3d0-6444-4251-b9b6-5e82753feec2",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "xxx"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Supliiv"
+                        ],
+                        "valuesIds": [
+                            "248811_2020065"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905940371812"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców",
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32",
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "magnez"
+                        ],
+                        "valuesIds": [
+                            "210698_243910"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_8192",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905940371812"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "8ec5e84a-9d6a-471d-80a3-8ed1f9bc358a"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11efbf\/d57c799c4647b5dc826a7cfb18b0"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "17.80",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11efbf\/d57c799c4647b5dc826a7cfb18b0"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Magnez cytrynian + B6 100 kaps. SUPLIIV<\/h1> <p><b>OPIS <\/b><\/p><p>Magnez Cytrynian + Witamina B6 – wsparcie dla mięśni, układu nerwowego i redukcji zmęczenia<\/p> <p>Magnez Cytrynian + B6 to wysokiej jakości suplement diety w kapsułkach, oparty na biodostępnej formie magnezu – cytrynianie. Produkt został dodatkowo wzbogacony o witaminę B6, która zwiększa wchłanianie magnezu oraz wspiera jego działanie w organizmie.<\/p> <p>Magnez pomaga w utrzymaniu prawidłowego funkcjonowania mięśni i układu nerwowego, bierze udział w produkcji energii oraz wspiera redukcję zmęczenia. Witamina B6 wpływa korzystnie na metabolizm homocysteiny, produkcję czerwonych krwinek, układ odpornościowy i funkcje psychologiczne.<\/p> <p>Korzyści ze stosowania:<\/p><p>✔ Wspiera funkcje mięśni i układu nerwowego<\/p><p>✔ Pomaga w redukcji zmęczenia i znużenia<\/p><p>✔ Bierze udział w przemianach energetycznych<\/p><p>✔ Utrzymuje równowagę elektrolitową i psychiczną<\/p><p>✔ Wspomaga odporność i regulację hormonalną<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1 kapsułka dziennie, popić wodą, najlepiej podczas posiłku.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Cytrynian magnezu, witamina B6 (chlorowodorek pirydoksyny), otoczka kapsułki – hydroksypropylometyloceluloza<\/p> <p>Składniki aktywne w 1 kapsułce:<\/p><p>Cytrynian magnezu – 825 mg<\/p><p>w tym magnez: 125 mg (33,3% RWS)<\/p><p>Witamina B6 (chlorowodorek pirydoksyny) – 2 mg (142,8% RWS)<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w suchym miejscu, w temperaturze pokojowej, w szczelnie zamkniętym opakowaniu. Chronić przed światłem i wilgocią. Przechowywać w miejscu niedostępnym dla małych dzieci.<\/p> <p><b>UWAGA <\/b><\/p><p>Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplement diety nie zastępuje zróżnicowanej diety ani zdrowego trybu życia. Produkt dla osób dorosłych. Nie stosować u dzieci, kobiet w ciąży i karmiących piersią.<\/p> <p>Wyprodukowano w Unii Europejskiej dla:<\/p><p>PERSEA Sp. z o.o.<\/p><p>ul. Rakowiecka 5\/37, 02-517 Warszawa<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SUPMAGCK"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.80",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "102.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1670.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "102.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876299370",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:34:17.845Z"
+    },
+    "createdAt": "2025-09-10T04:34:17.000Z",
+    "updatedAt": "2025-09-10T04:49:19.238Z"
+}

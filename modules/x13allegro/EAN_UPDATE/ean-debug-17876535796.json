@@ -1,0 +1,367 @@
+{
+    "name": "VENITA Trychologiczny szampon Dziegieć przeciwłupieżowy do każdego rodzaju",
+    "productSet": [
+        {
+            "product": {
+                "id": "7d1f0171-b7c2-48e4-b4f2-6e715a8024e8",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Venita"
+                        ],
+                        "valuesIds": [
+                            "248811_1965972"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciwłupieżowe"
+                        ],
+                        "valuesIds": [
+                            "129469_1778816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "do każdego typu włosów"
+                        ],
+                        "valuesIds": [
+                            "226825_317513"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Dziegieć"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902101521895"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "łupież"
+                        ],
+                        "valuesIds": [
+                            "226689_316773"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Szampon Trychologiczny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902101521895"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6742703f-799c-4a4c-8e80-20a6e6a3fdda"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11df91\/a2d4f5d844dfb8fc30d33b94bb1e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "17.25",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 11,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11df91\/a2d4f5d844dfb8fc30d33b94bb1e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>VENITA Trychologiczny szampon Dziegieć przeciwłupieżowy do każdego rodzaju<\/h1> <p><b>OPIS <\/b><\/p><p>Trychologiczny szampon z dziegciem to idealne rozwiązanie dla osób z problemem łupieżu. Zapewnia delikatną, a jednocześnie skuteczną pielęgnację włosów i skalpu. Zawiera Climbazol, składnik o potwierdzonym działaniu przeciwłupieżowym. Dziegieć brzozowy, tradycyjnie stosowany w pielęgnacji włosów ze skłonnością do przetłuszczania oraz do skóry wrażliwej i podrażnionej.<\/p><p>Szampon posiada w składzie surfaktanty pochodzenia naturalnego o doskonałych właściwościach myjących, delikatnie oczyszczające włosy i skórę głowy, nie naruszające ich naturalnej równowagi.<\/p><p>Nie wysusza skóry głowy - potwierdzone badaniami trychologicznymi. <\/p><p>- bez sls, sles <\/p><p>- wegański<\/p><p>- 95% składników pochodzenia naturalnego.<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Niewielką ilość szamponu nanieść na wilgotne włosy, wmasować. Po 2-3 minutach dokładnie spłukać. W przypadku dostania się szamponu do oczu natychmiast przemyć je wodą.<\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>AQUA, SODIUM COCO SULFATE, COCO-GLUCOSIDE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, CETRIMONIUM CHLORIDE, CLIMBAZOLE, HELIANTHUS ANNUUS SEED OIL, BETULA ALBA LEAF EXTRACT, PANTHENOL, POLYQUATERNIUM-7, BENZYL ALCOHOL, SODIUM BENZOATE, POTASSIUM SORBATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, STYRENE\/ACRYLATES COPOLYMER, CITRIC ACID, PARFUM, HEXYL CINNAMAL, LIMONENE, LINALOOL. <\/p>  <p><b>PRODUCENT <\/b><\/p><p>„VENITA” Fabryka Kosmetyków Sp. z o.o.<\/p><p>ul. Pojezierska 90A<\/p><p>91-341 Łódź, Polska<\/p><p>www.venita.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71VENTRYSD"
+    },
+    "category": {
+        "id": "5363"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.25",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.97",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1615.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876535796",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T07:21:09.251Z"
+    },
+    "createdAt": "2025-09-10T07:21:09.000Z",
+    "updatedAt": "2025-10-22T12:49:59.235Z"
+}

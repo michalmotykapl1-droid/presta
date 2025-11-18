@@ -1,0 +1,349 @@
+{
+    "name": "Mela Medica Mela Vapo Rub - kosmetyczna maść rozgrzewająca 50g MELALEUCA",
+    "productSet": [
+        {
+            "product": {
+                "id": "65636c27-a1be-4ebd-ab19-e6f130138a5b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Melaleuca"
+                        ],
+                        "valuesIds": [
+                            "248811_1974928"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907786990530"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "na dzień"
+                        ],
+                        "valuesIds": [
+                            "215870_271962"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Alergiczna"
+                        ],
+                        "valuesIds": [
+                            "129434_6"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "chłodzący"
+                        ],
+                        "valuesIds": [
+                            "129469_9"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "atopowe zapalenie skóry"
+                        ],
+                        "valuesIds": [
+                            "226689_316729"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "129770_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "emulsja"
+                        ],
+                        "valuesIds": [
+                            "215866_271950"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "ampułki"
+                        ],
+                        "valuesIds": [
+                            "215766_275153"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907786990530"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f89e60d9-4744-45bd-9966-9f03d7411c76"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11e4e6\/33801204477da2d7e23602e34ced"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "20.43",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11e4e6\/33801204477da2d7e23602e34ced"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mela Medica Mela Vapo Rub - kosmetyczna maść rozgrzewająca 50g MELALEUCA<\/h1> <p><b>OPIS <\/b><\/p><p>Kosmetyczna maść rozgrzewająca. <\/p><p>Najważniejsze składniki: Masło Shea, lanolina, olejek eukaliptusowy, olejek miętowy, kamfora, mentol.<\/p> <p>Mela Vaop Rub to rozgrzewająca maść kosmetyczna do nacierania i inhalacji wskazana w czasie przeziębień i oraz infekcji grypowych. Receptura oparta na aromaterapeutycznych olejkach eterycznych, maśle Shea oraz lanolinie stanowi naturalna alternatywę dla powszechnie stosowanych preparatów. Zawarty w maści olejek eukaliptusowy, mentol oraz kamfora posiadają udowodnione wieloma naukowymi publikacjami działanie udrażniające nos i ułatwiające oddychanie. Zastosowanie naturalnej bazy opartej na maśle Shea i lanolinie zapewnia długotrwałe uwalnianie się składników aktywnych oraz pozostawia przyjemny zapach olejku miętowego. Naturalna baza nie zatyka porów oraz nie podrażnia skóry.<\/p><p><b>PRZEZNACZENIE <\/b><\/p><p>Do nacierania:<\/p><p>- klatki piersiowej, pleców oraz stóp w czasie przeziębienia oraz infekcji grypowych<\/p><p>- skroni i karku podczas bólu głowy<\/p><p>- mięśni i stawów w czasie bólów pochodzenia reumatologicznego, grypowego oraz nerowobólach.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zewnętrznie na skórę:<\/p><p>-w dolegliwościach mięśni, stawów i nerwobólach natrzeć niewielką ilością maści bolące miejsca,<\/p><p>- w objawach infekcji górnych dróg oddechowych i w przeziębieniach z kaszlem i katarem nacierać klatkę piersiową, plecy i kark lub stopy,<\/p><p>- w bólach głowy nacierać skroń i kark.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Butyrospermum Parkii Butter, Camphor, Cetearyl Alcohol, Glyceryl Stearate, Stearic Acid, Eucalyptus Globulus Leaf Oil, Menthol, Mentha Piperita Oil, Lanolin.<\/p> <p><b>UWAGA <\/b><\/p><p>Nie stosować u osób wrażliwych na którykolwiek składnik preparatu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71MELMELME"
+    },
+    "category": {
+        "id": "258370"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "20.43",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.70",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "117.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1915.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "117.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876331913",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:05:44.330Z"
+    },
+    "createdAt": "2025-09-10T05:05:44.000Z",
+    "updatedAt": "2025-10-14T17:51:48.689Z"
+}

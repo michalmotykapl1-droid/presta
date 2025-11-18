@@ -1,0 +1,365 @@
+{
+    "name": "ODŻYWKA DO WŁOSÓW SŁABYCH I ŁAMLIWYCH Z KERATYNĄ 300 ml - BIOMAGIC",
+    "productSet": [
+        {
+            "product": {
+                "id": "7a87a870-58aa-45b9-b10e-e6a976c5a482",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250671",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "inna"
+                        ],
+                        "valuesIds": [
+                            "250671_2005432"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "cienkie i delikatne"
+                        ],
+                        "valuesIds": [
+                            "226825_317489"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "regeneracja i nawilżenie"
+                        ],
+                        "valuesIds": [
+                            "129469_1778815"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "dla blondynek"
+                        ],
+                        "valuesIds": [
+                            "129612_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226833",
+                        "name": "Typ",
+                        "values": [
+                            "do spłukiwania"
+                        ],
+                        "valuesIds": [
+                            "226833_317589"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "350"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.35"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8699367126298"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "BIOMAGIC"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8699367126298"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "15a2917f-85f1-4c95-9b87-c086a9f59194"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112d47\/a1f8ec8e4ea181efc3120a018e1d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.71",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 49,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112d47\/a1f8ec8e4ea181efc3120a018e1d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ODŻYWKA DO WŁOSÓW SŁABYCH I ŁAMLIWYCH Z KERATYNĄ 300 ml - BIOMAGIC<\/h1><p>SKŁADNIKI<\/p><p>AQUA,CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, POLYQUATERNIUM-7, LAURYL GLUCOSIDE,PARFUM, HYDROLYZED CORN PROTEIN, HYDROLYZED WHEAT PROTEIN, HYDROLYZED SOYPROTEIN, BENZYL ALCOHOL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE,ALOE BARBADENSIS LEAF JUICE, BETULA ALBA LEAF EXTRACT, CHAMOMILLA RECUTITAFLOWER EXTRACT, PANICUM MILIACEUM SEED EXTRACT, EQUISETUM ARVENSE EXTRACT,SALVIA OFFICINALIS LEAF EXTRACT, URTICA DIOICA LEAF EXTRACT, CAMELIA SINENSIS LEAF EXTRACT, ARCTIUM LAPPA ROOT EXTRACT, LAWSONIA INERMIS EXTRACT, HUMULUS LUPULUS EXTRACT, CALCIUM PANTEHENATE, NIACIN, BIOTIN, CITRIC ACID<\/p><p>SPOSÓB UŻYCIA<\/p><p>Nałożyć na wilgotne włosy po umyciu szamponem. Rozprowadzić na całej ich długości. Następnie spłukać dużą ilością ciepłej wody. <\/p><p>UWAGA<\/p><p>Produkt do użytku zewnętrznego. Unikać kontaktu z oczami. W przypadku kontaktu z oczami przemyć obficie wodą. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Chronić przed dziećmi. Przechowywać w temperaturze pokojowej. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Alliance Kozmetik Sanayi ve Ticaret, Address: Ikitelli OSB Mahallesi Çorapçilar Sanayi Sitesi, F Blok NO:11-12 Başakşehir \/ ISTANBUL<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_20423"
+    },
+    "category": {
+        "id": "5364"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.71",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.60",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "165.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2690.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "165.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877190031",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T11:56:05.296Z"
+    },
+    "createdAt": "2025-09-10T11:56:05.000Z",
+    "updatedAt": "2025-09-10T12:11:05.764Z"
+}

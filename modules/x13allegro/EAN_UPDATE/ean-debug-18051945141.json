@@ -1,0 +1,332 @@
+{
+    "name": "PŁYN DO MYCIA NACZYŃ SENSITIVE ECO 500 ml - KLAR",
+    "productSet": [
+        {
+            "product": {
+                "id": "0147979b-f6ff-46a7-af32-2c25aecd0735",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250572",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "PŁYN DO NACZYŃ"
+                        ],
+                        "valuesIds": [
+                            "250572_1932186"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Klar"
+                        ],
+                        "valuesIds": [
+                            "248811_1951971"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4019555100352"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.58"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225818",
+                        "name": "Rodzaj",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "225818_313698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Niemcy"
+                        ],
+                        "valuesIds": [
+                            "249649_1723399"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "LAWENDOWY"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225822",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczny"
+                        ],
+                        "valuesIds": [
+                            "225822_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220153",
+                        "name": "Liczba sztuk w zestawie",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4019555100352"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "91438d68-de6a-4930-b6df-204cc030ba72"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa środków do zmywania oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Drażniące działanie: Środki do zmywania mogą powodować podrażnienia skóry i oczu. Należy unikać kontaktu z oczami i skórą. W przypadku kontaktu z oczami, przemyć je dużą ilością wody i skonsultować się z lekarzem.\n2.  Zagrożenie połknięciem: Trzymać poza zasięgiem dzieci. Połknięcie może być szkodliwe. W razie połknięcia natychmiast skontaktować się z lekarzem.\n3.  Reakcje alergiczne: Niektóre środki mogą zawierać składniki powodujące reakcje alergiczne. Należy sprawdzić skład i unikać stosowania produktu, jeśli jestem uczulony na któryś ze składników.\n4.  Mieszanie z innymi środkami: Nie mieszać z innymi środkami czyszczącymi, szczególnie z wybielaczami, gdyż może to prowadzić do wydzielania się niebezpiecznych gazów.\n5.  Przechowywanie: Przechowywać w chłodnym, suchym miejscu, z dala od żywności i napojów. Upewnić się, że pojemnik jest szczelnie zamknięty.\n6.  Utylizacja: Postępować zgodnie z lokalnymi przepisami dotyczącymi utylizacji opakowań i resztek produktu. Nie wylewać do kanalizacji.\n7.  Używanie rękawic: Zalecane jest używanie rękawic ochronnych podczas zmywania, aby chronić skórę przed podrażnieniami.\n8.  Wentylacja: Podczas używania środków do zmywania należy zapewnić odpowiednią wentylację pomieszczenia.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117626\/21dbb7ba46cd8eb016379d89bb8a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.21",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 104,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117626\/21dbb7ba46cd8eb016379d89bb8a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁYN DO MYCIA NACZYŃ SENSITIVE ECO 500 ml - KLAR<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Lauryl Polyglucose, Fettalkoholsulfat C12-14 Natriumsalz, Glycerin, Alcohol Denat., Sodium Chloride, Benzyl Alcohol, Lactic Acid.<\/p><p>OPIS<\/p><p>VEGAN - nie zawiera składników pochodzenia zwierzęcego.<\/p><p>SENSITIVE - odpowiedni dla wrażliwej skóry.<\/p><p>Testowany dermatologicznie.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Wystarczy 1 kropla (ok. 2 ml), przy bardzo brudnych naczyniach należy użyć trochę więcej płynu (ok. 4 ml). <\/p><p>Butelka 500 ml powinna starczyć na ok. 250 aplikacji.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALMAWIN REINIGUNGSKONZENTRATE GMBH, TALSTR 2, 73644 WINTERBACH<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_5796"
+    },
+    "category": {
+        "id": "260253"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.21",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.04",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "76.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1240.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "76.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051945141",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T16:40:44.284Z"
+    },
+    "createdAt": "2025-11-03T16:40:44.000Z",
+    "updatedAt": "2025-11-03T16:55:45.678Z"
+}

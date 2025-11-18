@@ -1,0 +1,407 @@
+{
+    "name": "Odżywka ziołowa do włosów suchych i łamliwych 200ml FITOMED",
+    "productSet": [
+        {
+            "product": {
+                "id": "a5ff3ebf-abc9-4fdf-a973-d7b9a293659e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Fitomed"
+                        ],
+                        "valuesIds": [
+                            "248811_1980254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250671",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "inna"
+                        ],
+                        "valuesIds": [
+                            "250671_2005432"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "aluminium",
+                            "amoniaku",
+                            "mydła",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_512",
+                            "129770_1024",
+                            "129770_131072",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "suche i zniszczone"
+                        ],
+                        "valuesIds": [
+                            "226825_317509"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "regeneracja i nawilżenie"
+                        ],
+                        "valuesIds": [
+                            "129469_1778815"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226833",
+                        "name": "Typ",
+                        "values": [
+                            "do spłukiwania"
+                        ],
+                        "valuesIds": [
+                            "226833_317589"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "ziołowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247073",
+                        "name": "Porowatość włosów",
+                        "values": [
+                            "włosy niskoporowate"
+                        ],
+                        "valuesIds": [
+                            "247073_642969"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "FIT174"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907504400174"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f3764458-71e4-4aa3-b165-fd7e548ff586"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cb10\/f1751ee74ec7844a1b0e33b5d8b6"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.26",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11cb10\/f1751ee74ec7844a1b0e33b5d8b6"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Odżywka ziołowa do włosów suchych i łamliwych 200ml FITOMED<\/h1> <p><b>SKŁADNIKI ZIOŁOWE <\/b><\/p><p>wyciąg z ziół skrzypu i chmielu - bogaty w sole mineralne (krzem, potas, wapń), witaminę E i witaminy z grupy B. Badania aplikacyjne wykazały, iż: następuje szybszy porost włosów, ulegają one pogrubieniu i wzmocnieniu, zmniejsza się łamliwość<\/p> <p><b>PRZEZNACZENIE <\/b><\/p><p>do pielęgnacji włosów celem regeneracji oraz stymulacji ich wzrostu<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>po umyciu włosów szamponem z mydlnicy lekarskiej Fitomed, odżywkę nanieść na wilgotne włosy, wetrzeć w skórę, po kilku minutach spłukać. Stosując niewielką ilość odżywki można jej nie spłukiwać.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Equisetum Arvense Extract, Humulus Lupulus Cone, Cetearyl Alcohol, Glycerin, Behentrimonium Methosulfate, Benzyl Alcohol, Panthenol, Tocopheryl Acetate, Guar Hydroxypropyltrimonium Chloride, Ethylhexylglycerin, Parfum, Cl 16255.<\/p> <p>Kosmetyk wegański, nie zawiera składników pochodzenia zwierzęcego. Testowany dermatologicznie, pH neutralne.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71FITODZWS"
+    },
+    "category": {
+        "id": "5364"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.26",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.43",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "111.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1805.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "111.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876333341",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:07:06.713Z"
+    },
+    "createdAt": "2025-09-10T05:07:06.000Z",
+    "updatedAt": "2025-09-10T05:22:07.446Z"
+}

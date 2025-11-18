@@ -1,0 +1,321 @@
+{
+    "name": "BALSAM ANTYCELLULITOWY 200 ml - ZIOŁOWY OGRÓD BY JOZKA (DARY NATURY)",
+    "productSet": [
+        {
+            "product": {
+                "id": "b5c65d99-455d-46e0-973b-6b34929ad362",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904538034276"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.35"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Ziołowy Ogród"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129529",
+                        "name": "Rodzaj",
+                        "values": [
+                            "balsam"
+                        ],
+                        "valuesIds": [
+                            "129529_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "340"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904538034276"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "37e0d1f3-0da2-4bc6-b316-43c54800b661"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa balsamów, maseł i kremów oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Przed pierwszym użyciem wykonaj test na małym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n*   Nie stosuj produktu na uszkodzoną lub podrażnioną skórę.\n*   Unikaj kontaktu z oczami. W przypadku dostania się produktu do oczu, natychmiast przemyj je dużą ilością wody.\n*   Nie połykaj. Produkt przeznaczony jest wyłącznie do użytku zewnętrznego.\n*   Trzymaj produkt poza zasięgiem dzieci.\n*   Przechowuj w chłodnym i suchym miejscu, z dala od bezpośredniego światła słonecznego i wysokich temperatur.\n*   Nie używaj produktu, jeśli jesteś uczulony na którykolwiek ze składników.\n*   Jeśli wystąpi podrażnienie, zaczerwienienie lub swędzenie, zaprzestań stosowania produktu i skonsultuj się z lekarzem.\n*   Upewnij się, że opakowanie jest szczelnie zamknięte po każdym użyciu.\n*   Produkt może powodować śliskość powierzchni, dlatego zachowaj ostrożność podczas aplikacji.\n*   W przypadku stosowania u dzieci, upewnij się, że produkt jest odpowiedni dla ich wieku i skóry.\n*   Nie używaj produktu po upływie daty ważności.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1140b7\/37713aa34d83a2c43da4e99baf38"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "50.13",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1140b7\/37713aa34d83a2c43da4e99baf38"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BALSAM ANTYCELLULITOWY 200 ml - ZIOŁOWY OGRÓD BY JOZKA (DARY NATURY)<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Fagopyrum Esculentum Juice, Theobroma Cacao Seed Butter, Canola Oil, Caprylic\/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Glyceryl Stearate, Uritica Dioica Seed Oil, Stearic Acid, Sodium Lauroyl Glutamate, Cetyl Alcohol, Polyglyceryl – 3 PCA, Panthenol, Sorbitol, Angelica Palustris Extract, Artemisia Absinthium Extract, Cochlearia Armoracia Root Extract, Coffea Arabica Seed Extract, Cyclanthera Pedata Extract, Equisetum Arvense Leaf Extract, Carnitine Fumarate, Menthyl Nicotinate, Tocopherol, Benzyl Alcohol, Citrus Aurantium Dulcis Peel Oil, Helianthus Annuus Seed Oil, Dehydroacetic Acid, Sodium Pyruvate, Succinic Acid, Xanthan Gum, Citric Acid, Sodium Benzoate, Potassium Sorbate, Menthol, D-Limonen.<\/p><p>OPIS<\/p><p>Naturalny balsam do ciała na bazie ziołowych składników aktywnych, polecany szczególnie do pielęgnacji skóry pozbawionej jędrności oraz z tzw. efektem skórki pomarańczowej.<\/p><p>To dzięki tym składnikom nasz balsam jest tak skuteczny:<\/p><p>Gryka – zawiera rutynę o działaniu antyoksydacyjnym, zwiększającym gęstość i elastyczność skóry.<\/p><p>Kawa – ujędrnia, ujednolica koloryt, poprawia krążenie.<\/p><p>Pokrzywa – uelastycznia, odżywia i regeneruje skórę.<\/p><p>Carnoxyn® – wykazuje działanie wyszczuplające, antycellulitowe i ujędrniające.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Porcję balsamu wmasuj okrężnymi ruchami w miejsca narażone na powstawanie cellulitu. Stosuj regularnie, dwa razy dziennie, najlepiej rano i wieczorem.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze 16 - 25<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>\"DARY NATURY\" SP. Z O.O. KORYCINY 73, 17-315 GRODZISK<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43380"
+    },
+    "category": {
+        "id": "5351"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "50.13",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.53",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "288.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4695.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "288.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051573701",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T14:08:26.330Z"
+    },
+    "createdAt": "2025-11-03T14:08:26.000Z",
+    "updatedAt": "2025-11-03T14:23:26.662Z"
+}

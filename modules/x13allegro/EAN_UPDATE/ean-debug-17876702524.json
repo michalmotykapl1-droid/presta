@@ -1,0 +1,367 @@
+{
+    "name": "KREM DO TWARZY NORMALIZUJĄCY I ZWĘŻAJĄCY PORY 50 ml - UZDROVISCO (BALANCE)",
+    "productSet": [
+        {
+            "product": {
+                "id": "91bbd0ac-1e00-4814-af83-629055fe7909",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "UZDROVISCO"
+                        ],
+                        "valuesIds": [
+                            "248811_1983293"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904917483855"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Balance"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "dzień i noc"
+                        ],
+                        "valuesIds": [
+                            "215870_271998"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Mieszana",
+                            "Wrażliwa"
+                        ],
+                        "valuesIds": [
+                            "129434_4",
+                            "129434_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "zwężający pory"
+                        ],
+                        "valuesIds": [
+                            "129469_271374"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "110"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "35+"
+                        ],
+                        "valuesIds": [
+                            "215770_271334"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Delikatny, Świeży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904917483855"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e0942088-fe0b-4b5d-9913-f09daff9ac35"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c759\/5527c19740a2bfb3bdac6906cb4e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "56.51",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c759\/5527c19740a2bfb3bdac6906cb4e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KREM DO TWARZY NORMALIZUJĄCY I ZWĘŻAJĄCY PORY 50 ml - UZDROVISCO (BALANCE)<\/h1><p>SKŁADNIKI <\/p><p>AQUA, DICAPRYLYL CARBONATE, PROPANEDIOL, COCO-CAPRYLATE\/CAPRATE, CETEARYL ALCOHOL, GLYCERIN, SODIUM STEAROYL GLUTAMATE, PENTYLENE GLYCOL, CAPRYLIC\/CAPRIC TRIGLYCERIDE, ADENOSINE, SILANETRIOL, ACETYL HEXAPEPTIDE-1, VIOLA TRICOLOR EXTRACT, LAUROYL LYSINE, PULLULAN, SILICA, ZEA MAYS STARCH, ALLANTOIN, DEXTRIN PALMITATE, DIISOSTEARYL MALATE, LACTOBACILLUS FERMENT, XANTHAN GUM, HECTORITE, TOCOPHEROL, TOCOPHERYL ACETATE, CAPRYLYL GLYCOL, BUTYLENE GLYCOL, TETRASODIUM GLUTAMATE DIACETATE, HYDROXYACETOPHENONE, ETHYLHEXYLGLYCERIN, PIROCTONE OLAMINE, SODIUM METABISULFITE, LACTIC ACID, PARFUM. <\/p><p>OPIS <\/p><p>Linia BALANCE, to zaawansowana pielęgnacja dla cery mieszanej i wrażliwej. Skuteczna, dzięki wysokim stężeniom składników aktywnych. Efekty widoczne są już od pierwszego użycia. Kosmetyki zachwycają przyjemnością stosowania i pięknymi zapachami.<\/p><p>Krem normalizujący dla cery mieszanej i wrażliwej z tendencją do powstawania niedoskonałości, zmniejsza widoczność porów i pozostawia komfortowe, matowe wykończenie. Nieobciążająca, ultra przyjemna formuła oil-free, sprawia, że krem błyskawicznie się wchłania pozostawiając cerę aksamitnie gładką i gotową na nałożenie makijażu.<\/p><p>Innowacyjna technologia aminokwasowa<\/p><p>To technologia wykorzystująca aminokwasy jako aktywną bazę produktu. Dzięki temu, już na poziomie bazy kosmetyk działa aktywnie i jest biozgodny ze skórą.<\/p><p>Zostaje zwiększona jego skuteczność, a także przyjemność stosowania.<\/p><p>Składniki aktywne:<\/p><p>-1 % peptyd SP[AI]³™ (100 % zalecanego stężenia) – peptyd stworzony z wykorzystaniem sztucznej inteligencji, który skutecznie wspiera walkę z niedoskonałościami, normalizuje wydzielanie sebum, odblokowuje pory i zmniejsza ich rozmiar, redukuje zaczerwienienia, krostki i grudki;<\/p><p>-1,5 % pro adenozyna – adenozyna w formie wektorowej zwiększa elastyczność i jędrność skóry, stymuluje produkcję kolagenu, zmniejsza widoczność porów, zmarszczek i drobnych linii sprawiając, że skóra staje się aksamitnie gładka (efekt baby skin);<\/p><p>-salicylany z fiołka – znane są ze swojego działania oczyszczającego i przyspieszającego redukcję niedoskonałości. <\/p><p>Działanie potwierdzone w badaniach aplikacyjnych już po 1 użyciu:<\/p><p>-zmniejsza widoczność porów<\/p><p>-pozostawia matowe wykończenie<\/p><p>-łagodzi podrażnienia i zaczerwienienia<\/p><p>Działanie potwierdzone w badaniach aplikacyjnych po 4 tygodniach stosowania:<\/p><p>-wycisza niedoskonałości takie, jak krostki i grudki<\/p><p>-zmniejsza wydzielanie sebum<\/p><p>-zmniejsza widoczność drobnych linii i zmarszczek<\/p><p>-odczuwalnie poprawia nawilżenie<\/p><p>SPOSÓB UŻYCIA<\/p><p>Krem nakładaj rano i\/lub wieczorem na oczyszczoną skórę. Dla najlepszych efektów kuracji stosuj z innymi kosmetykami z linii BALANCE od UZDROVISCO. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BrandClinic sp. z o.o. ul. Granicka 10 05-806 Komorów<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45425"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "56.51",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5295.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876702524",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T08:42:09.850Z"
+    },
+    "createdAt": "2025-09-10T08:42:09.000Z",
+    "updatedAt": "2025-09-10T08:57:10.474Z"
+}

@@ -1,0 +1,343 @@
+{
+    "name": "Tea Tree 15% antybakteryjny roztwór wodny olejku z drzewa herbacianego 50ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "389b796a-5174-4c86-b452-2a55ac57752f",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Melaleuca"
+                        ],
+                        "valuesIds": [
+                            "248811_1974928"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Drzewo herbaciane"
+                        ],
+                        "valuesIds": [
+                            "22158_24"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "MELALEUCA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "barwników"
+                        ],
+                        "valuesIds": [
+                            "129770_65536"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "drzewo herbaciane"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907786990103"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907786990103"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f89e60d9-4744-45bd-9966-9f03d7411c76"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1105ef\/324060a04fdbbc35f55976b1ab6e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "25.14",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1105ef\/324060a04fdbbc35f55976b1ab6e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Tea Tree 15% antybakteryjny roztwór wodny olejku z drzewa herbacianego 50ml<\/h1> <p><b>OPIS <\/b><\/p><p>15% wodny roztwór olejku z drzewa herbacianego jest naturalnym źródłem składników bakteriobójczych i grzybobójczych. Stosowany jest w profilaktyce oraz wspomagająco przy różnych schorzeniach. Skutecznie usuwa objawy wyprysku alergicznego, pomaga w pielęgnacji wrażliwej i suchej skóry. Posiada właściwości znieczulające i uśmierzające w przypadku ran, oparzeń, owrzodzeń i ukąszeń owadów. Dobrze rozcieńcza się w wodzie.<\/p> <p><b>PRZEZNACZENIE <\/b><\/p><p>Tylko do użytku zewnętrznego.<\/p> <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>-Pryszcze, trądzik - Przemywać trzy razy dziennie roztworem zawierającym 1 obj. 15% olejku + 2 obj. wody.<\/p><p>-Drobne oparzenia, rany i skaleczenia - Spłukać oparzone lub zranione miejsca zimną wodą, po czym posmarować 15% roztworem.<\/p><p>-Bóle gardła - Roztworem olejku (10 kropli na 1\/4 szklankę wody) płukać gardło rano i wieczorem.<\/p><p>-Ukąszenia owadów - Miejsce ukąszenia należy smarować olejkiem aż do ustąpienia obrzęku lub świądu.<\/p><p>-Stany zapalne dziąseł - Chore miejsca posmarować roztworem. Można również płukać jamę ustną (15 kropli roztworu na 1\/4 szklanki wody).<\/p><p>-Opryszczka wargowa - Posmarować bezpośrednio roztworem. Powtórzyć 2-3 krotnie w ciągu dnia.<\/p><p>-Grzybica stóp i paznokci - 2-3 razy dziennie wcierać roztwór olejku w miejsca objęte schorzeniem.<\/p><p>-Pranie pieluszek - Dodać 6 nakrętek roztworu do pralki do fazy płukania.<\/p><p>-Do kąpieli - Wlać do kąpieli według uznania (działanie antyseptyczne).<\/p> <p><b>UWAGI <\/b><\/p><p>Do rozcieńczenia olejku należy używać wody destylowanej lub przegotowanej. W razie wystąpienia podrażnienia należy zaprzestać stosowania.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71MELTEA15"
+    },
+    "category": {
+        "id": "258387"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "25.14",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.78",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "145.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2355.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "145.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876331783",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:05:36.854Z"
+    },
+    "createdAt": "2025-09-10T05:05:36.000Z",
+    "updatedAt": "2025-09-25T09:35:34.632Z"
+}

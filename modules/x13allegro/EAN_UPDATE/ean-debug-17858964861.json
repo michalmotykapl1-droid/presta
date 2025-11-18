@@ -1,0 +1,378 @@
+{
+    "name": "vEGGs Roślinny Zamiennik Jajek Cultured Foods 102g",
+    "productSet": [
+        {
+            "product": {
+                "id": "03d0dac3-fe78-4a73-ae37-bfc9893be331",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Cultured Foods"
+                        ],
+                        "valuesIds": [
+                            "248811_1958691"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "vEGGs 100% roślinny zamiennik jajek 64 g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "102"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "niskotłuszczowe",
+                            "wegańskie",
+                            "wegetariańskie",
+                            "wysoka zawartość błonnika"
+                        ],
+                        "valuesIds": [
+                            "233345_256",
+                            "233345_4",
+                            "233345_8",
+                            "233345_64"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cholesterolu"
+                        ],
+                        "valuesIds": [
+                            "130691_65536"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907222657010"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.114"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "27"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "1.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907222657010"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ec50\/380faa5e46d29285fbd0acd6b359",
+        "https:\/\/a.allegroimg.com\/original\/116597\/216e177946ffa8ef80c714b063fd",
+        "https:\/\/a.allegroimg.com\/original\/11db78\/ced344504f6fbcb0c2e572410444",
+        "https:\/\/a.allegroimg.com\/original\/11429b\/5a7c94f84af1947108cc169adabb",
+        "https:\/\/a.allegroimg.com\/original\/114602\/1fc637134a51940b8b919ec49823",
+        "https:\/\/a.allegroimg.com\/original\/11fe48\/c4a03b724e998bffd373cffcc42e",
+        "https:\/\/a.allegroimg.com\/original\/117574\/73547ac64a70a305d851b1329c95",
+        "https:\/\/a.allegroimg.com\/original\/11efe7\/ac28c62847a8ba59d97c0b433306"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "15.99",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 208,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ec50\/380faa5e46d29285fbd0acd6b359"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>vEGGs Roślinny Zamiennik Jajek Cultured Foods 102g<\/h1> <p><b>vEEGs Roślinny Zamiennik Jajek Cultured Foods, 102g <\/b><\/p> <p>vEGGs to 100% roślinny zamiennik jajek do pieczenia i gotowania wyprodukowany wyłącznie z naturalnych składników. Ten prosty i intuicyjny w użyciu substytut jajka może być używany w każdym daniu, w którym jajko pełni funkcję łącznika. Po prostu wymieszaj proszek vEGGs z wodą i zobacz, jak w ciągu 3 minut zamieni się wegejajko. vEGGs są łatwe w użyciu, nie muszą być przechowywane w lodówce i są bardzo opłacalne – jedno opakowanie to równowartość 32 jajek kurzych. vEGGs to produkt idealny dla wegan, nie-wegan i osób z alergiami.<\/p> <ul><li>100% naturalne składniki<\/li> <li>Zrobisz całe jajko* lub żółtko<\/li> <li>Opłacalne: jedno opakowanie to odpowienik 32 jajek lub żółtek<\/li> <li>Szybkie i intuicyjne w użyciu: jedna miarka = 1 jajko \/ żółtko<\/li> <li>Doskonałe do: ciast, naleśników, placków, leniwych, panierek, deserów, budyniu itp.<\/li> <li>Wegańskie, bez składników pochodzenia zwierzęcego<\/li> <li>Bez sztucznych składników, GMO, glutenu i innych alergenów<\/li> <li>Biodegradowalne opakowanie<\/li> <li>Bez konieczności przechowywania w lodówce, długa data przydatności<\/li><\/ul> <p>*Uwaga: produkt nie jest przeznaczony do spożywania samodzielnie, w postaci jajecznicy lub omletu, lub też jako główny składnik dań typu quiche lub frittata. Dla tego typu dań polecamy drugi produkt z linii vEGGs: vEGGs Omelette.<\/p> <p><b>Składniki:<\/b><\/p><p>tapioka (skrobia z manioku), mąka ziemniaczana, łuska babki jajowatej, inulina (błonnik z cykorii), substancja zagęszczająca: guma guar*, czarna sól himalajska Kala Namak**, barwnik naturalny: karoteny roślinne.<\/p> <p>*Guma guar jest całkowicie naturalnym wyciągiem z nasion krzewu guar.<\/p> <p>**Sól Kala Namak nadaje produktowi jajecznego zapachu.<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 1264kJ\/301kcal<\/p><p>Tłuszcz 1,4g<\/p><p>w tym nasycone kwasy tłuszczowe 0,3g<\/p><p>Węglowodany 56g<\/p><p>w tym cukry 2,3g<\/p><p>Błonnik 27g<\/p><p>Białko 2,8g<\/p><p>Sól 1,9g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak informacji<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent: <\/b><\/p><p>Cultured Foods Sp. z o.o.<\/p><p>ul. Ignacego Mościckiego<\/p><p>124-110 Puławy<\/p> <p><b>DOWIEDZ SIĘ WIĘCEJ! <\/b><\/p><p><b>vEGGs – nie tylko dla wegan i alergików <\/b><\/p><p>Dzięki vEGGs przygotujesz jajeczne dania i wypieki uwielbiane i serwowane na całym świecie, w wersji przyjaznej dla wegan i alergików: jajecznicę, omlet, quiche, frittatę, zapiekankę, naleśniki, brownie, muffinki i wiele innych! vEGGs to jednak niezbędnik w każdej kuchni, ze względu na wygodę stosowania. Mają długi termin przydatności i możesz je po prostu trzymać w szafce, oszczędzając miejsce w lodówce.<\/p>  <p><b>100% natury płynącej z roślin <\/b><\/p><p>W Cultured Foods nie używa się sztucznych dodatków do żywności. Wszystkie produkty w tym vEGGs, stworzone są w 100% z naturalnych składników pochodzenia roślinnego. vEGGs mają tzw. „czystą etykietę”, a ich skład to: tapioka (skrobia z manioku), mąka ziemniaczana, łuska babki jajowatej, inulina (błonnik z cykorii), substancja zagęszczająca: guma guar*, czarna sól himalajska Kala Namak**, barwnik naturalny: karoteny roślinne.<\/p>  <p>“Jajka” przyjazne środowisku i zwierzętom <\/p><p>Używając vEGGs do dań jajecznych, pieczenia i gotowania, oddziałujesz korzystnie na naszą planetę i nie krzywdzisz zwierząt. Produkcja vEGGs zużywa mniej energii i wody niż produkcja jaj kurzych i powoduje mniejsze zanieczyszenie. W procesie produkcji vEGGs nie cierpi żadne zwierzę.<\/p>  <p>W grochu siła! <\/p><p>Groch to bazowy składnik vEGGs Omelette, który zapewnia mu odpowiednią konsystencję i wzbogaca w dobrze przyswajalne białko i korzystny błonnik. Dlaczego jeszcze kochamy groch? Groch ma niski ślad węglowy, a przy jego uprawie zużywa się mniej wody niż przy uprawie soi czy białka pochodzenia zwierzęcego. Groch odgrywa także ważną rolę w nawożeniu gleby i jest<\/p><p>stosowany w uprawach ekologicznych.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116597\/216e177946ffa8ef80c714b063fd"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11db78\/ced344504f6fbcb0c2e572410444"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11429b\/5a7c94f84af1947108cc169adabb"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114602\/1fc637134a51940b8b919ec49823"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11fe48\/c4a03b724e998bffd373cffcc42e"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117574\/73547ac64a70a305d851b1329c95"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11efe7\/ac28c62847a8ba59d97c0b433306"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5907222657010"
+    },
+    "category": {
+        "id": "261653"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.99",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.68",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "92.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1500.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "92.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17858964861",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T14:16:00.384Z"
+    },
+    "createdAt": "2025-09-04T14:16:00.000Z",
+    "updatedAt": "2025-09-04T14:57:28.419Z"
+}

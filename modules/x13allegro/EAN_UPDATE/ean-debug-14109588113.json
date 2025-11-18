@@ -1,0 +1,377 @@
+{
+    "name": "MLECZNA KĄPIEL Szampon z ekstraktem z łopianu bez",
+    "productSet": [
+        {
+            "product": {
+                "id": "2ff1fcb9-0ab8-45f7-805e-7dc53f68ad70",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "NAMI"
+                        ],
+                        "valuesIds": [
+                            "248811_1060704"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "280"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciw wypadaniu włosów"
+                        ],
+                        "valuesIds": [
+                            "129469_1778813"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "przetłuszczające się"
+                        ],
+                        "valuesIds": [
+                            "226825_317501"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "amoniaku",
+                            "barwników",
+                            "mydła",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_1024",
+                            "129770_65536",
+                            "129770_131072",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.334"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "delikatny, łagodny",
+                            "świeże polne zioła"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "S:S07"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Do włosów osłabionych i wypadających"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906365360054"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c724\/233f1b174d13aa715abd2ee05e7e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "34.47",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 11,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>MLECZNA KĄPIEL Szampon z ekstraktem z łopianu bez sls 280ml NAMI (NAMI) - NAMI<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Naturalny szampon do codziennej pielęgnacji włosów.<\/p>\n<p>Tradycyjna receptura łącząca w sobie właściwości odżywcze serwatki mlecznej oraz łopianu, który jest aktywatorem wzrostu włosów. <\/p>\n<p>Składniki aktywne:<\/p>\n<p>    -Łopian (Arctium Lappa Extract) eliminuje wypadanie włosów oraz przyspiesza ich wzrost. Odżywia i pobudza cebulki dzięki czemu włosy stają się mocne i gęste. Regeneruje uszkodzoną strukturę włosów, działa korzystnie przy łupieżu.<\/p>\n<p>    -Zawiera naturalną inulinę, która sprawia że włosy odzyskują pełnię blasku, stają się jedwabiście gładkie, nawilżone, przyjemne w dotyku i doskonale się rozczesują.<\/p>\n<p>   - Łopian jest bogaty w witaminy i minerały, które są budulcem włosa m.in. żelazo, magnez oraz wapń sprawiają, że włosy są zregenerowane i wzmocnione.<\/p>\n<p>    -Serwatka mleczna zawiera proteiny mleczne, które regenerują strukturę włosów, nadają objętości i naturalnego blasku. Utrzymują prawidłowe nawilżenie oraz chronią końcówki przed zniszczeniem i rozdwojeniem. Lipidy i witaminy dodają włosom energii, a kwas mlekowy reguluje wydzielanie sebum oraz usuwa obumarłe komórki. Serwatka mleczna wzmacnia i nawilża przesuszoną oraz swędzącą skórę głowy zapewniając jej zdrowy wygląd. Zwalcza przyczyny powstawania łupieżu.<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Niewielką ilość szamponu nanieść na wilgotne włosy i skórę głowy, delikatnie masować, zostawić na kilka minut, następnie dokładnie spłukać.<\/p>\n<p><b>SKŁADNIKI\/INCI<\/b><\/p>\n<p>Aqua, Sodium Cocoyl Glutamate, Lauroyl\/Myristol Methyl Glucamide and Coco Betaine, Whey, Arctium Lappa Extract, Lactic Acid, Parfum, Benzyl Alcohol (and) Benzoic Acid (and) Dehydroacetic Acid<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21NAMMLESL"
+    },
+    "category": {
+        "id": "5363"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.47",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "14109588113",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:13.049Z"
+    },
+    "createdAt": "2023-08-05T17:15:43.000Z",
+    "updatedAt": "2025-09-10T17:25:13.050Z"
+}

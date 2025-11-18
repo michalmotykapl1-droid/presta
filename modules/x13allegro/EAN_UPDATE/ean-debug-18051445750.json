@@ -1,0 +1,301 @@
+{
+    "name": "SERUM POD OCZY PRZECIWZMARSZCZKOWE BAKUCHIOL I PEPTYDY 30 ml - BARULAB",
+    "productSet": [
+        {
+            "product": {
+                "id": "2f213e5c-3c30-40d5-a9ca-fbbf260861f2",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "BARULAB"
+                        ],
+                        "valuesIds": [
+                            "248811_2005613"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8809420801745"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129435",
+                        "name": "Rodzaj",
+                        "values": [
+                            "serum"
+                        ],
+                        "valuesIds": [
+                            "129435_1780917"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "świeży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8809420801745"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "01311bad-6002-42c2-b5e3-95a2d4626f9c"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa kremów pod oczy oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie skórne: Zawsze wykonaj test na małym obszarze skóry przed pierwszym użyciem, aby upewnić się, że nie wystąpi reakcja alergiczna. Jeśli zauważysz zaczerwienienie, swędzenie lub podrażnienie, natychmiast przestań używać produktu.\n2.  Kontakt z oczami: Unikaj bezpośredniego kontaktu kremu z oczami. W razie przypadkowego dostania się kremu do oka, przepłucz je obficie wodą.\n3.  Przechowywanie: Przechowuj krem w miejscu niedostępnym dla dzieci. Produkt nie jest przeznaczony do spożycia. W przypadku połknięcia skontaktuj się z lekarzem.\n4.  Warunki przechowywania: Chroń krem przed bezpośrednim działaniem promieni słonecznych i wysokimi temperaturami, aby zapobiec utracie jego właściwości.\n5.  Użycie zewnętrzne: Stosuj krem wyłącznie do użytku zewnętrznego, zgodnie z przeznaczeniem.\n6.  Konsultacja: Jeśli masz jakiekolwiek wątpliwości dotyczące stosowania kremu, skonsultuj się z dermatologiem lub innym specjalistą.\n7.  Uszkodzenia: Nie używaj kremu, jeśli opakowanie jest uszkodzone lub naruszone.\n8.  Data ważności: Zawsze sprawdzaj datę ważności przed użyciem. Nie stosuj kremu po upływie terminu ważności.\n9.  Składniki aktywne: Zachowaj ostrożność w przypadku stosowania kremów zawierających silne składniki aktywne, takie jak retinol. Stosuj je zgodnie z zaleceniami producenta i unikaj nadmiernego stosowania.\n10. Współdziałanie z innymi produktami: Jeśli stosujesz inne produkty do pielęgnacji skóry wokół oczu, upewnij się, że nie wchodzą one w interakcje z kremem pod oczy. W razie wątpliwości skonsultuj się z dermatologiem.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11b403\/fcb89acb4486b91dd0e35d0cd00e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "100.41",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 22,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11b403\/fcb89acb4486b91dd0e35d0cd00e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SERUM POD OCZY PRZECIWZMARSZCZKOWE BAKUCHIOL I PEPTYDY 30 ml - BARULAB<\/h1><p>SKŁADNIKI <\/p><p>Aqua (Water), Glycerin, Dipropylene Glycol, Hydrogenated Poly(C6-14 Olefin), Cyclohexasiloxane, Niacinamide, Cetearyl Alcohol, Polyglyceryl-10 Laurate, Caprylic\/Capric Triglyceride, Caprylic\/Capric\/Succinic Triglyceride, Dicaprylyl Carbonate, Glyceryl Stearate Se, Cetyl Alcohol, Polyglyceryl-10 Myristate, Butyrospermum Parkii (Shea) Butter, 1,2-Hexanediol, Pentaerythrityl Tetraethylhexanoate, Polyacrylate-13, Dimethicone, Betaine, Cetearyl Olivate, Hydroxyacetophenone, Sorbitan Olivate, Sodium Stearoyl Glutamate, Hydrogenated Polyisobutene, Dimethicone\/Vinyl Dimethicone Crosspolymer, Vinyl Dimethicone, Eclipta Prostrata Extract, Ethylhexylglycerin, Xanthan Gum, Adenosine, Ethylhexyl Palmitate, Melia Azadirachta Leaf Extract, Disodium Edta, Sorbitan Isostearate, Fragnance, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Myristyl Alcohol, Stearyl Alcohol, Moringa Oleifera Seed Oil, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Ocimum Sanctum Leaf Extract, Bakuchiol (1 ppm), Acetyl Hexapeptide-8 (0,001 ppm), Hexapeptide-9 (0,001 ppm), Nonapeptide-1 (0,001 ppm), Palmitoyl Pentapeptide-4 (0,001 ppm), Palmitoyl Tripeptide-1 (0,001 ppm), Palmitoyl Tetrapeptide-7 (0,001 ppm), Hexyl Cinnamal, Benzyl Alcohol.<\/p><p>OPIS <\/p><p>BARULAB Bakuchiol Peptide Eye Serum to serum pod oczy, które łączy naturalny bakuchiol z peptydami, tworząc skuteczną formułę do walki z oznakami starzenia w delikatnej okolicy oczu. Bakuchiol, znany jako roślinny odpowiednik retinolu, pomaga w redukcji zmarszczek, poprawia elastyczność skóry, a jednocześnie jest łagodniejszy dla skóry wrażliwej. Peptydy natomiast wspomagają produkcję kolagenu, poprawiając jędrność skóry. Serum działa nawilżająco, wygładzająco oraz rozjaśniająco, zmniejszając opuchliznę i cienie pod oczami. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Nałóż niewielką ilość serum na skórę wokół oczu, delikatnie wklepując opuszkami palców, aż do całkowitego wchłonięcia. Stosuj codziennie rano i wieczorem jako część pielęgnacji okolic oczu. <\/p><p>UWAGA<\/p><p>Przerwać stosowanie i skonsultować się ze specjalistą jeśli w wyniku narażenia na bezpośrednie działanie promieni słonecznych po użyciu tego produktu wystąpią objawy zaczerwienienia, obrzęk lub podrażnienia.<\/p><p>Nie stosować na uszkodzoną lub zranioną skórę. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać poza zasięgiem dzieci. Przechowywać z dala od bezpośredniego światła słonecznego.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>CNF CO. LTD Gongdan-ro 140beonan-gil 29 15865 Gunpo-si, South Korea cnf@cnf.co.kr<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46601"
+    },
+    "category": {
+        "id": "5359"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "100.41",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "577.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9410.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "577.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051445750",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:16:19.257Z"
+    },
+    "createdAt": "2025-11-03T13:16:19.000Z",
+    "updatedAt": "2025-11-03T13:31:20.061Z"
+}

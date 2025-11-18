@@ -1,0 +1,362 @@
+{
+    "name": "CZEKOLADA GORZKA 75 % FAIR TRADE BEZGLUTENOWA BIO",
+    "productSet": [
+        {
+            "product": {
+                "id": "75bb3f2e-a1f3-4244-ae47-b4699f1de284",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Alce Nero"
+                        ],
+                        "valuesIds": [
+                            "248811_1957029"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250326",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Czekolady"
+                        ],
+                        "valuesIds": [
+                            "250326_1880745"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8009004901186"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3455",
+                        "name": "Forma",
+                        "values": [
+                            "w tabliczkach"
+                        ],
+                        "valuesIds": [
+                            "3455_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3454",
+                        "name": "Rodzaj czekolady",
+                        "values": [
+                            "czekolada gorzka"
+                        ],
+                        "valuesIds": [
+                            "3454_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3456",
+                        "name": "Skład",
+                        "values": [
+                            "bez dodatków"
+                        ],
+                        "valuesIds": [
+                            "3456_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208222",
+                        "name": "Zawartość  kakao",
+                        "values": [
+                            "75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "GMO",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_32768",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208230",
+                        "name": "Waga netto (g)",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": [
+                            "208230_235502"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8009004901186"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113e5f\/cf59df854e86955d6f627355d6f2",
+        "https:\/\/a.allegroimg.com\/original\/119657\/e83f662f42bfbd0cbfea85813e5b"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "22.17",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1083,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "DOLNOSLASKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>CZEKOLADA GORZKA 75 % FAIR TRADE BEZGLUTENOWA BIO 100 g - ALCE NERO (ALCE NERO ) - ALCE NERO<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI<\/p>\n<p>miazga kakaowa*, cukier trzcinowy* (23 %), tłuszcz kakaowy*, wanilia*. Masa kakaowa min. 75 % (*certyfikowany składnik ekologiczny)<\/p>\n<p>WARTOŚĆ ODŻYWCZA W 100 g  <\/p>\n<p>Wartość energetyczna - 2516 kJ \/ 599 kcal  <\/p>\n<p>Tłuszcz - 47 g  <\/p>\n<p>w tym kwasy tłuszczowe nasycone - 29 g  <\/p>\n<p>Węglowodany - 29 g  <\/p>\n<p>w tym cukry - 24 g  <\/p>\n<p>Błonnik - 12 g  <\/p>\n<p>Białko - 9,0 g  <\/p>\n<p>Sól - 0,02 g<\/p>\n<p>INFORMACJA ALERGENNA<\/p>\n<p>Produkt może zawierać MLEKO (łącznie z LAKTOZĄ), ORZECHY LASKOWE, MIGDAŁY.<\/p>\n<p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p>\n<p>Przechowywać w suchym i chłodnym miejscu w temperaturze 16-18 ℃, z dala od obcych zapachów.  <\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>ALCE NERO S.P.A, VIA PALAZZETTI 5C, 40068 SAN LAZZARO DI SAVENA (BO)<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_4793"
+    },
+    "category": {
+        "id": "74020"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "22.17",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "12861978275",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-26T23:44:31.905Z"
+    },
+    "createdAt": "2022-11-12T15:43:12.000Z",
+    "updatedAt": "2025-10-26T23:44:31.906Z"
+}

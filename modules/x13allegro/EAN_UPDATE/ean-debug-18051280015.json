@@ -1,0 +1,331 @@
+{
+    "name": "ZIELKO Płyn do mycia naczyń Rabarbar 500ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "612d1373-1947-4164-95b1-e4974eaf8780",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250572",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Zielko Odplamiacz granat imbir 400 ml"
+                        ],
+                        "valuesIds": [
+                            "250572_1932186"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "zielko"
+                        ],
+                        "valuesIds": [
+                            "248811_1955697"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902249017984"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225818",
+                        "name": "Rodzaj",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "225818_313698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Polska"
+                        ],
+                        "valuesIds": [
+                            "249649_1723418"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "RABARBAR"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225822",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez barwników syntetycznych",
+                            "bez parabenów",
+                            "bez silikonów",
+                            "delikatny dla dłoni",
+                            "ekologiczny"
+                        ],
+                        "valuesIds": [
+                            "225822_32",
+                            "225822_8",
+                            "225822_16",
+                            "225822_2",
+                            "225822_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220153",
+                        "name": "Liczba sztuk w zestawie",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902249017984"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "94899c6d-f143-41e2-a1a0-afa72aa8d20a"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112c33\/b0ed8f7c4799b233d5e31f8bc563"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "14.80",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112c33\/b0ed8f7c4799b233d5e31f8bc563"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ZIELKO Płyn do mycia naczyń Rabarbar 500ml<\/h1> <p><b>OPIS <\/b><\/p><p>Ekologiczny płyn do mycia naczyń o zapachu rabarbaru. Skutecznie usuwa zabrudzenia i tłuszcz, nie pozostawiając zacieków ani osadów. Jest delikatny dla dłoni i przyjazny dla środowiska naturalnego. <\/p> <p>Płyn bez problemu rozprawi się z wszystkimi zabrudzeniami w Twojej kuchni. Skutecznie odtłuszcza i usuwa zabrudzenia, osady oraz uporczywy kamień, pozostawiając powierzchnie kuchenne w nieskazitelnej czystości. Nie pozostawia smug i zacieków.<\/p> <p>Płyn do naczyń ZIELKO doskonale radzi sobie z myciem zastawy stołowej, sztućców, garnków, patelni i innych naczyń kuchennych. Jest także idealny do czyszczenia butelek, smoczków i laktatorów, skutecznie usuwa zabrudzenia i resztki po posiłkach, pozostawiając naczynia w idealnie czyste, bez zacieków i osadów.<\/p> <p>Naturalny płyn do mycia naczyń o przyjemnym zapachu rabarbaru. Wydajny, a jednocześnie bezpieczny i delikatny dla wrażliwej skóry dłoni. Skutecznie usuwa wszelki brud i tłuszcz z naczyń kuchennych, zastawy i sztućców, pozostawiając je czyste i lśniące.<\/p> <p><b>UWAGA <\/b><\/p><p>Działa drażniąco na oczy. W razie konieczności zasięgnięcia porady lekarza należy pokazać pojemnik lub etykietę. Chronić przed dziećmi. Dokładnie umyć ręce i dotknięte części ciała po użyciu. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli chcą i można je łatwo usunąć. Nadal płukać. W przypadku utrzymywania się działania drażniącego na oczy: zasięgnąć porady \/ zgłosić się pod opiekę lekarza. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SYZPLYMNAR"
+    },
+    "category": {
+        "id": "260253"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.80",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.40",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "85.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1385.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "85.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051280015",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T12:14:16.655Z"
+    },
+    "createdAt": "2025-11-03T12:14:16.000Z",
+    "updatedAt": "2025-11-03T12:29:17.707Z"
+}

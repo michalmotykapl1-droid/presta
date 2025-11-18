@@ -1,0 +1,338 @@
+{
+    "name": "Mieszanka na Dobry Sen 100g FLOS",
+    "productSet": [
+        {
+            "product": {
+                "id": "9f0aa1da-61ca-45aa-b995-cb42a4e18d0a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Flos"
+                        ],
+                        "valuesIds": [
+                            "248811_1080169"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905279799738"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Mieszanka na Dobry Sen Flos 100g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213806",
+                        "name": "Typ",
+                        "values": [
+                            "mieszanki"
+                        ],
+                        "valuesIds": [
+                            "213806_263786"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "232285",
+                        "name": "Rodzaj",
+                        "values": [
+                            "melisa"
+                        ],
+                        "valuesIds": [
+                            "232285_366169"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213810",
+                        "name": "Postać",
+                        "values": [
+                            "ziele"
+                        ],
+                        "valuesIds": [
+                            "213810_366625"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez barwników",
+                            "bez konserwantów"
+                        ],
+                        "valuesIds": [
+                            "213714_32768",
+                            "213714_65536"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "melisa"
+                        ],
+                        "valuesIds": [
+                            "213962_264938"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905279799738"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "10674382-0708-4ec2-b2de-b20728e4144f"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11113b\/c10580f4480bb33c14d5c0192d3d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.42",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 37,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11113b\/c10580f4480bb33c14d5c0192d3d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mieszanka na Dobry Sen 100g FLOS<\/h1> <p><b>OPIS <\/b><\/p><p>Mieszanka na Dobry Sen to herbatka ziołowa składająca się z 3 starannie dobranych ziół, z których ziele męczennicy wspomaga jakość snu.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Zawartość 1 szklanki(250ml):<\/p><p>• Ziele męczennicy – 0,4 g<\/p><p>• Liść melisy – 0,4 g<\/p><p>• Kwiat rumianku – 0,2 g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1 łyżeczkę mieszanki (1 g) zalać 1 szklanką wrzącej wody (250 ml) i zaparzać pod przykryciem 10 – 15 minut. Odstawić na 10 minut i przecedzić. Napar spożywać najlepiej wieczorem. Do uzyskania korzystnego efektu wynikającego z deklarowanego działania zaleca się spożywać 1 szklankę naparu (250 ml) przyrządzonego z 1 łyżeczki mieszanki (1 g).<\/p> <p><b>UWAGA <\/b><\/p><p>Nie stosować dłużej niż 12 tygodni. Produkty zawierające Passiflora incarnata (męczennica cielista) mogą powodować senność i wpływać negatywnie na zdolność prowadzenia pojazdów lub obsługi maszyn. Nie stosować w połączeniu z innymi substancjami wpływającymi na ośrodkowy układ nerwowy. Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Zalecany jest zrównoważony sposób żywienia i zdrowy styl życia. Kobiety w ciąży i karmiące piersią przed spożyciem powinny skontaktować się z lekarzem. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w suchym miejscu, chronić od światła.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_31FLOMIENDS"
+    },
+    "category": {
+        "id": "258266"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.42",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.63",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "66.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1070.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "66.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915786789",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T19:11:03.595Z"
+    },
+    "createdAt": "2025-09-22T19:11:03.000Z",
+    "updatedAt": "2025-10-17T13:31:27.166Z"
+}

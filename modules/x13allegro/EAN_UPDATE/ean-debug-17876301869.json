@@ -1,0 +1,345 @@
+{
+    "name": "DELLA NATURA Żel z kasztanowca 200ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "27bd4564-9083-4793-97cb-3e8e8dbb62d9",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Della Natura"
+                        ],
+                        "valuesIds": [
+                            "248811_1979726"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904365744010"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "żel z kasztanowca"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "żel"
+                        ],
+                        "valuesIds": [
+                            "210758_260986"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "opuchlizna"
+                        ],
+                        "valuesIds": [
+                            "213970_265434"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kasztanowiec"
+                        ],
+                        "valuesIds": [
+                            "213962_264790"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "213714_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE",
+                            "WEEE"
+                        ],
+                        "valuesIds": [
+                            "218669_1",
+                            "218669_1880913"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904365744010"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e7bc63e2-f783-4099-b477-601d1f6b1e92"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11da1c\/c107cbd3459ab68f0de952c87de4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "8.91",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11da1c\/c107cbd3459ab68f0de952c87de4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>DELLA NATURA Żel z kasztanowca 200ml<\/h1> <p><b>OPIS <\/b><\/p><p>Della Natura żel z kasztanowca 200ml<\/p> <p>Aktywny żel do nóg Della Natura zawiera wyciągi roślinne z kasztanowca, babki lancetowatej oraz miłorzębu japońskiego, które obkurczają i uszczelniają drobne naczynia krwionośne zmniejszając ich skłonność do pękania. Konsystencja żelu daje przyjemne uczucie lekkości i odświeżenia, utrzymuje w dobrej kondycji skórę nóg, poprawia jej elastyczność i nawilżenie.<\/p> <p>Żel wpływa na poprawę krążenia zapobiegając obrzękom i opuchnięciom nóg. Doskonale łagodzi podrażnienia likwidując przy tym uczucie ciężkości i zmęczenia. Polecany zwłaszcza do pielęgnacji zmęczonej i skłonnej do tworzenia się „pajączków” czy rozszerzonych naczynek skóry nóg.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Nanieść odpowiednią ilość preparatu na skórę. Stosować dwa razy dziennie. Regularne stosowanie zwiększa efekt działania.<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt przeznaczony do użytku zewnętrznego. Nie należystosować na uszkodzoną skórę i otwarte rany. Przed użyciem preparatu sprawdzić jego działanie na małej powierzchni skóry. Nie stosować w przypadku<\/p><p>nadwrażliwości na którykolwiek składnik.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Alcohol Denat., Glycerin, Menthol, Plantago Lanceolata Leaf Extract, Aesculus Hippocastanum Seed Extract, Ginkgo Biloba Leaf Extract, Carbomer, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21CITDELZEK"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.91",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.05",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "51.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "835.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "51.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876301869",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:37:20.634Z"
+    },
+    "createdAt": "2025-09-10T04:37:20.000Z",
+    "updatedAt": "2025-10-29T13:25:40.960Z"
+}

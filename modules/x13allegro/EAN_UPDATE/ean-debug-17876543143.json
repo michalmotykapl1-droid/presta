@@ -1,0 +1,349 @@
+{
+    "name": "Antyperspirant dla mężczyzn ze srebrem roll-on 50ml VINSVIN",
+    "productSet": [
+        {
+            "product": {
+                "id": "68cd5469-be39-4e12-97dd-7fee1cfb74b5",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "VINSVIN"
+                        ],
+                        "valuesIds": [
+                            "248811_1976677"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907651248131"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216969",
+                        "name": "Rodzaj",
+                        "values": [
+                            "roll-on (w kulce)"
+                        ],
+                        "valuesIds": [
+                            "216969_275961"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "amoniaku",
+                            "barwników",
+                            "siarczanów",
+                            "silikonów"
+                        ],
+                        "valuesIds": [
+                            "129770_1024",
+                            "129770_65536",
+                            "129770_32768",
+                            "129770_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "0.09"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nadmierna potliwość"
+                        ],
+                        "valuesIds": [
+                            "226689_316745"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226709",
+                        "name": "Typ",
+                        "values": [
+                            "antyperspirant"
+                        ],
+                        "valuesIds": [
+                            "226709_316885"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "VINSVIN"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "15851",
+                        "name": "Płeć",
+                        "values": [
+                            "mężczyzna"
+                        ],
+                        "valuesIds": [
+                            "15851_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907651248131"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "dfb19050-ca22-499f-843b-e9d00bee59d0"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f89e\/d4cd83e14f5d93b76f702e664130"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.07",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 42,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f89e\/d4cd83e14f5d93b76f702e664130"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Antyperspirant dla mężczyzn ze srebrem roll-on 50ml VINSVIN<\/h1> <p><b>OPIS <\/b><\/p><p>Dezodorant w kulce ATOMUS dla mężczyzm zawiera srebro o działaniu bakteriobójczym, dezodoryzującym i antystatycznym.<\/p> <p>Polecany do codziennej pielęgnacji szczególnie osobom z nadmierną potliwością. Przez wiele godzin daje uczucie świeżości i przyjemnego zapachu. Nie wykazuje własności uczulających i drażniących także po depilacji.<\/p> <p>Polecany do codziennej pielęgnacji okolic pod pachami, skłonnych do nadmiernej potliwości.<\/p> <p>Właściwości:<\/p><p>-skutecznie zapobiega powstawaniu potu<\/p><p>-działa antybakteryjne<\/p><p>-łagodzi stany zapalne skóry<\/p><p>-pomaga zachować<\/p><p>-naturalne pH<\/p><p>-nie podrażnia i nie uczula<\/p><p>-pozostawia skórę czystą i zdrową<\/p><p>-tworzy na skórze niewidzialną powłokę ochronną<\/p><p>-zapewnia utrzymanie higieny okolic pod pachami<\/p><p>-nie pozostawia śladów na ubraniach<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71MIRANTME"
+    },
+    "category": {
+        "id": "256777"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.07",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.78",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "69.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1130.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "69.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876543143",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T07:25:07.524Z"
+    },
+    "createdAt": "2025-09-10T07:25:07.000Z",
+    "updatedAt": "2025-10-16T12:35:30.383Z"
+}

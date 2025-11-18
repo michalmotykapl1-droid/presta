@@ -1,0 +1,316 @@
+{
+    "name": "SERUM BARIEROWE REGENERUJĄCE 30 ml - UZDROVISCO (LIPID ESSENCE)",
+    "productSet": [
+        {
+            "product": {
+                "id": "8dd12d67-f855-45b9-af33-d8a91a8e8ebc",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "UZDROVISCO"
+                        ],
+                        "valuesIds": [
+                            "248811_1983293"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904917484180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Sucha",
+                            "Wrażliwa"
+                        ],
+                        "valuesIds": [
+                            "129434_2",
+                            "129434_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "wielozadaniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_11"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "LIPID ESSENCE"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904917484180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e0942088-fe0b-4b5d-9913-f09daff9ac35"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/119a2e\/e6b59adb403bb4590907ae5e92fa"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "56.59",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 9,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/119a2e\/e6b59adb403bb4590907ae5e92fa"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SERUM BARIEROWE REGENERUJĄCE 30 ml - UZDROVISCO (LIPID ESSENCE)<\/h1><p>SKŁADNIKI <\/p><p>AQUA, CAPRYLIC\/CAPRIC TRIGLYCERIDE, DICAPRYLYL CARBONATE, SQUALANE, CRAMBE ABYSSINICA SEED OIL PHYTOSTEROL ESTERS, ISOAMYL LAURATE, PROPANEDIOL, TRI(POLYGLYCERYL-3\/LAURYL) HYDROGENATED TRILINOLEATE, BUTYLENE GLYCOL, PENTYLENE GLYCOL, HIPPOPHAE RHAMNOIDES FRUIT OIL, PALMITOYL TETRAPEPTIDE-7, LACTOBACILLUS FERMENT, PALMITOYL TRIPEPTIDE-1, LAUROYL LYSINE, CERAMIDE EOP, CERAMIDE NP, CERAMIDE NS, CERAMIDE AP, DIISOSTEARYL MALATE, DEXTRIN PALMITATE, SILICA, CHOLESTEROL, ALLANTOIN, GLYCERIN, TOCOPHEROL, POLYGLYCERYL-10 STEARATE, POLYGLYCERYL-6 BEHENATE, CETEARYL ALCOHOL, GLYCERYL STEARATE, SODIUM CETEARYL SULFATE, MAGNESIUM SULFATE, BEHENIC ACID, LACTIC ACID, LAURIC ACID, LAURYL ALCOHOL DIPHOSPHONIC ACID, TRIETHYL CITRATE, ETHYLHEXYLGLYCERIN, HYDROXYACETOPHENONE, PARFUM, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, HEXAMETHYLINDANOPYRAN, TERPINEOL, LINALOOL, LINALYL ACETATE, GERANYL ACETATE, ACETYL CEDRENE <\/p><p>OPIS <\/p><p>Bogate serum stworzone specjalnie dla skóry suchej, cienkiej i wrażliwej — także tej z naruszoną barierą hydrolipidową, po zabiegach kosmetycznych i estetycznych. Formuła okluzyjna, działająca jak ochronny „płaszcz”, skutecznie koi, odbudowuje i przywraca skórze komfort już od pierwszego użycia.<\/p><p>Dzięki skoncentrowanym składnikom aktywnym serum działa wielopoziomowo: regeneruje, wygładza i dogłębnie wzmacnia osłabioną skórę. Pozostawia ją jedwabiście miękką, elastyczną i aksamitną w dotyku.<\/p><p>Moc składników aktywnych:<\/p><p>-3% peptydy barierowe (100 % zalecanego stężenia) – 2 rodzaje oligopeptydów o działaniu przeciwzmarszczkowym (wspierają syntezę kolagenu, elastyny i kwasu hialuronowego) oraz regenerującym, wzmacniającym i łagodzącym<\/p><p>-7 ceramidów (100 % zalecanego stężenia) – kompleks 7 kluczowych dla skóry ceramidów. Intensywnie regenerują, wzmacniają funkcje bariery hydrolipidowej, nawilżają, poprawiają elastyczność skóry i chronią przed czynnikami zewnętrznymi<\/p><p>-8 % skwalan i fitosterol (100 % zalecanego stężenia) – połączenie bioaktywnych lipidów: skwalanu (intensywnie nawilża skórę, odbudowuje jej barierę hydrolipidową, ujędrnia i uelastycznia) oraz fitosterolu (silnie nawilża i zapewnia efekt „drugiej skóry”).Technologia okluzji lipidowej – innowacyjne rozwiązanie, które zamyka mikrokropelki nawilżenia w odżywczym płaszczu lipidowym. Działa jak regenerujący opatrunek: wygładza, koi i przywraca równowagę, wzmacniając naturalną barierę skóry.<\/p><p>Formuła zawiera 97% składników pochodzenia naturalnego (zgodnie z ISO 16128). <\/p><p>SPOSÓB UŻYCIA<\/p><p>Serum nakładaj rano i\/lub wieczorem na oczyszczoną skórę. Stosuj razem z innymi produktami z linii LIPID ESSENCE od UZDROVISCO. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>\"BRANDCLINIC Sp. z o.o. ul. Granicka 10, 05-806 Komorów\"<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46543"
+    },
+    "category": {
+        "id": "89000"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "56.59",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.02",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5300.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876432085",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T06:20:28.714Z"
+    },
+    "createdAt": "2025-09-10T06:20:28.000Z",
+    "updatedAt": "2025-09-10T06:35:29.462Z"
+}

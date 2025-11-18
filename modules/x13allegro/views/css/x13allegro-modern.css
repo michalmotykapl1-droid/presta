@@ -1,0 +1,173 @@
+.xproductization-search input[type="text"],
+.xproductization-search button {
+  margin-top:-1px !important;
+}
+
+#allegro_products input[type=number],
+#allegro_products input[type=text],
+#allegro_products select,
+#allegro_products .chosen-container-single .chosen-single,
+#allegro_main_form #bulk_container input[type=number],
+#allegro_main_form #bulk_container input[type=text],
+#allegro_main_form #bulk_container select,
+#allegro_main_form #bulk_container .chosen-container-single .chosen-single,
+.adminxallegrostatus .AdminXAllegroStatus input[type=number],
+.adminxallegrostatus .AdminXAllegroStatus input[type=text],
+.adminxallegrostatus .AdminXAllegroStatus select,
+.adminxallegrostatus .AdminXAllegroStatus .chosen-container-single .chosen-single{
+  height: 35px !important;
+  line-height: 35px !important;
+}
+
+#allegro_products .btn{
+  height: 35px !important;
+  margin-top:-1px !important;
+  margin-bottom:2px !important;
+}
+
+.xproductization-parameters-loading,
+.xproductization-parameters-empty-required,
+.xproductization-gpsr-loading,
+.xproductization-gpsr-empty-required,
+.xproductization-gpsr-excluded,
+.xproductization-category-loading,
+.xproductization-category-last-node,
+.xproductization-category-assoc,
+.xproductization-category-similar-loading,
+.xproductization-category-similar-count{
+  height: 35px !important;
+  width: 42px !important;
+  line-height: 35px !important;
+}
+
+.xproductization-category-similar-count{
+  line-height: 33px !important;
+}
+
+.account-setting-indicator{
+  height: 39px;
+  padding-top:4px;
+}
+
+.adminxallegroassoccategories #categoryBox-categories-search,
+#xallegro_tag_new{
+  height: 35px;
+}
+
+.xallegro-fieldMap{
+  height: 39px;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container-multi .chosen-choices{
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #bbcdd2;
+  box-shadow:none;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container-multi .chosen-choices .search-choice{
+  display: inline-block;
+  padding: .25rem 1.75rem .25rem .5rem;
+  margin: .25rem .5rem 0 0;
+  font-size: .75rem;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 4px;
+  color: #fff;
+  background: #25b9d7 !important;
+  box-shadow: none;
+  border:none;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container.chosen-with-drop .chosen-drop{
+  box-shadow: none;
+  border-color: #bbcdd2;
+  margin-top: -2px;
+  border-top: 0px;
+}
+
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container-multi .chosen-choices .search-choice .search-choice-close{
+  background: none;
+  width: 20px;
+  height: 20px;
+  top:2px;
+}
+
+.adminxallegroperform .bootstrap .form-horizontal .form-group.chosen-styled-selectbox .chosen-container-multi .chosen-choices .search-choice-close::after {
+  display: inline-block;
+  font-family: "Material Icons",Arial,Verdana,Tahoma,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-feature-settings: "liga";
+  font-feature-settings: "liga";
+  content: "";
+  font-size: 1.063rem;
+  vertical-align: bottom;
+  color:#363A41;
+}
+
+
+[class*="adminxallegro"] .chosen-container-single .chosen-single div b,
+#module_x13allegro .chosen-container-single .chosen-single div b{
+  line-height: 37px;
+}
+
+[class*="adminxallegro"] .chosen-container-single .chosen-single div b::before,
+#module_x13allegro .chosen-container-single .chosen-single div b::before{
+  content:"\F107";
+}
+
+#allegro_products .template-auction .btn{
+  margin-top:0px !important;
+}
+
+.adminxallegroassoccategories .chosen-container-single .chosen-search::before{
+  top:12px;
+}
+
+.category-field-group .multiple-values-group .multiple-values-delete {
+  top: 12px;
+  left: 225px;
+}
+
+#allegro_main_form #allegro_products .mce-tinymce,
+#allegro_main_form #allegro_products .mce-panel{
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* select2 */
+.adminxallegroassoccategories .select2-container--default .select2-selection--single,
+.adminxallegrocarriers .select2-container--default .select2-selection--single {
+  height: 39px;
+  line-height: 39px;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__rendered,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 39px;
+  padding-left: 16px;
+}
+
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__arrow,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__arrow {
+  height: 37px;
+  line-height: 37px;
+}
+.adminxallegroassoccategories .select2-container--default .select2-selection--single .select2-selection__arrow:before,
+.adminxallegrocarriers .select2-container--default .select2-selection--single .select2-selection__arrow:before {
+  height: 37px;
+  line-height: 37px !important;
+  content: "\F107";
+}

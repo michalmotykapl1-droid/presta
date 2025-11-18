@@ -1,0 +1,356 @@
+{
+    "name": "MAKARON KONJAC W KSZTAŁCIE RYŻU (STICKY RICE) DO SUSHI BEZGLUTENOWY 200 g -",
+    "productSet": [
+        {
+            "product": {
+                "id": "6d7d90ca-9759-451d-9333-f218187016ac",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Better Than Foods"
+                        ],
+                        "valuesIds": [
+                            "248811_1957750"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5060691233472"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Keto Chef Organic Konjac Sticky Rice"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "238789",
+                        "name": "Rodzaj",
+                        "values": [
+                            "makaron drobny"
+                        ],
+                        "valuesIds": [
+                            "238789_415889"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez laktozy",
+                            "ekologiczne",
+                            "koszerne",
+                            "niesiarkowane",
+                            "niski indeks glikemiczny",
+                            "niskodrażniące",
+                            "niskotłuszczowe",
+                            "odpowiednie dla diety ketogenicznej",
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_869017",
+                            "233345_1",
+                            "233345_4096",
+                            "233345_2",
+                            "233345_32",
+                            "233345_1188824",
+                            "233345_256",
+                            "233345_128",
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.33"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "11.6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "1.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5060691233472"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d262cc56-d76c-4149-be98-d3de87c280c5"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118979\/0cb19afa48e3b3d3a43da1d7b5b4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "5.90",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 9100,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118979\/0cb19afa48e3b3d3a43da1d7b5b4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>MAKARON KONJAC W KSZTAŁCIE RYŻU (STICKY RICE) DO SUSHI BEZGLUTENOWY 200 g -<\/h1><p>SKŁADNIKI<\/p><p>woda oczyszczona, skrobia z tapioki, ryż biały okrągły (5 %), mąka konjac (3 %), substancja zagęszczająca: mączka chleba świętojańskiego<\/p><p>OPIS<\/p><p>Bezglutenowy makaron w kształcie ziarenek ryżu ze skrobią z tapioki, ryżem białym okrągłym i mąką konjac - dzięki unikatowej formule, makaron cechuje się niebywałą kleistością, dzięki czemu sprawdza się jako alternatywa dla klasycznego ryżu w daniach takich jak sushi, bowl, risotto czy mango sticky rice - których przygotowanie ze zwykłym makaronem konjac nie jest możliwe. Czas to zmienić!<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Krok 1: Wysyp pół opakowania na płaty nori (brak w zestawie)<\/p><p>Krok 2: Rozprowadź na 3\/4 powierzchni.<\/p><p>Krok 3: Zroluj, pokrój, smacznego. Najlepiej smakuje z sosem SOJOWYM, pastą miso i imbirem.<\/p><p>Alternatywnie:<\/p><p>Krok 1: Podgrzej na otwartej patelni przez 1-2 minuty lub w kuchence mikrofalowej przez 1 minutę.<\/p><p>Krok 2: Dodaj do ulubionego dania tj. przystawka lub zupa.<\/p><p>WARTOŚĆ ODŻYWCZA w 100 g <\/p><p>Wartość energetyczna: 223 kJ \/ 53 kcal<\/p><p>Tłuszcz: 0 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0 g<\/p><p>Węglowodany: 11,6 g<\/p><p>w tym cukry: 0 g<\/p><p>Błonnik: 1,8 g<\/p><p>Białko: 0 g<\/p><p>Sól: 0 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Wyprodukowano w zakładzie, w którym przetwarza się SOJĘ, OWIES i siarczyny.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym i suchym miejscu. Nie zamrażać. Po otwarciu przechowywać w lodówce przez maksymalnie 1 tydzień.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>HuiZhou Wanjia Food Co Ltd, No. 30 Industrial Base, Tongqiao Town, 516001 Huizhou City, Guangdong Province, China<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43042"
+    },
+    "category": {
+        "id": "111094"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.90",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.36",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "555.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051931615",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T16:34:03.139Z"
+    },
+    "createdAt": "2025-11-03T16:34:03.000Z",
+    "updatedAt": "2025-11-03T16:49:03.616Z"
+}

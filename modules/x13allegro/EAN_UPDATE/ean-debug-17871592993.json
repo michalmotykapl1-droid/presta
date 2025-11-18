@@ -1,0 +1,388 @@
+{
+    "name": "ETJA Mydło naturalne potasowe Tamanu & Drzewo Herbaciane 80g",
+    "productSet": [
+        {
+            "product": {
+                "id": "af13e556-eb8d-40e1-92b5-0b4afe00f141",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Etja"
+                        ],
+                        "valuesIds": [
+                            "248811_984388"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129531",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "129531_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129530",
+                        "name": "Rodzaj",
+                        "values": [
+                            "pasta"
+                        ],
+                        "valuesIds": [
+                            "129530_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "silikonów",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "80"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "80"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "tamanu"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "szare mydło 100%"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "mydło potasowe"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "ET031"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908310446974"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "50f55f54-9ff5-41f3-85a5-1296df261611"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112572\/c13b1e9541c9afd9f0a85ddd5a99"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "23.93",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 7,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112572\/c13b1e9541c9afd9f0a85ddd5a99"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ETJA Mydło naturalne potasowe Tamanu &amp; Drzewo Herbaciane 80g<\/h1> <p><b>OPIS <\/b><\/p><p>MYDŁO TAMANU&amp;DRZEWO HERBACIANE<\/p><p>Mocno skoncentrowane mydło potasowe w postaci gęstej pasty o ziołowym zapachu. Wytwarzane ręcznie ze zmydlonego w 100% nierafinowanego, tłoczonego wyłącznie na zimno, kosmetycznego oleju lnianego. Uszlachetnione w późniejszym procesie produkcji organicznym olejem tamanu, eterycznym olejkiem z drzewa herbacianego i organicznym olejem jojoba gold. Dzięki naturalnym składnikom zawiera nienasycone kwasy tłuszczowe NNKT, kwas kalofillowy, kallofilloidyne,naturalne witaminy E i F oraz skwalen. Mydło o silnych właściwościach oczyszczająco-pielęgnujących, antyseptycznych i przeciwłojotokowych. Wnika głęboko w skórę wskutek czego zwiększa obszar swego oddziaływania. Zwalcza trądzik, łagodzi podrażnienia, poprawia stan problemów łuszczycowych oraz działa ochronnie na skórę. <\/p> <p>WSZYSTKIE MYDŁA ETJA SĄ RĘCZNIE WYTWARZANE NA BAZIE NATURALNYCH SKŁADNIKÓW, BEZ KONSERWANTÓW.<\/p> <p>Dlaczego mydła potasowe? Mydła potasowe lepiej się pienią i nawilżają w porównaniu do mydeł sodowych w kostce i komercyjnych w płynie. Dlaczego na bazie oleje lnianego? Nie jest nam znany żaden inny tłuszcz, który przynosiłby tak korzystne działanie w pielęgnacji skóry jak olej lniany! Zawiera niezbędne nienasycone kwasy tłuszczowe \"NNKT\" będące jednymi z najcenniejszych składników na liście ważnych dla organizmu człowieka. <\/p><p><b>SPOSÓB UŻYCIA <\/b><\/p><p>-Mycie rąk - niewielką ilość mydła rozprowadzać w dłoniach pod bieżącą wodą.<\/p><p>-Mycie twarzy - niewielką ilość mydła wcieraj w skórę twarzy uprzednio zwilżone wodą omijając okolicę oczu (mydło zawiera naturalny olejek herbaciany). Mydło pozostaw na 1-2 minuty w celu penetracji skóry i zmyj wodą. Systematyczne stosowanie pozwala skutecznie zmniejszyć objawy trądziku\/<\/p><p>-Prysznic - odpowiednią ilość mydła nakładać cienką warstwą na zwilżone ciało, omijając okolicę oczu, następnie po upływie 1-2 minut spłukać mydło wodą. Można w sposób tradycyjny nakładać mydło na gąbkę.<\/p><p>-Kąpiel - to koncentrat mydła, ok. 10 gram rozpuść w wannie wypełnionej 1\/3 ciepłej wody. Czas kąpieli do 20 minut. Kąpiel o właściwościach antybakteryjnych silnie oczyści skórę całego ciała.<\/p><p>-Mycie włosów - można stosować w przypadku łupieżu i swędzeniu skóry głowy. <\/p><p>-Moczenie stóp - do miski wypełnionej ciepłą wodą dodaj ok. 10 gram mydła. Mocz stopy 15-20 minut. Mydło doskonale zmiękczy stwardniały naskórek, odświeży i odkazi stopy.<\/p> <p><b>PRZEZNACZENIE <\/b><\/p><p>Cera mieszana, tłusta, problematyczna, trądzikowa, łuszczyca<\/p><p><b>SKŁADNIKI INCI <\/b><\/p><p>Potassium Linseeddate, Aqua, Glycerin, Calophyllum Inophyllum Seed Oil, Malaleuca Altemifolia Oil, Simmondsia Chinensis Jojoba Seed Oil, Limonene.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71ETJMYDTA"
+    },
+    "category": {
+        "id": "93055"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.93",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.50",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "138.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2240.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "138.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871592993",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T19:13:43.544Z"
+    },
+    "createdAt": "2025-09-08T19:13:43.000Z",
+    "updatedAt": "2025-09-17T01:30:13.582Z"
+}

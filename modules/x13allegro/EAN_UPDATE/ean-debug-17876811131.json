@@ -1,0 +1,347 @@
+{
+    "name": "TONIK - ESENCJA DO TWARZY NORMALIZUJĄCY NA NIEDOSKONAŁOŚCI 150 ml - UZDROVI",
+    "productSet": [
+        {
+            "product": {
+                "id": "f252acbe-65fd-4a17-b6de-6d869fa41054",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Uriage"
+                        ],
+                        "valuesIds": [
+                            "248811_1976659"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904917483824"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "UZDROVISCO Balance Tonik-esencja normalizujący na niedoskonałości, 150ml"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129510",
+                        "name": "Rodzaj",
+                        "values": [
+                            "tonik"
+                        ],
+                        "valuesIds": [
+                            "129510_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Mieszana",
+                            "Problematyczna"
+                        ],
+                        "valuesIds": [
+                            "129434_4",
+                            "129434_317717"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129509",
+                        "name": "Działanie",
+                        "values": [
+                            "matujące",
+                            "nawilżające"
+                        ],
+                        "valuesIds": [
+                            "129509_2",
+                            "129509_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "215766_271242"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "UZDROVISCO"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904917483824"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e0942088-fe0b-4b5d-9913-f09daff9ac35"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11026f\/0d5a86634a278ebbf0c68c0b4d77"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "22.31",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 2,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11026f\/0d5a86634a278ebbf0c68c0b4d77"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>TONIK - ESENCJA DO TWARZY NORMALIZUJĄCY NA NIEDOSKONAŁOŚCI 150 ml - UZDROVI<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Gluconolactone, Glycerin, Propanediol, Betaine, Xylitol, Viola Tricolor Extract, Saccharide Isomerate, Pullulan, Butylene Glycol, Xanthan Gum, Lactic Acid, Citric Acid, Polysorbate 80, Sodium Citrate, Sodium Hydroxide, Sodium Metabisulfite, Sodium Benzoate, Parfum<\/p><p>OPIS<\/p><p>Linia BALANCE przeznaczona jest do cery mieszanej i wrażliwej. Kosmetyki działają skutecznie, ale łagodnie. Zachwycają przyjemnością stosowania i pięknymi zapachami. <\/p><p>Tonik - esencja pozwala zadbać o cerę mieszaną i wrażliwą z tendencją do niedoskonałości, bez naruszania bariery hydrolipidowej. Dzięki żelowej konsystencji tonik nie wymaga użycia wacika. <\/p><p>Moc składników aktywnych dla pięknej i zdrowej cery:<\/p><p>-3% kwas PHA (glukonolakton) - delikatna eksfoliacja i odnowa skóry: usuwa martwe komórki naskórka, odsłaniając świeżą, promienną cerę, wspomaga naturalny proces regeneracji skóry, poprawiając jej teksturę, reguluje wydzielanie sebum, zapobiegając powstawaniu nowych niedoskonałości.<\/p><p>-Salicylany z fiołka - naturalna moc oczyszczania: zmniejszają widoczność porów, zapobiegając ich zapychaniu, przyspieszają redukcję niedoskonałości i wspomagają naturalne oczyszczanie skóry, działają kojąco, redukując stany zapalne i zaczerwienienia.<\/p><p>-Pentawityna (100 % zalecanego stężenia) - długotrwałe nawilżenie i regeneracja: głęboko nawilża i zapobiega utracie wilgoci, działa jak naturalny magnes na wodę, wiążąc ją w naskórku, łagodzi uczucie suchości i przywraca komfort nawet wrażliwej skórze.<\/p><p>-Prebiotyk (100 % zalecanego stężenia) - ochrona mikrobiomu i równowaga skóry: działa kojąco, redukując podrażnienia i wzmacniając barierę ochronną, zapewnia optymalny poziom nawilżenia, zapobiegając przesuszeniu.<\/p><p>Działanie potwierdzone w badaniach aplikacyjnych po 3 tygodniach stosowania:<\/p><p>-skutecznie, ale delikatnie złuszcza,<\/p><p>-nie narusza bariery hydrolipidowej,<\/p><p>-odblokowuje pory i zmniejsza ich widoczność,<\/p><p>-zapobiega powstawaniu niedoskonałości,<\/p><p>-odczuwalnie wygładza,<\/p><p>-tonizuje i nawilża skórę.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Tonik nałóż na skórę twarzy, szyi i dekoltu, pozostaw do wchłonięcia. Stosuj rano i wieczorem.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BRANDCLINIC, GRANICKA 10, 05-806 KOMORÓW,<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45048"
+    },
+    "category": {
+        "id": "258372"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "22.31",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.13",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "128.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2090.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "128.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876811131",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:29:02.395Z"
+    },
+    "createdAt": "2025-09-10T09:29:02.000Z",
+    "updatedAt": "2025-09-10T09:44:02.808Z"
+}

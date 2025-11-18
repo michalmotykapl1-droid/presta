@@ -1,0 +1,394 @@
+{
+    "name": "Mój krem 12 matujący do cery mieszanej, tłustej i trądzikowej 55g FITOMED",
+    "productSet": [
+        {
+            "product": {
+                "id": "0d7f6c15-c643-4476-b63e-a48e62ecdf9e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Fitomed"
+                        ],
+                        "valuesIds": [
+                            "248811_1980254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907504400440"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Mój Krem"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "dzień i noc"
+                        ],
+                        "valuesIds": [
+                            "215870_271998"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Tłusta"
+                        ],
+                        "valuesIds": [
+                            "129434_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "wielozadaniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_11"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "parabenów"
+                        ],
+                        "valuesIds": [
+                            "129770_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "55"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "uniwersalny"
+                        ],
+                        "valuesIds": [
+                            "215770_271366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "napar z bratka"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "ziołowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907504400440"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f3764458-71e4-4aa3-b165-fd7e548ff586"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11528f\/44d32fb340c782fe8c61c206ee7a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.14",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 9,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11528f\/44d32fb340c782fe8c61c206ee7a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mój krem 12 matujący do cery mieszanej, tłustej i trądzikowej 55g FITOMED<\/h1> <p><b>OPIS <\/b><\/p><p>Kosmetyk idealnym dla osób z trądzikiem. Składniki sprawiają, że skóra jest gładka i matowa, pozbawiona nadmiaru sebum. Wyciągi z uczepu trójlistnego, bratka polnego i nagietka lekarskiego to \"antyseptyczna Trójca\", która sprawdza się w pielęgnacji cery tłustej i trądzikowej. Działają antybakteryjnie i oczyszczająco, zmniejszają podrażnienia i zaczerwienienia. Dodatkowo obecny w kremie olej z czarnuszki siewnej wspomaga gojenie zmian skórnych, zapobiega powstawaniu blizn, a olejek herbaciany działa odświeżająco i chłodząco.<\/p><p>Cechy charakteryzujące produkt:<\/p><p>• Zapobieganie błyszczeniu i nadmiarowi sebum. Krem nr 12 zawiera składniki ziołowe, które matują skórę i regulują wydzielanie sebum, co przekłada się na zdrowszą i mniej błyszczącą cerę.<\/p><p>• Antybakteryjna moc olejku z drzewka herbacianego. Olejek z drzewka herbacianego działa antybakteryjnie, pomaga w zwalczaniu trądziku oraz pozostawia uczucie odświeżenia na skórze.<\/p><p>• Ziołowy wybór dla matowej i zdrowej cery. Świeże ekstrakty ziołowe, takie jak: uczep trójlistny, bratek polny, lukrecja gładka i nagietek lekarski, działają antyseptycznie, zapobiegają trądzikowi i zmniejszają jego objawy.<\/p><p>• Stosowanie na dzień pod makijaż. Krem nr 12 nadaje się zarówno pod makijaż, jak i na noc. Wówczas skóra ma kompleksową opiekę przez całą dobę.<\/p><p>• Naturalne składniki dla świadomych konsumentów. Krem nr 12 to produkt wegański o zapachu Fresh olejku z drzewka herbacianego. Składniki aktywne i naturalne stanowią aż 95% zawartości, co sprawia, że kosmetyk jest przyjazny skórze i środowisku.<\/p> <p>Polecany do: cery mieszanej, tłustej i trądzikowej, na dzień i na noc. Można stosować pod makijaż.<\/p><p>Składniki aktywne: świeże ekstrakty ziołowe: z uczepu trójlistnego, bratka polnego i nagietka lekarskiego, olej nasion z czarnuszki siewnej, olejek z drzewa herbacianego.<\/p><p>Działanie: łagodzi zmiany trądzikowe, matuje, zapobiega powstawaniu wyprysków, rozmiękcza zaskórniki.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Glycerin, Cetearyl Alcohol, Cetyl Palmitate, Ethylhexyl Palmitate, Ceteareth- 20, Vitis Vinifera Seed Oil, Bidens Tripartita Extract, Glycyrrhiza Glabra Root Extract, Viola Tricolor Extract, Calendula Officinalis Flower Extract, Nigella Sativa Seed Oil, Panthenol, Theobroma Cacao Seed Butter, Benzyl Alcohol, Ethylhexylglycerin, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Citric Acid.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Niewielką ilość kremu nanieś na oczyszczoną skórę twarzy. <\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej. Chronić przed słońcem.<\/p> <p><b>PRODUCENT <\/b><\/p><p>Fitomed Sp. z o.o.<\/p><p>Twarda 44, 00-831 Warszawa<\/p><p>sklep@fitomed.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z71FITMOJK12"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.14",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.16",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "179.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2920.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "179.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915485352",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T17:08:49.057Z"
+    },
+    "createdAt": "2025-09-22T17:08:49.000Z",
+    "updatedAt": "2025-10-17T13:30:53.895Z"
+}

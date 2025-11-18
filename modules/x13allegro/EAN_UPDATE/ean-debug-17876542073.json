@@ -1,0 +1,356 @@
+{
+    "name": "Cyclopar Szampon przeciwłupieżowy 150g PARAMEDICA",
+    "productSet": [
+        {
+            "product": {
+                "id": "63d775ed-7eaa-4e5e-ac36-0860c4100704",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Paramedica"
+                        ],
+                        "valuesIds": [
+                            "248811_1982170"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "1111"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "PARAMEDICA CYCLOPAR Szampon przeciwłupieżowy, 150g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "do każdego typu włosów"
+                        ],
+                        "valuesIds": [
+                            "226825_317513"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciwłupieżowe"
+                        ],
+                        "valuesIds": [
+                            "129469_1778816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "łupież"
+                        ],
+                        "valuesIds": [
+                            "226689_316773"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247073",
+                        "name": "Porowatość włosów",
+                        "values": [
+                            "włosy niskoporowate"
+                        ],
+                        "valuesIds": [
+                            "247073_642969"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "tubka"
+                        ],
+                        "valuesIds": [
+                            "215766_271230"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901179041854"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6e6ee0f9-d740-47e4-8998-9adf6c5f2f14"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118021\/d34326ac45d8a7c5ee7deb4cdd92"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "30.36",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118021\/d34326ac45d8a7c5ee7deb4cdd92"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Cyclopar Szampon przeciwłupieżowy 150g PARAMEDICA<\/h1> <p><b>OPIS <\/b><\/p><p>Cyclopar to specjalnie opracowany szampon przeciwłupieżowy o wyjątkowych właściwościach potwierdzonych w badaniach dermatologicznych.<\/p><p>Zawiera wysoce aktywne substancje (Cyclopirox, Elestab HP 100), które szybko i skutecznie zwalczają<\/p><p>przyczyny i objawy łupieżu. Dodatkowo regulują wydzielanie sebum, łagodzi podrażnienia oraz zmniejszają nieprzyjemne uczucie swędzenia skóry głowy.<\/p><p>Skład szamponu został uzupełniony o substancje pielęgnacyjno-odżywcze (vit. A,E,F,H, Panthenol, Gliceryna), aby zapewnić rewitalizację i nawilżenie całej struktury włosów, a odpowiednio dobrane substancje myjące efektywnie i łagodnie oczyszczają skórę głowy.<\/p> <p>Cyclopar poleca się szczególnie dla osób, u których występuje w sposób okresowy lub przewlekły łupież jak i nadmierne przetłuszczanie włosów.<\/p> <p>Wskazany przy:<\/p><p>-łupieżu<\/p><p>-łojotoku<\/p><p>-przetłuszczaniu włosów<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Niewielką ilość szamponu nanieść na wilgotne włosy i wetrzeć w skórę głowy do wytworzenia się piany, pozostawić na 2-3 minuty, a następnie dokładnie spłukać wodą, czynność powtórzyć. Stosować raz dziennie lub co najmniej 2-3 razy w tygodniu aż do uzyskania pozytywnych rezultatów.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Ammonium Laury| Sulfate, Glycerin, Coco-betaine, Propylene Glycol, Sodium Lauroyl Sarcosinate, Olive Oil PEG-7 Esters, Laureth-2, Di-PPG-2 Myreth-10 Adipate, Ciclopirox Olamine, Panthenol, Calcium Pantothenate, Biotin, Inositol, Retinol, Tocopheryl Acetate, Hexamidine Diisethionate, Zea Mays Oil, Rosa Moschata Seed Oil, PEG-150 Pentaerythrityl Tetrastearate, PPG-2 Hydroxyethyl Cocamide, Polyquaternium-10, PEG-60 Hydrogenated Castor Oil, PEG-20 Castor Oil, Citric Acid, Parfum, Phenoxyethanol, DMDM Hydantoin, Methylparaben, Propylparaben, Potassium Sorbate, Sodium Benzoate.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71PARCYCLO"
+    },
+    "category": {
+        "id": "258362"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "30.36",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.98",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "175.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2845.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "175.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876542073",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T07:24:34.608Z"
+    },
+    "createdAt": "2025-09-10T07:24:34.000Z",
+    "updatedAt": "2025-09-10T07:39:37.673Z"
+}

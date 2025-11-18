@@ -1,0 +1,360 @@
+{
+    "name": "TONIK DO TWARZY OCHRONNY Z PROBIOTYKAMI, ALOESEM I MIGDAŁEM ECO 125 ml - SA",
+    "productSet": [
+        {
+            "product": {
+                "id": "7a7c45b3-da39-4f92-83fd-245603b986fb",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sante"
+                        ],
+                        "valuesIds": [
+                            "248811_1947217"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4055297219488"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "15852",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Toniki"
+                        ],
+                        "valuesIds": [
+                            "15852_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Sucha",
+                            "Wrażliwa"
+                        ],
+                        "valuesIds": [
+                            "129434_2",
+                            "129434_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "parabenów",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_128",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "125"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "Aloes"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Sante"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4055297219488"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a7489deb-5521-4fe4-8e05-5992ee537706"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c44e\/3fe9f5ca4c14b36cae5c31c4745e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "29.87",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 30,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c44e\/3fe9f5ca4c14b36cae5c31c4745e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>TONIK DO TWARZY OCHRONNY Z PROBIOTYKAMI, ALOESEM I MIGDAŁEM ECO 125 ml - SA<\/h1><p>SKŁADNIKI<\/p><p>Aqua (Water), Glycerin, Aloe Barbadensis Leaf Juice*, Coco-Glucoside, Polyglyceryl-10 Laurate, Salix Alba (Willow) Bark Extract, Lactic Acid, Sodium Lactate, Lactococcus Ferment Lysate, Citric Acid, PCA Ethyl Cocoyl Arginate, Sodium Chloride, Phenylpropanol, Prunus Amygdalus Dulcis (Sweet Almond) Seed Extract*, Levulinic Acid, Sodium Levulinate, Potassium Sorbate, Parfum (Fragrance)**, Linalool**, Limonene**, Geraniol**. (*składniki pochodzące z upraw ekologicznych, **składniki pochodzące z naturalnych olejków eterycznych)<\/p><p>OPIS<\/p><p>Tonik do skóry suchej, wrażliwej.<\/p><p>Tonik łagodzący i odświeżający skórę, wzmacnia barierę ochronną skóry. Zapewnia długotrwałe, równomierne wykończenie cery.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Rano i wieczorem, po umyciu twarzy nałożyć za pomocą wacika na twarz, szyję i dekolt. Należy pominąć kontury ust. <\/p><p>ŚRODKI OSTROŻNOŚCI<\/p><p>W przypadku dostania się do oczu, natychmiast przemyć je obficie wodą. Unikać ekspozycji na promieniowanie słoneczne. Rano zastosować produkt z filtrem UV, co najmniej SPF 30. Jeżeli wystąpi podrażnienie skóry, zaprzestać stosowania produktu. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>LOGOCOS NATURKOSMETIK AG, ZUR KRÄUTERWIESE , 31020 SALZHEMMENDORF<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43739"
+    },
+    "category": {
+        "id": "5361"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "29.87",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.87",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "172.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2800.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "172.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876858002",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:50:40.325Z"
+    },
+    "createdAt": "2025-09-10T09:50:40.000Z",
+    "updatedAt": "2025-09-10T10:05:40.764Z"
+}

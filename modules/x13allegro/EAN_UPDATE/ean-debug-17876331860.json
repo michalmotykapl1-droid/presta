@@ -1,0 +1,354 @@
+{
+    "name": "Proftin-M Zasypka do stóp 100g MELALEUCA",
+    "productSet": [
+        {
+            "product": {
+                "id": "1b5e4b93-1944-4104-9d05-329bd18341b0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "A-Derma"
+                        ],
+                        "valuesIds": [
+                            "248811_1978517"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226729",
+                        "name": "Rodzaj",
+                        "values": [
+                            "skarpetki"
+                        ],
+                        "valuesIds": [
+                            "226729_1989906"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nadmierna potliwość"
+                        ],
+                        "valuesIds": [
+                            "226689_316745"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "129770_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907786990011"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "Olejek z drzewa herbacianego"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Proftin-M Zasypka do stóp"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237222",
+                        "name": "Seria",
+                        "values": [
+                            "PROFTIN"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "drzewo herbaciane"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250314",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "Kremy do stóp"
+                        ],
+                        "valuesIds": [
+                            "250314_1879882"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907786990011"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f89e60d9-4744-45bd-9966-9f03d7411c76"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ceac\/3780541b4bb39f813998a1ff5d76"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "14.42",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ceac\/3780541b4bb39f813998a1ff5d76"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Proftin-M Zasypka do stóp 100g MELALEUCA<\/h1> <p><b>OPIS <\/b><\/p><p>Proftin M to bazująca na olejku z drzewa herbacianego zasypka do stóp, która przeznaczona jest do zapobiegania rozwojowi grzybic skóry stóp oraz chorób bakteryjnych. Zalecana do stosowania u osób, które korzystają ze wspólnych natrysków, łaźni, basenów, siłowni, sal gimnastycznych oraz innych obierków sportowych. Razem z nią możemy zminimalizować ryzyko chorób grzybiczych i bakteryjnych stóp.<\/p> <p>Olejek drzewa herbacianego ma właściwości antybakteryjne i antygrzybiczne, natomiast witamina E odpowiada za komfort skóry stóp poprzez jej nawilżenie. Zapobiega też przedwczesnemu starzeniu się skóry.<\/p> <p>Właściwości przeciwgrzybiczne olejku z drzewa herbacianego zostały zatwierdzone badaniami klinicznymi prowadzonymi na Oddziale Dermatologicznym Szpitala Wojewódzkiego w Bytomiu z udziałem Śląskiego Uniwersytetu Medycznego.<\/p> <p><b>PRZEZNACZENIE <\/b><\/p><p>Profilaktyka chorób skórnych, szczególnie skóry stóp o podłożu bakteryjnym i grzybiczym.<\/p> <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>Stopy umyć i osuszyć, a następnie zasypać zasypką w odpowiedniej ilości. Preparat można stosować także do skarpetek oraz do obuwia. Stosować 1-2 razy dziennie.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71MELPROZA"
+    },
+    "category": {
+        "id": "323593"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.42",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.32",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "83.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1350.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "83.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876331860",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:05:41.269Z"
+    },
+    "createdAt": "2025-09-10T05:05:41.000Z",
+    "updatedAt": "2025-09-25T09:40:21.079Z"
+}

@@ -1,0 +1,301 @@
+{
+    "name": "PIANKA DO TWARZY CREAM NAWILŻAJĄCA OCZYSZCZAJĄCA Z CERAMIDAMI 220 ml - REAL",
+    "productSet": [
+        {
+            "product": {
+                "id": "f6b47462-36fa-4203-a4c2-95587b712e79",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Real Barrier"
+                        ],
+                        "valuesIds": [
+                            "248811_1982467"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8809723785056"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "15852",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Pianki"
+                        ],
+                        "valuesIds": [
+                            "15852_10"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "290"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "220"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "świeży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8809723785056"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9f38425e-8e21-4d70-969c-858a74bd9d19"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów z kategorii: 'Oczyszczanie i demakijaż' oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Uważaj na kontakt z oczami: Jeśli produkt dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W przypadku utrzymującego się podrażnienia skonsultuj się z lekarzem.\n2.  Testuj na małym obszarze: Przed pierwszym użyciem nowego produktu do oczyszczania twarzy, wykonaj test na małym, niewidocznym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n3.  Nie połykaj: Produkty do oczyszczania i demakijażu są przeznaczone wyłącznie do użytku zewnętrznego. Nie połykaj ich. W przypadku połknięcia natychmiast skontaktuj się z lekarzem.\n4.  Przechowuj w bezpiecznym miejscu: Trzymaj produkty do oczyszczania i demakijażu z dala od dzieci i zwierząt.\n5.  Używaj zgodnie z instrukcją: Zawsze stosuj się do instrukcji producenta dotyczących używania i dawkowania produktu.\n6.  Unikaj podrażnień: Jeśli po użyciu produktu wystąpi zaczerwienienie, swędzenie, pieczenie lub wysypka, przerwij stosowanie i skonsultuj się z dermatologiem.\n7.  Ostrożnie z wrażliwą skórą: Jeśli masz skórę wrażliwą, wybieraj produkty hipoalergiczne i bezzapachowe.\n8.  Nie mieszaj produktów: Nie łącz różnych produktów do oczyszczania i demakijażu, ponieważ może to prowadzić do niepożądanych reakcji chemicznych.\n9.  Chroń przed słońcem: Niektóre składniki zawarte w produktach do oczyszczania twarzy mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem po użyciu takiego produktu.\n10. Uważaj na termin ważności: Nie używaj przeterminowanych produktów, ponieważ mogą być mniej skuteczne lub powodować podrażnienia.\n11. Zwróć uwagę na skład: Jeżeli masz alergię, upewnij się, że produkt nie zawiera substancji, na które jesteś uczulony.\n12. Higiena: Używaj czystych rąk i akcesoriów (np. wacików) podczas aplikacji, by zapobiec przenoszeniu bakterii.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117e39\/c526f6a448b9ae6b70b2a9fe2991"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "84.33",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 17,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117e39\/c526f6a448b9ae6b70b2a9fe2991"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PIANKA DO TWARZY CREAM NAWILŻAJĄCA OCZYSZCZAJĄCA Z CERAMIDAMI 220 ml - REAL<\/h1><p>SKŁADNIKI <\/p><p>Water\/Aqua, Disodium Cocoamphodiacetate, Helianthus Annuus (Sunflower) Seed Oil, Potassium Cocoyl Glycinate, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Potassium Cocoate, Disodium Cocoyl Glutamate, Carbomer, Glycol Distearate, Acrylates\/C10-30 Alkyl Acrylate Crosspolymer, 1,3-Hexanediol, Caprylyl Glycol, Citric Acid, Madecassoside, Myristoyl\/Palmitoyl Oxostearamide\/Arachamide Mea, Ceramide Np, Ascorbic Acid, Mentha Viridis (Spearmint) Leaf Oil, Mentha Viridis (Spearmint) Extract, Panthenol, Moringa Oleifera Seed Extract, Citrus Nobilis (Mandarin Orange) Peel Oil, Glycerin, Pelargonium Graveolens Flower Oil, Eucalyptus Globulus Leaf Oil, Thymus Vulgaris (Thyme) Oil, Hexylene Glycol, Triticum Vulgare (Wheat) Sprout Extract, Butylene Glycol, Disodium EDTA, Barosma Betulina Leaf Extract, Allantoin, Eucalyptus Globulus Leaf Extract<\/p><p>OPIS <\/p><p>Real Barrier Cream Cleansing Foam to delikatna, ale skuteczna pianka do mycia twarzy, stworzona specjalnie dla skóry wrażliwej i suchej. Dzięki opatentowanej technologii MLE® (Multi-Lamellar Emulsion) wzmacnia barierę ochronną skóry, zapewniając jej dogłębne nawilżenie i minimalizując ryzyko podrażnień.<\/p><p>Formuła zawiera ceramidy, które wspomagają regenerację skóry, pomagając utrzymać jej naturalną wilgotność. Lekko kwaśne pH produktu sprzyja utrzymaniu równowagi skóry, a łagodne substancje myjące skutecznie usuwają zanieczyszczenia i nadmiar sebum bez uczucia ściągnięcia. Dodatek pantenolu i alantoiny działa kojąco, przynosząc natychmiastową ulgę skórze wrażliwej. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Nanieś niewielką ilość pianki na zwilżoną skórę twarzy, delikatnie masuj kolistymi ruchami, a następnie dokładnie spłucz letnią wodą. Produkt przeznaczony do codziennego stosowania, zarówno rano, jak i wieczorem. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze pokojowej <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>NeoPharm Co., Ltd. Heungdeok 1-ro, 13beon-gil, Giheung-gu, Yongin-si 7F, 13,16957 Gyeonggi-do, South Korea<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46622"
+    },
+    "category": {
+        "id": "5361"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "84.33",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.40",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "485.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7900.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "485.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051948310",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T16:42:35.027Z"
+    },
+    "createdAt": "2025-11-03T16:42:35.000Z",
+    "updatedAt": "2025-11-03T16:57:35.436Z"
+}

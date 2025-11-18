@@ -1,0 +1,369 @@
+{
+    "name": "SANBIOS Meno-Klima 60 tabl.",
+    "productSet": [
+        {
+            "product": {
+                "id": "4935ae01-3e2b-4419-bd82-0eacc61c110f",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "MENOKLIMA"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sanbios"
+                        ],
+                        "valuesIds": [
+                            "248811_1963871"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908230845284"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet"
+                        ],
+                        "valuesIds": [
+                            "210774_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "tabletki"
+                        ],
+                        "valuesIds": [
+                            "210758_244702"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "melisa"
+                        ],
+                        "valuesIds": [
+                            "210698_243930"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_8",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908230845284"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "24cf7f73-430a-49ca-a3fd-77d45ba075ca"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113d29\/f61e92fe4a29b644fe3dde2106b9"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.57",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/113d29\/f61e92fe4a29b644fe3dde2106b9"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SANBIOS Meno-Klima 60 tabl.<\/h1> <p><b>OPIS <\/b><\/p><p>Meno-Klima to suplement wzbogacający dietę w składniki pomagające łagodzić dolegliwości związane z okresem przekwitania.<\/p><p>Produkt stanowi bogate źródło fitoestrogenów, a w szczególności izoflawonów z koniczyny, polifenoli<\/p><p>z zielonej herbaty, a liść melisy dodatkowo wywiera działanie uspokajające i relaksujące.<\/p> <p>Wyprodukowano w Polsce.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Składniki w przeliczeniu na 2 tabletki:<\/p><p>-ekstrakt z koniczyny czerwonej 400 mg<\/p><p>-sproszkowany kwiat koniczyny czerwonej (Trifolium) 330 mg<\/p><p>-melisa (Melissa) liść 200 mg<\/p><p>-ekstrakt z zielonej herbaty 60 mg<\/p> <p>-substancja przeciwzbrylająca - sole magnezowe kwasów tłuszczowych - 5 mg<\/p><p>-substancja wiążąca - dwutlenek krzemu - 5 mg<\/p> <p>Składniki aktywne w dziennej porcji produktu (tj. 2 tabletki):<\/p><p>-polifenole z zielonej herbaty: 54 mg - nie ustalono RWS*<\/p><p>-izoflawony z koniczyny: 32 mg - nie ustalono RWS*<\/p> <p>*RWS - Procent Referencyjnych Wartości Spożycia<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1-2 tabletki dziennie po posiłku, obficie popijając.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać: w suchym, ciemnym miejscu, niedostępnym dla małych dzieci.<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p><p>Suplementy diety nie mogą być stosowane jako substytut zróżnicowanej diety.<\/p><p>Zróżnicowana dieta i zdrowy tryb życia są istotne dla zachowania zdrowia.<\/p><p>Zróżnicowany i zbilansowany sposób żywienia jest podstawowym warunkiem dobrego zdrowia, a pojedyncze produkty mają relatywne znaczenie w kontekście całego sposobu żywienia.<\/p><p>Preparaty ziołowe mogą różnić się kolorem i strukturą, a nawet kształtem tabletki w zależności od dostawy surowca, z którego były wykonane.<\/p><p>W zielarstwie jest rzeczą naturalną, że poszczególne zbiory surowców-ziół różnią się kolorystyką choćby z powodu tego, czy dany rok był suchy i słoneczny czy mokry i pochmurny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SANMENKL"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.57",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.57",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "164.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2675.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "164.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871708440",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:12:33.841Z"
+    },
+    "createdAt": "2025-09-08T20:12:33.000Z",
+    "updatedAt": "2025-09-08T20:27:34.817Z"
+}

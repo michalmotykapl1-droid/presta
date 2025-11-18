@@ -1,0 +1,386 @@
+{
+    "name": "Minibatoniki \"Dla serca\" o smaku wiśniowym Dobra Kaloria, 102g",
+    "productSet": [
+        {
+            "product": {
+                "id": "ff312a19-0c33-4be1-a700-37cf3c64df40",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Dobra Kaloria"
+                        ],
+                        "valuesIds": [
+                            "248811_1958987"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "z orzechów nerkowców owocowo-orzechowe 102 g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Mini batoniki DLA SERCA z TIAMINĄ"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "102"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "barwników",
+                            "cholesterolu",
+                            "cukru",
+                            "drożdży",
+                            "GMO",
+                            "jajek",
+                            "oleju palmowego",
+                            "tłuszczy trans (utwardzanych)"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_4194304",
+                            "130691_65536",
+                            "130691_4",
+                            "130691_524288",
+                            "130691_32768",
+                            "130691_1048576",
+                            "130691_8",
+                            "130691_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.13"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "3.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "7.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "41"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "1.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "1.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903548002633"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112146\/20781a574bd9963838d00a457205",
+        "https:\/\/a.allegroimg.com\/original\/11fce9\/33d936e747cabedd5900810e28b4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.72",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112146\/20781a574bd9963838d00a457205"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Minibatoniki \"Dla serca\" o smaku wiśniowym Dobra Kaloria, 102g<\/h1> <p><b>Minibatoniki \"Dla serca\" o smaku wiśniowym Dobra Kaloria, 102g <\/b><\/p> <p>Pysznie wiśniowy baton z nutą orzeszków ziemnych i słonecznika kryje w sobie składniki, które robią więcej niż tylko dobrze smakują. Tiamina (B1) i magnez wspierają prawidłową pracę serca i układu nerwowego, a ekstrakt z różeńca górskiego pomaga radzić sobie ze zmęczeniem i codziennym stresem. Słodycz pochodzi wyłącznie z daktyli i wiśni - bez dodatku cukru. Wiśnie są soczyste, aromatyczne i zachowują naturalną kwaskowatość, przełamując słodycz daktyli. Troska o serce zaczyna się od drobnych codziennych wyborów… czasem od batonika, który smakuje tak dobrze, że trudno uwierzyć, iż jest zdrowy. Wraz z innymi batonami „do zadań specjalnych” tworzy serię, w której każdy ma swoją supermoc - od pobudzenia, przez wsparcie odporności, po troskę o jelita.<\/p> <p><b>Składniki:<\/b><\/p><p>daktyle suszone (50 %), <b>orzeszki ziemne <\/b>prażone, nasiona słonecznika, wiśnie suszone (8 %), siemię lniane, zagęszczony sok jabłkowy, sok wiśniowy w proszku (1 %), naturalny aromat wiśniowy z innymi naturalnymi aromatami, sok z buraka w proszku, ekstrakt z różeńca górskiego (0,3 %) (Rhodiola rosea L.).t.<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 1735 kJ \/ 415 kcal<\/p><p>Tłuszcz 18 g<\/p><p>w tym kwasy tłuszczowe nasycone 2,2 g<\/p><p>Węglowodany 49 g<\/p><p>w tym cukry 40 g<\/p><p>Błonnik 8,7 g<\/p><p>Białko 9,8 g<\/p><p>Sól 0,02 g<\/p><p>Magnez 120 mg (32% RWS)<\/p><p>Potas 640 mg (32% RWS)<\/p><p>Tiamina ( witamina B1) 0,4 mg (36% RWS)<\/p><p>Witamina E 6 mg (50% RWS)<\/p> <p>RWS - referencyjna wartość spożycia<\/p> <p><b>Alergeny:<\/b><\/p><p>Produkt może zawierać: inne orzechy, orzeszki ziemne, nasiona sezamu, zboża zawierające gluten. <\/p>  <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w temperaturze pokojowej, w suchym miejscu i szczelnie zamkniętym opakowaniu.<\/p> <p><b>Producent:<\/b><\/p><p>Kubara Sp. z o. o.<\/p><p>ul. Bema 32<\/p><p>42-202 Częstochowa<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11fce9\/33d936e747cabedd5900810e28b4"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5903548002633"
+    },
+    "category": {
+        "id": "74021"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.72",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.93",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "73.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1190.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "73.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915430146",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T16:48:44.527Z"
+    },
+    "createdAt": "2025-09-22T16:48:44.000Z",
+    "updatedAt": "2025-10-17T14:23:19.594Z"
+}

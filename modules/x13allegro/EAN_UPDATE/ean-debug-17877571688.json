@@ -1,0 +1,326 @@
+{
+    "name": "SILVER Ulga Zaparcia 60kaps. MyVita",
+    "productSet": [
+        {
+            "product": {
+                "id": "b9188729-0f7a-4c77-9167-532c1a91bb5e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "MyVita"
+                        ],
+                        "valuesIds": [
+                            "248811_1962299"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903021590978"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "SILVER ULGA ZAPARCIA 60 KAPS"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "inulina"
+                        ],
+                        "valuesIds": [
+                            "213962_264770"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "160"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański"
+                        ],
+                        "valuesIds": [
+                            "213714_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903021590978"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "4c860d3c-7178-4e60-adf6-ac171700fec8"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/117c48\/de43f8654a1786b547a1f403733c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "44.40",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117c48\/de43f8654a1786b547a1f403733c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SILVER Ulga Zaparcia 60kaps. MyVita<\/h1> <p><b>OPIS <\/b><\/p><p>ULGA zaparcia - BEZ SZTUCZNYCH DODATKÓW I WYPEŁNIACZY - Herbal Complex<\/p><p>Zawiera surowce, które delikatnie wspomagają prawidłowe wypróżnianie bez gwałtownego efektu przeczyszczającego.<\/p> <p>Produkt może być stosowany przez wegetarian i wegan.<\/p><p>Preparat składa się wyłącznie z aktywnych składników bez sztucznych dodatków i wypełniaczy.<\/p> <p>Produkt to starannie opracowana kompozycja roślinnych składników: liść senesu, szakłak amerykański, kwiat rumianku, liść mięty pieprzowej, korzeń mniszka lekarskiego, owoc kopru włoskiego (Fenkuł). Preparat zawiera wyłącznie skoncentrowane ekstrakty roślinne doskonałej jakości.<\/p><p>Roślinne składniki zamknięte w transparentnej kapsułce w delikatny sposób wspomagają prawidłowy proces fizjologiczny wypróżniania bez gwałtownego efektu przeczyszczającego oraz wspomagają optymalne funkcjonowanie jelit.<\/p><p>Skład produktu uzupełnia prebiotyk pochodzenia naturalnego – inulina, który wspiera prawidłowy rozwój flory jelitowej oraz wspomaga prawidłowe funkcjonowanie jelit i aminokwas leucynę.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>inulina z korzenia cykorii (Cichorium) 60 mg, kompozycja roślinnych ekstraktów: z kory szakłaka amerykańskiego (Rhamnus purshiana); z liści senesu (Cassia Angustifolia Vahl); z rumianku pospolitego (Matricaria chamomilla); z liści mięty pieprzowej (Mentha piperita); z korzenia mniszka lekarskiego (Taraxacum officinale); z owocu kopru włoskiego (Feoniculum vulgare), L-leucyna, hydroksypropylometyloceluloza (otoczka z celulozy roślinnej).<\/p><p><b>SPOSÓB UŻYCIA<\/b><\/p><p>1 kapsułka wieczorem. Popić wodą. W razie braku efektu fizjologicznego zwiększyć dzienną porcją maksymalnie do 2 kapsułek.<\/p> <p>Dzienna porcja zawiera (1 kapsułka):<\/p><p>Roślinna kompozycja ekstraktów:<\/p><p>z szakłaka amerykańskiego - 50 mg<\/p><p>z liści senesu - 50 mg<\/p><p>z rumianku - 50 mg<\/p><p>z mięty pieprzowej - 50 mg<\/p><p>z mniszka lekarskiego - 50 mg<\/p><p>z kopru włoskiego - 50 mg<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej dziennej porcji do spożycia. Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Dla utrzymania prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić zdrowy styl życia. Nie zaleca się kobietom w ciązy, karmiącym oraz dzieciom. Produktu nie powinno się stosować długotrwale.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej, w sposób niedostępny dla małych dzieci. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21PRJULG11"
+    },
+    "category": {
+        "id": "258264"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "44.40",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.21",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "255.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4160.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "255.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877571688",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T13:58:23.793Z"
+    },
+    "createdAt": "2025-09-10T13:58:23.000Z",
+    "updatedAt": "2025-10-01T13:49:42.911Z"
+}

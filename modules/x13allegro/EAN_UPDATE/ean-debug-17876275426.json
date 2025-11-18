@@ -1,0 +1,394 @@
+{
+    "name": "ZIELKO Płyn do łazienki - melonowy 500ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "e9de40dd-8436-42e4-93d9-e33d6f16dbd7",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250618",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Płyn do mycia"
+                        ],
+                        "valuesIds": [
+                            "250618_1956325"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "zielko"
+                        ],
+                        "valuesIds": [
+                            "248811_1955697"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902249011913"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215006",
+                        "name": "Rodzaj",
+                        "values": [
+                            "czyszczenie wielofunkcyjne"
+                        ],
+                        "valuesIds": [
+                            "215006_376529"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249932",
+                        "name": "Typ",
+                        "values": [
+                            "Płyny i mleczka uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "249932_1783933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213906",
+                        "name": "Waga produktu",
+                        "values": [
+                            "0.602"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233849",
+                        "name": "Opakowanie produktu",
+                        "values": [
+                            "plastikowa butelka z atomizerem"
+                        ],
+                        "valuesIds": [
+                            "233849_375253"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "234169",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "łazienka i toaleta"
+                        ],
+                        "valuesIds": [
+                            "234169_376517"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "234165",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "234165_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Polska"
+                        ],
+                        "valuesIds": [
+                            "249649_1723418"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "Melonowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220153",
+                        "name": "Liczba sztuk w zestawie",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "602"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902249011913"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "94899c6d-f143-41e2-a1a0-afa72aa8d20a"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115e5a\/9ffa662b4488b27f7f404517d396"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "18.53",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115e5a\/9ffa662b4488b27f7f404517d396"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ZIELKO Płyn do łazienki - melonowy 500ml<\/h1> <p><b>OPIS <\/b><\/p><p>ZIELKO Płyn do łazienki 500 ml – zapach melonowy<\/p><p>Naturalny płyn skutecznie usuwa łazienkowe zabrudzenia i osady z armatury, kabin prysznicowych, płytek oraz innych powierzchni. Szybko, bez smug i zacieków. Wystarczy spryskać preparatem czyszczoną powierzchnię i po kilku chwilach przetrzeć czystym ręcznikiem.<\/p> <p>Aktywnie działa: kwas cytrynowy.<\/p><p>Zastosowanie: wanny, kabiny prysznicowe, brodziki, umywalki, inna armatura łazienkowa, płytki, kafelki, elementy ze stali nierdzewnej, glazura, posadzki.<\/p><p>pH: 2.0<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Mniej niż 5% amfoteryczne związki powierzchniowo czynne, kompozycja zapachowa (zawiera: Limonene, Linalool, Hexyl Cinnamal).<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SYZPLYLA"
+    },
+    "category": {
+        "id": "253359"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.53",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.26",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "107.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1735.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "107.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876275426",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:12:39.387Z"
+    },
+    "createdAt": "2025-09-10T04:12:39.000Z",
+    "updatedAt": "2025-10-24T12:50:00.431Z"
+}

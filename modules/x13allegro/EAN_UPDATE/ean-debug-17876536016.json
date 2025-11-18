@@ -1,0 +1,377 @@
+{
+    "name": "VENITA Trychologiczny peeling Ficyna do skóry głowy enzymatyczny, oczyszcz",
+    "productSet": [
+        {
+            "product": {
+                "id": "9efdf9b8-5ba0-4bf7-818c-f80b91da5463",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Venita"
+                        ],
+                        "valuesIds": [
+                            "248811_1965972"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Trychologiczna"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "245945",
+                        "name": "Rodzaj",
+                        "values": [
+                            "enzymatyczny"
+                        ],
+                        "valuesIds": [
+                            "245945_568989"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "PEG",
+                            "PPG",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS",
+                            "soli"
+                        ],
+                        "valuesIds": [
+                            "129770_256",
+                            "129770_2048",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2",
+                            "129770_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "245949",
+                        "name": "Składniki aktywne",
+                        "values": [
+                            "ficyna"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902101521628"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "oczyszczający"
+                        ],
+                        "valuesIds": [
+                            "129469_10"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "226825_384473"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902101521628"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6742703f-799c-4a4c-8e80-20a6e6a3fdda"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11bac7\/856dead340e19f9b0f811e5e4bbf"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "16.63",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 9,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11bac7\/856dead340e19f9b0f811e5e4bbf"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>VENITA Trychologiczny peeling Ficyna do skóry głowy enzymatyczny, oczyszcz<\/h1> <p><b>OPIS <\/b><\/p><p>Trychologiczny peeling enzymatyczny FICYNA<\/p> <p>Peeling trychologiczny do skóry głowy to podstawa świadomej pielęgnacji włosów. Praktycznie każda włosomaniaczka podkreśla jego znaczenie pielęgnacyjne.<\/p> <p>Oczyszczający trychologiczny peeling enzymatyczny Venita z Ficyną polecany do pielęgnacji wrażliwej skóry głowy, ze skłonnością do podrażnień oraz skóry skłonnej do przetłuszczania.<\/p> <p>• 97% składników pochodzenia naturalnego<\/p><p>• skuteczność działania enzymu z figowca <\/p><p>• oczyszczająca moc węgla aktywnego z bambusa<\/p><p>• wspomagające składniki ziołowe<\/p><p>• wegańska receptura<\/p> <p>Peeling ma za zadanie złuszczyć i usunąć zrogowaciały naskórek głowy i oczyścić skórę oraz włosy z toksyn, nadmiaru sebum oraz innych zanieczyszczeń. Peeling trychologiczny Venita to peeling enzymatyczny co oznacza, że w odróżnieniu od peelingów mechanicznych pozbawiony jest drobin ścierających. Dzięki temu nie podrażnia skóry głowy, ani nie powoduje wypadania włosów i może być stosowany do skóry wrażliwiej oraz skłonnej do podrażnień. Peeling nie tylko oczyszcza ale również zmniejsza tendencję do przetłuszczania się włosów, pozwala na lepsze przenikanie składników pielęgnacyjnych zawartych w stosowanych na co dzień kosmetykach pielęgnacyjnych, poprawia kondycję skóry i włosów. Po użyciu peelingu polecamy pielęgnację szamponami i wcierkami trychologicznymi serii Venita. <\/p> <p>Składniki aktywne peelingu: <\/p><p>• Ficyna – enzym pozyskiwany z figowców, odpowiedzialna za złuszczanie naskórka bez podrażnień, wygładzenie oraz stymulację odnowy komórek. <\/p> <p>• Węgiel aktywny z bambusa, odpowiedzialny za absorbcję zanieczyszczeń i toksyn, dezodoruje oraz reguluje nawilżenie. Pozostawia skórę wzmocnioną, zdrowszą, sprężystą i wygładzoną. <\/p> <p>• Ekstrakty ziołowe z aloesu, skrzypu, jagód goji i henny działają wzmacniająco, regenerująco oraz nawilżająco na skórę głowy oraz włosy.<\/p> <p>• Prowitamina B5 – regeneruje, intensywnie nawilża i uelastycznia włosy.<\/p>    <p><b>SKŁADNIKI <\/b><\/p><p>AQUA, HYDROXYPROPYLCELLULOSE, GLYCERIN, PANTHENOL, CHARCOAL POWDER, FICIN, ALOE BARBADENSIS LEAF EXTRACT, LYCIUM BARBARUM FRUIT EXTRACT, EQUISETUM ARVENSE EXTRACT, LAWSONIA INERMIS LEAF EXTRACT, SODIUM BENZOATE, POTASSIUM SORBATE, LACTIC ACID, PROPYLENE GLYCOL, PROPANEDIOL, POLYSORBATE 20, PARFUM, LINALOOL<\/p> <p><b>PRODUCENT <\/b><\/p><p>„VENITA” Fabryka Kosmetyków Sp. z o.o.<\/p><p>ul. Pojezierska 90A<\/p><p>91-341 Łódź, Polska<\/p><p>www.venita.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71VENTRYPF"
+    },
+    "category": {
+        "id": "308941"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.63",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.82",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "96.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1560.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "96.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876536016",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T07:21:15.480Z"
+    },
+    "createdAt": "2025-09-10T07:21:15.000Z",
+    "updatedAt": "2025-09-10T07:41:23.762Z"
+}

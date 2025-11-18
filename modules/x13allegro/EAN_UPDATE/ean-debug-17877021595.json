@@ -1,0 +1,347 @@
+{
+    "name": "KREM DO TWARZY UJĘDRNAJĄCO - NAWILŻAJĄCY 50 ml - UZDROVISCO (AMINO HYDRATIO",
+    "productSet": [
+        {
+            "product": {
+                "id": "cb55948f-8306-4005-a346-18c9c6e52266",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "UZDROVISCO"
+                        ],
+                        "valuesIds": [
+                            "248811_1983293"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904917483879"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Amino Hydration"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "dzień i noc"
+                        ],
+                        "valuesIds": [
+                            "215870_271998"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Normalna",
+                            "Wrażliwa"
+                        ],
+                        "valuesIds": [
+                            "129434_1",
+                            "129434_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "nawilżający"
+                        ],
+                        "valuesIds": [
+                            "129469_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "110"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "atomizer"
+                        ],
+                        "valuesIds": [
+                            "215766_275137"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904917483879"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e0942088-fe0b-4b5d-9913-f09daff9ac35"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1113fb\/65b4491345f5b298d1f66626095e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "56.51",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 12,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1113fb\/65b4491345f5b298d1f66626095e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KREM DO TWARZY UJĘDRNAJĄCO - NAWILŻAJĄCY 50 ml - UZDROVISCO (AMINO HYDRATIO<\/h1><p>SKŁADNIKI <\/p><p>AQUA, DICAPRYLYL CARBONATE, ISOAMYL LAURATE, BETAINE, PROPANEDIOL, CAPRYLIC\/CAPRIC TRIGLYCERIDE, GLYCERYL STEARATE, CETEARYL ALCOHOL, GLUCONOLACTONE, SODIUM STEAROYL GLUTAMATE, GLUTAMIC ACID, ASPARTIC ACID, SODIUM HYALURONATE CROSSPOLYMER, ALANINE, CYSTEIN, HYDROLYZED SODIUM HYALURONATE, HISTIDINE, ISOLEUCINE, SODIUM HYALURONATE, LEUCINE, LYSINE, METHIONINE, SODIUM ACETYLATED HYALURONATE, PHENYLALANINE, PROLINE, SH-POLYPEPTIDE-69, SERINE, THREONINE, TYROSINE, VALINE, ARGININE, GLYCINE, LAUROYL LYSINE, HYDROGENATED RAPESEED OIL, GLYCERIN, TOCOPHERYL ACETATE, ALLANTOIN, PULLULAN, TOCOPHEROL, HECTORITE, XANTHAN GUM, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, ETHYLHEXYLGLYCERIN, CITRIC ACID, SODIUM BENZOATE, PIROCTONE OLAMINE, PARFUM, GERANYL ACETATE, HEXAMETHYLINDANOPYRAN, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES <\/p><p>OPIS <\/p><p>Linia AMINO HYDRATION, to zaawansowana pielęgnacja dla cery normalnej i wrażliwej. Skuteczna dzięki wysokim stężeniom składników aktywnych. Efekty widoczne są już od pierwszego użycia. Kosmetyki zachwycają przyjemnością stosowania i pięknymi zapachami.<\/p><p>Krem dla cery normalnej i wrażliwej, której główną potrzebą jest poprawa jędrności i nawilżenia. Przywraca komfort i równowagę oraz nadaje skórze blask. Ultra przyjemna, lekka formuła sprawia, ze krem błyskawicznie się wchłania pozostawiając cerę aksamitnie gładką i gotową na nałożenie makijażu.<\/p><p>Innowacyjna technologia aminokwasowa<\/p><p>To technologia wykorzystująca aminokwasy jako aktywną bazę produktu. Dzięki temu, już na poziomie bazy kosmetyk działa aktywnie i jest biozgodny ze skórą. Zostaje zwiększona jego skuteczność, a także przyjemność stosowania!<\/p><p>Składniki aktywne:<\/p><p>-0,3 % peptyd kolagenowy (100 % zalecanego stężenia) – polipeptyd imitujący swoją strukturą kolagen typu III. Działa w potrójnym mechanizmie: dostarcza kolagen, chroni przed jego degradacją i stymuluje jego produkcję. Skutecznie redukuje zmarszczki i drobne linie, ujędrnia, nawilża i poprawia teksturę skóry.<\/p><p>-4 % aminokwasy – kompleks aż 18 aminokwasów, naturalnie występujących w skórze składników budulcowych peptydów i białek. Nawilżają i regenerują skórę, zwiększają jej jędrność, elastyczność i odporność na uszkodzenia spowodowane czynnikami zewnętrznymi.<\/p><p>-1 % hyaluron 4D (100 % zalecanego stężenia) – połączenie 4 form kwasu hialuronowego dla wielowymiarowego efektu nawilżenia, wygładzenia, poprawy jędrności i ochrony przed wysychaniem, szorstkością i uczuciem napięcia.<\/p><p>Działanie potwierdzone w badaniach aplikacyjnych po 1 użyciu:<\/p><p>-nawilża do 48 h<\/p><p>-przywraca skórze komfort<\/p><p>-zmniejsza uczucie szorstkości<\/p><p>Działanie potwierdzone w badaniach aplikacyjnych po 4 tygodniach stosowania:<\/p><p>-odczuwalnie poprawia jędrność<\/p><p>-zmniejsza widoczność drobnych linii i zmarszczek<\/p><p>-odczuwalnie zwiększa elastyczność i miękkość skóry<\/p><p>SPOSÓB UŻYCIA<\/p><p>Krem nakładaj rano i\/lub wieczorem na oczyszczoną skórę. Dla najlepszych efektów kuracji stosuj razem z innymi produktami z linii AMINO HYDRATION od UZDROVISCO. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BrandClinic sp. z o.o. ul. Granicka 10 05-806 Komorów<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45427"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "56.51",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.00",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5295.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "325.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877021595",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:57:16.132Z"
+    },
+    "createdAt": "2025-09-10T10:57:16.000Z",
+    "updatedAt": "2025-09-10T11:12:16.555Z"
+}

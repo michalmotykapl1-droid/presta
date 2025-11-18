@@ -1,0 +1,346 @@
+{
+    "name": "OLMA PHARM Kolagen Beauty koenzym Q10, biotyna 90 kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "8a4de643-16bb-4ad2-9663-172a94bf26ff",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "BI_9765"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "OLMA PHARM Kolagen Beauty z Koenzymem Q10 i Biotyną (90 kaps.)"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "90"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "63"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "210762_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904474880630"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11180f\/a81998234bdbaef30393710f9127"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "59.23",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 12,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11180f\/a81998234bdbaef30393710f9127"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLMA PHARM Kolagen Beauty koenzym Q10, biotyna 90 kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>KOLAGEN BEAUTY z KOENZYMEM Q10 i Biotyną posiada posiada w swoim składzie kolagen rybi ceniony za swoją biodostępność i zdolność do łatwego wchłaniania przez organizm. Kolagen pochodzenia rybiego jako jedyny ma profil aminokwasowy dodatkowo pobudzający nasz ustrojowy kolagen do zwiększonej produkcji. Produkt wzbogacony witaminą C, dzięki czemu jest w stanie syntezować kolagen i wytwarzać nowe włókna kolagenowe, natomiast dodatek koenzymu Q10 i witaminy E neutralizuje wolne rodniki, wspomaga dotlenianie komórek, utrzymuje młody wygląd skóry.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Hydrolizowany kolagen rybi, wyciąg ze skrzypu polnego, substancja wypełniająca: celuloza mikrokrystaliczna, otoczka kapsułki: hydroksypropylometyloceluloza, kwas L-askorbinowy (Witamina C), koenzym q10 (ubichinon), octan DL-alfa tokoferylu (Witamina E), cytrynian cynku, D-biotyna (biotyna), octan retinylu (Witamina A).<\/p>  <p>Zawartość opakowania: 90 kapsułek. Opakowanie zawiera 45 porcji dziennych.<\/p> <p>Zawartość składników w porcji dziennej (2 kapsułki):<\/p><p>Hydrolizowany kolagen rybi - 800mg<\/p><p>Wyciąg ze skrzypu polnego - 200mg<\/p><p>Witamina C - 80mg<\/p><p>Koenzym Q10 - 30mg<\/p><p>Octan DL-alfa tokoferylu (Witamina E) - 12mg<\/p><p>Cynk - 10mg<\/p><p>Biotyna - 5000mcg<\/p><p>Witamina A - 800mcg<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecaną dzienną porcję kapsułek połknąć popijając wodą. Zalecana dzienna porcja do spożycia: 2 kapsułki.<\/p>  <p><b>UWAGA <\/b><\/p><p>Produkt przeznaczony dla osób dorosłych. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Nie stosować w przypadku nadwrażliwości lub uczulenia na którykolwiek ze składników preparatu. Preparat nie jest przeznaczony do stosowania u dzieci, kobiet w ciąży i karmiących piersią. Dla utrzymania prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić zdrowy tryb życia. Preparat nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21OLMKOLBE"
+    },
+    "category": {
+        "id": "122570"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "59.23",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.62",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "341.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5550.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "341.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871712590",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:14:56.692Z"
+    },
+    "createdAt": "2025-09-08T20:14:56.000Z",
+    "updatedAt": "2025-09-17T01:37:26.072Z"
+}

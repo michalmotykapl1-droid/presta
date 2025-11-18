@@ -1,0 +1,336 @@
+{
+    "name": "PROSZEK DO PRANIA BIAŁYCH I KOLOROWYCH UBRAŃ (KONCENTRAT) ECO 1,8 kg (33 PR",
+    "productSet": [
+        {
+            "product": {
+                "id": "af93da94-77d2-493e-8a9a-1684655f10a4",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250567",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "PROSZEK DO PRANIA BIAŁYCH I KOLOROWYCH UBRAŃ"
+                        ],
+                        "valuesIds": [
+                            "250567_1931485"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Gron Balance"
+                        ],
+                        "valuesIds": [
+                            "248811_1139653"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213906",
+                        "name": "Waga produktu",
+                        "values": [
+                            "1.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225145",
+                        "name": "Rodzaj prania",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225145_310629"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225133_310601"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Dania"
+                        ],
+                        "valuesIds": [
+                            "249649_1723297"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225129",
+                        "name": "Liczba prań",
+                        "values": [
+                            "33"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225137",
+                        "name": "Opakowanie",
+                        "values": [
+                            "karton"
+                        ],
+                        "valuesIds": [
+                            "225137_310605"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225153",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bio"
+                        ],
+                        "valuesIds": [
+                            "225153_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5701410410834"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0c039018-f902-4d9d-bab9-46d3592fa00a"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa środków do prania oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Używaj środków piorących zgodnie z przeznaczeniem i instrukcją producenta.\n*   Przechowuj środki piorące w miejscu niedostępnym dla dzieci i zwierząt domowych.\n*   Unikaj kontaktu środków piorących ze skórą i oczami. W razie kontaktu, przemyj obficie wodą.\n*   Nie mieszaj różnych środków piorących, ponieważ może to prowadzić do niebezpiecznych reakcji chemicznych.\n*   Stosuj odpowiednie środki ochrony osobistej, takie jak rękawice, podczas kontaktu ze środkami piorącymi.\n*   Upewnij się, że pomieszczenie jest dobrze wentylowane podczas używania środków piorących.\n*   Nie przechowuj środków piorących w pobliżu żywności.\n*   Nie używaj uszkodzonych opakowań środków piorących.\n*   W przypadku połknięcia środka piorącego, natychmiast skontaktuj się z lekarzem i pokaż opakowanie.\n*   Nie wylewaj środków piorących do kanalizacji, lecz oddaj do punktu zbiórki odpadów niebezpiecznych.\n*   Zwróć uwagę na symbole ostrzegawcze umieszczone na opakowaniach środków piorących.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11929b\/9165d4d94ae2a9115527336abcaa"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "40.37",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 297,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11929b\/9165d4d94ae2a9115527336abcaa"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PROSZEK DO PRANIA BIAŁYCH I KOLOROWYCH UBRAŃ (KONCENTRAT) ECO 1,8 kg (33 PR<\/h1><p>SKŁADNIKI <\/p><p>5-15 % Zeolit (Zeolite), niejonowe środki powierzchniowo czynne (Alcohols, C10-18 ethoxyfated),wybielacz na bazie tlenu (Sodium Carbonate Peroxide),&lt; 5 % Mydło (Sodium Palmate, Sodium Palm Kernelate, polikarboksylan (Sodium Acrylic Acid\/MA Copolymer), enzymy (Subtilisin, Amylase, Mannanase).<\/p><p>ZAWIERA RÓWNIEŻ: Sodium Chloride, Sodium Carbonate, Sodium Hydrogen Carbonate, TAED, Sodium Carboxymethylcellulose, Sodium Sulfate. Zasadowy (pH 10,4 w roztworze użytkowym).<\/p><p>OPIS <\/p><p>Proszek do prania tkanin białych i kolorowych 1,8 kg. <\/p><p>Nie zawiera perfum. <\/p><p>Zastosowanie: Do prania w pralce ( 30°C, 40°C, 60°C). Do prania ręcznego. <\/p><p>Wydajność: Ok. 33 przy wodzie o średniej twardości (8-14 °dH), przy normalnie zabrudzonych ubraniach (3-5 kg). <\/p><p>Dozowanie na 3-5 kg prania: <\/p><p>Twardość wody miękka: Zabrudzenie małe - 30 ml; Zabrudzenie średnie - 45 ml; Zabrudzenie duże - 55 ml; pranie ręczne: 25 ml\/10 l;<\/p><p>Twardość wody średnia: Zabrudzenie małe - 35 ml; Zabrudzenie średnie - 55 ml; Zabrudzenie duże - 70 ml; pranie ręczne: 30 ml\/10 l;<\/p><p>Twardość wody twarda: Zabrudzenie małe - 45 ml; Zabrudzenie średnie - 65 ml; Zabrudzenie duże - 80 ml; pranie ręczne: 35 ml\/10 l. <\/p><p>SPOSÓB UŻYCIA <\/p><p>Sprawdź zawsze instrukcję prania na ubraniu i postępuj zgodnie z instrukcjami dozowania. Przy namaczaniu lub praniu ręcznym, detergent musi być wcześniej wymieszany z wodą, a ubrania zawsze muszą być zanurzone w wodzie.<\/p><p>Nie używać do prania wełny i jedwabiu.<\/p><p>UWAGI <\/p><p>Do wełny i jedwabiu nigdy nie używaj detergentów zawierających enzymy. Delikatne ubrania, wełna i jedwab powinny być prane w przeznaczonych do nich produktach. Nie namaczaj ubrań z metalowymi częściami, takimi jak zamki błyskawiczne, sprzączki lub guziki. Namaczać tylko kolorowe tkaniny odporne na przebarwienia, jeśli detergent zawiera wybielacz. <\/p><p>W przypadku kontaktu z oczami: płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe jeśli to możliwe. Kontynuować płukanie. W przypadku utrzymywania się podrażnienia: zgłosić się do lekarza. Pokazać lekarzowi opakowanie lub etykietę. Opłukać ręce po kontakcie z płynem. Jeśli masz delikatną lub wrażliwą skórę, używaj gumowych rękawiczek.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w miejscu niedostępnym dla dzieci. Przechowywać w suchym miejscu, wolnym od mrozu i chronić przed bezpośrednim działaniem promieni słonecznych.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>DAGROFA LOGISITK A\/S, TORVARER MORUPVEJ 2-4, 7400 HERNING<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_12103"
+    },
+    "category": {
+        "id": "260124"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "40.37",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.29",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "232.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3785.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "232.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051898710",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T16:21:06.329Z"
+    },
+    "createdAt": "2025-11-03T16:21:06.000Z",
+    "updatedAt": "2025-11-03T16:36:07.522Z"
+}

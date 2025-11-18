@@ -1,0 +1,311 @@
+{
+    "name": "KAPSUŁKI DO PRANIA BEZZAPACHOWE DLA SKÓRY WRAŻLIWEJ (22 szt.) - BRIOCHIN BR",
+    "productSet": [
+        {
+            "product": {
+                "id": "d046b622-b9ac-4158-a9fc-be82aa9c2f4c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Briochin"
+                        ],
+                        "valuesIds": [
+                            "248811_1972867"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250566",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "BRIOCHIN"
+                        ],
+                        "valuesIds": [
+                            "250566_1931324"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "22"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "225133_310601"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "PLNBRI326"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Francja"
+                        ],
+                        "valuesIds": [
+                            "249649_1723310"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225173",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "225173_310669"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "360"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "Bezzapachowe"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3383482307933"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6d8c2513-1cbc-4b9a-bb32-26dfbd5c909c"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa środków do prania oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Używaj środków piorących zgodnie z przeznaczeniem i instrukcją producenta.\n*   Przechowuj środki piorące w miejscu niedostępnym dla dzieci i zwierząt domowych.\n*   Unikaj kontaktu środków piorących ze skórą i oczami. W razie kontaktu, przemyj obficie wodą.\n*   Nie mieszaj różnych środków piorących, ponieważ może to prowadzić do niebezpiecznych reakcji chemicznych.\n*   Stosuj odpowiednie środki ochrony osobistej, takie jak rękawice, podczas kontaktu ze środkami piorącymi.\n*   Upewnij się, że pomieszczenie jest dobrze wentylowane podczas używania środków piorących.\n*   Nie przechowuj środków piorących w pobliżu żywności.\n*   Nie używaj uszkodzonych opakowań środków piorących.\n*   W przypadku połknięcia środka piorącego, natychmiast skontaktuj się z lekarzem i pokaż opakowanie.\n*   Nie wylewaj środków piorących do kanalizacji, lecz oddaj do punktu zbiórki odpadów niebezpiecznych.\n*   Zwróć uwagę na symbole ostrzegawcze umieszczone na opakowaniach środków piorących.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11af2d\/ebe83b364a66ab92b37c7974823f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "36.12",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 126,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>KAPSUŁKI DO PRANIA BEZZAPACHOWE DLA SKÓRY WRAŻLIWEJ (22 szt.) - BRIOCHIN - BRIOCHIN<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>SKŁADNIKI <\/p>\n<p>&gt;30 %: SUBSTANCJE POWIERZCHNIOWO CZYNNE NIEJONOWE; 15-30 %: SUBSTANCJE POWIERZCHNIOWO CZYNNE ANIONOWE; 5-15 %: MYDŁA, ENZYMY.<\/p>\n<p>OPIS <\/p>\n<p>Kapsułki do prania Briochin dla skóry wrażliwej to rozwiązanie stworzone z myślą o osobach, które zmagają się z problemami skórnymi lub preferują delikatne środki czystości. Produkt nie zawiera barwników, wybielaczy optycznych, alergenów ani zapachów, co czyni go bezpiecznym i skutecznym wyborem zarówno dla alergików, jak i osób o wrażliwej skórze, w tym dzieci. <\/p>\n<p>Kapsułki zostały starannie przebadane dermatologicznie, co zapewnia ich delikatność oraz wysoką efektywność w usuwaniu zabrudzeń. Dzięki unikalnej formule chronią skórę przed reakcjami alergicznymi, zapewniając jednocześnie skuteczne pranie, które nie podrażnia skóry. Kapsułki skutecznie usuwają zabrudzenia, nie potrzebując wysokich temperatur, co jest korzystne zarówno dla tkanin, jak i dla środowiska.<\/p>\n<p>ZASTOSOWANIE<\/p>\n<p>Kapsułki Briochin zostały zaprojektowane, aby zapewnić doskonałe rezultaty prania już w niskich temperaturach – działają efektywnie już od 20°C, co pozwala na oszczędność energii oraz wody. Każde opakowanie zawiera 22 kapsułki, które wystarczają na 22 pełne prania, co zapewnia wygodę użytkowania, eliminując konieczność dozowania detergentu i minimalizując ryzyko nadmiernego użycia środka czyszczącego.<\/p>\n<p>SPOSÓB UŻYCIA<\/p>\n<p>Posegreguj pranie (wg kolorów, stopnia zabrudzenia, typu włókna). Pierz w najniższej możliwej temperaturze. Zawsze pierz gdy pralka jest pełna. Przestrzegaj zaleceń dozowania zgodnie ze stopniem zabrudzenia tkanin i twardością wody. Prawidłowe dozowanie, niska temperatura prania (20°C) i przestrzeganie zasad stosowania pozwalają na znaczące zmniejszenie odpadów, zmniejszenie zużycia energii i wody oraz zmniejsza zanieczyszczenie wód.<\/p>\n<p>Dla prania 4\/5 kg w pralce:<\/p>\n<p>woda lekko lub średnio twarda\/pranie średnio zabrudzone - 1 kapsułka<\/p>\n<p>woda twarda (wapienna)\/pranie bardzo brudne - 2 kapsułki<\/p>\n<p>Żeby kapsułka dokładnie się rozpuściła należy ją włożyć na dno bębna, a na nią pranie. Nie wkładać kapsułki do przegródki na proszek do prania.<\/p>\n<p>Nie stosować do delikatnych tkanin - wełny, jedwabiu, kaszmiru.<\/p>\n<p>Dobra rada - żeby zwiększyć skuteczność dodaj do prania 15 g sody oczyszczonej (2 łyżki).<\/p>\n<p>UWAGA<\/p>\n<p>Działa drażniąco na skórę. Działa drażniąco na oczy. W razie konieczności zasięgnięcia porady lekarza należy pokazać pojemnik lub etykietę. Chronić przed dziećmi. Uważnie przeczytać wszystkie instrukcje i zastosować się do nich. Dokładnie umyć ręce po użyciu. W przypadku kontaktu ze skórą: umyć dużą ilością wody. W przypadku dostania się do oczu: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. W przypadku wystąpienia podrażnienia skóry: zasięgnąć porady\/zgłosić się pod opiekę lekarza. W przypadku utrzymywania się działania drażniącego na oczy: zasięgnąć porady\/zgłosić się pod opiekę lekarza. Zużyć w ciągu 10 lat od daty produkcji podanej na opakowaniu.<\/p>\n<p><b>PRODUCENT - NAZWA I ADRES<\/b> <\/p>\n<p>Harris SAS, 16 Rue des Rougeries, 35400 Saint-Malo, France<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45450"
+    },
+    "category": {
+        "id": "260126"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "36.12",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17682171715",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:24:40.902Z"
+    },
+    "createdAt": "2025-07-02T10:02:38.000Z",
+    "updatedAt": "2025-09-10T17:24:40.903Z"
+}

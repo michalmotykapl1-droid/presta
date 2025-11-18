@@ -1,0 +1,377 @@
+{
+    "name": "SZAMPON DO WŁOSÓW Z EKSTRAKTEM Z SZAŁWII I POKRZYWY PRZECIWŁUPIEŻOWY ECO 25",
+    "productSet": [
+        {
+            "product": {
+                "id": "0faf23fc-6427-44e4-a003-ecc56f42b10e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Anthyllis"
+                        ],
+                        "valuesIds": [
+                            "248811_1972375"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciwłupieżowe"
+                        ],
+                        "valuesIds": [
+                            "129469_1778816"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226825",
+                        "name": "Typ włosów",
+                        "values": [
+                            "do każdego typu włosów"
+                        ],
+                        "valuesIds": [
+                            "226825_317513"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "olejów mineralnych",
+                            "parabenów",
+                            "PEG",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_16",
+                            "129770_128",
+                            "129770_256",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka"
+                        ],
+                        "valuesIds": [
+                            "215766_271238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129612",
+                        "name": "Kolor włosów",
+                        "values": [
+                            "do każdego koloru włosów"
+                        ],
+                        "valuesIds": [
+                            "129612_289953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "szałwia i pokrzywa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8002849910153"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226689",
+                        "name": "Problem skóry",
+                        "values": [
+                            "nie dotyczy"
+                        ],
+                        "valuesIds": [
+                            "226689_316781"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Shampoo Antiforfora"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8002849910153"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f13cc587-3e62-4c9c-8ff0-3dcf13e64d76"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11eab2\/641947434a93a5248c46fbac7582"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "27.73",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 84,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11eab2\/641947434a93a5248c46fbac7582"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SZAMPON DO WŁOSÓW Z EKSTRAKTEM Z SZAŁWII I POKRZYWY PRZECIWŁUPIEŻOWY ECO 25<\/h1><p>SKŁADNIKI<\/p><p>Aqua (Water), Sorbitol, Cocamidopropyl Hydroxysultaine, Caprylyl\/Capryl Glucoside, Sodium Lauroyl Sarcosinate, Sodium Chloride, Piroctone Olamine, Parfum (Fragrance)**, Urtica Dioica (Nettle) Leaf Extract*, Salvia Officinalis (Sage) Leaf Extract*, Glycerin, Guar Hydroxypropyltrimonium Chloride, Lactic Acid. <\/p><p>* z upraw ekologicznych <\/p><p>** na bazie naturalnych esencji<\/p><p>OPIS<\/p><p>Szampon przeciwłupieżowy, bardzo delikatny, certyfikowany, ECO BIO, 250 ml, Anthyllis, Pierpaoli<\/p><p>Przeciwłupieżowy szampon do włosów Anthyllis został stworzony na bazie składników roślinnych pochodzących z ekologicznych upraw. <\/p><p>Jest przeznaczony do mycia włosów ze skłonnością do powstawania łupieżu. Odpowiedni także do skóry wrażliwej.<\/p><p>Szampon zawiera wyciąg z szałwii i pokrzywy z ekologicznych, kontrolowanych upraw. Wpływają one na właściwości przeciwzapalne, ściągające i dermo-oczyszczające kosmetyku. Ponadto zawiera składnik aktywny - Piroctone Olamine, który jest znany ze swojego działania przeciwłupieżowego i zapobiegającego rozwojowi bakterii. Pomaga przywrócić skórze jej naturalną równowagę. <\/p><p>Szampon wspiera codzienną pielęgnację włosów i skóry głowy oraz eliminuje łupież. Zawarte w nim wyciągi z roślin leczniczych delikatnie, a zarazem skutecznie oczyszczają. Skóra głowy jest pozbawiona łupieżu, a włosy stają się miękkie i błyszczące. <\/p><p>Co wyróżnia szampon przeciwłupieżowy Anthyllis:<\/p><p>- skutecznie i delikatnie myje skórę głowy i włosy, eliminując łuski łupieżu,<\/p><p>- jest przeznaczony do codziennej pielęgnacji, <\/p><p>- jest testowany dermatologicznie - odpowiedni także do skóry delikatnej i wrażliwej,<\/p><p>- został wzbogacony w wyciąg z szałwii lekarskiej i pokrzywy, dzięki którym wykazuje właściwości przeciwzapalne, ściągające i oczyszczające, <\/p><p>- zawiera Piroctone Olamine, który jest znany ze swojego działania przeciwłupieżowego i zapobiegającego rozwojowi bakterii,<\/p><p>- zawierawyłącznie łagodne składniki myjące,<\/p><p>- posiada naturalne olejki eteryczne lub zapachy identyczne z naturalnymi, rekomendowane przez instytucje certyfikujące,<\/p><p>- użyte w nim emulgatory i konserwanty są rekomendowane przez ekologiczne instytucje certyfikujące,<\/p><p>- jest wegański,<\/p><p>- jest testowany na zawartość niklu, chromu i kobaltu &lt;0,00004%.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Nanieś niewielką ilość szamponu na mokre włosy. Masuj, aż powstanie delikatna piana, a następnie dokładnie je umyj. Po umyciu spłucz ciepłą wodą. <\/p><p>Możesz nałożyć szampon ponownie, masując skórę głowy i włosy i pozostawić kosmetyk na parę minut, żeby składniki roślinne mogły zadziałać. Spłukać.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Anthyllis Pierpaoli S.r.l., via Enrico Mattei, 20 - 60019 - Senigallia - ITALIA<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_16958"
+    },
+    "category": {
+        "id": "5363"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "27.73",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.38",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "159.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2600.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "159.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877313820",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T12:34:40.589Z"
+    },
+    "createdAt": "2025-09-10T12:34:40.000Z",
+    "updatedAt": "2025-09-10T12:49:41.476Z"
+}

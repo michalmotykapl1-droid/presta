@@ -1,0 +1,332 @@
+{
+    "name": "MyVita Maść propolisowa 20% 30ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "c0a7fc47-3585-4d08-990d-6dac5a6b5895",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "MyVita"
+                        ],
+                        "valuesIds": [
+                            "248811_1962299"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "M064"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "5903021592064"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.04"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "maść"
+                        ],
+                        "valuesIds": [
+                            "210758_260978"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "suchość"
+                        ],
+                        "valuesIds": [
+                            "213970_265526"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "propolis"
+                        ],
+                        "valuesIds": [
+                            "213962_265066"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "213714_1024"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903021592064"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "43507d7d-9783-49fe-8947-21d4b2a00a46"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11bbee\/fad3a21741e18c2704f5ee29ae68"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "30.33",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 34,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11bbee\/fad3a21741e18c2704f5ee29ae68"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>MyVita Maść propolisowa 20% 30ml<\/h1> <p><b>OPIS <\/b><\/p><p>MyVita Maść propolisowa 20% 30ml<\/p> <p>Prosty skład – tylko 2 składniki<\/p> <p>20% koncentrat propolisu w formie maści z wazeliną farmaceutyczną jako nośnik. Surowiec wykazuje właściwości antybakteryjne potwierdzone badaniami laboratoryjnymi. <\/p> <p>Maść propolisowa:<\/p><p>⦁ wspomaga regenerację naskórka<\/p><p>⦁ odżywia i wzmacnia skórę<\/p><p>⦁ chroni i pielęgnuje<\/p><p>⦁ wspomaga przy zmianach skórnych<\/p> <p>Produkt zawiera 20% koncentratu z propolisu pochodzącego z polskich pasiek w formie maści. Propolis to naturalna substancja powstała z żywicy zebranej przez pszczoły z pąków i młodych pędów drzew. Na ogół propolis składa się w około 50% z substancji żywicznych, 30% z wosku pszczelego, 10% z olejków aromatycznych i 5% z pyłku kwiatowego.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Składniki (INCI): Petrolatum, Propolis concentrate. <\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Niewielką ilość maści nanieść na skórę. Przed pierwszym użyciem zaleca się wykonanie próby kontaktowej na niewielkiej powierzchni skóry.<\/p> <p>Informacja dla alergików: produkt zawiera substancje pochodzenia pszczelego. Nie stosować <\/p><p>u osób uczulonych na jad pszczół i pyłki kwiatowe. W przypadku wystąpienia reakcji alergicznej należy zaprzestać dalszego spożycia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w ciemnym i suchym miejscu, w temperaturze pokojowej. Chronić przed działaniem wysokiej temperatury i promieni słonecznych. Chronić przed dostępem dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21PRNMASPR"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "30.33",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.98",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "174.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2840.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "174.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871710746",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:13:57.932Z"
+    },
+    "createdAt": "2025-09-08T20:13:57.000Z",
+    "updatedAt": "2025-09-08T20:28:58.769Z"
+}

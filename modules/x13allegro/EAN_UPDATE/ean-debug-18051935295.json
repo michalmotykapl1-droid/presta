@@ -1,0 +1,281 @@
+{
+    "name": "OLEJ Z PESTEK DYNI (Z PRAŻONYCH PESTEK) TŁOCZONY NA ZIMNO BIO 250 ml - BORD",
+    "productSet": [
+        {
+            "product": {
+                "id": "bf410b99-72a9-4de7-a516-9260ed585e57",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8023242000425"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.51"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213718",
+                        "name": "Rodzaj oleju",
+                        "values": [
+                            "z pestek dyni"
+                        ],
+                        "valuesIds": [
+                            "213718_262766"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8023242000425"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "bb5a6845-852d-421f-9ec3-686f3a7d44da"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa olejach, olejkach i kroplach oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Możliwość wystąpienia reakcji alergicznej: Przed pierwszym użyciem wykonaj test na małym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna. W przypadku wystąpienia zaczerwienienia, swędzenia lub podrażnienia, zaprzestań stosowania i skonsultuj się z lekarzem.\n2.  Interakcje z lekami: Skonsultuj się z lekarzem lub farmaceutą przed użyciem, jeśli przyjmujesz jakiekolwiek leki, zwłaszcza leki przeciwzakrzepowe lub obniżające ciśnienie krwi. Oleje i olejki mogą wchodzić w interakcje z niektórymi lekami, wpływając na ich działanie.\n3.  Zastosowanie wewnętrzne: Niektóre oleje i olejki są przeznaczone wyłącznie do użytku zewnętrznego. Upewnij się, czy dany produkt jest bezpieczny do spożycia. W przypadku spożycia oleju lub olejku, który nie jest do tego przeznaczony, skonsultuj się z lekarzem.\n4.  Dawkowanie: Zawsze przestrzegaj zalecanego dawkowania podanego na etykiecie produktu lub zaleconego przez lekarza lub specjalistę. Przedawkowanie może prowadzić do niepożądanych skutków ubocznych.\n5.  Przechowywanie: Przechowuj oleje i olejki w miejscu niedostępnym dla dzieci i zwierząt, w szczelnie zamkniętym opakowaniu, z dala od światła słonecznego i źródeł ciepła. Niektóre olejki eteryczne mogą być toksyczne w przypadku spożycia.\n6.  Ciąża i karmienie piersią: Kobiety w ciąży i karmiące piersią powinny skonsultować się z lekarzem przed użyciem jakichkolwiek olejów i olejków, ponieważ niektóre z nich mogą być szkodliwe dla płodu lub dziecka.\n7.  Ostrożność podczas stosowania olejków eterycznych: Olejki eteryczne są silnie skoncentrowane i mogą powodować podrażnienia skóry. Zawsze rozcieńczaj olejki eteryczne w oleju bazowym (np. olej kokosowy, olej migdałowy) przed nałożeniem na skórę. Niektóre olejki eteryczne są fototoksyczne i mogą zwiększać wrażliwość skóry na słońce.\n8.  Unikaj kontaktu z oczami i błonami śluzowymi: Unikaj kontaktu olejów i olejków z oczami i błonami śluzowymi. W przypadku kontaktu, przemyj obficie wodą.\n9.  Jakość produktu: Kupuj oleje i olejki tylko od zaufanych producentów, aby mieć pewność, że produkt jest czysty i wysokiej jakości.\n10. Osoby z problemami zdrowotnymi: Osoby z problemami zdrowotnymi, takimi jak choroby wątroby, nerek lub epilepsja, powinny skonsultować się z lekarzem przed użyciem jakichkolwiek olejów i olejków.\n11. Utylizacja: Przeprowadź utylizację zgodnie z lokalnymi przepisami.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/111c9b\/947a999644ac9d34aa2d12781e7c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "44.11",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 321,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111c9b\/947a999644ac9d34aa2d12781e7c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLEJ Z PESTEK DYNI (Z PRAŻONYCH PESTEK) TŁOCZONY NA ZIMNO BIO 250 ml - BORD<\/h1><p>SKŁADNIKI <\/p><p>ekologiczny olej z prażonych pestek dyni, tłoczony na zimno. <\/p><p>OPIS <\/p><p>Olej ten otrzymywany z pysznych prażonych pestek dyni, jest naturalnie bogaty w nienasycone kwasy tłuszczowe.<\/p><p>Idealny do serów, zup, risotto i warzyw, jego smak pozostawia przestrzeń dla Twojej kreatywności.<\/p><p>WARTOŚĆ ODŻYWCZA W 100 ml<\/p><p>Wartość energetyczna: 3404 kJ\/828 kcal<\/p><p>Tłuszcz: 92 g<\/p><p>w tym kwasy tłuszczowe nasycone: 17 g<\/p><p>kwasy tłuszczowe jednonienasycone: 20 g<\/p><p>kwasy tłuszczowe wielonienasycone: 51 g<\/p><p>Węglowodany: 0 g<\/p><p>w tym cukry: 0 g<\/p><p>Białko: 0 g<\/p><p>Sól: 0 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać ORZECHY, ORZESZKI ZIEMNE, SOJĘ, nasiona sezamu<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym i zacienionym miejscu<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BORDONI ITALIA SRL VIA DEGLI ARTIGIANI 20\/22 GINESTRA FIORENTINA 50055 LOC. LASTRA A SIGNA (FI) ITALY<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_42199"
+    },
+    "category": {
+        "id": "258262"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "44.11",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.15",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "254.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4135.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "254.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051935295",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T16:35:21.258Z"
+    },
+    "createdAt": "2025-11-03T16:35:21.000Z",
+    "updatedAt": "2025-11-03T16:50:21.711Z"
+}

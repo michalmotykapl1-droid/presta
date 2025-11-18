@@ -1,0 +1,380 @@
+{
+    "name": "SERUM - KOMPRES DO TWARZY REDUKUJĄCY ZACZERWIENIENIA I ZMARSZCZKI DO CERY N",
+    "productSet": [
+        {
+            "product": {
+                "id": "63140bf1-c21c-4c5b-8ac4-d8a44805266b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "UZDROVISCO"
+                        ],
+                        "valuesIds": [
+                            "248811_1983293"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "648941"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Wrażliwa"
+                        ],
+                        "valuesIds": [
+                            "129434_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "chłodzący"
+                        ],
+                        "valuesIds": [
+                            "129469_9"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216933",
+                        "name": "Składnik wiodący",
+                        "values": [
+                            "<br \/>"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "amoniaku",
+                            "barwników",
+                            "mydła",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "siarczanów",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_1024",
+                            "129770_65536",
+                            "129770_131072",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32768",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pipetą"
+                        ],
+                        "valuesIds": [
+                            "215766_271246"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215770",
+                        "name": "Grupa wiekowa",
+                        "values": [
+                            "uniwersalny"
+                        ],
+                        "valuesIds": [
+                            "215770_271366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Bezzapachowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904917481479"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e0942088-fe0b-4b5d-9913-f09daff9ac35"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cd1e\/7b5b44ef4f038a1bfd27979b3190"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "39.56",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11cd1e\/7b5b44ef4f038a1bfd27979b3190"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SERUM - KOMPRES DO TWARZY REDUKUJĄCY ZACZERWIENIENIA I ZMARSZCZKI DO CERY N<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Coco-Caprylate\/Caprate, Propanediol, Glycerin, Squalane, Niacinamide, Glyceryl Stearate Citrate, Butyrospermum Parkii Butter, Troxerutin, Centella Asiatica Extract, Macadamia Ternifolia Seed Oil, Persea Gratissima Oil, Panthenol, Lysolecithin, Pullulan, Allantoin, Sclerotium Gum, Xanthan Gum, Silica, Tocopherol, Beta-Sitosterol, Squalene, Glycine SOJA Oil, Methyl Diisopropyl Propionamide, Phenethyl Alcohol, Tetrasodium Glutamate Diacetate, Caprylyl Glycol, 1,2-Hexanediol, Hydroxyacetophenone, Pentylene Glycol, Citric Acid, Sodium Benzoate, Potassium Sorbate<\/p><p>OPIS<\/p><p>DLA KOGO?<\/p><p>To bogate w składniki aktywne serum redukuje zmarszczki i zaczerwienienia, a przy okazji przyjemnie chłodzi, aby przynosić ulgę skórze naczynkowej. Dzięki wysokim dozom składników znanych z farmacji i medycnyny nie tylko uspokaja i koi skórę, ale działa też przeciwzmarszczkowo, “uzdrawia” oraz przywraca naturalny blask. Docenisz je także za niezwykłą przyjemność aplikacji i efekt chłodzący.<\/p><p>CO DZIAŁA?<\/p><p>- CICA (Wąkrota azjatycka) – 100 % zalecanej dawki, skutecznie wzmacnia naczynka, świetnie wycisza i łagodzi redukując odpowiedź skóry na czynniki stresogenne. Wykazuje silne właściwości nawilżające i pobudzające procesy regeneracji i nawilżenia. <\/p><p>- COOLER – składnik o bezpiecznym efekcie chłodzącym. Bez mentolowego zapachu! Zapewnia przyjemne uczucie ulgi po aplikacji produktu, które utrzymuje się przed długi czas. <\/p><p>- Trokserutyna – Najlepiej przyswajalna przez skórę forma rutyny! Skutecznie chroni i wzmacnia skórę z pajączkami i rozszerzonymi naczynkami. Wycisza cerę naczynkową i działa antyoksydacyjnie.<\/p><p>- Kompleks witamin B - witamina B3, stymuluje produkcję ceramidów i kolagenu. Łagodzi podrażnienia i zmniejsza zaczerwienienia oraz rozjaśnia. Witamina B5 z kolei działa silnie kojąco, nawilżająco i regenerująco oraz łagodzi zaczerwienienia. <\/p><p>Dodatkowo w serum znajdziesz także: allantoinę, beta-sitosterol, witaminę E, skwalan.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Serum nakładaj codziennie rano i\/lub wieczorem na całą twarz, szyję i dekolt pod krem. Omijaj okolice oczu. Następnie nałóż krem. To serum dobrze łączy się z chłodzącym kremem wzmacniającym, przeciwzmarszczkowym Uzdrovisco z linii Cica naczynka. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BRANDCLINIC Sp. z o.o. ul. Granicka 10, 05-806 Komorów<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_35066"
+    },
+    "category": {
+        "id": "89000"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "39.56",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.10",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "227.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3705.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "227.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876964213",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:35:53.971Z"
+    },
+    "createdAt": "2025-09-10T10:35:53.000Z",
+    "updatedAt": "2025-10-24T14:07:46.723Z"
+}

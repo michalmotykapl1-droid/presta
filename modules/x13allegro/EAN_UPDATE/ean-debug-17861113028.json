@@ -1,0 +1,380 @@
+{
+    "name": "AURA HERBALS MagFuse magnez + B6 30 saszetek",
+    "productSet": [
+        {
+            "product": {
+                "id": "3e28801c-8aab-4bc3-af0d-b66cc656341a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Aura Herbals"
+                        ],
+                        "valuesIds": [
+                            "248811_1957448"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "AUR809"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "MagFuse Magnez + Witamina B6"
+                        ],
+                        "valuesIds": [
+                            "250581_1997342"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla sportowców"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_32"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "saszetka"
+                        ],
+                        "valuesIds": [
+                            "210758_1781852"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "magnez"
+                        ],
+                        "valuesIds": [
+                            "210698_243910"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "114.86"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "mango"
+                        ],
+                        "valuesIds": [
+                            "129857_21"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "mango"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "2.58"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902479614809"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "40223c2d-9ac3-4233-8523-e1d32c456bff"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113cff\/3bf4f3a840ca8ea15ef2e8dd94d5"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.95",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/113cff\/3bf4f3a840ca8ea15ef2e8dd94d5"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>AURA HERBALS MagFuse magnez + B6 30 saszetek<\/h1> <p><b>OPIS <\/b><\/p><p>Suplement diety w formie saszetek - MagFuse: magnez + B6, saszetki 30 szt.<\/p> <p>Wsparcie dla układu nerwowego i odpornościowego<\/p><p>Dlaczego warto wybrać preparat MagFuse: magnez + B6 w saszetkach Aura Herbals?<\/p><p>-przyczynia się do prawidłowego funkcjonowania układu nerwowego i odpornościowego<\/p><p>-przyczynia się do prawidłowego funkcjonowania mięśni²<\/p><p>-może przyczyniać się do zmniejszenia zmęczenia¹<\/p><p>-pokrywa 100% dziennego zapotrzebowania na magnez<\/p><p>-magnez w formie cytrynianu magnezu - wysoka przyswajalność<\/p><p>-2500 mg cytrynianu magnezu w dziennej porcji<\/p><p>-preparat wzbogacony o witaminę B6<\/p><p>-clean label – najprostszy skład, bez zbędnych dodatków<\/p><p>-preparat w 100% odpowiedni dla wegan<\/p><p>-wygoda stosowania - saszetki, które z łatwością zabierzesz ze sobą <\/p> <p>¹Magnez i witamina B6 mogą przyczynić się do zmniejszenia zmęczenia, przyczyniają się do prawidłowego przebiegu czynności psychicznych (psychologicznych), przyczyniają się do prawidłowego pozyskiwania energii w procesach metabolicznych oraz przyczyniają się do prawidłowego metabolizmu białek.<\/p><p>²Magnez przyczynia się do zachowania równowagi elektrolitowej, przyczynia się do utrzymania prawidłowego stanu zębów, przyczynia się do utrzymania prawidłowego stanu kości, przyczynia się do prawidłowego funkcjonowania mięśni, w tym mięśnia sercowego, przyczynia się do prawidłowej syntezy białka, przyczynia się do prawidłowych podziałów komórkowych.<\/p><p>Witamina B6 przyczynia się do prawidłowego funkcjonowania układu nerwowego, przyczynia się do prawidłowego metabolizmu glikogenu, przyczynia się do prawidłowego tworzenia erytrocytów (czerwonych krwinek), przyczynia się do prawidłowego funkcjonowania układu odpornościowego, przyczynia się do regulacji aktywności hormonalnej, przyczynia się do prawidłowego metabolizmu homocysteiny, przyczynia się do prawidłowej syntezy cysteiny. <\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Sole magnezowe kwasu cytrynowego (cytrynian magnezu) standaryzowane na 15% magnezu, aromat mango, chlorowodorek pirydoksyny (witamina B6).<\/p> <p>Składniki w dziennej porcji (1 saszetka):<\/p><p>Cytrynian magnezu - 2500 mg<\/p><p>w tym Magnez - 375 mg - 100% RWS*<\/p><p>Witamina B6 - 0,7 mg - 50% RWS*<\/p> <p>*Referencyjna Wartość Spożycia<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Otworzyć jedną saszetkę. Całą zawartość wsypać do szklanki i dodać 250 ml wody lub innego płynu. Dokładnie wymieszać i spożyć.<\/p> <p>Zalecana porcja do spożycia: 1 saszetka<\/p> <p>Nie przekraczaj zalecanej dziennej porcji do spożycia.<\/p> <p><b>UWAGA <\/b><\/p><p>Należy pamiętać, że bardzo ważny i zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia. Nie stosować w przypadku alergii na jakikolwiek składnik suplementu. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowuj w suchym miejscu w temperaturze poniżej 25°C. Suplement diety przechowuj w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21AURMAGFB"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.95",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.35",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2995.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861113028",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T07:14:13.365Z"
+    },
+    "createdAt": "2025-09-05T07:14:13.000Z",
+    "updatedAt": "2025-10-24T12:45:49.608Z"
+}

@@ -1,0 +1,290 @@
+{
+    "name": "OLEJEK ETERYCZNY SOSNA ZWYCZAJNA BIO 10 ml - PHYSALIS",
+    "productSet": [
+        {
+            "product": {
+                "id": "330ccc33-9307-47bc-8fc7-9c3c3f27dc26",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248914",
+                        "name": "Producent",
+                        "values": [
+                            "Physalis"
+                        ],
+                        "valuesIds": [
+                            "248914_1970870"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213710",
+                        "name": "Rodzaj olejku",
+                        "values": [
+                            "sosnowy"
+                        ],
+                        "valuesIds": [
+                            "213710_262570"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247377",
+                        "name": "Nazwa zapachu producenta",
+                        "values": [
+                            "sosna"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.08"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5412360018871"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5412360018871"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "281873e0-d1bc-49aa-894a-f07720d1aeda"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a86e\/95489d714795bfd5ffd770622bb9"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "30.82",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 548,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a86e\/95489d714795bfd5ffd770622bb9"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLEJEK ETERYCZNY SOSNA ZWYCZAJNA BIO 10 ml - PHYSALIS<\/h1><p>SKŁADNIKI <\/p><p>sosna zwyczajna* (Pinus sylvestris) (*składniki ekologiczne)<\/p><p>OPIS<\/p><p>Suplement diety. Sosna zwyczajna wspiera zdrowie układu oddechowego, działa przeciwzapalnie na drogi oddechowe.<\/p><p>ZASTOSOWANIE <\/p><p>Doustnie: dwa razy dziennie, od 1 do 2 kropli. Należy przyjmować rozcieńczony w łyżce miodu lub w oleju roślinnym. <\/p><p>Skóra (masaż, kąpiel): 5 do 10 kropli na 10 ml oleju roślinnego. <\/p><p>Aromatyzowanie powietrza: 5 do 10 kropli według osobistych preferencji i wielkości pokoju.<\/p><p>UWAGI <\/p><p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA <\/p><p>Przechowywać w chłodnym i zaciemnionym miejscu, w sposób niedostępny dla małych dzieci.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>KEYPHARM NV, SIEMENSLAAN 11, 8020 OOSTKAMP<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_13846"
+    },
+    "category": {
+        "id": "258263"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "30.82",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "177.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2890.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "177.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877320638",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T12:37:28.667Z"
+    },
+    "createdAt": "2025-09-10T12:37:28.000Z",
+    "updatedAt": "2025-09-10T12:52:29.826Z"
+}

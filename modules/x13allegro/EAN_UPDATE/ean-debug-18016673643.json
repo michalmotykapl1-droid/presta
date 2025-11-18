@@ -1,0 +1,243 @@
+{
+    "name": "HERBATNIKI Z CZEKOLADĄ Z NADZIENIEM MLECZNYM BIO 125 g - BONNETERRE",
+    "productSet": [
+        {
+            "product": {
+                "id": "b443f5dc-194c-408d-9a7c-5d45754ae69d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "125"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250319",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Ciastka kruche"
+                        ],
+                        "valuesIds": [
+                            "250319_1879963"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3396410153113"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114d63\/3155d99246eba2dbd4a020f7580b"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.19",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 15,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114d63\/3155d99246eba2dbd4a020f7580b"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>HERBATNIKI Z CZEKOLADĄ Z NADZIENIEM MLECZNYM BIO 125 g - BONNETERRE<\/h1><p>SKŁADNIKI<\/p><p>czekolada mleczna* 38 % (cukier trzcinowy*, tłuszcz kakaowy*, pełne MLEKO w proszku*, miazga kakaowa*), mąka PSZENNA*, cukier trzcinowy*, tłuszcze roślinne* w zmiennych proporcjach (olej słonecznikowy*, tłuszcz kakaowy*), MASŁO*, pełne MLEKO w proszku* 3,7 %, skrobia PSZENNA*, odtłuszczone MLEKO w proszku* 0,4 %, sól, emulgator: lecytyny (ze słonecznika*), substancje spulchniające: węglany amonu, węglany sodu; sok z cytryny w proszku*, naturalny aromat waniliowy*. (*certyfikowany składnik ekologiczny)<\/p><p>OPIS<\/p><p>Pyszna przekąska dla każdego, idealnie nadają się do chrupania przy kawie, herbacie lub szklance mleka.<\/p><p>WARTOŚĆ ODŻYWCZA W 100 g<\/p><p>Wartość energetyczna: 2247 kJ\/538 kcal <\/p><p>Tłuszcz: 30 g <\/p><p>w tym kwasy tłuszczowe nasycone: 16 g <\/p><p>Węglowodany: 60 g <\/p><p>w tym cukry: 40 g <\/p><p>Błonnik: 1,9 g<\/p><p>Białko: 6,0 g <\/p><p>Sól: 0,33 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać JAJA, ORZECHY, nasiona SEZAMU, SOJĘ i gorczycę.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać z dala od źródeł ciepła i wilgoci.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BONNETERRE 217 chemin du grand revoyet 69561 St Genis Laval France<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46855"
+    },
+    "category": {
+        "id": "261443"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.19",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.48",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "162.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2640.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "162.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016673643",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T09:30:56.039Z"
+    },
+    "createdAt": "2025-10-22T09:30:56.000Z",
+    "updatedAt": "2025-10-30T13:12:41.180Z"
+}

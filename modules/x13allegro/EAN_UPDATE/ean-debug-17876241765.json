@@ -1,0 +1,333 @@
+{
+    "name": "Chipsy o smaku fromage Salatini, 25g",
+    "productSet": [
+        {
+            "product": {
+                "id": "13ab893c-3cf2-4375-8035-2025fc31ba4c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Salatini"
+                        ],
+                        "valuesIds": [
+                            "248811_1963842"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5900910010838"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250328",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Chipsy, chrupki, nachosy"
+                        ],
+                        "valuesIds": [
+                            "250328_1880757"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249169",
+                        "name": "Rodzaj chipsów",
+                        "values": [
+                            "chipsy"
+                        ],
+                        "valuesIds": [
+                            "249169_1119582"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Salatini Chipsy zbożowe smak ser fromage"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.04"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "4.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "70"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900910010838"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "27881278-330d-44f3-8f53-ed33a365b660"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116571\/d0b469884e6f80c2c0eabb6eb0cb"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "3.92",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116571\/d0b469884e6f80c2c0eabb6eb0cb"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Chipsy o smaku fromage Salatini, 25g<\/h1> <p><b>Chipsy o smaku fromage Salatini, 25g <\/b><\/p>    <p>Salatini chips to mieszanka ziemniaków i zbóż, która jest wypiekana w specjalnym procesie technologicznym pozwalającym na znaczące obniżenie zawartości tłuszczu i soli. Salatini Chips to produkt, który odpowiada na potrzeby konsumentów, także tych poszukujących zdrowszych przekąsek. Produkt dopuszczony jest do sprzedaży w szkołach, spełnia wymogi rozporządzenia Ministerstwa Zdrowia z dnia 26 lipca 2016 r.<\/p> <p><b>Składniki:<\/b><\/p><p>płatki ziemniaczane 58% (ziemniaki 99%, emulgator: mono- i diglicerydy kwasów tłuszczowych, stabilizator: difosforany, przeciwutleniacze: kwas cytrynowy, estry kwasów tłuszczowych i kwasu askorbinowego), mąki 30% (owsiana, kukurydziana, ryżowa, pszenna), oleje palmowe, maltodekstryna, sól, cebula w proszku 0,7%, ser w proszku 0,35% (z mleka), chlorek potasu, olej roślinny (kokosowy, rzepakowy), pietruszka suszona, stabilizatory: fosforany sodu, węglany sodu, węglan wapnia; emulgator: mono- i diglicerydy kwasów tłuszczowych.<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 1740 kJ\/413 kcal<\/p><p>Tłuszcz 10g<\/p><p>w tym kwasy tłuszczowe nasycone 4,1g<\/p><p>Węglowodany 70g<\/p><p>w tym cukry 3g<\/p><p>Błonnik 4,7g<\/p><p>Białko 8,4g<\/p><p>Sól 0,42g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym, chłodnym miejscu z dala od źródeł ciepła i nasłonecznienia.<\/p> <p><b>Producent:<\/b><\/p><p>Grupa Maspex Sp. z o.o.<\/p><p>F. Chopina 10<\/p><p>34-100 Wadowice<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5900910010838"
+    },
+    "category": {
+        "id": "261448"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.92",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.90",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "365.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876241765",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T03:46:20.151Z"
+    },
+    "createdAt": "2025-09-10T03:46:20.000Z",
+    "updatedAt": "2025-10-13T09:21:42.001Z"
+}

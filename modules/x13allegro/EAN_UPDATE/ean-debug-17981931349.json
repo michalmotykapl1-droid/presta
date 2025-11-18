@@ -1,0 +1,302 @@
+{
+    "name": "KAWA ZIARNISTA ARABICA\/ROBUSTA FORTE FAIR TRADE BEZGLUTENOWA BIO 500 g - AL",
+    "productSet": [
+        {
+            "product": {
+                "id": "d9c9153e-7f91-44b3-aea6-bc8e296673c1",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250240",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Kawa ziarnista arabica \/ robusta"
+                        ],
+                        "valuesIds": [
+                            "250240_1818933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Alternativa"
+                        ],
+                        "valuesIds": [
+                            "248811_1957132"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8435030574061"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128450",
+                        "name": "Gatunek kawy",
+                        "values": [
+                            "mieszana"
+                        ],
+                        "valuesIds": [
+                            "128450_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128453",
+                        "name": "Wielkość opakowania (g)",
+                        "values": [
+                            "25 g"
+                        ],
+                        "valuesIds": [
+                            "128453_1781953"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "24028",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kawa czarna"
+                        ],
+                        "valuesIds": [
+                            "24028_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8435030574061"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "fbc1f604-7942-4941-9ecc-9a0874ee0a37"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113b0b\/54863738499f86b52c9a8f47163c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "83.24",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 78,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/113b0b\/54863738499f86b52c9a8f47163c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KAWA ZIARNISTA ARABICA\/ROBUSTA FORTE FAIR TRADE BEZGLUTENOWA BIO 500 g - AL<\/h1><p>SKŁADNIKI<\/p><p>ziarna kawy Robusta i Arabica* (*certyfikowany składnik ekologiczny)<\/p><p>OPIS<\/p><p>Wyjątkowa mieszanka kaw zawierająca kawę arabica z Ameryki Środkowej i robustę z Afryki. Idealna dla miłośników intensywnych smaków. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA <\/p><p>Przechowywać w suchym i chłodnym miejscu. Po otwarciu przechowywać w szczelnym pojemniku.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALTERNATIVA S.C.C.L, CR. CTRA. CASTELLAR 526, 8227 TERRASSA (BARCELONA)<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_8836"
+    },
+    "category": {
+        "id": "74035"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "83.24",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.15",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "479.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7800.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "479.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981931349",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T11:07:46.522Z"
+    },
+    "createdAt": "2025-10-14T11:07:46.000Z",
+    "updatedAt": "2025-10-24T04:26:52.081Z"
+}

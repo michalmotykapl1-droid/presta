@@ -1,0 +1,317 @@
+{
+    "name": "GENACTIV Mleko klaczy kapsułki 250mg, 120 kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "b64e9660-d919-4789-94e3-8278402157fd",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "mleko klaczy"
+                        ],
+                        "valuesIds": [
+                            "210698_244282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Genactiv"
+                        ],
+                        "valuesIds": [
+                            "248811_1959933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907546536398"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "GENACTIV Mleko Klaczy 120 kapsułek"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.12"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "120"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "120"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "210762_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907546536398"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "6b3167fd-706c-46af-8def-882c12b69c60"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1164cc\/92ab6b7b46e886c94cb5ef1d9146"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "195.76",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1164cc\/92ab6b7b46e886c94cb5ef1d9146"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>GENACTIV Mleko klaczy kapsułki 250mg, 120 kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>CZYSTE LIOFILIZOWANE MLEKO KLACZY 120 kapsułek<\/p> <p>Najwyższej jakości liofilizowane mleko klaczy. Dzięki zaawansowanej technologii procesu liofilizacji osiągnięto produkt przetworzony, o jakości odpowiadającej produktowi świeżemu, z całym bogactwem składników i zachowujący pełną bioaktywność. Różni się składem i właściwościami białek od mleka krowiego, więc może być źródłem wartościowego białka i uzupełnieniem diety dla osób uczulonych na białka mleka krowiego.<\/p> <p>Co wyróżnia mleko klaczy firmy Genactiv:<\/p><p>• bezpieczne – badane laboratoryjnie, otrzymywane tylko z polskich hodowli,<\/p><p>• bogate źródło substancji odżywczych,<\/p><p>• suszone metodą liofilizacji – gwarancja zachowania pełnej aktywności biologicznej.<\/p> <p>W składzie mleka kobylego znajduje się wiele wielonienasyconych kwasów tłuszczowych, w tym przede wszystkim linolenowego i linolowego, które są niezbędne do prawidłowego wzrostu odporności młodego organizmu, jak również rozwoju jego układu nerwowego. W mleku klaczy mamy do czynienia również z podwyższoną zawartością lizozymu, który charakteryzuje się silnym działaniem przeciwbakteryjnym oraz przeciwwirusowym, jednocześnie stanowiąc jeden z mechanizmów nieswoistej odporności humoralnej.<\/p> <p>Mleko kobyle to produkt bardzo zbliżony do mleka kobiety pod względem zawartości składników odżywczych. Z uwagi na unikalny skład, mleko kobyle wyróżnia się o wiele lepszą tolerancją przez organizm człowieka niż mleko krowie. Podobnie jak mleko kobiece zalicza się do typu albuminowego (kozie i krowie zalicza się do typu kazeinowego). Z tego względu mleko klaczy jest produktem stosowanym m.in. jako alternatywa dla osób uczulonych na mleko krowie. Dotyczy to zwłaszcza dzieci, które do prawidłowego rozwoju potrzebują odpowiedniej kompozycji białek. Mleko klaczy zawiera też mniej substancji uczulających, czyli kazeiny i beta-laktoglobuliny.<\/p> <p>Produkt naturalny. Poszczególne partie mogą różnić się pod względem koloru, zapachu i smaku.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Liofilizowane mleko klaczy, 250 mg\/kaps<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>4 do 8 kapsułek dziennie na czczo przed posiłkiem lub inaczej po konsultacji z lekarzem.<\/p> <p>Dawkowanie u dzieci o masie ciała poniżej 20 kg - stosowane w dawce 2x1 kapsułka na dobę,<\/p> <p>Dawkowanie u dzieci o masie ciała powyżej 20 kg - 4x1 kapsułka na dobę<\/p> <p>Dawkowanie u osoby dorosłej - 4x2 kapsułki na dobę<\/p> <p>Maksymalna porcja dzienna to 8 kapsułek przyjmowanych w porcjach podzielonych. Popić wodą lub innym płynem. <\/p><p>Preparat można stosować powyżej 2 roku życia.<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej dziennej porcji do spożycia. Zachować ostrożność w przypadku nadwrażliwości na jakikolwiek składnik preparatu. Zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Preparat przechowywać w suchym miejscu, w temperaturze poniżej 25 st.C. , w miejscu niedostępnym i niewidocznym dla małych dzieci. Nie stosować preparatu po upływie jego ważności.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21GENMLEKA"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "195.76",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "45.02",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1126.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18345.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1126.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916003206",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:38:01.749Z"
+    },
+    "createdAt": "2025-09-22T20:38:01.000Z",
+    "updatedAt": "2025-10-16T12:35:31.595Z"
+}

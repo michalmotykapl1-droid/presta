@@ -1,0 +1,360 @@
+{
+    "name": "BIOWEN Kolagen Wołowy w proszku 225g",
+    "productSet": [
+        {
+            "product": {
+                "id": "508456df-5af3-45ca-a84b-a75126fb57e4",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biowen"
+                        ],
+                        "valuesIds": [
+                            "248811_1957883"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904806120953"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Kolagen wołowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.519"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "proszek"
+                        ],
+                        "valuesIds": [
+                            "210758_244686"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bezglutenowy",
+                            "czysty (bez dodatków)"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_4",
+                            "210762_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "7.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "225"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224157",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "224157_307089"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904806120953"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "462eb009-9e06-4340-a6f0-dcfabe1ac169"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c124\/a7ab5f6044ffb6e27ec37277a289"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "110.72",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c124\/a7ab5f6044ffb6e27ec37277a289"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIOWEN Kolagen Wołowy w proszku 225g<\/h1> <p><b>OPIS<\/b><\/p><p>Kolagen wołowy typu I, II, III Biowen to wysokiej jakości suplement diety w proszku, łączący hydrolizowany kolagen typu I i III z kolagenem typu II pozyskiwanym z chrząstek wołowych. Dzięki zastosowaniu Peptan BⓇ i optymalnej masie cząsteczkowej (2000 daltonów), charakteryzuje się bardzo dobrą przyswajalnością i skutecznością działania. Kolagen Biowen wspiera zdrowie skóry, stawów, kości i tkanek łącznych, poprawiając ich elastyczność i wytrzymałość. Ma neutralny smak i zapach, dlatego łatwo można go dodać do napojów lub posiłków. Produkt nie zawiera słodzików, barwników ani konserwantów, a jego czysty skład gwarantuje bezpieczeństwo stosowania. Dodatkowym atutem jest szklane opakowanie, które chroni składniki aktywne i eliminuje kontakt z plastikiem. Kolagen Biowen zawiera liczne aminokwasy, m.in. glicynę, prolinę, hydroksyprolinę, leucynę i lizynę, które wspierają regenerację tkanek i utrzymanie ich prawidłowej struktury. To naturalne wsparcie dla stawów, skóry i całego układu ruchu.<\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>Hydrolizowany kolagen typu I i III Peptan BⓇ, hydrolizowany kolagen typu II z chrząstek wołowych, prebiotyk z akacji i baobabu Inavea™, probiotyk LactosporeⓇ Bacillus coagulans MTCC 5856, kwas askorbinowy, askorbinian sodu, ekstrakt boswellia serrata standaryzowany na 30% kwasu bosweliowego [DER 10:1], ekstrakt ostryżu długiego (Curcuma longa) standaryzowany na 10% kurkuminoidów [DER 66:1], siarka organiczna, ekstrakt z korzenia imbiru standaryzowany na 5% gingeroli [DER 30:1], siarczan d-glukozaminy 2KCL ze skorupiaków, aminokwasy: alanina, arginina, fenyloalanina, glicyna, histydyna, hydroksylizyna, hydroxyprolina, izoleucyna, kwas asparaginowy, kwas glutaminowy, leucyna, lizyna, metionina, prolina, seryna, treonina, tyrozyna.<\/p><p>Zawartość 1 miarki (7,5g):<\/p><p>Hydrolizowany kolagen wołowy typu I i III Peptan B® - 5600 mg<\/p><p>Hydrolizowany kolagen wołowy typu II - 100 mg<\/p><p>Prebiotyk z akacji i baobabu Inavea™ - 400 mg<\/p><p>Probiotyk Bacillus coagulans MTCC 5856 Lactospore® - 1,5 × 10⁹ CFU<\/p><p>Witamina C - 200 mg, w tym: <\/p><p>- kwas askorbinowy - 100 mg<\/p><p>- askorbinian sodu - 100 mg<\/p><p>Ekstrakt Boswellia Serrata Boswellin® - 50 mg, w tym: <\/p><p>- kwasu bosweliowego - 15 mg<\/p><p>Ekstrakt z ostryżu długiego uC3 Clear® - 50 mg, w tym: <\/p><p>kurkuminoidów - 5 mg <\/p><p>MSM siarka organiczna OptiMSM® - 500 mg<\/p><p>Ekstrakt z korzenia imbiru standaryzowany - 50 mg, w tym: <\/p><p>- gingeroli - 2,5 mg<\/p><p>Siarczan d-glukozaminy 2KCL - 450 mg<\/p><p>Alanina - 660 mg<\/p><p>Arginina - 610 mg<\/p><p>Fenyloalanina* - 170 mg<\/p><p>Glicyna - 1660 mg<\/p><p>Histydyna* - 100 mg<\/p><p>Hydroksylizyna - 80 mg<\/p><p>Hydroksyprolina - 830 mg<\/p><p>Izoleucyna* - 110 mg<\/p><p>Kwas asparaginowy - 420 mg<\/p><p>Kwas glutaminowy - 750 mg<\/p><p>Leucyna* - 220 mg<\/p><p>Lizyna* - 270 mg<\/p><p>Metionina* - 60 mg<\/p><p>Prolina - 1000 mg<\/p><p>Seryna - 250 mg<\/p><p>Treonina* - 140 mg<\/p><p>Tyrozyna - 20 mg<\/p><p>Walina* - 180 mg<\/p> <p>*Aminokwasy egzogenne oznaczono gwiazdką (*).<\/p>  <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Wystarczy raz dziennie rozpuścić jedną miarkę produktu (7,5 g) w szklance wody o pojemności około 200 ml, a następnie wypijesz.<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać dziennej sugerowanej porcji suplementu. Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Produkt nie może być stosowany jako substytut zróżnicowanej diety. Zaleca się stosowanie zróżnicowanej i zrównoważonej diety i zdrowego trybu życia.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej. Chronić przed wilgocią. Przechowywać w sposób niedostępny dla małych dzieci.<\/p> <p><b>PRODUCENT <\/b><\/p><p>Biodio Lab Sp. z o.o.<\/p><p>Ul. Choroszczańska 24<\/p><p>15-732 Białystok<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21BIDBKOLWO"
+    },
+    "category": {
+        "id": "122572"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "110.72",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "25.47",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "637.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10375.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "637.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051165457",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T11:33:11.258Z"
+    },
+    "createdAt": "2025-11-03T11:33:11.000Z",
+    "updatedAt": "2025-11-03T11:48:11.805Z"
+}

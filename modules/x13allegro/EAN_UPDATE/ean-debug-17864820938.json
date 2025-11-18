@@ -1,0 +1,391 @@
+{
+    "name": "KOLAGEN HYDROLIZOWANY BEZGLUTENOWY 300 g - OSAVI",
+    "productSet": [
+        {
+            "product": {
+                "id": "e778f56d-414e-43bb-b165-bcbcc5d15882",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Osavi"
+                        ],
+                        "valuesIds": [
+                            "248811_1962774"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904139923146"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Kolagen Hydrolizowany, Typu I & III"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.35"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "proszek"
+                        ],
+                        "valuesIds": [
+                            "210758_244686"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez laktozy"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_4",
+                            "210762_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224157",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "224157_307089"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "NATURALNY"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904139921517"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a975d22f-5881-445e-8ab4-ba6e5be5a20b"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1167f6\/2ebf13cc46ba80fc21e89b8a8b7e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "92.70",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 58,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1167f6\/2ebf13cc46ba80fc21e89b8a8b7e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KOLAGEN HYDROLIZOWANY BEZGLUTENOWY 300 g - OSAVI<\/h1><p>SKŁADNIKI <\/p><p>wołowe peptydy kolagenowe. <\/p><p>Składniki w porcji dziennej - 1 miarka (20 g)<\/p><p>Hydrolizowane peptydy kolagenowe otrzymywane z kolagenu typu I i III - 20 g<\/p><p>w tym:<\/p><p>glicyna - 3,98 g<\/p><p>prolina - 2,27 g<\/p><p>hydroksyprolina - 2,14 g<\/p><p>pozostałe aminokwasy - 9,61 g<\/p><p>-kwas glutaminowy - 1,84 g<\/p><p>-alanina - 1,55 g<\/p><p>-arginina - 1,31 g<\/p><p>-kwas asparaginowy - 1,04 g<\/p><p>-lizyna - 0,65 g<\/p><p>-seryna - 0,58 g<\/p><p>-leucyna - 0,49 g<\/p><p>-walina - 0,43 g<\/p><p>-fenyloalanina - 0,38 g<\/p><p>-treonina - 0,32 g<\/p><p>-hydroksylizyna - 0,29 g<\/p><p>-izoleucyna - 0,25 g<\/p><p>-histydyna - 0,18 g<\/p><p>-metionina - 0,16 g<\/p><p>-tyrozyna - 0,14 g<\/p><p>OPIS <\/p><p>Suplement diety w formie proszku zawierający wysokooczyszczone peptydy kolagenowe, otrzymywane z kolagenu typu I i III. Produkt zawiera wysokie stężenia glicyny, proliny i hydroksyproliny - głównych aminokwasów budulcowych kolagenu.<\/p><p>W zależności od typu kolagenu pełni on różne funkcje, odznacza się inną budową oraz miejscem występowania. Najbardziej rozpowszechniony to kolagen typu I (obecny w ścięgnach, kościach, skórze i tkance podskórnej) oraz kolagen typu III (obecny w skórze, mięśniach i naczyniach). Głównym zadaniem kolagenu jest zapewnienie wytrzymałości mechanicznej tkankom, w których się znajduje. <\/p><p>Osavi Hydrolizowany kolagen typu I &amp; III w formie proszku to łatwo przyswajalne, wysokooczyszczone wołowe peptydy kolagenowe o neutralnym smaku i zapachu. Otrzymywane są z kolagenu typu I i III, dzięki czemu zawierają aż 18 aminokwasów, w tym wysokie stężenia podstawowych aminokwasów budulcowych kolagenu: glicyny, proliny i hydroksyproliny. Zawarte w nim peptydy (białka) pomagają w utrzymaniu masy mięśniowej i przyczyniają się do jej wzrostu oraz pomagają w utrzymaniu zdrowych kości.<\/p><p>Dzienna porcja dostarcza 20 g peptydów kolagenowych, którą w prosty sposób odmierzysz za pomocą dołączonej miarki. Kolagen można rozpuścić w wodzie, sokach, koktajlach czy dodawać do posiłków. To łatwy i przyjemny sposób na uzupełnienie diety w niezbędne aminokwasy stanowiące materiał budulcowy białek kolagenowych. <\/p><p>Dlaczego warto suplementować Hydrolizowany kolagen typu I &amp; III?<\/p><p>- Peptydy (białka) przyczyniają się do wzrostu masy mięśniowej.<\/p><p>- Peptydy (białka) pomagają w utrzymaniu masy mięśniowej.<\/p><p>- Peptydy (białka) pomagają w utrzymaniu zdrowych kości.<\/p><p>Co wyróżnia Hydrolizowany kolagen typu I &amp; III?<\/p><p>- Czysta etykieta (ang. clean label) - produkt nie zawiera żadnych dodatków.<\/p><p>- Miarka w środku.<\/p><p>- Doskonała rozpuszczalność.<\/p><p>- Neutralny smak i zapach (bez smaku i zapachu).<\/p><p>- Wysoka zawartość białka.<\/p><p>- Zawiera 18 aminokwasów, w tym wysoką zawartość glicyny, proliny i hydroksyproliny - podstawowych białek budulcowych kolagenu.<\/p><p>- Idealny dodatek do napojów, smoothie i posiłków.<\/p><p>- Bez glutenu, bez laktozy, bez cukru, bez SOI, bez GMO, koszerny, halal. <\/p><p>ZALECANE SPOŻYCIE I INNE UWAGI <\/p><p>1 miarka (20 g) dziennie. Rozpuść 1 miarkę proszku w 200 ml wody, ulubionego napoju lub dodaj bezpośrednio do jedzenia. Dodaj produkt do przystawki, sałatki, śniadania, koktajlu lub deseru. <\/p><p>Nie należy przekraczać zalecanej dziennej porcji. Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Dla utrzymania prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić zdrowy tryb życia. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w ciemnym i suchym miejscu w temperaturze pokojowej, w sposób niedostępny dla małych dzieci. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Olivit Sp z.o.o ul. Blacharska 11 61-006 Poznań, Polska NIP: 7831730791<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46225"
+    },
+    "category": {
+        "id": "122572"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "92.70",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "21.32",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "533.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8685.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "533.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17864820938",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-06T10:25:30.175Z"
+    },
+    "createdAt": "2025-09-06T10:25:30.000Z",
+    "updatedAt": "2025-09-06T10:50:25.344Z"
+}

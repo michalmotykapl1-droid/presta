@@ -1,0 +1,361 @@
+{
+    "name": "Kulki Orkiszowo - Gryczane z Kakao Helpa BIO, 160g",
+    "productSet": [
+        {
+            "product": {
+                "id": "bf2983fb-36d1-476f-b97c-f4489df979f5",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "HELPA"
+                        ],
+                        "valuesIds": [
+                            "248811_1139672"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904257043146"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Płatki śniadaniowe Kulki z kakao orkiszowo - gryczane"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250327",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Płatki"
+                        ],
+                        "valuesIds": [
+                            "250327_1880754"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237306",
+                        "name": "Rodzaj płatków",
+                        "values": [
+                            "płatki orkiszowe"
+                        ],
+                        "valuesIds": [
+                            "237306_408426"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru"
+                        ],
+                        "valuesIds": [
+                            "130691_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "3.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "1.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.02"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904257043146"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115190\/abad204b4e5b97bb0f141f7700c8"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "17.28",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 88,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115190\/abad204b4e5b97bb0f141f7700c8"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Kulki Orkiszowo - Gryczane z Kakao Helpa BIO, 160g<\/h1> <p><b>KULKI Z KAKAO Orkiszowo - Gryczane Helpa BIO, 160g <\/b><\/p> <p>Płatki śniadaniowe z prostym składem - 100% zbóż - nic więcej!<\/p> <p>Cześć, nazywam się owca Ania! Przedstawiam Wam mój przysmak - BIO KULKI Z KAKAO. To ekologiczne płatki śniadaniowe bez dodatku cukru, wzbogacone smakiem ekologicznego naturalnego kakao. BIO KULKI Z KAKAO są idealnie chrupiące, pełnoziarniste, a także mają delikatny smak gryki i orkiszu. Nadają się idealnie do mleka lub jako samodzielna przekąska.<\/p> <p>BIO KULKI Z KAKAO to płatki:<\/p> <p>- Bez dodatku cukrów<\/p><p>- Bez dodatku słodzików<\/p><p>- Bez kukurydzy modyfikowanej genetycznie<\/p><p>- Składające się ze zbóż z dodatkiem ekologicznego kakao<\/p><p>- Ekologiczne<\/p><p>- Bazujące na pełnoziarnistym orkiszu i gryce<\/p><p>- Wyprodukowane w Polsce<\/p> <p><b>Składniki: <\/b><\/p><p>ekologiczna mąka orkiszowa 48%, ekologiczna kaszka gryczana 48%, ekologiczne naturalne kakao 4%<\/p> <p><b>Wartość odżywcza w 100g: <\/b><\/p><p>Wartość energetyczna 1535 kJ \/ 363 kcal<\/p><p>Tłuszcz 3,1g<\/p><p>w tym kwasy tłuszczowe nasycone 0,8g<\/p><p>Węglowodany 64g<\/p><p>w tym cukry 1,7g<\/p><p>Błonnik 9,4g<\/p><p>Białko 13g<\/p><p>Sól 0,02g<\/p> <p>Alergeny:<\/p><p>Zboża zawierające gluten.<\/p> <p>Przechowywanie:<\/p><p>Przechowywać w suchym i chłodnym miejscu. w temp. 15-25C<\/p> <p>Producent<\/p><p>HELPA<\/p><p>Kineskopowa 1D<\/p><p>05-500 Piaseczno<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5904257043146"
+    },
+    "category": {
+        "id": "261712"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.28",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.97",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1620.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "99.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915428952",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T16:48:17.798Z"
+    },
+    "createdAt": "2025-09-22T16:48:17.000Z",
+    "updatedAt": "2025-09-22T17:03:18.643Z"
+}

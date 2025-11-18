@@ -1,0 +1,356 @@
+{
+    "name": "IANA Krople do oczu ŚWIETLIK rozświetlające i kojące 10ml STARPHARMA",
+    "productSet": [
+        {
+            "product": {
+                "id": "97cb3eb0-b331-44a5-8267-4f9deffb8d1c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Starpharma"
+                        ],
+                        "valuesIds": [
+                            "248811_1964320"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907763674835"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250418",
+                        "name": "Rodzaj",
+                        "values": [
+                            "preparaty do oczu"
+                        ],
+                        "valuesIds": [
+                            "250418_1919200"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.03"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249736",
+                        "name": "Problem",
+                        "values": [
+                            "pieczenie",
+                            "podrażnienie",
+                            "suchość"
+                        ],
+                        "valuesIds": [
+                            "249736_1732617",
+                            "249736_1732611",
+                            "249736_1732610"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "nawilżające krople do oczu"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129509",
+                        "name": "Działanie",
+                        "values": [
+                            "łagodzące",
+                            "nawilżające"
+                        ],
+                        "valuesIds": [
+                            "129509_8",
+                            "129509_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907763674835"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9833a064-ab6a-496d-9a59-fe5e673a3bab"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "249829",
+            "name": "Wyrób medyczny",
+            "values": [
+                "nie"
+            ],
+            "valuesIds": [
+                "249829_1765555"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11bcee\/d04ea75949cdb74bb4d9be1fa11c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "10.43",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11bcee\/d04ea75949cdb74bb4d9be1fa11c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>IANA Krople do oczu ŚWIETLIK rozświetlające i kojące 10ml STARPHARMA<\/h1> <p><b>OPIS <\/b><\/p><p>Iana świetlik krople do oczu rozświetlające i kojące 10 ml - do stosowania z soczewkami kontaktowymi.<\/p> <p>• rozświetlają oczy<\/p><p>• przywracają zmęczonym oczom naturalny blask<\/p><p>• łagodzą ból, podrażnienia i zmęczenie oczu<\/p><p>• zmniejszają uczucie swędzenia i pieczenia<\/p><p>• zrównoważone pH<\/p><p>• z wyciągami roślinnymi<\/p> <p>Naturalnie rozświetlające i kojące krople do oczu, specjalnie opracowane z użyciem naturalnych ekstraktów roślinnych, pomagają przywrócić zmęczonym, matowym lub pozbawionym blasku oczom jaśniejszy wygląd i zmniejszyć podrażnienie, pieczenie, swędzenie i ból. Specjalnie opracowana receptura zawiera naturalne wyciągi ze świetlika i rumianku, roślin znanych ze swoich właściwości rozświetlających, łagodzących i kojących. Rozświetlające krople do oczu Iana nadają się idealnie do ukojenia zmęczonych, matowych i podrażnionych oczu, nadając im jednocześnie blask i świeżość. Idealnie do zastosowania przy porannej toalecie lub przed ważnym wydarzeniem bądź wieczornym wyjściem.<\/p><p>Zrównoważone pH. Do stosowania z soczewkami kontaktowymi.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Wyciąg z rumianku, wyciąg ze świetlika, biguanid, poliheksametylenowy (0,0001%), wersenian dwusodowy (0,12%), w zbuforowanym roztworze soli fizjologicznej.<\/p> <p><b>SPOSÓB UZYCIA <\/b><\/p><p>• W zależności od potrzeby wkroplić jedna lub dwie krople do każdego oka, lub stosować zgodnie z zaleceniami lekarza.<\/p><p>• Zamrugać kilka razy.<\/p><p>• Po użyciu mocno dokręcić nakrętkę.<\/p><p>Zrównoważone pH. Krople odpowiednie do stosowania z soczewkami kontaktowymi.<\/p> <p><b>PRZECIWWSKAZANIA <\/b><\/p><p>• Nie stosować w przypadku alergii na jakikolwiek składnik produktu.<\/p><p>• W przypadku wystąpienia dyskomfortu, podrażnienia, bólu, zaczerwienienia oczu lub nieostrego widzenia należy niezwłocznie skonsultować się z lekarzem.<\/p> <p><b>ŚRODKI OSTROZNOSCI <\/b><\/p><p>• Nie stosować, jeżeli przed pierwszym użyciem opaska zabezpieczająca jest uszkodzona.<\/p><p>• Przechowywać w temperaturze od 5ºC do 30ºC.<\/p><p>• Nie dotykać żadnej powierzchni końcówka zakraplacza, aby nie zanieczyścić roztworu.<\/p><p>• Nie stosować po upływie daty ważności.<\/p><p>• Produkt należy zużyć w ciągu 90 dni od jego otwarcia.<\/p><p>• Nie używać, jeśli opakowanie jest uszkodzone<\/p><p>• Nie sterylizuj.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21STAIANKS"
+    },
+    "category": {
+        "id": "323820"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.43",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.40",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "60.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "975.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "60.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876299509",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:34:27.329Z"
+    },
+    "createdAt": "2025-09-10T04:34:27.000Z",
+    "updatedAt": "2025-09-13T16:46:46.759Z"
+}

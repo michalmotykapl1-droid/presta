@@ -1,0 +1,381 @@
+{
+    "name": "CHLEB NAAN CZOSNKOWY BIO 240 g - TERRASANA",
+    "productSet": [
+        {
+            "product": {
+                "id": "2c28af03-0414-440b-8e22-e4f1a4287ebc",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "1853802"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Terrasana"
+                        ],
+                        "valuesIds": [
+                            "248811_1964673"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "TERRASANA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248438",
+                        "name": "Rodzaj mąki",
+                        "values": [
+                            "pszenna"
+                        ],
+                        "valuesIds": [
+                            "248438_910266"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248439",
+                        "name": "Rodzaj wypieku",
+                        "values": [
+                            "na drożdżach"
+                        ],
+                        "valuesIds": [
+                            "248439_910279"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248440",
+                        "name": "Rodzaj chleba",
+                        "values": [
+                            "zwykły\/codzienny"
+                        ],
+                        "valuesIds": [
+                            "248440_910293"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru"
+                        ],
+                        "valuesIds": [
+                            "130691_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "3.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "33"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "3.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "6.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "1.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8713576004052"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11cd5c\/368d61c84ba085648ed5c82c11ec"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "18.35",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11cd5c\/368d61c84ba085648ed5c82c11ec"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>CHLEB NAAN CZOSNKOWY BIO 240 g - TERRASANA<\/h1><p>SKŁADNIKI<\/p><p>mąka PSZENNA*, woda, olej słonecznikowy*, sól morska, białko grochu*, płatki ziemniaczane*, czarnuszka*, substancja zagęszczająca: guma guar*, drożdże*, kolendra w proszku*, czosnek* 0,3 %. (*certyfikowany składnik ekologiczny)<\/p><p>OPIS<\/p><p>Naan to indyjski placek, który towarzyszy curry lub dipowi. Włóż do piekarnika na 5-6 minut i podawaj z indyjskim curry lub oczywiście z ulubionymi pastami i dipami. Pyszny również jako spód do pizzy! Naan jest substytutem ryżu w indyjskim curry. Jako wieczorna przekąska, dobrze maczać w hummusie lub smarowidłach. Nadaje się również jako podstawa pizzy.<\/p><p>Pakowano w atmosferze ochronnej. <\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Chlebek wyjąć z opakowania, lekko zwilżyć wodą i piec w nagrzanym piekarniku w temperaturze 200°C przez 5-6 minut.<\/p><p>WARTOŚĆ ODŻYWCZA w 100 g<\/p><p>Wartość energetyczna: 827 kJ\/196 kcal<\/p><p>Tłuszcz: 3,5 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0,3 g<\/p><p>Węglowodany: 33 g<\/p><p>w tym cukry: 0,9 g<\/p><p>Błonnik: 3,3 g<\/p><p>Białko: 6,7 g<\/p><p>Sól: 1,8 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać SOJĘ, MLEKO, ORZECHY, GORCZYCĘ, ŁUBIN i NASIONA SEZAMU<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Po otwarciu przechowywać w lodówce i spożyć w ciągu kilku dni. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>TERRASANA NATUURVOEDING B.V., WAAIER 10, 2451 LEIMUIDEN<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_45023"
+    },
+    "category": {
+        "id": "319565"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.35",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.22",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "106.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1720.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "106.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051475514",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:26:33.827Z"
+    },
+    "createdAt": "2025-11-03T13:26:33.000Z",
+    "updatedAt": "2025-11-03T13:41:35.005Z"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>x13import</name>
+    <displayName><![CDATA[Integracja hurtowni]]></displayName>
+    <version><![CDATA[5.0.0]]></version>
+    <description><![CDATA[Import hurtowni XML / CSV / API - zaawansowana integracja hurtowni z Twoim sklepem PrestaShop. Wygodny import produkt&oacute;w, wraz z automatyczną aktualizacją danych.]]></description>
+    <author><![CDATA[X13.pl]]></author>
+    <tab><![CDATA[market_place]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>

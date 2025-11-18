@@ -1,0 +1,347 @@
+{
+    "name": "Podpaski nocne 8 sztuk SHUYA HEALTH",
+    "productSet": [
+        {
+            "product": {
+                "id": "cdb287ba-1fe7-4033-b572-481556ae4727",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Shuya Health"
+                        ],
+                        "valuesIds": [
+                            "248811_1982801"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "6910181209311"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "219337",
+                        "name": "Rodzaj",
+                        "values": [
+                            "ze skrzydełkami"
+                        ],
+                        "valuesIds": [
+                            "219337_285573"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "234949",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "na noc"
+                        ],
+                        "valuesIds": [
+                            "234949_387349"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "219341",
+                        "name": "Długość",
+                        "values": [
+                            "długie"
+                        ],
+                        "valuesIds": [
+                            "219341_285585"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "219365",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "niebielone",
+                            "pakowane osobno",
+                            "super cienkie"
+                        ],
+                        "valuesIds": [
+                            "219365_16",
+                            "219365_64",
+                            "219365_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237206",
+                        "name": "Model",
+                        "values": [
+                            "PODPASKI NA NOC SHUYA HEALTH"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "234945",
+                        "name": "Poziom chłonności",
+                        "values": [
+                            "Wysoka chłonność"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "457",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "6910181209311"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e87353b0-6572-4bd5-a2e9-c3f9a5d4ed68"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c366\/d8234c144917b4a85adebc25f6b8"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.15",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 40,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c366\/d8234c144917b4a85adebc25f6b8"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Podpaski nocne 8 sztuk SHUYA HEALTH<\/h1> <p><b>OPIS <\/b><\/p><p>-podpaski z naturalnej bawełny <\/p><p>-szerokie skrzydełka <\/p><p>-nie zawierają plastiku, chloru, glifosatu<\/p><p>-są ekologiczne i biodegradowalne<\/p><p>-zawierają kartę samobadania infekcji <\/p><p>-każda podpaska jest szczelnie zapakowana<\/p> <p>Technologia Far-IR poprawia stan krwi poprzez jej oczyszczanie dzięki czemu wzmacnia system odpornościowy. Zapobiega też sklejaniu się czerwonych krwinek.<\/p> <p>O Shuya Health można powiedzieć, że to antybakteryjne podpaski na noc - dzięki anionom w nich zawartym eliminują nieprzyjemny zapach oraz utrzymują właściwe dla skóry pH. Zawdzięczają to zawartym w nich jonom ujemnym.<\/p> <p>Działanie Aktywnego Tlenu zapewnia Tlenoterapię dla naszych komórek dzięki czemu bóle menstruacyjne występują rzadziej i są zdecydowanie mniej bolesne. Zwiększa wymianę tlenu, usuwa szkodliwe bakterie i utrzymuje w czystości okolice intymne.<\/p> <p>Wspomagają leczenie infekcji dróg moczowych i rodnych, hemoroidów oraz grzybicy.<\/p> <p>Ze względu na natychmiastowe pochłanianie płynu i przekształcanie go w żel podpaski Shuya Health są idealne również dla osób mających problemy z nie trzymaniem moczu.<\/p> <p>W opakowaniu podpasek na noc znajdziesz jednorazową kartę samobadania, dzięki której sprawdzisz stan zdrowia okolic intymnych. To bardzo proste!<\/p>  <p>Są jednak zalety nocnych podpasek Shuya Health, których nie widać gołym okiem. To między innymi fakt, że są to podpaski ekologiczne. Kupując je, dbasz o środowisko. Podpaski na noc wykonane są w pełni z biodegradowalnych materiałów, ekologicznych i bezpiecznych dla naszej planety. <\/p>  <p>Produkty Shuya Heath nie zawierają hormonów wydłużających okres, dzięki czemu miesiączka jest krótsza, a tym samym zużywa się znacznie mniej produktów higienicznych. <\/p>  <p>Podpaski Shuya Health składają się z ośmiu warstw:<\/p><p>1. Miękka i czysta bawełna, która nie jest w żaden sposób wybielana, więc nie podrażnia skóry,<\/p><p>2. Zaawansowany i opatentowany potrójny wkład z aktywnym tlenem, promieniami dalekiej podczerwieni i anionami,<\/p><p>3. Warstwa pokrywająca podpaskę od góry,<\/p><p>4. Wykonana z dwóch rodzajów materiałów wielocząsteczkowych zapewniających przekształcenie pochłoniętej wydzieliny w żel,<\/p><p>5. Przyśpieszająca skuteczne przenikanie, zapobiegająca cofaniu się wydzieliny, <\/p><p>6. Warstwa pokrywająca podpaskę od dołu,<\/p><p>7. Termoregulująca i oddychająca, zapewniająca uczucie świeżości oraz zapobiegająca przedostanie się wilgoci do organizmu,<\/p><p>8. Kleju na całej powierzchni podpaski, <\/p> <p>Zawartość opakowania: 8 sztuk (każda oddzielnie pakowana).<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21BIFZSHUPN"
+    },
+    "category": {
+        "id": "300397"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.15",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.56",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "64.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1045.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "64.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876302033",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-18T00:12:56.744Z"
+    },
+    "createdAt": "2025-09-10T04:37:34.000Z",
+    "updatedAt": "2025-10-18T00:12:56.744Z"
+}

@@ -1,0 +1,352 @@
+{
+    "name": "IANA Krople do oczu INTENSIVE intensywnie nawilżające 0,3% HA 10ml STARPHAR",
+    "productSet": [
+        {
+            "product": {
+                "id": "8602edbc-05a5-41d5-a856-f28d7c0553f2",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Starpharma"
+                        ],
+                        "valuesIds": [
+                            "248811_1964320"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904730732802"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250418",
+                        "name": "Rodzaj",
+                        "values": [
+                            "preparaty do oczu"
+                        ],
+                        "valuesIds": [
+                            "250418_1919200"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "22"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249736",
+                        "name": "Problem",
+                        "values": [
+                            "suchość"
+                        ],
+                        "valuesIds": [
+                            "249736_1732610"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Iana Intensive"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129509",
+                        "name": "Działanie",
+                        "values": [
+                            "łagodzące",
+                            "nawilżające"
+                        ],
+                        "valuesIds": [
+                            "129509_8",
+                            "129509_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904730732802"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9833a064-ab6a-496d-9a59-fe5e673a3bab"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "249829",
+            "name": "Wyrób medyczny",
+            "values": [
+                "nie"
+            ],
+            "valuesIds": [
+                "249829_1765555"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1165e0\/2f6a929f4c5d8575d3c6cad7a9da"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "16.51",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 31,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1165e0\/2f6a929f4c5d8575d3c6cad7a9da"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>IANA Krople do oczu INTENSIVE intensywnie nawilżające 0,3% HA 10ml STARPHAR<\/h1> <p><b>OPIS<\/b><\/p><p>Specjalnie opracowany, intensywnie nawilżający preparat do oczu przynoszący długotrwałą ulgę i ukojenie wysuszonym oczom. Krople do oczu intensywnie nawilżają bardzo suche, zmęczone i wrażliwe oczy. Przynoszą długotrwałą ulgę w przypadku oczu zaczerwienionych i zmniejszają uczucie dyskomfortu powstałe w wyniku działania czynników zewnętrznych tj. przebywanie w suchym powietrzu, długotrwała praca przy komputerze i noszenie soczewek kontaktowych. Krople mogą być stosowane zarówno w dzień jak i w nocy.<\/p><p>Krople do oczu IANA INTENSIVE dzięki nowoczesnym składnikom aktywnym - kwas hialuronowy (HA) 0,3%:<\/p><p>-intensywnie nawilżają<\/p><p>-posiadają przedłużone działanie kojące<\/p><p>-zapewniają długotrwałą ulgę w ciągu dnia i nocy<\/p><p>-są odpowiednie dla wrażliwych oczu<\/p><p>-są bezpieczne do stosowania ze wszystkimi typami soczewek kontaktowych<\/p> <p>Krople zawierają konserwant nowej generacji w bardzo małym stężeniu (0,0001%), który jest bezpieczny dla wrażliwych oczu i wszystkich typów soczewek kontaktowych. <\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Hialuronian sodu 0,3% w izotonicznie zbuforowanym roztworze, PHMB 0,0001% (biguanid poliheksametylenowy) - środek konserwujący. <\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Umyj dokładnie ręce. Otwórz opakowanie obracając nakrętkę w lewą stronę. Wkropl 1 lub 2 krople do każdego oka. Stosuj preparat tak długo jak jest to konieczne. <\/p> <p>Krople mogą być stosowane podczas noszenia soczewek kontaktowych wszystkich typów.<\/p> <p><b>ŚRODKI OSTROŻNOŚCI <\/b><\/p><p>Nie dotykać powierzchni oka końcówką zakraplacza, aby nie zadrapać oka i nie zanieczyścić roztworu. <\/p><p>W przypadku wystąpienia podrażnienia oczu, należy skontaktować się z lekarzem.<\/p><p>Nie stosować jednocześnie z innymi produktami do oczu.<\/p><p>Nie połykać.<\/p><p>Nie używać w przypadku alergii na jakikolwiek składnik produktu.<\/p><p>Nie stosować po upływie daty ważności.<\/p><p>Produkt należy zużyć w ciągu 90 dni od jego otwarcia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w miejscu niedostępnym i niewidocznym dla dzieci. Chronić przed bezpośrednim działaniem promieni słonecznych. Przechowywać w temperaturze od 5 do 30 st. C. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21STAIANKI"
+    },
+    "category": {
+        "id": "323820"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.51",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.80",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "95.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1545.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "95.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876299618",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:34:35.913Z"
+    },
+    "createdAt": "2025-09-10T04:34:35.000Z",
+    "updatedAt": "2025-09-10T04:49:36.860Z"
+}

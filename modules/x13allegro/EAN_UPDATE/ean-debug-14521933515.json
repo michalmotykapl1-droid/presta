@@ -1,0 +1,349 @@
+{
+    "name": "DMSO - Dimetylosulfotlenek 250ml STANLAB (STANLAB) STANLAB",
+    "productSet": [
+        {
+            "product": {
+                "id": "d8fee9b7-ab93-47ba-8182-21a9409948e5",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248914",
+                        "name": "Producent",
+                        "values": [
+                            "Stanlab"
+                        ],
+                        "valuesIds": [
+                            "248914_1971366"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "dmso"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224813",
+                        "name": "Rodzaj",
+                        "values": [
+                            "rozpuszczalnik"
+                        ],
+                        "valuesIds": [
+                            "224813_309613"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224829",
+                        "name": "Nazwa odczynnika",
+                        "values": [
+                            "Dimetylosulfotlenek CZDA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224817",
+                        "name": "Gatunek",
+                        "values": [
+                            "czysty do analizy"
+                        ],
+                        "valuesIds": [
+                            "224817_309645"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224821",
+                        "name": "Czystość",
+                        "values": [
+                            "99.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "450"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224825",
+                        "name": "Wzór sumaryczny",
+                        "values": [
+                            "C2H6OS"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224833",
+                        "name": "Numer CAS",
+                        "values": [
+                            "67-68-5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224837",
+                        "name": "Numer WE",
+                        "values": [
+                            "200-664-3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902815401889"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.434"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902815401889"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        },
+        {
+            "id": "249829",
+            "name": "Wyrób medyczny",
+            "values": [
+                "nie"
+            ],
+            "valuesIds": [
+                "249829_1765555"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11b047\/71c1b3f4404f8e3901081bb21780"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "48.70",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 100,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT72H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>DMSO - Dimetylosulfotlenek 250ml STANLAB (STANLAB) - STANLAB<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>UWAGA<\/b><\/p>\n<p>Poniżej temperatury 18,5°C produkt krystalizuje, co nie zmienia jego właściwości.<\/p>\n<p><b>PARAMETRY<\/b><\/p>\n<p>Nazwa substancji : DIMETYLOSULFOTLENEK (DMSO) <\/p>\n<p>Gatunek: czysty do analizy<\/p>\n<p>Wzór chemiczny : C2H6OS <\/p>\n<p>Numer CAS : 67-68-5 <\/p>\n<p>Numer WE : 200-664-3 <\/p>\n<p>Synonimy : DMSO<\/p>\n<p>Postać: ciecz <\/p>\n<p>Barwa: bezbarwna <\/p>\n<p>Zapach: siarkowy <\/p>\n<p>Wartość pH: nie dotyczy <\/p>\n<p>Temperatura topnienia: 18,5°C <\/p>\n<p>Temperatura wrzenia: 189°C <\/p>\n<p>Temperatura zapłonu: 87°C (zamknięty tygiel) <\/p>\n<p>Palność: produkt palny (w stanie gorącym) <\/p>\n<p>Granice wybuchowości: dolna - 2,6%(V); górna - 28,5% (V) <\/p>\n<p>Prężność par: 0,556 hPa w 20°C; 4 hPa w 50°C; 20 hPa w 80°C; 49 hPa w 100°C <\/p>\n<p>Gęstość par: 3,48 kg\/ m3 <\/p>\n<p>Względna gęstość par: 2,7 (powietrze = 1) <\/p>\n<p>Gęstość (20°C): 1104 kg\/m3 <\/p>\n<p>Gęstość względna (20°C): 1,104 (woda = 1) <\/p>\n<p>Rozpuszczalność w wodzie: całkowicie rozpuszczalny w 20°C; &gt;1000 g\/l w rozpuszczalnikach organicznych: rozpuszczalny w eterze etylowym, alkoholach, węglowodorach aromatycznych <\/p>\n<p>Współczynnik podziału (n-oktanol\/woda): logKow: -1,35 <\/p>\n<p>Temperatura samozapłonu: 300 -302°C <\/p>\n<p>Rozkład termiczny: powyżej 190°C <\/p>\n<p>Lepkość dynamiczna (20°C): 2,14 mPa*s <\/p>\n<p>Właściwości wybuchowe: nie dotyczy <\/p>\n<p>Właściwości utleniające: nie dotyczy <\/p>\n<p>Napięcie powierzchniowe (20°C): 43,5 mN\/m pKa: 35,1 <\/p>\n<p>Stała Henry’ego: 868E-06 Pa*m3 (Substancja nie jest lotna) <\/p>\n<p>Współczynnik refrakcji bezwzględny (20°C): 1,4785 <\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_11STADMS25"
+    },
+    "category": {
+        "id": "260070"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "48.70",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "14521933515",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:35.520Z"
+    },
+    "createdAt": "2023-10-18T18:24:48.000Z",
+    "updatedAt": "2025-09-10T17:25:35.521Z"
+}

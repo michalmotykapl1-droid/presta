@@ -1,0 +1,301 @@
+{
+    "name": "Mydło w płynie propolis & aloes odżywcze 480ml BARWA RECEPTURY NATURY",
+    "productSet": [
+        {
+            "product": {
+                "id": "1e9f36bd-1810-4a6a-8119-8e109d99ca0a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Barwa"
+                        ],
+                        "valuesIds": [
+                            "248811_1957639"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905172337389"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "26182",
+                        "name": "Rodzaj",
+                        "values": [
+                            "w płynie"
+                        ],
+                        "valuesIds": [
+                            "26182_3"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207570",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "230757",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pompką"
+                        ],
+                        "valuesIds": [
+                            "230757_355565"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Barwa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905172337389"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "17359954-5654-45a5-b8a9-e4869a533b5b"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa mydeł oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Unikaj kontaktu z oczami: Mydło może powodować podrażnienia. W razie kontaktu, przemyj oczy dużą ilością wody.\n*   Nie połykaj: Spożycie mydła może być szkodliwe. W razie połknięcia, skonsultuj się z lekarzem.\n*   Przechowuj poza zasięgiem dzieci: Mydło może zawierać małe elementy, które mogą stanowić ryzyko zadławienia.\n*   Uważaj na alergie: Mydło może zawierać składniki, które mogą powodować reakcje alergiczne. Przed użyciem, sprawdź skład mydła, zwłaszcza jeśli masz skłonność do alergii.\n*   Nie używaj na uszkodzoną skórę: Aplikacja mydła na otwarte rany lub podrażnioną skórę może powodować dalsze podrażnienia lub infekcje.\n*   Sprawdź datę ważności: Nie używaj mydła po upływie terminu ważności.\n*   Mydło w płynie - uważaj na poślizg: Rozlane mydło w płynie może spowodować poślizg. Bezzwłocznie usuń rozlane mydło.\n*   Naturalne olejki eteryczne - ostrożnie w ciąży: Skonsultuj się z lekarzem przed użyciem mydeł z naturalnymi olejkami eterycznymi.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116fb0\/d0617efb4b9cafeef299fa215344"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.74",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116fb0\/d0617efb4b9cafeef299fa215344"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mydło w płynie propolis &amp; aloes odżywcze 480ml BARWA RECEPTURY NATURY<\/h1> <p><b>OPIS<\/b><\/p><p>Odżywcze mydło Receptury Natury to idealny wybór do codziennej pielęgnacji skóry wymagającej ukojenia, regeneracji i głębokiego nawilżenia ✔ Łagodzi i regeneruje – dzięki zawartości naturalnego propolisu, mydło skutecznie wspiera odbudowę naskórka, działa antybakteryjnie i przyspiesza gojenie drobnych uszkodzeń skóry ✔ Silnie nawilża i koi – sok z aloesu intensywnie nawilża skórę ✔ Chroni skórę przed czynnikami zewnętrznymi – propolis wzmacnia naturalną barierę ochronną, dzięki czemu skóra staje się bardziej odporna na działanie wiatru, chłodu i zanieczyszczeń.<\/p>  <p><b>SKŁADNIKI (INCI) <\/b><\/p><p>Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamide DEA, Cocamidopropyl Betaine, Propolis Extract, Aloe Barbadensis Leaf Juice, Allantoin, Rosa Canina Fruit Extract, Panax Ginseng Root Extract, Betaine, Glycerin, Hippophae Rhamnoides Fruit Extract, Propylene Glycol, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum, Coumarin.<\/p>  <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>Nanieś na wilgotne dłonie, spień, a następnie dokładnie spłucz.<\/p>  <p><b>PRODUCENT <\/b><\/p><p>Barwa Sp. z o.o.<\/p><p>ul. T. Szafrana 11, 30-363Kraków, Polska<\/p><p>sklep@barwa.com.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71BARMYDWPR"
+    },
+    "category": {
+        "id": "253350"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.74",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.93",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "73.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1195.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "73.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18035502280",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-28T19:06:27.472Z"
+    },
+    "createdAt": "2025-10-28T19:06:27.000Z",
+    "updatedAt": "2025-10-28T19:21:28.271Z"
+}

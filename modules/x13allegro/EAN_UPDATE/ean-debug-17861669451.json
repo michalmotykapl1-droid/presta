@@ -1,0 +1,310 @@
+{
+    "name": "Krem do twarzy dla mężczyzn BIO 75 ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "134dfe6d-63be-45ca-bc2a-6519b66d5a82",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Urtekram"
+                        ],
+                        "valuesIds": [
+                            "248811_1976665"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5701058013053"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129529",
+                        "name": "Rodzaj",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "129529_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "folia"
+                        ],
+                        "valuesIds": [
+                            "215766_720069"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "URTEKRAM"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5701058013053"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "01a30e8e-ffe2-4696-9e97-cf4ca4f78363"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów z kategorii Uroda - Pielęgnacja - Twarz - Dla mężczyzn oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n1. Zawsze sprawdzaj skład produktu, aby upewnić się, że nie jesteś uczulony na żaden ze składników. Reakcje alergiczne mogą obejmować wysypkę, swędzenie lub obrzęk.\n2. Zaprzestań używania produktu, jeśli wystąpi podrażnienie lub zaczerwienienie skóry. Skonsultuj się z dermatologiem, jeśli objawy utrzymują się lub nasilają.\n3. Unikaj kontaktu produktu z oczami. Jeśli produkt dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W przypadku utrzymującego się podrażnienia, skonsultuj się z lekarzem.\n4. Nie używaj produktów przeterminowanych. Produkty przeterminowane mogą stracić swoje właściwości i stać się szkodliwe dla skóry.\n5. Przechowuj produkty w miejscu niedostępnym dla dzieci. Niektóre produkty mogą zawierać małe elementy, które mogą stanowić zagrożenie zadławienia.\n6. Nie wystawiaj produktów na działanie wysokich temperatur lub bezpośredniego światła słonecznego. Może to wpłynąć na ich jakość i bezpieczeństwo.\n7. Używaj produktów zgodnie z ich przeznaczeniem. Niektóre produkty są przeznaczone tylko do użytku zewnętrznego i mogą być szkodliwe w przypadku spożycia.\n8. Jeśli masz jakiekolwiek istniejące schorzenia skóry, przed użyciem nowego produktu skonsultuj się z dermatologiem.\n9. Nie mieszaj różnych produktów pielęgnacyjnych, chyba że jest to wyraźnie zalecane przez producenta. Niektóre mieszanki mogą prowadzić do niepożądanych reakcji.\n10. Po użyciu dokładnie zamknij opakowanie produktu. Pomoże to zapobiec zanieczyszczeniu i utrzymać jakość produktu.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11eb28\/b8b472334fc8b54bd8f0d271ab95"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "43.86",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11eb28\/b8b472334fc8b54bd8f0d271ab95"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Krem do twarzy dla mężczyzn BIO 75 ml<\/h1><p>Urtekram Men Krem do twarzy z ekstraktem z dębu korkowego i kwasem salicylowym, który zapewnia skórze odwodnionej natychmiastowe ujędrnienie i<\/p><p>uczucie świeżości. <\/p><p>Nadaje skórze matowy wygląd, nadając jej elastyczność i miękkość. <\/p><p>Dla wszystkich<\/p><p>rodzajów skóry. <\/p><p>Certyfikowany przez Ecocert Cosmos Organic, w 100% pochodzenia naturalnego i wegański. <\/p><p>SKŁADNIKI: Aloe Barbadensis Leaf Extract*, Cetearyl Alcohol, Polyglyceryl-3<\/p><p>Dicitrate\/Stearate, C15-19 Alkane, Coco-Caprylate, Propanediol, Butyrospermum Parkii Butter*, Silica, Magnolia Officinalis<\/p><p>Bark Extract, Oak Root Extract, Quercus Suber Bark Extract, Tasmannia Lanceolata Fruit\/Leaf Extract, Beta-Sitosterol,<\/p><p>Salicylic Acid, Cocos Nucifera Oil*, Squalene, Glycerin, Carrageenan, Xanthan Gum, Sodium Gluconate, Tocopherol, Lactic<\/p><p>Acid, Sodium Hydroxide, Aqua, Water, Glyceryl Caprylate, Glyceryl Undecylenate, Parfum, Citronellol, Eugenol, Limonene,<\/p><p>Linalool.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_11392"
+    },
+    "category": {
+        "id": "88999"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "43.86",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.09",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "252.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4110.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "252.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861669451",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T09:58:29.272Z"
+    },
+    "createdAt": "2025-09-05T09:58:29.000Z",
+    "updatedAt": "2025-10-21T01:31:47.404Z"
+}

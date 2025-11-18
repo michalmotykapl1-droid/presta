@@ -1,0 +1,339 @@
+{
+    "name": "Ekstrakt z Miłorzębu japońskiego BIO 50ml ROYAL BRAND",
+    "productSet": [
+        {
+            "product": {
+                "id": "32e61973-3d66-4a2e-b4f7-7dc7ade53b7e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Royal Brand"
+                        ],
+                        "valuesIds": [
+                            "248811_1963718"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907431795206"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "ROYAL BRAND"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.129"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "miłorząb japoński"
+                        ],
+                        "valuesIds": [
+                            "210698_243946"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez aspartamu",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy",
+                            "czysty (bez dodatków)",
+                            "ekologiczny",
+                            "przechowywać w lodówce",
+                            "szybkowchłanialne",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_1797964",
+                            "210762_8",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16",
+                            "210762_8192",
+                            "210762_1797418",
+                            "210762_2048",
+                            "210762_1797963",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907431795206"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "7cc5b817-95ee-430d-a13f-ce10256b9d44"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112ca9\/fbc0077443bda83aac3324ebf0ab"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "35.76",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112ca9\/fbc0077443bda83aac3324ebf0ab"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Ekstrakt z Miłorzębu japońskiego BIO 50ml ROYAL BRAND<\/h1> <p><b>OPIS <\/b><\/p><p>Ekstrakt powstaje w wyniku zimnej ekstrakcji, dzięki której zachowane zostaje pełne spektrum bioaktywnych składników, a sam preparat cechuje się wysoką biodostępnością i skutecznością. W przeciwieństwie do tradycyjnych metod, technika zimnej ekstrakcji umożliwia wydobycie cennych substancji aktywnych. Full Spectrum Extraction gwarantuje maksymalne pozyskanie wartościowych składników z każdego grama liście melisy lekarskiej bio. Ekstrakt bazuje na alkoholu, ponieważ tylko taka forma ekstrakcji zapewnia pełną bioaktywację wszystkich składników.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Ekstrakt z bio ginkgo biloba ; Ginkgo biloba L. (ekstrahent 90% alkoholu bio), składniki czynne: polifenole, flawonoidy, katechiny, terpeny: laktony, bilobalid.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1-2 łyżeczki (11-22 krople) w ciągu dnia(4ml = 1 łyżeczka)<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt może zaburzać zdolności prowadzenia pojazdów i obsługiwania maszyn. Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Zalecany jest zrównoważony sposób żywienia i zdrowy styl życia. Kobiety w ciąży i karmiące piersią przed spożyciem powinny skontaktować się z lekarzem. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej w sposób niedostępny dla małych dzieci. Chronić przed słońcem i przechowywać w suchym miejscu.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z11ROYEKSMI"
+    },
+    "category": {
+        "id": "257514"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.76",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "8.22",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "206.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3350.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "206.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17915490006",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T17:10:49.672Z"
+    },
+    "createdAt": "2025-09-22T17:10:49.000Z",
+    "updatedAt": "2025-10-17T13:31:05.774Z"
+}

@@ -1,0 +1,394 @@
+{
+    "name": "PŁYN CZYSZCZĄCY DO TRUDNYCH ZABRUDZEŃ Z OLEJKIEM POMARAŃCZOWYM (KONCENTRAT)",
+    "productSet": [
+        {
+            "product": {
+                "id": "327e4cd9-e024-488d-976c-5b42e0b5f178",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250618",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Olejek pomarańczowy do trudnych zabrudzeń"
+                        ],
+                        "valuesIds": [
+                            "250618_1956325"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "AlmaWin"
+                        ],
+                        "valuesIds": [
+                            "248811_1957096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4019555700231"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215006",
+                        "name": "Rodzaj",
+                        "values": [
+                            "czyszczenie wielofunkcyjne"
+                        ],
+                        "valuesIds": [
+                            "215006_376529"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249932",
+                        "name": "Typ",
+                        "values": [
+                            "Płyny i mleczka uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "249932_1783933"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213906",
+                        "name": "Waga produktu",
+                        "values": [
+                            "0.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233849",
+                        "name": "Opakowanie produktu",
+                        "values": [
+                            "plastikowa butelka"
+                        ],
+                        "valuesIds": [
+                            "233849_375237"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "234169",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "234169_376521"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "234165",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczny"
+                        ],
+                        "valuesIds": [
+                            "234165_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Niemcy"
+                        ],
+                        "valuesIds": [
+                            "249649_1723399"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "przyjemny"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "220153",
+                        "name": "Liczba sztuk w zestawie",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4019555700231"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9c08eeda-23d2-4b95-a33f-2db7c913392d"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11dd3f\/8ef0e7da4a4d9ca12e75a6cd0f74"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "64.58",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 97,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11dd3f\/8ef0e7da4a4d9ca12e75a6cd0f74"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁYN CZYSZCZĄCY DO TRUDNYCH ZABRUDZEŃ Z OLEJKIEM POMARAŃCZOWYM (KONCENTRAT)<\/h1><p>SKŁADNIKI<\/p><p>⩾ 30% surfaktanty anionowe (olej czerwieni tureckiej), węglowodory alifatyczne (terpeny z naturalnej skórki pomarańczy), &lt;5% niejonowe środki powierzchniowo czynne. Zawiera: substancje zapachowe (naturalny olejek lawendowy*), limonen, linalol, cytral, cytronelol, geraniol, farnezol. Pozostałe składniki: etanol, kwas mlekowy. *z kontrolowanych upraw ekologicznych. 100 % składników jest pochodzenia naturalnego. <\/p><p>OPIS<\/p><p>Wszechstronny środek czyszczący, niezwykle wydajny i ekonomiczny. Bez trudu usuwa nawet najbardziej uporczywe plamy, a po rozcieńczeniu można stosować go do czyszczenia wszelkich powierzchni. Owocowy, świeży zapach pomarańczy rozprasza nieprzyjemne zapachy i zły nastrój. <\/p><p>Produkt wegański, posiada certyfikat ekologiczny Ecogarantie i został pomyślnie przetestowany dermatologicznie. Butelka jest wykonana w 100% z przetworzonego PET.<\/p><p>Olejek pomarańczowy zawiera naturalne terpeny pochodzące ze skórki z pomarańczy.Na bazie odnawialnych i zrównoważonych surowcówTrwały środek do usuwania tłuszczuWysoce skuteczny środek czyszczącyNeutralizuje nieprzyjemne zapachyBiodegradowalne składnikiNiezwykle wydajny w użyciuButelka powstała z zebranych i rozdrobnionych odpadów plastikowych, które mogą być wielokrotnie poddawane recyklingowi. W 100 % nadaje się do dalszego recyklinguEtykieta nadaje się do recyklingu, wydrukowana z użyciem tuszu bez dodatku olejów mineralnych<\/p><p>ZASTOSOWANIE<\/p><p>Kuchnie i łazienki: do blatów, okapów, piekarników, grilli, kafelek, zlewów. Do szczególnie uporczywych zabrudzeń.<\/p><p>Podłogi: marmurowe, terakotowe, wykładziny PCV, laminaty, linolea, a także do usuwania pozostałości kleju i śladów gumy (czarne smugi).<\/p><p>Powierzchnie szklane: lustra, szyby okienne.<\/p><p>Do zastosowań zewnętrznych: do plastikowych mebli ogrodowych, powierzchni patio, odpowiedni do każdego rodzaju zabrudzeń i przebarwień. <\/p><p>Samochód, łódź, przyczepa kempingowa, motocykl, rower, warsztat: skuteczne usuwanie pozostałości po owadach, odtłuszczanie łańcuchów rowerowych lub motocyklowych.<\/p><p>Usuwanie etykiet: np. etykiety od słoików po dżemie.<\/p><p>Tekstylia: dywany, odzież, tapicerki, meble. np. do usuwania pozostałości kleju, smaru, żywicy, gumy do żucia, lakieru do paznokci, oleju, farby, lakieru, sadzy, smaru, smoły, atramentu, wosku ze świec, długopisów, pisaków.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Powierzchnie:<\/p><p>Do wiadra z 5 litrami wody dodać 5-20 ml środka czyszczącego. Zwilżyć brud wodą, a następnie nanieść mieszaninę i pozostawić na krótki czas. Następnie wytrzeć dużą ilością wody. W razie potrzeby czynność powtórzyć.<\/p><p>Tekstylia:<\/p><p>Zwilżyć plamę, nanieść kilka kropli środka czyszczącego na plamę. Pozostawić do przereagowania. Delikatnie wetrzeć, następnie wyprać tekstylia w pralce lub wypłukać dużą ilością wody.<\/p><p>Powierzchnie szklane:<\/p><p>Dodać odrobinę środka czyszczącego na bazie olejku pomarańczowego do 5 litrów wody. Jeśli dawka jest zbyt wysoka, powstaną smugi.<\/p><p>Uwaga: Stosować wyłącznie na białych lub trwałych tkaninach. Przed użyciem należy sprawdzić reakcję materiału na niewidocznym obszarze. Nie stosować na szkle akrylowym, drewnie lub powierzchniach malowanych! <\/p><p>Ogólne zastosowanie:<\/p><p>Mniej znaczy więcej: użyj mniejszej ilości środka czyszczącego i większej ilości wody, dając środkowi wystarczająco dużo czasu, aby zadziałał. W zależności od stopnia zabrudzenia, czas działania może wynosić kilka minut.<\/p><p>UWAGA<\/p><p>Łatwopalna ciecz i pary.<\/p><p>Połknięcie i dostanie się przez drogi oddechowe może grozić śmiercią.<\/p><p>Działa drażniąco na skórę. Może powodować reakcje alergiczne skóry. <\/p><p>Powoduje poważne podrażnienie oczu.<\/p><p>Działa bardzo toksycznie na organizmy wodne, powodując długotrwałe skutki.<\/p><p>Jeżeli konieczna jest porada lekarska, należy przygotować opakowanie lub etykietę identyfikacyjną.<\/p><p>Unikać uwolnienia do środowiska. <\/p><p>Stosować rękawice ochronne\/ochronę oczu\/ochronę twarzy<\/p><p>W przypadku połknięcia: Natychmiast skontaktować się z Ośrodkiem zatruć lub lekarzem. Nie wywoływać wymiotów<\/p><p>W przypadku dostania się do oczu: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Kontynuować płukać. <\/p><p>Zawartość\/pojemnik usuwać zgodnie z lokalnymi przepisami. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w miejscu niedostępnym dla dzieci. Przechowywać z dala od źródeł ciepła, gorących powierzchni, źródeł iskrzenia, otwartego ognia i innych źródeł zapłonu. Nie palić.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALMAWIN REINIGUNGSKONZENTRATE GMBH, TALSTR 2, 73644 WINTERBACH<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_3696"
+    },
+    "category": {
+        "id": "253359"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "64.58",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.85",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "371.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6050.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "371.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876960502",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T10:34:14.760Z"
+    },
+    "createdAt": "2025-09-10T10:34:14.000Z",
+    "updatedAt": "2025-09-10T10:49:15.092Z"
+}

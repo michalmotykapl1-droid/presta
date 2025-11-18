@@ -1,0 +1,336 @@
+{
+    "name": "Eliksir dla odprowadzania wody z organizmu bezalkoholowy 100ml MIR-LEK",
+    "productSet": [
+        {
+            "product": {
+                "id": "5f70743a-02f4-4cae-925c-cfb3bb05f1e7",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "21MIRELIDO"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mir-Lek"
+                        ],
+                        "valuesIds": [
+                            "248811_1962092"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906660437857"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców",
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32",
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "CLA"
+                        ],
+                        "valuesIds": [
+                            "210698_243598"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "210762_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906660437857"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1105de\/02762cba48408c72fbb3e12a423a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.62",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1105de\/02762cba48408c72fbb3e12a423a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Eliksir dla odprowadzania wody z organizmu bezalkoholowy 100ml MIR-LEK<\/h1> <p><b>OPIS <\/b><\/p><p>Eliksir bezalkoholowy dla ODPROWADZANIA WODY Z ORGANIZMU - Suplement diety z kłączem perzu i ostrokrzewem paragwajskim<\/p><p>Ostrokrzew paragwajski wspomaga odprowadzenie wody z organizmu, wspiera metabolizm tłuszczów, perz wspomaga wydalenie wody przez nerki<\/p> <p>Eliksir dla wydalania wody z organizmu powstał z wyciągów z roślin takich jak: perz właściwy , cynamon , bez czarny , ostrokrzew paragwajski , karczoch zwyczajny , jałowiec pospolity , łuska gryki. Perz właściwy tradycyjnie stosowany w celu wspomagania funkcji wydalniczej nerek, i ułatwienia kontroli masy ciała, wspomaga prawidłowe funkcjonowanie układu moczowego, pobudza eliminację wody i toksyn cynamon wspomaga układ moczowy bez czarny pomaga w działaniach mających na celu kontrolę wagi, ostrokrzew paragwajski wspomaga odprowadzenie wody z organizmu , karczoch, może pomóc w obniżeniu wspomaga metabolizm tłuszczy i węglowodanów.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Woda, wyciąg wodne 1:1: z kłącza perzu właściwego (Elymus repens radix) 20%, z kory cynamonowca (Cinnamomum zeylaricum) 16%, z owocu bzu czarnego (Sambucus nigra fructus) 16%, z ostrokrzewu paragwajskiego (Ilex paraguariensis) 16%, z karczocha zwyczajnego (Cynara scolymus) 12%, z owocu jałowca pospolitego (Juniperus communis fructus) 12%, z łuski gryki (Fagopyrum esculentum ) 8%, sok z cytryny (Citrus limon).<\/p><p>Składniki w porcji dziennej (16 ml):<\/p><p>Wyciągi wodne 1:1:<\/p><p>z kłącza perzu właściwego (Elymus repens radix) - 1,10 g<\/p><p>z kory cynamonowca (Cinnamomum zeylaricum) - 0,80g<\/p><p>z owocu bzu czarnego (Sambucus nigra fructus) - 0,80g<\/p><p>z ostrokrzewu paragwajskiego (Ilex paraguariensis - 0,80g<\/p><p>z karczocha zwyczajnego (Cynara scolymus) - 0,60g<\/p><p>z owocu jałowca pospolitego (Juniperus communis fructus) - 0,60g<\/p><p>z łuski gryki (Fagopyrum esculentum ) - 0,40g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecane spożycie: 2 razy w ciągu doby po 8 ml eliksiru ( 2 nakrętki)<\/p><p>Sposób użycia: 2 nakrętki eliksiru (8 ml) wlać do kieliszka lub szklanki z wodą i wypić. Produkt przeznaczony dla dorosłych. Osad jest zjawiskiem naturalnym. Wstrząsnąć przed spożyciem. Nie stosować u kobiet w ciąży i w okresie karmienia piersią. Nie stosować u osób uczulonych na jakikolwiek składnik produktu. Produkt pasteryzowany.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywanie: przechowywać w suchym i chłodnym miejscu, w sposób niedostępny dla małych dzieci. Chronić przed dostępem promieni słonecznych. Po otwarciu przechowywać w lodówce w szczelnie zamkniętej butelce, spożyć w ciągu 7 dni.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MIRELIDO"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.62",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.51",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1840.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871714667",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:15:59.110Z"
+    },
+    "createdAt": "2025-09-08T20:15:59.000Z",
+    "updatedAt": "2025-09-13T16:46:16.946Z"
+}

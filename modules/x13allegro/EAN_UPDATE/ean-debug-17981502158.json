@@ -1,0 +1,361 @@
+{
+    "name": "Czekoladki czarna porzeczka z jogurtem Diabetki 100g",
+    "productSet": [
+        {
+            "product": {
+                "id": "08019061-24db-4048-a4bd-2f252de21e5f",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907617638679"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "M²"
+                        ],
+                        "valuesIds": [
+                            "248811_1962312"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Czekoladki o smaku czarnej porzeczki z jogurtem"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "120"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "32"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "56.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "6.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907617638679"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118130\/1a507f1d43ae94e96046febe2af3",
+        "https:\/\/a.allegroimg.com\/original\/112eb2\/2d520b1c418faa40ff475de3fe83"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "13.24",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118130\/1a507f1d43ae94e96046febe2af3"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Czekoladki czarna porzeczka z jogurtem Diabetki 100g<\/h1> <p><b>Czekoladki czarna porzeczka z jogurtem Diabetki, 100g <\/b><\/p> <p>Połączenie przepysznej czarnej porzeczki z masą jogurtową i prawdziwą czekoladą. Coś, czego jeszcze nie było a do czego chętnie się wraca. Nieoczywisty smak, starannie dobrana kompozycja, czekoladkowy przebój. Produkt o niskim indeksie glikemicznym, o znacznie obniżonej zawartości cukru. Słodzony maltitolem - naturalnym wyciągiem ze zbóż.<\/p> <p><b>Składniki:<\/b><\/p><p>tłuszcz roślinny (shea), substancja słodząca: maltitol, czekolada (25%) [miazga kakaowa, substancja słodząca: maltitol, tłuszcz kakaowy, emulgator: lecytyny (z soi), aromat naturalny waniliowy], mleko pełne w proszku, proszek jogurtowy (5,5%) (z mleka), czarna porzeczka granulowana (3,5%), mleko odtłuszczone w proszku, emulgator: lecytyny (z soi), naturalne aromaty.<\/p> <p><b>Wartość odżywcza w 100 g: <\/b><\/p><p>Wartość energetyczna 2274 kJ \/ 545 kcal<\/p><p>Tłuszcze 32,0 g<\/p><p>w tym kwasy tłuszczowe nasysone 16,8 g<\/p><p>w tym kwasy tłuszczowe jednonasysone 11,9 g<\/p><p>w tym kwasy tłuszczowe wielonasysone 1,6 g<\/p><p>w tym kwasy tłuszczowe trans &lt; 0,06 g<\/p><p>OMEGA - 3 0,1 g<\/p><p>OMEGA - 6 1,5 g<\/p><p>Azot 1,1 g<\/p><p>Białko 6,9 g<\/p><p>Węglowodany przyswajalne 56,9 g<\/p><p>w tym cukry ogółem 8,1 g<\/p><p>Błonnik pokarmowy 0,9 g<\/p><p>Sól 0,4 g<\/p> <p><b>Alergeny:<\/b><\/p><p>mleko, soja, orzechy<\/p><p>Może zawierać orzechy i jaja.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent: <\/b><\/p><p>Alma Bonbons Sp. z o.o. Sp.k.<\/p><p>ul. Dolna 20a<\/p><p>98-160 Sędziejowice<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112eb2\/2d520b1c418faa40ff475de3fe83"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5907617638679"
+    },
+    "category": {
+        "id": "261183"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.24",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.05",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "76.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1240.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "76.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981502158",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T09:27:22.339Z"
+    },
+    "createdAt": "2025-10-14T09:27:22.000Z",
+    "updatedAt": "2025-10-14T09:42:22.577Z"
+}

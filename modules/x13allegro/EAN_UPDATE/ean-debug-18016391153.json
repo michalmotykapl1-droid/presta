@@ -1,0 +1,332 @@
+{
+    "name": "SWISSMEDICUS Pferdebalsam z CBD chłodzący 200ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "1dcfe20b-0550-4ec0-b6f4-b4b7e61922f0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Herbamedicus"
+                        ],
+                        "valuesIds": [
+                            "248811_1960377"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "7640133074481"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Herbamedicus Pferde Balsam CBD Chłodzący"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.23"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "maść"
+                        ],
+                        "valuesIds": [
+                            "210758_260978"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "bóle mięśniowo-stawowe"
+                        ],
+                        "valuesIds": [
+                            "213970_265302"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "inny"
+                        ],
+                        "valuesIds": [
+                            "213962_265238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "290"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "213714_16384"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "7640133074481"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "4f88affb-c704-4a70-afec-a88a2355e63e"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118d22\/db03c2d441a684f82cc90f270cdd"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "60.74",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118d22\/db03c2d441a684f82cc90f270cdd"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>SWISSMEDICUS Pferdebalsam z CBD chłodzący 200ml<\/h1> <p><b>OPIS <\/b><\/p><p>PferdeBalsam z CBD Chłodzący SwissMedicus<\/p> <p>Chłodzącą Maść z CBD - specjalny balsam roślinny, starannie przygotowany przy użyciu 25 rodzajów ekstraktów ziołowych, w tym godnych uwagi składników z kasztanowca, jałowca pospolitego, żywokostu i ekstraktów roślinnych opartych na specjalnej szwajcarskiej recepturze. Wzbogacona ekstraktem CBD, ta maść oferuje unikalne i skuteczne rozwiązanie dla Twoich potrzeb zdrowotnych.<\/p> <p>CBD to bardzo silny kannabinoid występujący naturalnie w konopiach. Znany ze swoich niezwykłych właściwości, CBD jest drugim najważniejszym kannabinoidem po THC. W naszej chłodzącej maści z CBD ten wyjątkowy składnik zajmuje centralne miejsce, oferując szereg korzyści dla mięśni i skóry. Ta chłodząca maść została specjalnie zaprojektowana do masowania zmęczonych mięśni, napiętych pleców i stawów, dzięki czemu jest idealnym wyborem do regeneracji po wysiłku fizycznym lub po sporcie. Jego unikalna formuła działa błyskawicznie, zapewniając intensywne orzeźwienie przy jednoczesnej poprawie krążenia krwi. Poprawiając ukrwienie, maść wzmacnia działanie zawartych w niej składników aktywnych, przyspieszając proces gojenia i regeneracji. Włączenie kasztanowca do naszej maści chłodzącej z CBD dodatkowo wzmacnia jej zalety. Ekstrakt z kasztanowca ma właściwości poprawiające krążenie krwi i przynoszące ulgę zmęczonym mięśniom i stawom. Pomaga zmniejszyć dyskomfort i rewitalizuje dotknięte obszary, pomagając w szybszym powrocie do zdrowia. Jałowiec pospolity to kolejny kluczowy składnik, zwiększa skuteczność maści. Jego naturalne właściwości chłodzące zapewniają kojące uczucie po aplikacji, oferując natychmiastową ulgę zmęczonym i napiętym mięśniom. Pobudzając przepływ krwi, jałowiec wspomaga procesy gojenia organizmu, ułatwiając szybszą regenerację. Znany ze swoich właściwości regeneracyjnych żywokost to niezbędny składnik naszej chłodzącej maści. Wspomaga naprawę i odmłodzenie komórek, pomagając w regeneracji mięśni, stawów i tkanek. Dzięki ekstraktowi z żywokostu maść zapewnia odżywienie i wsparcie potrzebne do szybkiej i skutecznej rekonwalescencji.<\/p> <p>Oprócz tych silnych ekstraktów ziołowych, chłodząca maść z CBD zawiera ekstrakty roślinne według specjalnej szwajcarskiej receptury. Te starannie dobrane ekstrakty roślinne działają w harmonii, wzmacniając ogólne działanie terapeutyczne maści, dodatkowo przyczyniając się do jej właściwości rewitalizujących.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Po naniesieniu na dotknięty obszar należy delikatnie wmasować tyle żelu, ile wchłonie skóra. Stosować na czystą skórę. Aby uzyskać lepsze efekty, można zastosować okład z grubą warstwą żelu. Preparat na bazie naturalnej, można używać go przez długi czas bez ograniczeń. Regularne stosowanie zwiększa skuteczność.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Alcohol Denat., Glycerin, Menthol, Symphytum Officinale Root Extract, Aesculus Hippocastanum Seed Extract, Cannabidiol, Propylene Glycol, Camphor, Eucalyptus Globulus Leaf Oil, Abies Alba Leaf Oil, Mentha Piperita Oil, Thymus Vulgaris Oil, Juniperus Communis Fruit Oil, Arnica Montana Flower Extract, Ginkgo Biloba Leaf Extract, Scutellaria Baicalensis Extract, Pinus Pumila Twig Leaf Oil, Pinus Mugo Twig Oil, Echinacea Purpurea Extract, Agrimonia Eupatoria Extract, Calendula Officinalis Flower Extract, Vaccinium Myrtillus Fruit Extract, Polygonum Bistorta Root Extract, Citrus Limon Fruit Oil, Citrus Grandis Peel Oil, Rosmarinus Officinalis Leaf Oil, Lavandula Angustifolia Oil, Calluna Vulgaris Extract, Ribes Nigrum Fruit Extract, Chamomilla Recutita Flower Extract, Carbomer, Polysorbate 80, Imidazolidinyl Urea, Phenoxyethanol, Sodium Hydroxide, Ethylhexylglycerin, PEG-12 Dimethicone, Limonene, Linalool.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21HEMSPFCC"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "60.74",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "13.97",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "349.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5690.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "349.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016391153",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:53:21.152Z"
+    },
+    "createdAt": "2025-10-22T07:53:21.000Z",
+    "updatedAt": "2025-10-22T08:52:29.052Z"
+}

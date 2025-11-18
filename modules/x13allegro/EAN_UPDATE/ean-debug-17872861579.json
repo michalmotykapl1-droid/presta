@@ -1,0 +1,361 @@
+{
+    "name": "BINGOSPA Sól z Morza Martwego 100% 1,25kg",
+    "productSet": [
+        {
+            "product": {
+                "id": "7c8b998c-8c4b-4bc7-a823-8da99c09bd7c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "BINGOSPA"
+                        ],
+                        "valuesIds": [
+                            "248811_1978903"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237222",
+                        "name": "Seria",
+                        "values": [
+                            "71SOLBINSC"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "217145",
+                        "name": "Rodzaj",
+                        "values": [
+                            "sól"
+                        ],
+                        "valuesIds": [
+                            "217145_276249"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium",
+                            "amoniaku",
+                            "olejów mineralnych",
+                            "parabenów",
+                            "parafiny",
+                            "PEG",
+                            "silikonów",
+                            "składników pochodzenia zwierzęcego",
+                            "SLES",
+                            "SLS",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512",
+                            "129770_1024",
+                            "129770_16",
+                            "129770_128",
+                            "129770_8",
+                            "129770_256",
+                            "129770_32",
+                            "129770_64",
+                            "129770_4",
+                            "129770_2",
+                            "129770_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "1.39"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "1250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "bezzapachowa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "Morze Martwe"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5901842006593"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901842006593"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d6785a6b-9ae3-4ea0-a156-74e27fd77b3d"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ae0d\/d03a04c346d1a1ae848c4096ab8e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.03",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 15,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ae0d\/d03a04c346d1a1ae848c4096ab8e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BINGOSPA Sól z Morza Martwego 100% 1,25kg<\/h1> <p><b>OPIS <\/b><\/p><p>Skład minerałów w Morzu Martwym jest inny niż w typowej wodzie z oceanu. W morzu 97% soli stanowi chlorek sodu NaCl (sól kuchenna), ale w Morzu Martwym jest go tylko 8%.<\/p><p>Woda Morza Martwego zawiera 53% chlorku magnezu, 37% chlorku potasu, Ponadto w mniejszych ilościach obecne są też sód, chrom, cynk, mangan, miedź, żelazo i inne. Oprócz chlorków, jako aniony, występują też bromki, jodki, siarczany i węglany. Stężenie siarczanów, SO42-, jest bardzo małe, natomiast stężenie bromków w wodzie jest najwyższe na świecie.<\/p> <p>100% naturalna, nieoczyszczona sól pozyskiwana jest z Morza Martwego w procesie odparowania wody. Kryształki soli mogą mieć kolor od jasnoszary z różowym odcieniem<\/p> <p>Zastosowanie kąpieli w soli z Morza Martwego:<\/p><p>-trądzik i wypryski;<\/p><p>-grzybice;<\/p><p>-nadmierne pocenie;<\/p><p>-problemy stóp - pękanie skóry pięt, objawy grzybiczne;<\/p><p>-łuszczyca;<\/p><p>-atopowe zapalenie skóry;<\/p><p>-reumatyzm;<\/p><p>-bóle mięśni;<\/p><p>-nerwice, stres, ogólne przemęczenie;<\/p> <p><b>SKŁADNIKI INCI<\/b><\/p><p>Maris Sal (Dead Sea Salt)<\/p> <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>Do kąpieli solankowch: do wody o temp. 40 st. C wsypać 4 płaskie nakrętki soli. Przebywać w kąpieli 20 minut. Następnie ciało spłukać wodą i zawinąć w ręcznik na kilka minut. <\/p> <p>Do kąpieli jacuzzi: do wody o temp. 40 st. C wsypać 2 płaskie nakrętki soli. Przebywać w kąpieli 20 minut. Następnie ciało spłukać wodą i zawinąć w ręcznik na kilka minut. <\/p> <p>Do okładów: sól wymieszać z niewielką ilością ciepłej wody do otrzymania konsystencji pasty, którą nałożyć na wybrane miejsca ciała. Można stosować pod prysznicem.<\/p> <p>Do zabiegów SPA: stosować do różnego rodzaju zabiegów SPA po konsultacji ze specjalistą. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SOLBINSC"
+    },
+    "category": {
+        "id": "93058"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.03",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.14",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "178.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2910.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "178.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17872861579",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-09T05:48:36.476Z"
+    },
+    "createdAt": "2025-09-09T05:48:36.000Z",
+    "updatedAt": "2025-09-09T06:03:36.730Z"
+}

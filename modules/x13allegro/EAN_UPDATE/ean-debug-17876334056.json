@@ -1,0 +1,336 @@
+{
+    "name": "ETJA Olej z Nasion Baobabu 50ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "d2933a7f-67a8-4f2e-820d-6a2852c78ac5",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Etja"
+                        ],
+                        "valuesIds": [
+                            "248811_984388"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908310446868"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Mieszanka"
+                        ],
+                        "valuesIds": [
+                            "22158_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "składników pochodzenia zwierzęcego"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_64"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pipetą"
+                        ],
+                        "valuesIds": [
+                            "215766_271246"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247999",
+                        "name": "Typ",
+                        "values": [
+                            "olej"
+                        ],
+                        "valuesIds": [
+                            "247999_840184"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "Baobabu"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.121"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908310446868"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9b22bd8c-6140-47d9-81f0-d63774981ca5"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11130d\/a1e2b0404294b69a07e7273df5c5"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "24.80",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 8,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11130d\/a1e2b0404294b69a07e7273df5c5"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ETJA Olej z Nasion Baobabu 50ml<\/h1> <p><b>OPIS <\/b><\/p><p>OLEJ Z NASION BAOBABU \/Adansonia Digitata Seed Oil\/<\/p><p>Naturalny, nierafinowany, kosmetyczny, tłoczony na zimno olej z nasion baobabu. Zawiera znaczne ilości NNKT (kwas omega-3,6,9 ), witaminy A, B, E, D, F i karoteny. Olej z baobabu ma silne działanie nawilżające, przeciwzapalne, łagodzące oraz przyspiesza gojenie. Jest skuteczny w walce z różnymi problemami skóry, m.in. egzemą, łuszczycą, trądzikiem. Polecany jest szczególnie do walki z rozstępami i cellulitem. Karoteny zawarte w oleju chronią przed promieniowaniem UV oraz łagodzą ból w przypadku oparzeń. Olej spłyca i wygładza głębokie zmarszczki. Doskonały do cery zniszczonej, suchej, wrażliwej i skłonnej do wyprysków.<\/p> <p>Olej z nasion baobabu oferowany przez firmę ETJA jest zimnotłoczony, nierafinowany i w 100% naturalny.<\/p><p><b>SPOSÓB UŻYCIA<\/b><\/p><p>• stosować bezpośrednio na skórę w rozcieńczeniu do 90 % z innym olejem nośnikowym,<\/p><p>• Kąpiel nawilżająco-regeneracyjna - do wanny wypełnionej 1\/3 ciepłej wody dodać 10 ml oleju<\/p><p>(ok. 20 naciśnięć pompką dozującą). Kąpać się 15-20 minut,<\/p><p>• dodatek do kosmetyków o właściwościach regeneracyjnych i pielęgnacji po opalaniu,<\/p><p>• w rozcieńczeniu z innym olejem używać jako balsam na wilgotnej skórze. Szybko się wchłania i nietłuści<\/p><p>ubrań,<\/p><p>• do masażu całego ciała, zwłaszcza szyi i barków jako dodatek rozgrzewający,<\/p><p>• dodatek do własnoręcznie robionych balsamów i kremów chroniących, przed ekspozycją na trudne warunki<\/p><p>atmosferyczne, jak mróz, wiatr, mocne słońce,<\/p><p>• pielęgnacja suchych, zniszczonych i łamliwych włosów - niewielką ilość wcierać w wilgotne włosy po umyciu <\/p><p>przed ich wysuszeniem, • wcierany w skórę głowy zwalcza łupież,<\/p><p>• olejowe kompresy o właściwościach regeneracyjnych - wcierać olej w lekko wilgotne lub suche włosy przed<\/p><p>umyciem, odczekać 20-30 minut i umyć delikatnym szamponem,<\/p><p>• pielęgnacja dłoni i paznokci,<\/p><p>• regeneracyjne kąpiele spękanej skóry stóp.<\/p><p><b>POCHODZENIE <\/b><\/p><p>Ghana<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71ETJOLENASBA"
+    },
+    "category": {
+        "id": "144742"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "24.80",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.70",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "143.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2325.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "143.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876334056",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:07:52.435Z"
+    },
+    "createdAt": "2025-09-10T05:07:52.000Z",
+    "updatedAt": "2025-10-17T08:07:15.476Z"
+}

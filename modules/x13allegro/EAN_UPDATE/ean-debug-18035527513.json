@@ -1,0 +1,280 @@
+{
+    "name": "Szampon dla dzieci BIO 500 ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "4499fe18-64b4-4e35-9453-7404b1f072dd",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Urtekram"
+                        ],
+                        "valuesIds": [
+                            "248811_1976665"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5765228838709"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237574",
+                        "name": "Rodzaj",
+                        "values": [
+                            "inny"
+                        ],
+                        "valuesIds": [
+                            "237574_410150"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "SLES"
+                        ],
+                        "valuesIds": [
+                            "129770_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5765228838709"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "01a30e8e-ffe2-4696-9e97-cf4ca4f78363"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa balsamów i olejków do ciała oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie skórne: Zawsze wykonaj test na małym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna. Unikaj stosowania, jeśli masz znaną alergię na którykolwiek ze składników.\n2.  Przechowywanie: Przechowuj w miejscu niedostępnym dla dzieci, aby uniknąć przypadkowego spożycia.\n3.  Użycie zewnętrzne: Wyłącznie do użytku zewnętrznego. Unikaj kontaktu z oczami. W przypadku dostania się do oczu, natychmiast przemyj je dużą ilością wody.\n4.  Zastosowanie u dzieci: Produkty przeznaczone dla dorosłych mogą zawierać składniki, które nie są odpowiednie dla skóry dzieci. Wybieraj produkty specjalnie opracowane dla dzieci.\n5.  Wrażliwość na słońce: Niektóre olejki eteryczne mogą zwiększać wrażliwość skóry na słońce. Unikaj ekspozycji na słońce bezpośrednio po użyciu lub stosuj krem z filtrem.\n6.  Jakość produktu: Nie używaj produktu, jeśli zauważysz zmiany w kolorze, zapachu lub konsystencji.\n7.  Warunki przechowywania: Przechowuj w chłodnym, suchym miejscu, z dala od bezpośredniego światła słonecznego i źródeł ciepła.\n8.  Konsultacja medyczna: Skonsultuj się z lekarzem przed użyciem w czasie ciąży, karmienia piersią lub jeśli masz istniejące problemy skórne.\n9. Ryzyko poślizgu: Po zastosowaniu olejku na skórę unikaj chodzenia po śliskich powierzchniach.\n10. Składniki: Zwróć uwagę na składniki produktu w przypadku dzieci i unikaj substancji zaburzających gospodarkę hormonalną, barwników, konserwantów i substancji zapachowych.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114541\/7f01b32c492584677bb05b15e96f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "51.61",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 43,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114541\/7f01b32c492584677bb05b15e96f"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Szampon dla dzieci BIO 500 ml<\/h1><p>Nawilżająco odżywczy szampon do włosów dla Dzieci to kosmetyk, który uczyni włosy Twojego dziecka zdrowe, czyste i miękkie. <\/p><p>Nadaje się dla dzieci od pierwszego roku życia. <\/p><p>SKŁADNIKI: Aqua, aloe barbadensis leaf extract*, sodium coco-sulfate, glycerin**, coco-glucoside, lauryl glucoside, glyceryl oleate, sodium chloride, calendula officinalis flower extract*, parfum, polyglyceryl-4 caprate, xanthan gum, lysolecithin, coco-caprylate, magnolia officinalis bark extract, tocopherol, beta-sitosterol, squalene. <\/p><p>(* = ingredient from Organic Farming, ** = made using organic ingredients).<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "EKOWIT_09872"
+    },
+    "category": {
+        "id": "99387"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "51.61",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.87",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "297.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4835.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "297.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18035527513",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-28T19:13:47.809Z"
+    },
+    "createdAt": "2025-10-28T19:13:47.000Z",
+    "updatedAt": "2025-10-28T19:28:48.497Z"
+}

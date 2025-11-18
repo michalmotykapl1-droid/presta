@@ -1,0 +1,368 @@
+{
+    "name": "KALENDARZ ADWENTOWY 2025 (HERBATKI I HERBATY) BIO (24 szt.) 45,7 g - YOGI T",
+    "productSet": [
+        {
+            "product": {
+                "id": "bfe582c7-70bb-4180-a48a-1a2a35c00a1a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Yogi Tea"
+                        ],
+                        "valuesIds": [
+                            "248811_1965467"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "45.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4012824723856"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3458",
+                        "name": "Forma",
+                        "values": [
+                            "ekspresowa"
+                        ],
+                        "valuesIds": [
+                            "3458_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Herbata świąteczna Yogi tea"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "128430",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Indie"
+                        ],
+                        "valuesIds": [
+                            "128430_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "antyzbrylaczy",
+                            "barwników",
+                            "cholesterolu",
+                            "drożdży",
+                            "glutenu",
+                            "GMO",
+                            "jajek",
+                            "konserwantów",
+                            "laktozy",
+                            "nabiału",
+                            "oleju palmowego",
+                            "orzechów",
+                            "pestek",
+                            "pszenicy",
+                            "soi",
+                            "tłuszczy trans (utwardzanych)"
+                        ],
+                        "valuesIds": [
+                            "130691_8388608",
+                            "130691_4194304",
+                            "130691_65536",
+                            "130691_524288",
+                            "130691_2",
+                            "130691_32768",
+                            "130691_1048576",
+                            "130691_128",
+                            "130691_1",
+                            "130691_262144",
+                            "130691_8",
+                            "130691_32",
+                            "130691_16384",
+                            "130691_131072",
+                            "130691_16",
+                            "130691_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne",
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_1",
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4012824723856"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "2376987d-36bb-44b0-9d40-156873322827"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114315\/e1b0cb3247a5ad07ee42d4de347c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "51.15",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 1041,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114315\/e1b0cb3247a5ad07ee42d4de347c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KALENDARZ ADWENTOWY 2025 (HERBATKI I HERBATY) BIO (24 szt.) 45,7 g - YOGI T<\/h1><p>OPIS<\/p><p>Kalendarz adwentowy - kolekcja ajurwedyjskich herbatek z ziół, przypraw korzennych i zielonych herbat.<\/p><p>Dostępna X-XII.<\/p><p>Christmas Tea - Ajurwedyjska herbatka z ziół i przypraw korzennych.<\/p><p>Składniki: Rooibos*, cynamon* 13 %, lukrecja*, kolendra*, miodokrzew* 6 %, skórka pomarańczy*, goździki*, pieprz czarny*, anyż*, suszony sok z cytryny*, anyż gwiaździsty* 3 %, kardamon*, prażona cykoria*, suszony owoc limonki*, olejek pomarańczowy*, olejek cynamonowy*. (*certyfikowany składnik ekologiczny)<\/p><p>Classic Chai - Ajurwedyjska herbatka przypraw korzennych.<\/p><p>Składniki: Cynamon* 52 %, imbir* 17 %, kardamon* 16 %, goździki*, pieprz czarny*, olejek cynamonowy*. (*certyfikowany składnik ekologiczny)<\/p><p>Ginger Lemon** - Ajurwedyjska herbatka z ziół, przypraw korzennych i owoców.<\/p><p>Składniki: Imbir* 43 %, lukrecja*, trawa cytrynowa*, pieprz czarny* 5 %, skórka cytrynowa* 4 %, mięta pieprzowa* 4 % , olejek cytrynowy* 3 %, hibiskus*, suszony sok z cytryny* 2 %. (*certyfikowany składnik ekologiczny)<\/p><p>Bedtime - Ajurwedyjska herbatka z ziół i przypraw korzennych.<\/p><p>Składniki: Koper włoski* 31 %, kwiat rumianku* 19 %, mięta pieprzowa*, melisa lekarska*, kardamon*, trawa cytrynowa*, szałwia* 4,5 %, kwiat lawendy* 4 %, chmiel* 2 %, gałka muszkatołowa*. (*certyfikowany składnik ekologiczny)<\/p><p>Green Tea Matcha Lemon - Herbata zielona z matcha, ziołami i cytrusami.<\/p><p>Składniki: Herbata zielona* 55 % (Tencha* 43 %, Sencha* 10 %, Matcha* 2 %), suszony owoc limonki* 9 %, lukrecja*, trawa cytrynowa 9 %, mięta pieprzowa*, pieprz czarny*, suszony sok z cytryny* 3 %, guarana*, olejek cytrynowy*, werebna cytrynowa*, skórka cytrynowa*, imbir*. (certyfikowany składnik ekologiczny)<\/p><p>Turmeric Chai - Ajurwedyjska herbatka z przyprawami korzennymi i kurkumą.<\/p><p>Składniki: korzeń kurkumy* 55 %, cynamon* 14 %, lukrecja*, imbir* 7 %, kardamon* 3 %, pieprz czarny*, jabłko*, koper włoski*, gałka muszkatołowa*, łuski kakao*, goździki*. (*certyfikowany składnik ekologiczny)<\/p><p>Lime Mint** - Ajurwedyjska herbatka z ziół, przypraw korzennych i owoców.<\/p><p>Składniki: Lukrecja* 29 %, suszony owoc limonki* 15 %, mięta zielona* 15 %, kardamon* 15 %, suszony sok z cytryny* 4 %, korzeń kurkumy*, imbir*, cynamon*, goździki*, pieprz czarny*. (*certyfikowany składnik ekologiczny)<\/p><p>Licorice** - Ajurwedyjska herbatka z przypraw korzennych z pomarańczą.<\/p><p>Składniki: Lukrecja* 38 %, cynamon* 32 %, skórka pomarańczy * 8 %, imbir*, kardamon* 4 %, prażona cykoria*, goździki*, olejek pomarańczowy*, pieprz czarny*, ekstrakt z wanilii*. (*certyfikowany składnik ekologiczny)<\/p><p>Turmeric Orange - Ajurwedyjska herbatka z przyprawami korzennymi, kurkumą i owocami.<\/p><p>Składniki: Korzeń kurkumy* 50 %, lukrecja*, cynamon*, skórka pomarańczy* 9 %, jabłko*, imbir*, pieprz czarny*, kardamon*, olejek pomarańczowy* 1 %, łuski kakao*, wanilia* 1 %, hibiskus biały*, koper włoski*, gałka muszkatołowa*, goździki*. (*certyfikowany składnik ekologiczny)<\/p><p>Soul Balm - Ajurwedyjska herbatka z rooibosa i przypraw korzennych, z kakao i pomarańczą.<\/p><p>Składniki: Cynamon*, lukrecja*, łuski kakao* 10 %, rooibos* 10 %, prażona cykoria*, hibiskus*, imbir*, anyż*, miodokrzew*, skórka pomarańczy* 3 %, karob*, naturalny ekstrakt z kakao* 2,5 %, kakao w proszku o obniżonej zawartości tłuszczu*, czarny pieprz*, olejek pomarańczowy* 1,5 %, ziarna wanilii*, ekstrakt waniliowy*. (*certyfikowany składnik ekologiczny)<\/p><p>Pumpkin Chai** - Ajurwedyjska herbatka z przypraw korzennych, dyni i pomarańczy.<\/p><p>Składniki: Dynia* 18 %, lukrecja*, cynamon*, marchew* 12 %, imbir* 10 %, kardamon*, koper włoski*, anyż* 5 %, burak*, prażona cykoria*, pieprz czarny*, olejek pomarańczowy* 1 %, ekstrakt z wanilii*, gałka muszkatołowa*. (*certyfikowany składnik ekologiczny)<\/p><p>Ginger Orange with Vanilla** - Ajurwedyjska herbatka z ziół, przypraw korzennych i owoców.<\/p><p>Składniki: Imbir* 41 %, lukrecja*, trawa cytrynowa*, skórka pomarańczy* 4 %, pieprz czarny*, ekstrakt z wanilli 3 %, olejek pomarańczowy* 3 %, mięta pieprzowa* 2,5 %, anyż. (*certyfikowany składnik ekologiczny)<\/p><p>Sweet Chai** - Ajurwedyjska herbatka z przypraw korzennych.<\/p><p>Składniki: Anyż * 33 %, koper włoski* 21 %, lukrecja* 19 %, kardamon*, pieprz czarny*, cynamon*, imbir*, goździki*. (*certyfikowany składnik ekologiczny)<\/p><p>Women's Tea - Ajurwedyjska herbatka z ziół i przypraw korzennych.<\/p><p>Składniki: Imbir* 15 %, skórka pomarańczy* 14 %, cynamon*, koper włoski*, kwiaty rumianku*, 9 %, mniszek lekarski*, słód JĘCZMIENNY*, lukrecja*, olejek pomarańczowy*, pieprz czarny*, jagody jałowca*, korzeń arcydzięgla lekarskiego*,kardamon*, goździki*. (*certyfikowany składnik ekologiczny)<\/p><p>Ginger - Ajurwedyjska herbatka z imbirem, ziołami i przyprawami korzennymi.<\/p><p>Składniki: Imbir* 62 %, trawa cytrynowa*, lukrecja*, mięta pieprzowa* 6 %, pieprz czarny* 1 %. (*certyfikowany składnik ekologiczny)<\/p><p>Green Chai - Ajurwedyjska herbatka z przyprawami korzennymi i herbatą zieloną.<\/p><p>Składniki: Cynamon* 30 %, mięta zielona* 21 %, herbata zielona* 20 %, imbir* 9 %, kardamon* 8 %, goździki*, pieprz czarny*, olejek cynamonowy*. (*certyfikowany składnik ekologiczny)<\/p><p>Himalaya Chai - Ajurwedyjska herbatka z przypraw korzennych.<\/p><p>Składnikil: Imbir* 39 %, koper włoski* 34 %, cynamon* 20 %, anyż* 4 %, kolendra*, olejek cynamonowy*, olejek imbirowy*, lukrecja*. (*certyfikowany składnik ekologiczny)<\/p><p>Sweet Chilli** - Ajurwedyjska herbatka z ziół i przypraw korzennych.<\/p><p>Składniki: lukrecja* 35 %, łuski kakao* 14 %, mięta zielona* 11 %, koper włoski*, anyż*, imbir*, mięta pieprzowa* 5 %, pokrzywa*, cynamon* 2 %, papryczka chili* 1 %, kardamon*, goździki*, pieprz czarny. (*certyfikowany składnik ekologiczny)<\/p><p>Rooibos - Ajurwedyjska herbatka z przyprawami korzennymi i rooibosem.<\/p><p>Składniki: Rooibos* 70 %, cynamon* 11 %, imbir* 4 %, karob*, prażona cykoria*, kardamon * 2,5 %, goździki* (1,5 %), pieprz czarny*, olejek cynamonowy*, olejek imbrowy*, olejek z kardamonu*, ekstrakt z wanilii*. (*certyfikowany składnik ekologiczny)<\/p><p>Green Tea Ginger Lemon - Herbata zielona z imbirem, ziołami i cytryną.<\/p><p>Składniki: Herbata zielona* 63 %, imbir* 28 %, lukrecja*, trawa cytrynowa*, olejek cytrynowy* 3 %, skórka cytrynowa* 1 %, mięta pieprzowa*, pieprz czarny*, olejek imbirowy*. (*certyfikowany składnik ekologiczny)<\/p><p>Black Chai - Ajurwedyjska herbatka z przyprawami korzennymi i herbatą czarną<\/p><p>Składniki: Herbata czarna* 31 %, cynamon* 17 %, imbir* 17 %, anyż* 10 %, rooibos* 10 %, prażona cykoria*, pieprz czarny*, goździki*, olejek cynamonowy*, olejek imbirowy*. (*certyfikowany składnik ekologiczny)<\/p><p>Natural Balance - Ajurwedyjska herbatka ziołowa z grzybami Shiitake.<\/p><p>Składniki: Trawa cytrynowa* 40 %, lukrecja* 14 %, grzyby shiitake* 10 %, kozieradka* 10 %, kwiat czarnego bzu*, kwiat lipy*, bazylia*, liść moringa*, suszony napój z kombuczy*. (*certyfikowany składnik ekologiczny)<\/p><p>Licorice Mint** - Ajurwedyjska herbatka z ziół i przypraw korzennych<\/p><p>Składniki: Mięta pieprzowa* 43 %, lukrecja* 34 %, cynamon*, kardamon* 4 %, imbir* 2 %, goździki*, pieprz czarny*, olejek cynamonowy*, olejek z kardamonu*, olejek imbirowy*. (*certyfikowany składnik ekologiczny)<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Torebkę zalać 250 ml świeżo przegotowanej wody i zaparzać przez 5-9 minut lub dłużej w celu uzyskania mocniejszego smaku.<\/p><p>UWAGI<\/p><p>**Zawiera lukrecję - chorzy na nadciśnienie powinni unikać nadmiernego spożycia<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>\"Yogi Tea GmbH Burchardstr. 24 D-20095 Hamburg\"<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46322"
+    },
+    "category": {
+        "id": "74045"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "51.15",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.76",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "294.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4795.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "294.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016722762",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T09:53:35.616Z"
+    },
+    "createdAt": "2025-10-22T09:53:35.000Z",
+    "updatedAt": "2025-10-22T10:08:36.167Z"
+}

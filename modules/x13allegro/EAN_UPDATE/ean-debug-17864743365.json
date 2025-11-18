@@ -1,0 +1,312 @@
+{
+    "name": "OLEJ DO CIAŁA I WŁOSÓW ARGANOWY ECO 50 ml - SATTVA (AYURVEDA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "ca2976ee-8470-41e5-885b-96499ac87a0c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "1783214"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Arganowy"
+                        ],
+                        "valuesIds": [
+                            "22158_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "247999",
+                        "name": "Typ",
+                        "values": [
+                            "olejek"
+                        ],
+                        "valuesIds": [
+                            "247999_840182"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SATTVA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794189355"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "2a357e9d-7707-46f7-bc7b-98c6dc200be9"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa olejków do ciała oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie skórne: Zawsze wykonaj test na małym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n2.  Unikaj kontaktu z oczami: Jeśli olej dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W razie podrażnienia skonsultuj się z lekarzem.\n3.  Przechowywanie: Przechowuj olejki w chłodnym, ciemnym miejscu, z dala od bezpośredniego światła słonecznego i źródeł ciepła.\n4.  Użycie zewnętrzne: Olejki przeznaczone są wyłącznie do użytku zewnętrznego. Nie spożywaj ich.\n5.  Dzieci: Trzymaj olejki poza zasięgiem dzieci. Niektóre olejki mogą być dla nich szkodliwe.\n6.  Kobiety w ciąży i karmiące: Skonsultuj się z lekarzem przed użyciem olejków eterycznych, ponieważ niektóre z nich mogą być przeciwwskazane w okresie ciąży i karmienia piersią.\n7.  Łatwopalność: Niektóre olejki są łatwopalne. Trzymaj je z dala od otwartego ognia i źródeł ciepła.\n8.  Rozcieńczanie: Zawsze rozcieńczaj olejki eteryczne w oleju bazowym (np. olej kokosowy, jojoba) przed nałożeniem na skórę, aby uniknąć podrażnień.\n9. Jakość olejku: Używaj tylko wysokiej jakości olejków od zaufanych producentów.\n10. Dodatkowe składniki: Sprawdzaj skład olejku. Upewnij się, że nie ma dodatkowych składników, na które jesteś uczulony.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/113d8e\/108c9c174dae87fadca6e21c495a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "66.85",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/113d8e\/108c9c174dae87fadca6e21c495a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLEJ DO CIAŁA I WŁOSÓW ARGANOWY ECO 50 ml - SATTVA (AYURVEDA)<\/h1><p>SKŁADNIKI <\/p><p>Argania spinosa (argan) kernel oil*. (*certyfikowany składnik ekologiczny) <\/p><p>OPIS <\/p><p>Organiczny olej arganowy to naturalny kosmetyk, który jest prawdziwą bombą witaminową dla skóry i włosów. Jest olejem nośnym (bazowym), który łatwo łączy się z olejkami eterycznymi. Olej arganowy jest bogaty w cenne składniki, takie jak kwasy tłuszczowe i witamina E. Możesz go stosować bezpośrednio na wilgotne lub suche włosy, aby poprawić ich nawilżenie, zredukować łamliwość i eliminować puszenie. Ponadto, stosowany na skórę, pomaga w utrzymaniu zdrowej cery, redukując widoczne oznaki starzenia i zwiększając elastyczność i nawilżenie skóry. Olej arganowy jest pozyskiwany z tłoczonego na zimno orzecha arganowego, co zapewnia jego najwyższą jakość i skuteczność. Daj swojej skórze i włosom naturalny zastrzyk zdrowia i piękna dzięki organicznemu olejowi arganowemu. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Na skórę:<\/p><p>Kilka kropli olejku delikatnie wmasuj w twarz lub ciało. Nie śpiesz się, na spokojnie. Skoncentruj się na porach twarzy i upewnij się, że zostały dokładnie pokryte olejkiem. Pozostaw na noc lub co najmniej na 30 minut, a następnie oczyść skórę łagodnym środkiem myjącym. <\/p><p>Na włosy:<\/p><p>Nanieś lekko ogrzany olejek na włosy i skórę głowy, po czym delikatnie wmasuj. Najlepszy efekt daje pozostawienie na noc lub na co najmniej godzinę. Następnie umyj włosy łagodnym szamponem. <\/p><p>UWAGA<\/p><p>Przed użyciem zaleca się wykonanie testu alergicznego na niewielkim fragmencie skóry.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze pokojowej, w suchym i zacienionym miejscu. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BOMBAY BAZAAR ASHISH HINDUJA, AL. KRAKOWSKA 61A, 05-090 SĘKOCIN NOWY<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44061"
+    },
+    "category": {
+        "id": "144742"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "66.85",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.38",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "384.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6265.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "384.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17864743365",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-06T09:49:39.416Z"
+    },
+    "createdAt": "2025-09-06T09:49:39.000Z",
+    "updatedAt": "2025-10-24T17:07:21.122Z"
+}

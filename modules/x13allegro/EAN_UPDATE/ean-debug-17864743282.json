@@ -1,0 +1,303 @@
+{
+    "name": "OLEJ DO CIAŁA I WŁOSÓW JOJOBA ECO 50 ml - SATTVA (AYURVEDA)",
+    "productSet": [
+        {
+            "product": {
+                "id": "df17dccb-b828-4cee-8e06-dd675044369d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sattva"
+                        ],
+                        "valuesIds": [
+                            "248811_951427"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "1783213"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Jojoba"
+                        ],
+                        "valuesIds": [
+                            "22158_7"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "SATTVA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903794189362"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "2a357e9d-7707-46f7-bc7b-98c6dc200be9"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa olejów do twarzy oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie skórne: Zawsze sprawdzaj skład produktu przed użyciem, aby uniknąć reakcji alergicznych. Wykonaj test na małym obszarze skóry przed pełnym zastosowaniem.\n2.  Zanieczyszczenia: Upewnij się, że aplikujesz olej na czystą skórę, aby uniknąć wprowadzenia bakterii i zanieczyszczeń, które mogą powodować infekcje.\n3.  Fotouczulenie: Niektóre oleje mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem UV po aplikacji, szczególnie w ciągu dnia.\n4.  Interakcje z innymi produktami: Zwróć uwagę na potencjalne interakcje z innymi produktami do pielęgnacji. Niektóre kombinacje mogą prowadzić do podrażnień lub zmniejszenia skuteczności.\n5.  Użycie w ciąży: Skonsultuj się z lekarzem przed użyciem olejów eterycznych w czasie ciąży, ponieważ niektóre mogą być przeciwwskazane.\n6.  Dzieci: Trzymaj poza zasięgiem dzieci, produkt nie jest przeznaczony dla dzieci.\n7.  Przechowywanie: Przechowuj w chłodnym i ciemnym miejscu, z dala od bezpośredniego światła słonecznego, aby zapobiec utlenianiu i utracie jakości.\n8.  Podrażnienia: W przypadku wystąpienia podrażnienia, zaczerwienienia lub swędzenia, natychmiast przerwij stosowanie i skonsultuj się z dermatologiem.\n9.  Okres ważności: Nie używaj produktu po upływie daty ważności.\n10. Aplikacja: Unikaj kontaktu z oczami i błonami śluzowymi. W razie kontaktu, przemyj obficie wodą.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11108d\/a6adf19b41049aea7fffd8a9d452"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "65.97",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 16,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11108d\/a6adf19b41049aea7fffd8a9d452"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLEJ DO CIAŁA I WŁOSÓW JOJOBA ECO 50 ml - SATTVA (AYURVEDA)<\/h1><p>SKŁADNIKI <\/p><p>Simmondsia chinensis (jajoba) oil* (*certyfikowany składnik ekologiczny)<\/p><p>OPIS <\/p><p>Olejek jojoba to doskonały dodatek do twojej codziennej pielęgnacji skóry. Jest olejem nośnym (bazowym), który łatwo łączy się z olejkami eterycznymi. Olejek jojoba pozyskiwany jest z nasion Simmondsia Chinensis, rośliny rodzimej dla Arizony i Kalifornii. Jest w głównej mierze składnikiem monoestrowych kwasów tłuszczowych oraz estrów woskowych. Ten olejek może stać się doskonałym uzupełnieniem Twojej rutyny pielęgnacyjnej, oferując intensywne nawilżenie, ochronę przed szkodliwymi czynnikami środowiskowymi oraz wspierając zdrowie skóry dzięki swoim właściwościom antybakteryjnym. Olejek jojoba jest łagodny i skuteczny, sprawdź go już dzisiaj, aby cieszyć się piękną i zdrową skórą. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Na skórę:<\/p><p>Kilka kropli olejku delikatnie wmasuj w twarz lub ciało. Nie śpiesz się, na spokojnie. Skoncentruj się na porach twarzy i upewnij się, że zostały dokładnie pokryte olejkiem. Pozostaw na noc lub co najmniej na 30 minut, a następnie oczyść skórę łagodnym środkiem myjącym. <\/p><p>Na włosy:<\/p><p>Nanieś lekko ogrzany olejek na włosy i skórę głowy, po czym delikatnie wmasuj. Najlepszy efekt daje pozostawienie na noc lub na co najmniej godzinę. Następnie umyj włosy łagodnym szamponem. <\/p><p>UWAGA<\/p><p>Przed użyciem zaleca się wykonanie testu alergicznego na niewielkim fragmencie skóry.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze pokojowej, w suchym i zacienionym miejscu. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>BOMBAY BAZAAR ASHISH HINDUJA, AL. KRAKOWSKA 61A, 05-090 SĘKOCIN NOWY<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44060"
+    },
+    "category": {
+        "id": "144743"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "65.97",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.17",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "379.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6180.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "379.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17864743282",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-06T09:49:36.905Z"
+    },
+    "createdAt": "2025-09-06T09:49:36.000Z",
+    "updatedAt": "2025-10-24T17:07:20.655Z"
+}

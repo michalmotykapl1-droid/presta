@@ -1,0 +1,301 @@
+{
+    "name": "GORVITA Maść borowinowa 130ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "e5cadbd6-c0d7-483f-b21e-d021b12b466b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Gorvita"
+                        ],
+                        "valuesIds": [
+                            "248811_1960074"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907636994626"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "BOROWINA W MAŚCI"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.14"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "maść"
+                        ],
+                        "valuesIds": [
+                            "210758_260978"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "ból"
+                        ],
+                        "valuesIds": [
+                            "213970_265298"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "130"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903850011439"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "fdf56e12-3053-474d-977e-17bc8948f4a1"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa kremów i maści oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Przed użyciem: Zawsze przeczytaj ulotkę lub etykietę produktu, aby upewnić się, że nie ma przeciwwskazań do jego stosowania (np. alergii na składniki).\n2.  Alergie: Zwróć uwagę na reakcje alergiczne. W przypadku wystąpienia zaczerwienienia, swędzenia, wysypki lub obrzęku, natychmiast przerwij stosowanie i skonsultuj się z lekarzem.\n3.  Składniki: Unikaj stosowania produktów, które zawierają składniki, na które jesteś uczulony. Zawsze sprawdzaj skład produktu przed pierwszym użyciem.\n4.  Interakcje: Jeśli używasz innych leków (w tym maści lub kremów), skonsultuj się z lekarzem lub farmaceutą, aby upewnić się, że nie ma ryzyka interakcji.\n5.  Stosowanie: Nie przekraczaj zalecanej dawki i częstotliwości stosowania. Zastosowanie większej ilości produktu niż zalecana nie zwiększy jego skuteczności, a może spowodować działania niepożądane.\n6.  Uszkodzona skóra: Nie stosuj na uszkodzoną skórę, otwarte rany lub oparzenia, chyba że jest to wyraźnie wskazane w instrukcji.\n7.  Oczy i błony śluzowe: Unikaj kontaktu z oczami i błonami śluzowymi. W przypadku kontaktu, natychmiast przemyj dużą ilością wody.\n8.  Dzieci: Trzymaj poza zasięgiem dzieci. Niektóre produkty mogą być niebezpieczne w przypadku połknięcia.\n9.  Warunki przechowywania: Przechowuj w miejscu niedostępnym dla dzieci, w oryginalnym opakowaniu, w temperaturze pokojowej i z dala od wilgoci oraz światła słonecznego.\n10. Data ważności: Nie używaj po upływie daty ważności.\n11. Utylizacja: Zużyte opakowania i przeterminowane produkty utylizuj zgodnie z lokalnymi przepisami. Nie wyrzucaj do kanalizacji ani do ogólnych pojemników na śmieci.\n12. Ciąża i karmienie piersią: Kobiety w ciąży lub karmiące piersią powinny skonsultować się z lekarzem przed użyciem jakiegokolwiek kremu lub maści, szczególnie tych o działaniu leczniczym.\n13. Poważne skutki uboczne: W przypadku wystąpienia poważnych skutków ubocznych (np. trudności z oddychaniem, silne zawroty głowy) natychmiast skonsultuj się z lekarzem.\n14. Ostrzeżenia: Niektóre produkty mogą zawierać składniki, które w nadmiernych ilościach mogą być szkodliwe dla zdrowia.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1160bd\/f8ee1be54e08a038e7306f89420e"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.57",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 16,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1160bd\/f8ee1be54e08a038e7306f89420e"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>GORVITA Maść borowinowa 130ml<\/h1> <p><b>OPIS <\/b><\/p><p>Działanie maści jest związane z właściwościami borowiny, olejku cedrowego, pichtowego oraz leczniczej wody mineralnej: wodorowęglanowo-chlorkowo- sodowej, bromkowo- jodkowo – borowej. Składniki te są szybko i łatwo wchłaniane przez skórę, a zawarta w składzie naturalna allantoina i prowitamina B5 dodatkowo ją odżywia i nawilża. Maść stanowi dobrą alternatywę dla klasycznych okładów borowinowych a możliwość pozostawiania jej na skórze przez dłuższy czas wpływa korzystnie na skuteczność działania składników czynnych zawartych w składzie. <\/p> <p><b>SKŁADNIKI (INCI)<\/b><\/p><p>Aqua, Peat Extract, Petrolatum, Glycerin, Paraffinum Liquidum, Polyglyceryl-3-Methylglucose Distearate, Stearyl Alkohol, Cetyl Ricinoleate, Carbomer, Triethanolamine, Caprylic\/Capric Triglyceride, Allantoin,Panthenol, Cyclopentasiloxane, Cyclohexasiloxane, Ethylexyl Stearate, DMDM Hydantoin, Menthol, Albies Alba Oli,Juniperus Virginiana Oil.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21GORMASBO"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.57",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.57",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "164.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2675.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "164.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861128258",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T07:20:40.162Z"
+    },
+    "createdAt": "2025-09-05T07:20:40.000Z",
+    "updatedAt": "2025-09-05T07:35:40.833Z"
+}

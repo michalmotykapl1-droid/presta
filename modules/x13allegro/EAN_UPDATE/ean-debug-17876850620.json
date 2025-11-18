@@ -1,0 +1,384 @@
+{
+    "name": "MIESZANKA DO WYPIEKU BABKI BEZGLUTENOWA 300 g - CELIKO",
+    "productSet": [
+        {
+            "product": {
+                "id": "1c2250f7-70db-4f08-a8cd-580dfd0db7bb",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Celiko"
+                        ],
+                        "valuesIds": [
+                            "248811_1938866"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "022"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Ciasto BABKA MIESZANKA bezglutenowa"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Licencja na Znak Przekreślonego Kłosa"
+                        ],
+                        "valuesIds": [
+                            "10643_4194304"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250661",
+                        "name": "Wartość energetyczna",
+                        "values": [
+                            "361"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "0"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "87"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "35"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "2.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "1.7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.31"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900038001213"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "5d155176-b7b7-471c-9ca5-8fa9775501e0"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1129d7\/1ee70e8c47228872f7fe2c953ca0"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "7.27",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 115,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1129d7\/1ee70e8c47228872f7fe2c953ca0"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>MIESZANKA DO WYPIEKU BABKI BEZGLUTENOWA 300 g - CELIKO<\/h1><p>SKŁADNIKI<\/p><p>cukier, skrobia kukurydziana, mąka ryżowa, skrobia ziemniaczana, błonnik z cykorii, aromat, regulator kwasowości: difosforany; sól, substancja spulchniająca: węglany sodu.<\/p><p>OPIS<\/p><p>Doskonała mieszanka do wypieku pysznej, klasycznej babki piaskowej. <\/p><p>Na jej bazie przygotujesz także babkę marmurkową, doskonały keks lub wyśmietnite muffiny. Jest łatwa i szybka w przygotowaniu. Świetnie sprawdzi się nie tylko na świątecznym stole, ale zawsze wtedy, gdy będziesz mieć ochotę na sprawdzone, domowe ciasto. <\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Przygotować do babki piaskowej:<\/p><p>- 1 opakowanie koncentratu ciasta 300 g<\/p><p>- 3 jaja<\/p><p>- 140 ml oleju<\/p><p>Wykonanie babki piaskowej:<\/p><p>-Zawartość torebki z koncentratem ciasta wsypać do naczynia, dodać JAJA, wszystko razem wymieszać. Na koniec dodać olej. Całość wyrabiać mikserem ok. 4 min. <\/p><p>-Ciasto przełożyć do foremki (małej keksówki lub małej foremki do babki). <\/p><p>-Piec w piekarniku w temperaturze 180°C przez ok. 40 minut. Po wyjęciu z piekarnika poczekać aż przestygnie.<\/p><p>-Ciasto po wypieczeniu można posypać cukrem pudrem, bądź polać wcześniej przygotowaną polewą. <\/p><p>Przygotować do babki marmurkowej:<\/p><p>-1 opakowanie koncentratu ciasta 300 g<\/p><p>-3 jaja<\/p><p>-140 ml oleju<\/p><p>-1,5 łyżki kakao<\/p><p>-3 łyżki mleka<\/p><p>Wykonanie babki marmurkowej:<\/p><p>-Zawartość torebki z koncentratem ciasta wsypać do naczynia, dodać JAJA, wszystko razem wymieszać. Na koniec dodać olej.<\/p><p>-Całość wyrabiać mikserem ok. 4 min.<\/p><p>-Ciasto podzielić na pół. Do jednej części dodać przesiane kakao oraz 3 łyżki mleka. Całość delikatnie wymieszać przy pomocy rózgi kuchennej lub szpatułki.<\/p><p>-Ciasta wylewać do formy naprzemiennie: raz jasne raz ciemne.<\/p><p>-Piec w piekarniku w temperaturze 180°C przez ok. 40-50 minut.<\/p><p>-Po wyjęciu z piekarnika poczekać aż przestygnie.<\/p><p>WARTOŚĆ ODŻYWCZA w 100 g mieszanki do wypieku babki <\/p><p>Wartość energetyczna: 1533 kJ \/ 361 kcal<\/p><p>Tłuszcz: 0 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0 g<\/p><p>Węglowodany: 87 g<\/p><p>w tym cukry: 35 g<\/p><p>Błonnik: 2,3 g<\/p><p>Białko: 1,7 g<\/p><p>Sól: 0,31 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać SOJĘ, MLEKO i ich produkty pochodne.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Celiko S.A. ul. Św. Antoniego 71, 61-359 Poznań<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44418"
+    },
+    "category": {
+        "id": "261417"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.27",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.67",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "42.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "680.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "42.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876850620",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:47:37.148Z"
+    },
+    "createdAt": "2025-09-10T09:47:37.000Z",
+    "updatedAt": "2025-09-10T10:02:37.781Z"
+}

@@ -1,0 +1,354 @@
+{
+    "name": "Witamina D3 4000 Quali-D 30ml PLON PHARM (600 porcji)",
+    "productSet": [
+        {
+            "product": {
+                "id": "f377f7e2-2d7a-474e-a1d8-e11e6e059996",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Plon Vita"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Plon Pharm"
+                        ],
+                        "valuesIds": [
+                            "248811_2035892"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904484154004"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "proszek"
+                        ],
+                        "valuesIds": [
+                            "210758_244686"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "40"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina D3"
+                        ],
+                        "valuesIds": [
+                            "210698_244206"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "czysty (bez dodatków)",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_8192",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "konopia"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "90"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904484154004"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e5c4e28e-8753-4ba0-9c5c-0e70de56b562"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118bc4\/cdeb0fa94375af119e3f890646eb"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "25.59",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118bc4\/cdeb0fa94375af119e3f890646eb"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Witamina D3 4000 Quali-D 30ml PLON PHARM (600 porcji)<\/h1> <p><b>OPIS <\/b><\/p><p>Witamina Quali-D D3 4000 PLON PHARM - suplement diety - to najwyższej jakości preparat, który w jednej porcji dostarcza 4000 IU witaminy D3 pierwotnie pozyskiwanej z lanoliny, w najlepiej przyswajalnej formie kropli.<\/p><p>Witamina D3 wszechstronnie wspiera prawidłowe funkcjonowanie organizmu, pomaga w :<\/p><p>•prawidłowym wchłanianiu i wykorzystywaniu wapnia i fosforu,<\/p><p>•utrzymaniu zdrowych kości i zębów,<\/p><p>•utrzymaniu prawidłowego funkcjonowania układu odpornościowego,<\/p><p>•prawidłowym funkcjonowaniu mięśni<\/p><p>•utrzymaniu prawidłowego poziomu wapnia we krwi<\/p> <p>Witamina D3 marki Plon Pharm jest rozpuszczona w oleju konopnym tłoczonym z konopi włóknistych. Olej konopny powoduje lepsze wchłanianie witaminy D3 oraz zawiera dużą ilość cennych składników dla zdrowia tj. kwasy Omega-3 i Omega-6, witaminy A,E, K i B, cynk, wapń, fosfor oraz magnez.<\/p><p>•100 % naturalnych składników<\/p><p>•Ekonomiczna pojemność (600 porcji)<\/p><p>•Brak zbędnych dodatków, konserwantów, sztucznych barwników<\/p><p>•Prawidłowe wchłanianie bez spożywania dodatkowych tłuszczów<\/p><p>•Precyzyjny, wygodny, dyskretny oraz zachowujący najlepszą jakość produktu dozownik.<\/p><p>•Najwyższą jakość i bezpieczeństwo stosowania<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Olej z konopi włóknistych, witamina D3 z lanoliny ( cholekalcyferol).<\/p><p>Porcja dzienna 50mg zawiera:<\/p><p>Witamina D3 (cholekalcyferol) 4000 IU (100 μg)<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Sposób użycia : Wstrząsnąć przed użyciem. Aplikować bezpośrednio do jamy ustnej lub dodać do chłodnego napoju. Zalecane dzienne spożycie : 1 naciśnięcie pompki<\/p> <p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Produkt nie może być stosowany przez kobiety w ciąży, karmiące i dzieci bez konsultacji lekarskiej. Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Nie stosować w przypadku uczulenia na którykolwiek ze składników.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowuj w suchym miejscu w temperaturze pokojowej, w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21PLOWITD3"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "25.59",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.89",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "147.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2400.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "147.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877573079",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T13:58:53.392Z"
+    },
+    "createdAt": "2025-09-10T13:58:53.000Z",
+    "updatedAt": "2025-10-20T01:58:51.043Z"
+}

@@ -1,0 +1,354 @@
+{
+    "name": "PŁYN DO PRANIA KOLOROWYCH UBRAŃ (KONCENTRAT) ECO 900 ml (20 PRAŃ) - GRON BA",
+    "productSet": [
+        {
+            "product": {
+                "id": "c9fccc59-3ed9-4461-9ba4-3fd90d4373ca",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250570",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "5701410406776"
+                        ],
+                        "valuesIds": [
+                            "250570_1931819"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Gron Balance"
+                        ],
+                        "valuesIds": [
+                            "248811_1139653"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221905",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225145",
+                        "name": "Rodzaj prania",
+                        "values": [
+                            "ręczne"
+                        ],
+                        "valuesIds": [
+                            "225145_310621"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225133",
+                        "name": "Zastosowanie do",
+                        "values": [
+                            "białego"
+                        ],
+                        "valuesIds": [
+                            "225133_310589"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250454",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "250454_1921941"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5701410406776"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249649",
+                        "name": "Kraj pochodzenia",
+                        "values": [
+                            "Dania"
+                        ],
+                        "valuesIds": [
+                            "249649_1723297"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225129",
+                        "name": "Liczba prań",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225169",
+                        "name": "Zapach",
+                        "values": [
+                            "bezzapachowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225153",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "225153_2048"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5701410406776"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0c039018-f902-4d9d-bab9-46d3592fa00a"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116093\/b294410c496cb6d3fd2db1003bc6"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "30.24",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 312,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116093\/b294410c496cb6d3fd2db1003bc6"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PŁYN DO PRANIA KOLOROWYCH UBRAŃ (KONCENTRAT) ECO 900 ml (20 PRAŃ) - GRON BA<\/h1><p>SKŁADNIKI <\/p><p>5-15 % niejonowy środek powierzchniowo czynny (Laureth-7), anionowy środek powierzchniowo czynny (Sodium Laureth Sulfate), &lt; 5 % mydło (Sodium Palm Kernelate), substancja konserwująca (Phenoxyethanol), fosfoniany (Sodium Diethylenetriamine Pentamethylene Phosphonate), enzymy (Subtilisin, Cellulase, Mannanase, Pectate Lyase, Lipase, Amylase), Aqua, Propylene Glycol, Sodium Citrate, Sodium Chloride, PVPI. <\/p><p>Zasadowość pH 8,2.<\/p><p>OPIS<\/p><p>Płyn wystarcza na 20 prań w średnio twardej wodzie (8-14 dH) przy normalnym stopniu zabrudzenia (3-5 kg).<\/p><p>SPOSÓB UŻYCIA <\/p><p>Sprawdź zawsze instrukcję prania na ubraniu i postępuj zgodnie z instrukcjami dozowania. Przy namaczaniu lub praniu ręcznym, detergent musi być wcześniej wymieszny z wodą a ubrania zawsze w wodzie. <\/p><p>Dozowanie: <\/p><p>1 nakrętka ma 40 ml. <\/p><p>- twardość wody (poniżej 8 dH), ubranie o wadze (3-5 kg). <\/p><p>Pranie w pralce: zabrudzenie małe 25 ml, zabrudzenie średnie 35 ml, zabrudzenie duże 45 ml.<\/p><p>Pranie ręczne 25 ml na 10 L wody. <\/p><p>- twardość wody (poniżej 8 dH), ubranie o wadze (6-8 kg). <\/p><p>Pranie w pralce: zabrudzenie małe 45 ml, zabrudzenie średnie 60 ml, zabrudzenie duże 80 ml.<\/p><p>Pranie ręczne 25 ml na 10 L wody. <\/p><p>- twardość wody (8-14 dH), ubranie o wadze (3-5 kg). <\/p><p>Pranie w pralce: zabrudzenie małe 30 ml, zabrudzenie średnie 45 ml, zabrudzenie duże 60 ml.<\/p><p>Pranie ręczne 30 ml na 10 L wody. <\/p><p>- twardość wody (8-14 dH), ubranie o wadze (6-8 kg). <\/p><p>Pranie w pralce: zabrudzenie małe 55 ml, zabrudzenie średnie 80 ml, zabrudzenie duże 100 ml.<\/p><p>Pranie ręczne 30 ml na 10 L wody. <\/p><p>- twardość wody (powyżej 14 dH), ubranie o wadze (3-5 kg). <\/p><p>Pranie w pralce: zabrudzenie małe 40 ml, zabrudzenie średnie 55 ml, zabrudzenie duże 70 ml.<\/p><p>Pranie ręczne 35 ml na 10 L wody. <\/p><p>- twardość wody (powyżej 14 dH), ubranie o wadze (6-8 kg). <\/p><p>Pranie w pralce: zabrudzenie małe 65 ml, zabrudzenie średnie 100 ml, zabrudzenie duże 120 ml.<\/p><p>Pranie ręczne 35 ml na 10 L wody. <\/p><p>UWAGA<\/p><p>Płyn nie odpowiedni do wełny i jedwabiu. Nie maczaj ubrań z metalowymi częściami, takimi jak zamki błyskawiczne, sprzączki lub guziki. <\/p><p>Powoduje poważne podrażnienie oczu. W przypadku dostania się do oczu: ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe jeśli są i można je łatwo usunąć. Nadal płukać. W przypadku utrzymywania się działania drażniącego na oczy: zasięgnąć porady\/zgłosić się pod opiekę lekarza. Pokazać lekarzowi opakowanie lub etykietę. Opłukać ręce po kontakcie z płynem. Jeśli masz delikatną lub wrażliwą skórę, używaj gumowych rękawiczek. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA <\/p><p>Przechowywać poza zasięgiem dzieci. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>DAGROFA LOGISITK A\/S, TORVARER MORUPVEJ 2-4, 7400 HERNING<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_21334"
+    },
+    "category": {
+        "id": "260128"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "30.24",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.96",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "174.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2835.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "174.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17877184265",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T11:54:09.669Z"
+    },
+    "createdAt": "2025-09-10T11:54:09.000Z",
+    "updatedAt": "2025-09-10T12:09:10.205Z"
+}

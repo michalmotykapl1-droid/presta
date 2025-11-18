@@ -1,0 +1,343 @@
+{
+    "name": "Zdrowy lizak Mniam-Mniam bez cukru mango 1 szt. STARPHARMA",
+    "productSet": [
+        {
+            "product": {
+                "id": "729e2067-aa77-457d-ac12-acce7a24486c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Starpharma"
+                        ],
+                        "valuesIds": [
+                            "248811_1964320"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Mniam-Mniam lizak"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235585",
+                        "name": "Smak",
+                        "values": [
+                            "mango"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "10643_2097152"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_4",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.007"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "1.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "1.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "0.8"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907763674064"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d5deb3be-a3d2-4f28-8837-d1dcb51a93cb"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/111870\/a7a132f140fb8359b85667c9a1cb"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "2.42",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 80,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111870\/a7a132f140fb8359b85667c9a1cb"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Zdrowy lizak Mniam-Mniam bez cukru mango 1 szt. STARPHARMA<\/h1> <p><b>OPIS <\/b><\/p><p>Suplement diety Zdrowy lizak Mniam-Mniam o smaku mango zawiera substancje słodzące: fiński ksylitol oraz glikozydy stewiolowe. Spożywanie żywności zawierającej ksylitol zamiast cukru pomaga w zachowaniu mineralizacji zębów. Lizak zawiera witaminę D i C, które pomagają w prawidłowym funkcjonowaniu układu odpornościowego. Witamina D pomaga w utrzymaniu zdrowych kości, zębów oraz prawidłowym funkcjonowaniu mięśni. Witamina D bierze udział w procesie podziału komórek. Witamina C pomaga w prawidłowej produkcji kolagenu, w celu zapewnienia prawidłowego funkcjonowania kości, chrząstki, dziąseł, skóry i zębów.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Substancja słodząca: ksylitol; substancja wypełniająca: izomalt; regulator kwasowości: kwas cytrynowy; substancja przeciwzbrylająca: sole magnezowe kwasów tłuszczowych; naturalny aromat mango; substancja przeciwzbrylająca: guma arabska; suszone mango (0,3%); kwas L-askorbinowy (witamina C); substancja słodząca: glikozydy stewiolowe; brawnik: ekstrakt z papryki, kapsantyna, kapsorubina; cholekalcyferol (witamina D). <\/p><p>Zawartość 1 lizaka:<\/p><p>• Witamina C - 12 mg<\/p><p>• Witamina D - 2,5 ug<\/p> <p>Wartość odżywcza w 100 g:<\/p><p>• Wartość energetyczna - 1039kj (249kcal)<\/p><p>• Tłuszcz - 1,5 g, w tym:<\/p><p>- kwasy tłuszczowe nasycone - 1,4 g<\/p><p>• Węglowodany - 94 g, w tym:<\/p><p>- cukry &lt; 0,5 g<\/p><p>- alkohole wielowodorotlenowe - 93 g<\/p><p>• Błonnik - 0,8 g<\/p><p>• Białko - &lt; 0,5 g<\/p><p>• Sól - 0,02g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecana porcja do spozycia w ciągu dnia niezbędna do uzyskania korzystnego działania produktu: spożywać 1-2 lizaki dziennie. Nie należy przekraczać zalecanej porcji tj. 2 lizaków w ciągu dnia. Produkt przeznaczony jest dla dorosłych i dzieci powyżej 3. roku życia. <\/p> <p><b>UWAGA <\/b><\/p><p>Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Należy pamiętać o zrównoważonym sposobie żywienia i zdrowym trybie życia. Spożycie w nadmiernych ilościach może mieć efekt przeczyszczający. Niejednorodny kolor lizaka wynika z zawartości naturalnych składników produktu. <\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowe, w suchym miejscu w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21STAZDRMM3"
+    },
+    "category": {
+        "id": "261479"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.42",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.56",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "225.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981711315",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T10:31:27.218Z"
+    },
+    "createdAt": "2025-10-14T10:31:27.000Z",
+    "updatedAt": "2025-10-17T13:31:36.185Z"
+}

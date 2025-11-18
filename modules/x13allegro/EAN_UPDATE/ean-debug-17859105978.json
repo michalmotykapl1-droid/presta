@@ -1,0 +1,363 @@
+{
+    "name": "Baton \"UŚMIECHNIJ SIĘ\" - masło orzechowe, belgijska czekolada, mi",
+    "productSet": [
+        {
+            "product": {
+                "id": "5679c0f0-c74d-49d2-95b4-411ad5e793f3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Karma"
+                        ],
+                        "valuesIds": [
+                            "248811_1945740"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "54"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907622655180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Uśmiechnij się"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "barwników",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_4194304",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.05"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "36"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "7.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "29"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "7.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "17"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.62"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907622655180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118924\/a4562fbd4b8483be619afb022000"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "6.11",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 46,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118924\/a4562fbd4b8483be619afb022000"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Baton \"UŚMIECHNIJ SIĘ\" - masło orzechowe, belgijska czekolada, mi<\/h1> <p><b>Baton \"UŚMIECHNIJ SIĘ\" - masło orzechowe, belgijska czekolada, migdał Karma, 54g<\/b><\/p><p>UŚMIECHNIJ SIĘ - Baton migdałowy z pastą z orzechów ziemnych i belgijską czekoladą. Dzięki zawartości żelaza pomaga w prawidłowej produkcji czerwonych krwinek i hemoglobiny oraz wspiera proces transportu tlenu w organizmie.<\/p><p>Żelazo pomaga w utrzymaniu prawidłowych funkcji poznawczych.<\/p><p>SIĘGNIJ PO TEN BATON GDY:<\/p><p>- pragniesz dostarczyć sobie endorfin<\/p><p>- chcesz się pozytywnie naładować<\/p><p>- masz ochotę na coś przepysznego<\/p><p>100 % naturalny<\/p><p>bez konserwantów i barwników<\/p><p>źródło potasu, magnezu, fosforu, miedzi, manganu, cynku, żelaza i witaminy E <\/p><p>bezglutenowy<\/p><p>wysoka zawartość błonnika<\/p> <p><b>Składniki:<\/b><\/p><p>migdały 27% , <b>orzechy ziemne <\/b>, gorzka czekolada 17% (miazga kakaowa, cukier, tłuszcz kakaowy, emulgator: lecytyna <b>sojowa <\/b>, naturalny aromat waniliowy),<b>pasta z orzechów ziemnych 14% <\/b>, miód, syrop ryżowy, proso ekspandowane, siemię lniane, sól<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 2247 kJ\/537 kcal<\/p><p>Tłuszcz 36 g<\/p><p>w tym kwasy tłuszczowe nasycone 7,2 g<\/p><p>Węglowodany 33 g<\/p><p>w tym cukry 29 g<\/p><p>Błonnik 7,3 g<\/p><p>Białko 17 g<\/p><p>Sól 0,62 g<\/p><p>Potas 720 mg (36%*)<\/p><p>Magnez 179 mg (48%*)<\/p><p>Fosfor 293 mg (42%*)<\/p><p>Miedź 0,78 mg (78%*)<\/p><p>Mangan 1,65 mg (83%*)<\/p><p>Cynk 2,8 mg (28%*)<\/p><p>Żelazo 4,9 mg (35%*)<\/p><p>Witamina E 9,6 mg (80%*)<\/p><p>*Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8400 kJ\/2000 kcal).<\/p> <p><b>Alergeny:<\/b><\/p><p>Migdały, orzechy ziemne, soja<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent:<\/b><\/p><p>Karma Sp. z o.o<\/p><p>ul. Piekary 24,<\/p><p>61-823 Poznań<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5907622655180"
+    },
+    "category": {
+        "id": "261779"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.11",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.41",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "575.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859105978",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T15:07:40.383Z"
+    },
+    "createdAt": "2025-09-04T15:07:40.000Z",
+    "updatedAt": "2025-10-13T08:07:23.417Z"
+}

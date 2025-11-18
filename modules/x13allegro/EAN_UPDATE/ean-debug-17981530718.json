@@ -1,0 +1,371 @@
+{
+    "name": "Kolagen SPORT 5000mg 500ml HEALTHY HERB",
+    "productSet": [
+        {
+            "product": {
+                "id": "f0a94292-3545-49c3-a2eb-be8c16f3462b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Healthy Herb"
+                        ],
+                        "valuesIds": [
+                            "248811_1960322"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Healthy Herb"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "500"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "wieloowocowy"
+                        ],
+                        "valuesIds": [
+                            "129857_73"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "25"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224157",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "224157_307089"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "Owocowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904708324015"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "9fc28634-6a17-4f1f-bb52-72c9ac823a8e"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1175e7\/30c4239b4452b6b6ab3622958b44"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "134.86",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 19,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1175e7\/30c4239b4452b6b6ab3622958b44"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Kolagen SPORT 5000mg 500ml HEALTHY HERB<\/h1> <p><b>OPIS <\/b><\/p><p>Kolagen SPORT 5000 mg tworzony jest na bazie kolagenu rybiego i wzbogacony jest o starannie dobrane, naturalne ekstrakty ziołowe, zwiększające sprawność fizyczną, elastyczność stawów i mięśni oraz zwiększające odporność i wydolność organizmu. Produkt polecany jest w szczególności dla sportowców i osób aktywnych.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Woda demineralizowana; soki owocowe z koncentratów (jabłko-pomarańcza); hydrolizowany kolagen rybi (z kolagenu typu I i III), MSM siarka organiczna (metylosulfonylometan), siarczan glukozaminy 2KCL, siarczan chondroityny; ekstrakt z korzenia ostryżu długiego (Curcuma Longa), ekstrakt z korzenia żeń-szenia andyjskiego (Lepidium Meyenii), ekstrakt z korzenia różeńca górskiego (Rhodiola Rosea), ekstrakt z owoców cytryńca chińskiego (Schisandra Chinensis), ekstrakt z korzenia imbiru lekarskiego (Zingiber Officinale), olej słonecznikowy; witaminy z grupy B [witamina B1 (tiamina), witamina B2 (ryboflawina), witamina B3 (nikotynamid), witamina B4 (dwuwinian choliny), witamina B5 (D-pantotenian wapnia), witamina B6 (chlorowodorek pirydoksyny), witamina B7 (D-biotyna), witamina B8 (inozytol), witamina B9 (kwas foliowy), witamina B12 (cyjanokobalamina)]; emulgatory: guma arabska, guma guar, guma ksantanowa; witamina C (kwas L-askorbinowy); substancje konserwujące: sorbinian potasu, benzoesan sodu; koenzym Q10 (ubichinon); kwas hialuronowy.<\/p> <p>Zawiera naturalnie występujące cukry.<\/p> <p>Zawartość w 15ml:<\/p><p>• L-glicyna - 1170 mg<\/p><p>• L-prolina - 590 mg<\/p><p>• L-hydroksyprolina - 392,5 mg<\/p><p>• Kwas L-glutaminowy - 435 mg<\/p><p>• L-alanina - 475 mg<\/p><p>• L-arginina - 386,5 mg<\/p><p>• Kwas L-asparginowy - 243 mg<\/p><p>• L-lizyna - 161 mg<\/p><p>• L-seryna - 152 mg<\/p><p>• L-leucyna - 124,5 mg<\/p><p>• L-fenyloalanina - 83 mg<\/p><p>• L-treonina - 123 mg<\/p><p>• L-izoleucyna - 63 mg<\/p><p>• L-histydyna - 27 mg<\/p><p>• L-metionina - 59 mg<\/p><p>• L-tyrozyna - 19,5 mg<\/p><p>• L-valina - 105,5 mg<\/p><p>• L-ornityna - 20,5 mg<\/p><p>• Siarczan glukozoaminy 2KCL - 425 mg<\/p><p>• Siarczan chondrityny - 250 mg<\/p><p>• Ekstrakt z ostryżu długiego - 90 mg<\/p><p>• Ekstrakt z zeń-szenia andyńskiego - 90 mg<\/p><p>• Ekstrakt z różeńca górskiego - 90 mg<\/p><p>• Ekstrakt z cytryńca chińskiego - 90 mg<\/p><p>• Ekstrakt z imbiru lekarskiego - 90 mg<\/p><p>• Witamina C - 30 mg (37.5% RWS)<\/p><p>• Witamina B7 - 2.5 mg (5000% RWS)<\/p><p>• Witamina B12 - 100 µg (4000% RWS)<\/p><p>• Witamina B6 - 3,5 mg (250% RWS)<\/p><p>• Witamina B5 - 7.5 mg (125% RWS)<\/p><p>• Witamina B1 - 7.5 mg (681% RWS)<\/p><p>• Witamina B2 - 7.5 mg (535% RWS)<\/p><p>• Witamina B3 - 7.5mg (46.8% RWS)<\/p><p>• Witamina B4 - 7.5 mg<\/p><p>• Witamina B8 - 7.5 mg<\/p><p>• Witamina B9 - 150 µg (75% RWS)<\/p><p>• Kwas hialuronowy - 7.497 mg<\/p><p>• Siarka organiczna MSM - 500 mg<\/p><p>• Koenzym Q10 - 8.5 mg<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Przed użyciem wstrząsnąć. Dzienna zalecana dawka to 15 ml.<\/p> <p><b>UWAGA <\/b><\/p><p>Osoby przyjmujące leki lub mające jakiekolwiek przewlekłe problemy zdrowotne, powinny skonsultować się z lekarzem przed użyciem. Produkt nie jest przeznaczony dla kobiet w ciąży i matek karmiących. Nie przekraczaj zalecanego spożycia. Produkt dla dorosłych. Produkt nie może być stosowany, jako substytut zróżnicowanej diety. Produkt nie zastąpi prowadzenia zdrowego i zrównoważonego trybu życia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Chronić przed światłem i dziećmi. Przechowywać w lodówce. Po otwarciu przechowywać w lodówce nie dłużej niż 5 tyg.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z21HEAKOLSP"
+    },
+    "category": {
+        "id": "122572"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "134.86",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.02",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "775.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12635.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "775.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981530718",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T09:39:30.634Z"
+    },
+    "createdAt": "2025-10-14T09:39:30.000Z",
+    "updatedAt": "2025-10-24T12:42:46.014Z"
+}

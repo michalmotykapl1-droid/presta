@@ -1,0 +1,226 @@
+{
+    "name": "RAVIOLI ŚWIEŻE Z WARZYWAMI I TOFU BIO 250 g - LA SPIGA",
+    "productSet": [
+        {
+            "product": {
+                "id": "62fdd7fb-42ac-4527-8e99-d6d25de2909a",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8022230000225"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112b3e\/a5e5121b4706956aea00e236a7a4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "16.33",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 48,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112b3e\/a5e5121b4706956aea00e236a7a4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>RAVIOLI ŚWIEŻE Z WARZYWAMI I TOFU BIO 250 g - LA SPIGA<\/h1><p>SKŁADNIKI<\/p><p>mąka z PSZENICY ORKISZ* 32,5 %, warzywa* w zmiennych proporcjach 19 % (marchew*, cebula*, papryka*, ziemniaki*, bakłażany*), tofu* 19 % (SOJA*, woda, substancja wiążąca: chlorek magnezu), woda, płatki ziemniaczane*, mąka kukurydziana* 3 %, olej słonecznikowy*, oliwki*, błonnik OWSIANY*, sól morska, miso sojowo - ryżowe* (SOJA*, ryż brązowy*, sól morska, woda), suszone pomidory*, kapary*, czosnek*, majeranek*, szałwia*, rozmaryn*. (*certyfikowany składnik ekologiczny)<\/p><p>SPOSÓB PRZYGOTOWANIA<\/p><p>Gotować w osolonej wrzącej wodzie przez 3 minuty.<\/p><p>WARTOŚĆ ODŻYWCZA w 100 g <\/p><p>Wartość energetyczna: 923 kJ \/ 219 kcal<\/p><p>Tłuszcz: 3,5 g<\/p><p>w tym kwasy tłuszczowe nasycone: 0,6 g<\/p><p>Węglowodany: 34 g<\/p><p>w tym cukry: 3,3 g<\/p><p>Błonnik: 5,0 g<\/p><p>Białko: 10 g<\/p><p>Sól: 1,8 g<\/p><p>INFORMACJA ALERGENNA<\/p><p>Może zawierać JAJA, MLEKO, ORZECHY, SELER, gorczycę.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w temperaturze do +4°C.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>ALBIO S.R.L - Via don luigi Posocco, 6 - 31020 Vidor (TV) Italy<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46258"
+    },
+    "category": {
+        "id": "74070"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.33",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.76",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "94.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1530.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "94.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016723160",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T09:53:46.950Z"
+    },
+    "createdAt": "2025-10-22T09:53:46.000Z",
+    "updatedAt": "2025-10-30T13:16:45.850Z"
+}

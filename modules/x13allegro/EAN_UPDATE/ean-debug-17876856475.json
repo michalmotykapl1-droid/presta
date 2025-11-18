@@ -1,0 +1,385 @@
+{
+    "name": "KOLAGEN (12 000 mg) SHOT BEZGLUTENOWY 30 ml - PHARMOVIT",
+    "productSet": [
+        {
+            "product": {
+                "id": "a820b9f0-5b0d-4ede-a64c-23e5adf51a6d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Pharmovit"
+                        ],
+                        "valuesIds": [
+                            "248811_1963095"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "PV785"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "KOLAGEN"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "2.613"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "210698_243798"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezglutenowy"
+                        ],
+                        "valuesIds": [
+                            "210762_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "33"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "jabłkowy"
+                        ],
+                        "valuesIds": [
+                            "129857_13"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224157",
+                        "name": "Rodzaj",
+                        "values": [
+                            "kolagen"
+                        ],
+                        "valuesIds": [
+                            "224157_307089"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904703901785"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0ad04e8e-7901-4867-a41d-2dd4963c5158"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11ef7e\/1c8dec69438895e12ef48cd74e2a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "7.77",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 3090,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11ef7e\/1c8dec69438895e12ef48cd74e2a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KOLAGEN (12 000 mg) SHOT BEZGLUTENOWY 30 ml - PHARMOVIT<\/h1><p>SKŁADNIKI <\/p><p>sok jabłkowy odtworzony z zagęszczonego soku jabłkowego; hydrolizowany kolagen wołowy; regulator kwasowości: kwas cytrynowy; witamina C (kwas L-askorbinowy); hydrolizowana elastyna z RYB morskich; cynk (glukonian cynku); kwas hialuronowy; ekstrakt z pestek winogron standaryzowany na 95 % oligomerycznych proantocyjanidyn; aromat; niacyna (amid kwasu nikotynowego); substancje słodzące: glikozydy stewiolowe ze stewii, sukraloza; witamina A (octan retinylu); biotyna (D-biotyna). <\/p><p>Składniki w porcji dziennej 30 ml\/1 porcja<\/p><p>Hydrolizowany kolagen wołowy - 12 000 mg<\/p><p>Witamina C - 120 mg (150 %)*<\/p><p>Kwas hialuronowy - 50 mg<\/p><p>Hydrolizowana elastyna - 100 mg<\/p><p>Ekstrakt z pestek winogron (Vitis vinifera) - 20 mg<\/p><p>- w tym oligomeryczne proantocyjanidyny - 19 mg<\/p><p>Niacyna - 16 mg (100 %)*<\/p><p>Witamina A - 400 μg (50 %)*<\/p><p>Cynk - 10 mg (100 %)*<\/p><p>Biotyna - 1000 μg (2000 %)*<\/p><p>*- Referencyjne wartości spożycia<\/p><p>OPIS <\/p><p>Suplement diety. Produkt zawiera substancje słodzące.<\/p><p>Kolagen 12000 max to suplement diety w płynie, który zawiera kolagen wołowy, elastynę w postaci hydrolizatu z RYB morskich, kwas hialuronowy oraz ekstrakty roślinne, witaminy i minerały. Kolagen jest białkiem występującym w ludzkim organizmie. Stanowi główny składnik tkanki łącznej. Wchodzi w skład nie tylko skóry, ale również włosów, kości, paznokci i stawów. Kwas hialuronowy, podobnie jak kolagen, stanowi kluczowy składnik tzw. macierzy międzykomórkowej skóry właściwej oraz jest głównym składnikiem mazi stawowej. Elastyna to obecne w skórze właściwej białko wytwarzane przez fibroblasty, które tworzy sieć niezwykle rozciągliwych włókien elastynowych oplatających włókna kolagenowe. Witamina C pomaga w prawidłowej produkcji kolagenu w celu zapewnienia prawidłowego funkcjonowania skóry, kości oraz chrząstki. Cynk pomaga w ochronie komórek przed stresem oksydacyjnym, w zachowaniu zdrowej skóry, paznokci, włosów oraz kości. Pomaga również w prawidłowej syntezie białka. Dodatkowo witamina C oraz cynk odpowiadają za prawidłowe funkcjonowanie układu odpornościowego. Niacyna pomaga w prawidłowym funkcjonowaniu układu nerwowego i w utrzymaniu prawidłowego stanu błon śluzowych. Biotyna przyczynia się do utrzymania prawidłowego metabolizmu makroskładników odżywczych oraz pomaga w zachowaniu zdrowych włosów. Witamina A odgrywa role w procesie specjalizacji komórek oraz, wraz z biotyną, pomaga w zachowaniu zdrowej skóry. <\/p><p>ZALECANE SPOŻYCIE I INNE UWAGI <\/p><p>Zalecana porcja produktu do spożycia w ciągu dnia niezbędna do uzyskania korzystnego działania produktu: Spożywać 30 ml dziennie w trakcie posiłku. Spożyć bezpośrednio po otwarciu. Zalecana porcja dzienna to 25 ml.<\/p><p>Przed każdym użyciem wstrząsnąć.<\/p><p>Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. Nie stosować w przypadku uczulenia na którykolwiek ze składników. Produkt dla dorosłych. Spożywania produktu nie zaleca się kobietom w ciąży i karmiącym piersią. Produkt nie może być stosowany jako substytut zróżnicowanej diety. Ważne jest prowadzenie zdrowego trybu życia i zrównoważonego sposobu żywienia. <\/p><p>Ze względu na obecność w składzie naturalnego soku owocowego barwa, smak, aromat oraz konsystencja suplementu diety mogą się nieznacznie różnić w zależności od partii produkcyjnej. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Chronić przed światłem. Przechowywać w temperaturze pokojowej, w suchym miejscu, w sposób niedostępny dla małych dzieci. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>Pharmovit Dystrybucja Spółka z ograniczoną odpowiedzialnością, ul. Kostrogaj 9D, 09-400 Płock<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_43779"
+    },
+    "category": {
+        "id": "122572"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.77",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.79",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "45.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "730.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "45.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876856475",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:50:12.970Z"
+    },
+    "createdAt": "2025-09-10T09:50:12.000Z",
+    "updatedAt": "2025-10-24T12:42:31.081Z"
+}

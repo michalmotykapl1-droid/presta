@@ -1,0 +1,338 @@
+{
+    "name": "BIOWEN Kurkuma C3 Complex+ 60 kapsułek",
+    "productSet": [
+        {
+            "product": {
+                "id": "bccc6af6-4d46-4a65-9a5c-a0e788d6deb6",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250573",
+                        "name": "Nazwa",
+                        "values": [
+                            "Kurkuma C3 Complex+"
+                        ],
+                        "valuesIds": [
+                            "250573_1932387"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Biowen"
+                        ],
+                        "valuesIds": [
+                            "248811_1957883"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "2121707231"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "230"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "kurkuma"
+                        ],
+                        "valuesIds": [
+                            "210698_243834"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez laktozy",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_4",
+                            "210762_16",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.26"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904806120489"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "462eb009-9e06-4340-a6f0-dcfabe1ac169"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114dad\/37fae74a4bc3b154b5ea848d6c17"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "75.30",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114dad\/37fae74a4bc3b154b5ea848d6c17"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BIOWEN Kurkuma C3 Complex+ 60 kapsułek<\/h1> <p><b>OPIS <\/b><\/p><p>Kurkuma C3 Complex+ Biowen - 60 kapsułek - suplement diety<\/p> <p>Kurkuma C3 Complex+ Biowen to innowacyjny suplement diety, który zawiera potrójną standaryzację na kurkuminoidy, substancje aktywne z kurkumy. Jest możliwe dzieki zastosowaniu opatentowanej formuły Curcumim C3 Complex® standaryzowanej na: kurkuminy, bisdemetoksykurkuminy, demetoksykurkuminy.<\/p> <p>Suplement wzbogacony został ekstraktem z imbiru standaryzowanym na gingerole oraz owoców pieprzu czarnego BioPerine® standaryzowanego na piperynę. Dzięki temu, produkt ten oferuje niezwykłą moc naturalnych składników. Kurkuma C3 Complex+ Biowen to nie tylko bogactwo składników roślinnych o wielu cennych właściwościach, ale również kompleks kurkuminoidów, pochodzących z korzenia kurkumy. Poznaj Kurkumę C3 Complex+ Biowen i doświadcz wszystkich korzyści, jakie może Ci przynieść.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Ekstrakt ostryżu długiego (Curcuma longa) standaryzowany na 98% kurkuminoidów, ekstrakt z imbiru (Zingiber officinale) standaryzowany na 5% gingeroli, ekstrakt z pieprzu czarnego (Piper nigrum) standaryzowany na 95% piperyny, hydroksypropylometyloceluloza (otoczka kapsułki).<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Aby jak najbardziej skorzystać z wartościowych składników tego suplementu, zaleca się spożywanie jednej kapsułki dziennie, najlepiej wraz z posiłkiem. Nie należy przekraczać zalecanej dziennej porcji tego suplementu. Przechowywać w temperaturze pokojowej w sposób niedostępny dla dzieci. Chronić przed wilgocią.<\/p> <p>Składniki (1 kapsułka):<\/p><p>Curcumin C3 Complex® ekstrakt z ostryżu długiego (98% kurkuminoidów) – 500mg<\/p><p>w tym kurkumina – 390 mg<\/p><p>demetoksykurkumina – 90mg<\/p><p>bisdemetoksykurkumina – 15mg<\/p><p>Ekstrakt z imbiru (5% gingeroli) – 50mg<\/p><p>w tym gingerole – 2,5mg<\/p><p>BioPerine® - 1mg<\/p><p>w tym 95% piperyny – 0,95mg<\/p> <p><b>PRODUCENT <\/b><\/p><p>Biodio Lab Sp. z o.o.<\/p><p>Ul. Choroszczańska 24<\/p><p>15-732 Białystok<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21BIDBKURC3"
+    },
+    "category": {
+        "id": "122574"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "75.30",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "17.32",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "433.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7055.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "433.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17872873646",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-09T05:59:45.569Z"
+    },
+    "createdAt": "2025-09-09T05:59:45.000Z",
+    "updatedAt": "2025-10-20T13:49:44.457Z"
+}

@@ -1,0 +1,111 @@
+/**
+* 2007-2025 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2025 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*/
+/*#tvcmssizechart-popup {
+    display: none;
+}
+.fancybox-error {
+    display: none;
+}
+.fancybox-inner .cms-description th,
+.fancybox-inner .cms-description td {
+    padding: 15px 22px;
+}*/
+#tvcmssizechart-popup {
+    display: none;
+}
+
+.fancybox-error {
+    display: none;
+}
+
+.fancybox-inner .cms-description th,
+.fancybox-inner .cms-description td {
+    padding: 15px 22px;
+}
+
+.modal #tvcmssizechart-popup {
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+
+#tvproduct-customize .modal-dialog {
+    width: max-content;
+}
+
+#tvproduct-customize .modal-dialog .modal-content {
+    border-radius: 5px;
+    width: 100%;
+}
+
+#tvproduct-customize .modal-dialog .tvmodel-close {
+    background-color: #000;
+    border-radius: 100%;
+    color: #fff;
+    position: absolute;
+    top: -18px;
+    right: -18px;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    z-index: 8040;
+    padding: 6px;
+}
+
+#tvproduct-customize .modal-dialog .tvmodel-close span {
+    color: #fff;
+    line-height: 0px;
+}
+
+#tvcmssizechart-popup.cms-description th,
+#tvcmssizechart-popup.cms-description td {
+    padding: 11px 15px;
+}
+
+@media (max-width: 767px) {
+    #tvproduct-customize .modal-dialog .modal-content {
+        width: 100%;
+    }
+
+    #tvproduct-customize .modal-dialog {
+        width: auto;
+    }
+
+    #tvproduct-customize .modal-dialog .tvmodel-close {
+        top: -14px;
+        right: -9px;
+        width: 30px;
+        height: 30px;
+        padding: 4px;
+    }
+
+    #tvproduct-customize .modal-dialog .tvmodel-close i {
+        font-size: 20px;
+    }
+}
+
+.modal #tvcmssizechart-popup td strong {
+    font-weight: 500;
+}

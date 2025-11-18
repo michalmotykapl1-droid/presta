@@ -1,0 +1,292 @@
+{
+    "name": "GORVITA Żel anticellulitis 200ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "9f235bc7-03c2-4db1-8828-63ca00012f95",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Gorvita"
+                        ],
+                        "valuesIds": [
+                            "248811_1960074"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907636994497"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129529",
+                        "name": "Rodzaj",
+                        "values": [
+                            "balsam"
+                        ],
+                        "valuesIds": [
+                            "129529_5"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "spray"
+                        ],
+                        "valuesIds": [
+                            "215766_271254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "202705",
+                        "name": "Waga",
+                        "values": [
+                            "1000"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907636994497"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "fdf56e12-3053-474d-977e-17bc8948f4a1"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów wyszczuplających i antycellulitowych oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie i podrażnienia:\n    *   Zawsze wykonaj test alergiczny przed pierwszym użyciem produktu na małym obszarze skóry.\n    *   Zaprzestań stosowania, jeśli wystąpi zaczerwienienie, swędzenie lub podrażnienie.\n\n2.  Składniki aktywne:\n    *   Zachowaj ostrożność, jeśli masz wrażliwą skórę lub alergię na którykolwiek ze składników produktu.\n    *   Skonsultuj się z lekarzem przed użyciem, jeśli masz jakiekolwiek obawy dotyczące składników.\n\n3.  Stosowanie:\n    *   Nigdy nie przekraczaj zalecanej częstotliwości stosowania produktu.\n    *   Unikaj kontaktu z oczami i błonami śluzowymi. W razie kontaktu, natychmiast przemyj dużą ilością wody.\n    *   Nie stosuj na uszkodzoną lub podrażnioną skórę.\n\n4.  Interakcje z lekami:\n    *   Jeśli stosujesz jakieś leki (szczególnie te na skórę), przed użyciem produktu skonsultuj się z lekarzem lub farmaceutą.\n\n5.  Ciąża i karmienie piersią:\n    *   Nie stosuj produktów wyszczuplających i antycellulitowych w czasie ciąży i karmienia piersią, chyba że lekarz zaleci inaczej.\n\n6.  Przechowywanie:\n    *   Przechowuj produkt w miejscu niedostępnym dla dzieci.\n    *   Przechowuj produkt w chłodnym, suchym miejscu, z dala od bezpośredniego światła słonecznego.\n\n7.  Problemy zdrowotne:\n    *   Jeśli masz problemy z sercem, ciśnieniem krwi lub inne poważne schorzenia, przed użyciem produktu skonsultuj się z lekarzem.\n\n8.  Efekty uboczne:\n    *   Bądź świadomy potencjalnych efektów ubocznych, takich jak zaczerwienienie skóry, pieczenie lub uczucie ciepła.\n\n9.  Ostrzeżenie o przegrzaniu:\n    *   Nie używaj tych produktów podczas intensywnego wysiłku fizycznego lub w saunie, ponieważ może to zwiększyć ryzyko przegrzania.\n\n10. Wrażliwość na słońce:\n    *   Niektóre składniki mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem UV podczas korzystania z produktu i ogranicz ekspozycję na słońce.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/110ab7\/6cf91f974cd688fe87d70a56704d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "25.68",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/110ab7\/6cf91f974cd688fe87d70a56704d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>GORVITA Żel anticellulitis 200ml<\/h1> <p><b>OPIS <\/b><\/p><p>Zielona herbata, Kofeina Ekstrakt z alg, Kapsaicyna Przyśpiesza spalanie tkanki tłuszczowej. Wyszczupla, ujędrnia. Żel dzięki zawartości kapsaicyny posiada właściwości rozgrzewające, przez co poprawia ukrwienie naczyń włosowatych i zwiększa działanie aktywnych substancji. Ekstrakt z zielonej herbaty i guarany stymuluje przemianę materii, przyśpiesza spalanie tkanki tłuszczowej, spłyca zmarszczki i roztępy. Kompleks alg morskich, alantoina i D-panthenol zwiększają elastycznośc skóry, łagodzą mikrourazy oraz pomagają zachować właściwy poziom jej nawilżenia co przywraca równowagę wodną skóry. Masaż przy uzyciu żelu zwalcza celluit, rozstępy i nadmiar tłuszczu w tkance podskórnej oraz poprawia krążenie i ujędrnia naskórek.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Propylene Glycol, Camellia Sinensis Extract Glycerin, Paullinia Cupana Extract, Lithothamme Extract, Capsicin Extract, Glycerin, Carbomer, Triethanoloamine, Paraffinum Liquidum, Ethylexyl Stearate, Caprylic\/Capric Triglyceride, Polyglyceryl-3 Methylglucose Distearate, Allantoin, Panthenol, Cyclopentasiloxane, Cyclohexasiloxane, DMDM Hydantoin.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Stosować zewnętrznie kilka razy dziennie lub w zależności od potrzeb, wmasowując żel w skórę aż do wchłonięcia. Stosowanie przez 15 minut intensywnych ćwiczeń lub masażu, dwukrotnie wzmacnia działanie preparatu.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej w sposób niedostępny dla małych dzieci. Chronić przed słońcem i przechowywać w suchym miejscu.<\/p> <p><b>PRODUCENT <\/b><\/p><p>PPUH GORVITA<\/p><p>mgr Paweł Domek<\/p><p>Szczawa 106 34-607 Szczawa, Małopolskie. Polska <\/p><p>sklep@gorvita.com.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z21GORZELAN"
+    },
+    "category": {
+        "id": "9314"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "25.68",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.91",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "148.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2405.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "148.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981530992",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T09:39:39.336Z"
+    },
+    "createdAt": "2025-10-14T09:39:39.000Z",
+    "updatedAt": "2025-10-14T09:54:40.465Z"
+}

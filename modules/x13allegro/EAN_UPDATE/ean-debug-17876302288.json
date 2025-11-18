@@ -1,0 +1,381 @@
+{
+    "name": "AURA HERBALS Kreatyna monohydrat saszetki 30 x 3,41g",
+    "productSet": [
+        {
+            "product": {
+                "id": "bf5f1f45-bd1c-4063-b07f-8a3bc57c4da3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Aura Herbals"
+                        ],
+                        "valuesIds": [
+                            "248811_1957448"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902479614885"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Aura Herbals Monohydrat kreatyny x 30 sasz"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224137",
+                        "name": "Rodzaj",
+                        "values": [
+                            "monohydrat kreatyny"
+                        ],
+                        "valuesIds": [
+                            "224137_306977"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "bezsmakowy"
+                        ],
+                        "valuesIds": [
+                            "129857_397698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "9372",
+                        "name": "Forma",
+                        "values": [
+                            "saszetki"
+                        ],
+                        "valuesIds": [
+                            "9372_40"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224089",
+                        "name": "Cechy",
+                        "values": [
+                            "bez cukru"
+                        ],
+                        "valuesIds": [
+                            "224089_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "102"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "9373",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224053",
+                        "name": "Wielkość porcji",
+                        "values": [
+                            "3.41"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224073",
+                        "name": "Smak producenta",
+                        "values": [
+                            "bezsmakowy"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE",
+                            "WEEE"
+                        ],
+                        "valuesIds": [
+                            "218669_1",
+                            "218669_1880913"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902479614885"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "eb3d771a-eb6d-4d19-85a0-05b193c2610b"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "127308",
+            "name": "Data ważności",
+            "values": [
+                "brak informacji"
+            ],
+            "valuesIds": [
+                "127308_382861"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118c2a\/e9a92a5444678c218d0de5816199"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.94",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 12,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118c2a\/e9a92a5444678c218d0de5816199"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>AURA HERBALS Kreatyna monohydrat saszetki 30 x 3,41g<\/h1> <p><b>OPIS <\/b><\/p><p>Suplement diety w saszetkach - Kreatyna, monohydrat, saszetki 30 x 3,41 g - 3 gramy kreatyny w dziennej porcji<\/p><p>Dlaczego warto wybrać preparat Kreatyna, monohydrat w saszetkach Aura Herbals?<\/p><p>-zwiększa wydolność fizyczną podczas krótkotrwałych, powtarzających się ćwiczeń o dużej intensywności<\/p><p>-3 gramy kreatyny w dziennej porcji<\/p><p>-clean label – najprostszy skład, bez zbędnych dodatków<\/p><p>-wygoda stosowania - saszetki, które z łatwością zabierzesz ze sobą na trening <\/p> <p>Szczególne właściwości kreatyny:<\/p><p>-Zwiększa wydolność fizyczną podczas krótkotrwałych, powtarzających się ćwiczeń o dużej intensywności.<\/p><p>-Może zwiększyć wpływ treningu oporowego na siłę mięśniową u dorosłych w wieku powyżej 55 lat. <\/p> <p>Codzienne przyjmowanie kreatyny może zwiększyć wpływ treningu oporowego na siłę mięśniową u dorosłych w wieku powyżej 55 lat. Korzystne działanie występuje w przypadku dziennego spożycia 3 g kreatyny w połączeniu z treningiem oporowym, który umożliwia stopniowe zwiększanie obciążeń i który należy odbywać co najmniej trzy razy w tygodniu przez kilka tygodni, przy czym intensywność treningu musi wynosić co najmniej 65–75 % maksymalnego jednorazowego obciążenia. Produkt przeznaczony dla dorosłych w wieku ponad 55 lat, którzy odbywają regularne treningi oporowe. Maksymalne jednorazowe obciążenie oznacza maksymalny ciężar, jaki dana osoba jest w stanie podnieść, lub maksymalną siłę, jaką jest w stanie wywrzeć, w jednym powtórzeniu.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Monohydrat kreatyny.<\/p> <p>Składniki w dziennej porcji (1 saszetka):<\/p><p>Monohydrat kreatyny - 3410 mg<\/p><p>w tym Kreatyna - 3000 mg<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Otworzyć jedną saszetkę. Całą zawartość wsypać do szklanki i dodać 250 ml wody. Dokładnie wymieszać i spożyć.<\/p> <p>Zalecana porcja do spożycia: 1 saszetka. Nie przekraczaj zalecanej dziennej porcji do spożycia.<\/p> <p><b>UWAGA <\/b><\/p><p>Nie stosować u dzieci, kobiet w ciąży i w trakcie laktacji.<\/p><p>Należy pamiętać, że bardzo ważny i zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p><p>Nie stosować w przypadku alergii na jakikolwiek składnik suplementu.<\/p><p>Suplement diety nie może być stosowany jako substytut zróżnicowanej diety.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowuj w suchym miejscu w temperaturze poniżej 25°C. Suplement diety przechowuj w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21AURKRESA"
+    },
+    "category": {
+        "id": "19660"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.94",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.35",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2995.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876302288",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:37:54.947Z"
+    },
+    "createdAt": "2025-09-10T04:37:54.000Z",
+    "updatedAt": "2025-10-24T12:43:53.929Z"
+}

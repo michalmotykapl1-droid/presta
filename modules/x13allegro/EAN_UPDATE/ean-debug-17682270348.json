@@ -1,0 +1,293 @@
+{
+    "name": "Olejek z Opuncji Figowej (Maroko) 10ml NATUR PLANET (NATUR PLANET) NATUR PL",
+    "productSet": [
+        {
+            "product": {
+                "id": "f8c3e10d-2755-4332-8fae-27bfd7b17976",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Natur Planet"
+                        ],
+                        "valuesIds": [
+                            "248811_1962394"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129434",
+                        "name": "Typ skóry",
+                        "values": [
+                            "Dojrzała"
+                        ],
+                        "valuesIds": [
+                            "129434_317713"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "22158",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Opuncja figowa"
+                        ],
+                        "valuesIds": [
+                            "22158_18"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903111743987"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "butelka z pipetą"
+                        ],
+                        "valuesIds": [
+                            "215766_271246"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903111743987"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "fdbbeade-5677-4994-8194-57d93dd82221"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa olejów do twarzy oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie skórne: Zawsze sprawdzaj skład produktu przed użyciem, aby uniknąć reakcji alergicznych. Wykonaj test na małym obszarze skóry przed pełnym zastosowaniem.\n2.  Zanieczyszczenia: Upewnij się, że aplikujesz olej na czystą skórę, aby uniknąć wprowadzenia bakterii i zanieczyszczeń, które mogą powodować infekcje.\n3.  Fotouczulenie: Niektóre oleje mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem UV po aplikacji, szczególnie w ciągu dnia.\n4.  Interakcje z innymi produktami: Zwróć uwagę na potencjalne interakcje z innymi produktami do pielęgnacji. Niektóre kombinacje mogą prowadzić do podrażnień lub zmniejszenia skuteczności.\n5.  Użycie w ciąży: Skonsultuj się z lekarzem przed użyciem olejów eterycznych w czasie ciąży, ponieważ niektóre mogą być przeciwwskazane.\n6.  Dzieci: Trzymaj poza zasięgiem dzieci, produkt nie jest przeznaczony dla dzieci.\n7.  Przechowywanie: Przechowuj w chłodnym i ciemnym miejscu, z dala od bezpośredniego światła słonecznego, aby zapobiec utlenianiu i utracie jakości.\n8.  Podrażnienia: W przypadku wystąpienia podrażnienia, zaczerwienienia lub swędzenia, natychmiast przerwij stosowanie i skonsultuj się z dermatologiem.\n9.  Okres ważności: Nie używaj produktu po upływie daty ważności.\n10. Aplikacja: Unikaj kontaktu z oczami i błonami śluzowymi. W razie kontaktu, przemyj obficie wodą.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116b1c\/87445d2b429f8a8114acb09ca668"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "46.01",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 19,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>Olejek z Opuncji Figowej (Maroko) 10ml NATUR PLANET (NATUR PLANET) - NATUR PLANET<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Nierafinowany olej z Opuncji Figowej otrzymywany jest w procesie  tłoczenia na zimno pestek opuncji (Opuncia ficus-indica). Bogaty jest w cenne  dla skóry nienasycone kwasy tłuszczowe, w tym kwas linolenowy. Nierafinowany  olej to cenne źródło dużej dawki nie tylko witaminy E, ale również witamin A, F,  K oraz minerałów: potasu, wapnia, fosforu, żelaza magnezu oraz cynku. Tak  doskonała kompozycja naturalnych składników, sprawia iż olej odżywia i wygładza  dojrzałą skórę. Witaminy zawarte w oleju korzystnie wpływają na zmiany skórne:  plamy pigmentacyjne, blizny. Produkt w 100% naturalny i bezpieczny.<\/p>\n<p><b>WSKAZANIA<\/b><\/p>\n<p>Antyoksydacyjne i odżywcze – skóra dojrzała i  zmęczona<\/p>\n<p>Oczyszczające – upłynnia sebum, oczyszcza zapchane pory<\/p>\n<p>Wygładzające i ujędrniające – wypełnia zmarszczki, ujędrnia skórę<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>Nałożyć 2-3 krople na skórę i delikatnie  masować. Głęboko wcierać w okolice zmarszczek.<\/p>\n<p>Doskonale sprawdza się w połączeniu z Olejem Arganowym lub  Marula.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>Opuntia Ficus Indica Seed Oil<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71NAPOLEOP"
+    },
+    "category": {
+        "id": "144743"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.01",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17682270348",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:26:33.129Z"
+    },
+    "createdAt": "2025-07-02T10:40:47.000Z",
+    "updatedAt": "2025-09-17T01:29:30.934Z"
+}

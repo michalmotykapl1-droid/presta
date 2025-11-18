@@ -1,0 +1,392 @@
+{
+    "name": "Mufiny czekoladowe z kremem budyniowym bez glutenu Celiko, 310g",
+    "productSet": [
+        {
+            "product": {
+                "id": "68c4c81d-c6ea-415d-a704-469e735232fa",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Celiko"
+                        ],
+                        "valuesIds": [
+                            "248811_1938866"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225117",
+                        "name": "Waga",
+                        "values": [
+                            "0.31"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235625",
+                        "name": "Rodzaj ciasta",
+                        "values": [
+                            "babeczki"
+                        ],
+                        "valuesIds": [
+                            "235625_390385"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "czekoladowe z kremem budyniowym"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5900038001107"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "glutenu"
+                        ],
+                        "valuesIds": [
+                            "130691_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.38"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235637",
+                        "name": "Smak",
+                        "values": [
+                            "czekoladowy"
+                        ],
+                        "valuesIds": [
+                            "235637_390501"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "40"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "20"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "1.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "3.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.62"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900038001107"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "14bc477a-f17d-47e4-bc48-5d2e3f2220d1"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/114eb4\/1a7935bb47c5843b3003509a90bf"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "11.31",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 2,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/114eb4\/1a7935bb47c5843b3003509a90bf"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mufiny czekoladowe z kremem budyniowym bez glutenu Celiko, 310g<\/h1> <p><b>Mufiny czekoladowe z kremem budyniowym bez glutenu Celiko, 310g <\/b><\/p> <p>Wyśmienite<b>Muffiny czekoladowe z kremem budyniowym! <\/b><\/p> <p>Mieszanka do samodzielnego wypieku<\/p> <p><b>Produkt bezglutenowy (PL-064-052) <\/b><\/p> <p>Łatwe i szybkie w przygotowaniu!<\/p> <p>Przygotujesz z nich także m.in. czekoladowe ciastka z kremem i owocami!<\/p> <p><b>Baw się smakami i eksperymentuj z dodatkami do ulubionyych muffinów. Szybko i wygodnie! <\/b><\/p> <p>Produkowane <b>z wysokiej jakości składników <\/b>, zgodnie z zasadami produkcyjnymi gwarantującymi deklarowany skład czynników alergennych (np. glutenu).<\/p> <p>Przepisy na wykonanie ciast - na opakowaniu. Więcej przepisów na stronie: <b>www.celiko.com.pl\/przepisy\/<\/b><\/p>  <p><b>Składniki:<\/b><\/p> <p>Muffin: cukier, mąka ryżowa, skrobia ziemniaczana, czekolada w proszku 15,5% (cukier, kakao o obniżonej zawartości tłuszczu min. 32%), błonnik kakaowy, difosforany: regulator kwasowości; węglany sodu: substancja spulchniająca; aromat, sól.<\/p><p>Krem: cukier, skrobia ziemniaczana modyfikowana, <b>mleko <\/b>pełne w proszku, <b>maślanka <\/b>w proszku, glukoza, sól, barwniki: karoteny, aromat<\/p> <p><b>Wartość odżywcza:<\/b><\/p>  <p><b>Wartość odżywcza <\/b><b>Po przyrządzeniu z kremem - w 100 g: <\/b><b>Po przyrządzeniu - 1 muffina + 1 porcja kremu (55 g)<\/b><\/p>  <p>Wartość energetyczna: 1406 kJ \/ 336 kcal 773 kJ \/ 185 kcal <\/p> <p>Tłuszcz: 17,6 g 9,7 g <\/p> <p>w tym kwasy tłuszczowe nasycone: 0,4 g 0,2 g <\/p> <p>Węglowodany: 40,1 g 22,1 g <\/p> <p>w tym cukry: 20,2 g 11,1 g <\/p> <p>Błonnik: 1,2 g 0,7 g <\/p> <p>Białko: 3,7 g 2,0 g <\/p> <p>Sól: 0,61 g 0,3 g <\/p> <p><b>Alergeny:<\/b><\/p><p>Może zawierać: <b>soję <\/b>i jej pochodne.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu.<\/p> <p><b>Producent:<\/b><\/p><p>Celiko<\/p><p>św. Antoniego 71<\/p><p>61-359 Poznań<\/p><p>Polska<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5900038001107"
+    },
+    "category": {
+        "id": "260977"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11.31",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.60",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "65.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1060.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "65.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859004372",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T14:30:50.506Z"
+    },
+    "createdAt": "2025-09-04T14:30:50.000Z",
+    "updatedAt": "2025-10-31T12:05:30.631Z"
+}

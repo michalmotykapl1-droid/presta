@@ -1,0 +1,351 @@
+{
+    "name": "Paluszki Natures z czoskiem i ziołami Salatini, 40g",
+    "productSet": [
+        {
+            "product": {
+                "id": "2e60de60-e7c8-4c72-b377-a1e8ca4baa02",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Salatini"
+                        ],
+                        "valuesIds": [
+                            "248811_1963842"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "40"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250328",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Paluszki i precelki"
+                        ],
+                        "valuesIds": [
+                            "250328_1880761"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248639",
+                        "name": "Rodzaj przekąski",
+                        "values": [
+                            "paluszki"
+                        ],
+                        "valuesIds": [
+                            "248639_935711"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "5900049816233"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5900049816233"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "6.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "0.9"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "77"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "6.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250666",
+                        "name": "Błonnik",
+                        "values": [
+                            "3.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250667",
+                        "name": "Białko",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5900049816233"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "27881278-330d-44f3-8f53-ed33a365b660"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11270d\/b86d2d9b4a5987b8364998a6fc49"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "2.51",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 66,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11270d\/b86d2d9b4a5987b8364998a6fc49"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Paluszki Natures z czoskiem i ziołami Salatini, 40g<\/h1> <p><b>Paluszki Natures z czoskiem i ziołami Salatini, 40g <\/b><\/p>    <p>Paluszki Natures z czoskiem i ziołami marki Salatini to produkt, w którego składzie znajdziemy m.in. suszony czosnek, mąkę pszenną i drożdże. Na uwagę zasługuje stosunkowo wysoka zawartość białka (10 g w 100 g). Czosnek i zioła nadają paluszkom wyjątkowego smaku, który uwielbiają zarówno dzieci, jak i osoby dorosłe. To produkt, który można mieć zawsze przy sobie i sięgnąć po niego w dowolnej chwili. Będzie również niezastąpiony na imprezach. Paluszki Natures z czoskiem i ziołami marki Salatini cieszą się dużym zainteresowaniem - spraw, by klienci znaleźli je również u Ciebie i już dziś złóż zamówienie na naszej stronie internetowej.<\/p> <p><b>Składniki:<\/b><\/p><p>Mąka <b>pszenna <\/b>, olej słonecznikowy, cukier, sól, substancje spulchniające: węglany amonu, węglany sodu; drożdże, czosnek suszony 0,1%<\/p> <p><b>Wartość odżywcza w 100 g:<\/b><\/p><p>Wartość energetyczna 1732 kJ \/ 410 kcal<\/p><p>Tłuszcz 6,1 g<\/p><p>w tym kwasy tłuszczowe nasycone 0,9 g<\/p><p>Węglowodany 77 g<\/p><p>w tym cukry 6,2 g<\/p><p>Błonnik 3,4 g<\/p><p>Białko 10 g<\/p><p>Sól 1,0 g <\/p> <p><b>Alergeny:<\/b><\/p><p>Pszenica<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym, chłodnym miejscu z dala od źródeł ciepła i nasłonecznienia.<\/p> <p><b>Producent:<\/b><\/p><p>Grupa Maspex Sp. z o.o.<\/p><p>F. Chopina 10<\/p><p>34-100 Wadowice<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5900049816233"
+    },
+    "category": {
+        "id": "261452"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.51",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.58",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "235.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876244166",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T03:48:01.881Z"
+    },
+    "createdAt": "2025-09-10T03:48:01.000Z",
+    "updatedAt": "2025-10-13T09:21:43.160Z"
+}

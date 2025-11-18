@@ -1,0 +1,341 @@
+{
+    "name": "SILVER Witamina B-50 Complex MAX 60kaps. MyVita (MYVITA) MYVITA",
+    "productSet": [
+        {
+            "product": {
+                "id": "b87690e9-d0f6-4298-b544-7624f267291b",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "MyVita"
+                        ],
+                        "valuesIds": [
+                            "248811_1962299"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina B complex"
+                        ],
+                        "valuesIds": [
+                            "210698_244166"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903021591272"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "inny"
+                        ],
+                        "valuesIds": [
+                            "129857_40"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "Witaminy z metylokobalaminą"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.16"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "1000"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903021591272"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "43507d7d-9783-49fe-8947-21d4b2a00a46"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1163fc\/db4e95a54762966e80628e59cd06"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "56.38",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 11,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>SILVER Witamina B-50 Complex MAX 60kaps. MyVita (MYVITA) - MYVITA<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>MyVita SILVER Witamina B-50 Complex MAX Maksymalne  poziomy witamin z grupy B 60 kapsułek Suplement diety BEZ SZTUCZNYCH DODATKÓW I  WYPEŁNIACZY<\/p>\n<p>Wysokie poziomy wszystkich 8. witamin z grupy B w celu uzyskania  maksymalnej skuteczności suplementacji. Preparat dodatkowo wzmocniony choliną,   inozytolem i kwasem p-aminobenzoesowy (PABA).<\/p>\n<p>Wzmocniony kompleks zawiera  aktywną biologicznie witaminę B12 MecobalActive® w formie metylokobalaminy o  doskonałej przyswajalności.<\/p>\n<p>• maksymalne porcje wszystkich 8 witamin z grupy B<\/p>\n<p>• produkt  wzmocniony dodatkiem choliny, inozytolu i kwasu PABA<\/p>\n<p>• opatentowana  witamina B12 MecobalActive® w formie metylokobalaminy<\/p>\n<p>• produkt może  być  stosowany przez wegetarian i wegan<\/p>\n<p>Preparat składa się wyłącznie z aktywnych składników bez sztucznych dodatków  i wypełniaczy. Wszystkie składniki zostały zamknięte w kapsułce wytworzonej z  roślinnej celulozy bez barwników (w tym bez tlenku tytanu).<\/p>\n<p>Witamina B1 (Tiamina):<\/p>\n<p>• pomaga w prawidłowym funkcjonowaniu układu  nerwowego<\/p>\n<p>• wspomaga prawidłowe funkcjonowanie serca<\/p>\n<p>Witamina B2 (Ryboflawina):<\/p>\n<p>• odgrywa ważną rolę w procesach przemiany  materii<\/p>\n<p>• jest niezbędna w trakcie tworzenia czerwonych  krwinek<\/p>\n<p>• wspomaga prawidłowe działanie układu nerwowego i  odpornościowego<\/p>\n<p>Witamina B3 (Niacyna):<\/p>\n<p>• przyczynia się do prawidłowego  funkcjonowania układu nerwowego i prawidłowych funkcji  psychologicznych<\/p>\n<p>• pomaga zachować zdrową skórę<\/p>\n<p>Witamina B5 (Kwas pantotenowy):<\/p>\n<p>• jest ważna w procesie metabolizmu  energetycznego<\/p>\n<p>• przyczynia się do zmniejszenia uczucia  zmęczenia<\/p>\n<p>• wspomaga sprawność umysłową<\/p>\n<p>Witamina B6:<\/p>\n<p>• wpływa pozytywnie na prawidłową pracę układu nerwowego  i odpornościowego<\/p>\n<p>• bierze udział w metabolizmie białka, glikogenu i  homocysteiny<\/p>\n<p>• przyczynia się do zmniejszenia uczucia zmęczenia<\/p>\n<p>Biotyna:<\/p>\n<p>• pomaga zachować zdrową skórę i zdrowe  włosy<\/p>\n<p>• bierze udział w metabolizmie składników  odżywczych<\/p>\n<p>• wspiera działanie układu nerwowego i zachowanie  prawidłowych funkcji psychologicznych<\/p>\n<p>Kwas foliowy:<\/p>\n<p>• pomaga w prawidłowej produkcji krwi<\/p>\n<p>• wspiera  działanie układu nerwowego i odpornościowego<\/p>\n<p>• zmniejsza uczucia  zmęczenia i znużenia<\/p>\n<p>Witamina B12:<\/p>\n<p>• pomaga w produkcji czerwonych  krwinek<\/p>\n<p>• wspomaga utrzymanie prawidłowego poziomu  homocysteiny<\/p>\n<p>• wspiera działanie układu nerwowego i odpornościowego<\/p>\n<p>Cholina:<\/p>\n<p>• przyczynia się do utrzymania metabolizmu  tłuszczów<\/p>\n<p>• wspomaga optymalne funkcjonowanie wątroby<\/p>\n<p>Inozytol:<\/p>\n<p>• wspiera funkcjonowanie układu  nerwowego<\/p>\n<p>• zmniejsza uczucie zmęczenia i znużenia<\/p>\n<p>Kwas Paba:<\/p>\n<p>• wspiera działanie układu  odpornościowego<\/p>\n<p>• wspomaga zachowanie prawidłowej pigmentacji skóry i  włosów<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>monoazotan tiaminy, amid kwasu nikotynowego,  D-pantotenian wapnia, wodorowinian choliny, inozytol, kwas p-aminobenzoesowy,  inulina z korzenia cykorii (Cichorium) 40 mg, ryboflawina, chlorowodorek  pirydoksyny, L-leucyna 10 mg, metylokobalamina MecobalActive®, kwas  pteroilomonoglutaminowy, D-biotyna, hydroksypropylometyloceluloza (otoczka z  celulozy roślinnej).<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>1 kapsułka  dziennie. Popić wodą.<\/p>\n<p>Dzienna porcja zawiera:<\/p>\n<p>Witamina B1 50  mg  - (4545% RWS*)<\/p>\n<p>Niacyna (B3) 50 mg - (313% RWS*)<\/p>\n<p>Kwas pantotenowy (B5)  50  mg - (833% RWS*)<\/p>\n<p>Witamina B2 20 mg - (1429% RWS*)<\/p>\n<p>Witamina B6 18 mg -  (1286% RWS*)<\/p>\n<p>Kwas foliowy 50 µg - (25% RWS*)<\/p>\n<p>Biotyna 50 µg - (100%  RWS*)<\/p>\n<p>Witamina B12 50 µg - (2000% RWS*)<\/p>\n<p>Cholina 50 mg<\/p>\n<p>Inozytol 50  mg<\/p>\n<p>Kwas PABA 50 mg<\/p>\n<p>*RWS – referencyjna wartość spożycia<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Nie  należy przekraczać zalecanej dziennej porcji do spożycia. Suplementy diety nie  mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Nie zaleca  się kobietom w ciąży, karmiącym piersią oraz dzieciom. Przechowywać w  temperaturze pokojowej, w sposób niedostępny dla małych dzieci. Dla utrzymania  prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić  zdrowy  styl życia.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21PRJWIBE1"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "56.38",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17480169411",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:40.290Z"
+    },
+    "createdAt": "2025-04-30T17:42:59.000Z",
+    "updatedAt": "2025-10-08T09:49:34.381Z"
+}

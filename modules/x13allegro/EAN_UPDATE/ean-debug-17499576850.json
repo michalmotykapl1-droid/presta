@@ -1,0 +1,353 @@
+{
+    "name": "AURA HERBALS Witamina D3 Baby 400IU - krople 30ml (AURA HERBALS) AURA HERBA",
+    "productSet": [
+        {
+            "product": {
+                "id": "d7e05436-67e7-47aa-89a6-4b9e00fd475f",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Aura Herbals"
+                        ],
+                        "valuesIds": [
+                            "248811_1957448"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210770",
+                        "name": "Smak",
+                        "values": [
+                            "bezsmakowy"
+                        ],
+                        "valuesIds": [
+                            "210770_32768"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy",
+                            "chronić przed światłem",
+                            "czysty (bez dodatków)",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_8",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16",
+                            "210762_4096",
+                            "210762_8192",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5902479610658"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Witamina D3 Baby"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina D3"
+                        ],
+                        "valuesIds": [
+                            "210698_244206"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "18834",
+                        "name": "Wiek dziecka",
+                        "values": [
+                            "0 m+"
+                        ],
+                        "valuesIds": [
+                            "18834_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.09"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "70"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902479610658"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "22d9c467-8f49-404a-8292-570e02fd71e5"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": true,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1192c3\/99337ae54c7c8271e6ed125015cc"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "18.05",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT0S",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>AURA HERBALS Witamina D3 Baby 400IU - krople 30ml (AURA HERBALS) - AURA HERBALS<\/b><\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p><b>OPIS<\/b><\/p>\n<p>Witamina D3 BABY - suplement diety<\/p>\n<p>Witamina D3 to witamina rozpuszczalna w tłuszczach, otrzymywana z lanoliny.<\/p>\n<p>Witamina D3 pomaga w utrzymaniu zdrowych kości oraz w prawidłowym funkcjonowaniu układu odpornościowego.<\/p>\n<p>Witamina D3 wspiera również prawidłowe funkcjonowanie mięśni.<\/p>\n<p>Preparat przeznaczony dla niemowląt oraz dzieci do 3. roku życia.<\/p>\n<p><b>SKŁADNIKI<\/b><\/p>\n<p>Oliwa z oliwek, przeciwutleniacz: ekstrakt z rozmarynu, cholekalcyferol (witamina D3 pozyskiwana z lanoliny).<\/p>\n<p>30 ml = 900 kropli po 80 IU witaminy D3 (72 000 IU D3).<\/p>\n<p><b>SPOSÓB UŻYCIA<\/b><\/p>\n<p>5 kropli dodać do 1\/3 szklanki płynu, wymieszać i podać dziecku. Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p>\n<p>Zalecana porcja do spożycia w ciągu dnia - 5 kropli. 5 kropli (5 x 80 IU D3 = 400 IU = 5 μg D3) stanowi 100% zalecanego spożycia dziennego (RDA).<\/p>\n<p><b>UWAGA<\/b><\/p>\n<p>Nie stosować u osób uczulonych na jakikolwiek składnik preparatu. Nie przekraczaj zalecanej porcji do spożycia w ciągu dnia. Suplement diety nie może być stosowany jako substytut zróżnicowanej diety. Pamiętaj, że bardzo ważny i zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p>\n<p><b>PRZECHOWYWANIE<\/b><\/p>\n<p>Przechowuj w suchym i chłodnym miejscu. Suplement diety przechowuj w miejscu niedostępnym dla małych dzieci.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "TEXT",
+                        "content": "<p>Dołożyliśmy wszelkich starań, aby powyższe dane były poprawne, jednak nie gwarantujemy, że publikowane informacje nie zawierają błędów, które nie mogą jednak stanowić podstawy do jakichkolwiek roszczeń.<\/p>\n<p>Aktualizacja stanów magazynowych z ALLEGRO wynosi 3 godziny.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21AURWITD2"
+    },
+    "category": {
+        "id": "122565"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.05",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": null,
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17499576850",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T17:25:06.924Z"
+    },
+    "createdAt": "2025-05-07T08:23:30.000Z",
+    "updatedAt": "2025-10-01T13:49:41.841Z"
+}

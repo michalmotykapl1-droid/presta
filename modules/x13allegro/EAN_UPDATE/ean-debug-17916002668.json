@@ -1,0 +1,326 @@
+{
+    "name": "Syrop z kwiatu bzu z wit. C 100ml HERBAPOL KRAKÓW",
+    "productSet": [
+        {
+            "product": {
+                "id": "7df83a0d-0a6e-43c8-ad9b-e804f1b814a3",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Herbapol Kraków"
+                        ],
+                        "valuesIds": [
+                            "248811_1960379"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903850004592"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "SYROP Z KWIATU BZU Z WITAMINĄ C 100 ML"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.21"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "syrop"
+                        ],
+                        "valuesIds": [
+                            "210758_244698"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "czarny bez"
+                        ],
+                        "valuesIds": [
+                            "210698_244254"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "210762_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903850004592"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "5cd580dc-2cf4-48c9-b0c0-252afae9ab16"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11fbc0\/ac303d364427827a1bc5db67ec12",
+        "https:\/\/a.allegroimg.com\/original\/111aac\/2b5bd3a64b3499a2ede09123173a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.09",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 35,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11fbc0\/ac303d364427827a1bc5db67ec12"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Syrop z kwiatu bzu z wit. C 100ml HERBAPOL KRAKÓW<\/h1> <p><b>OPIS <\/b><\/p><p>SYROP Z KWIATU BZU Z WITAMINĄ C 100 ml Suplement diety<\/p>  <p>Bez czarny przyczynia się do łagodzenia objawów przeziębienia, jest pomocny przy kaszlu i chrypce oraz wspomaga naturalną odporność organizmu. Witamina C pomaga w prawidłowym funkcjonowaniu układu odpornościowego oraz przyczynia się do zmniejszenia uczucia zmęczenia i znużenia.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Cukier, woda, wyciąg z kwiatu bzu czarnego - 10%, koncentrat malinowy, aromat malinowy, witamina C - 0,05%.<\/p><p>Zawartość wyciągu z kwiatu bzu czarnego w przeliczeniu na zalecaną do spożycia dzienną porcję produktu wynosi 2,6 g. Zawartość witaminy C w przeliczeniu na zalecaną do spożycia dzienną porcję produktu wynosi 13 mg, co stanowi 16 % referencyjnej wartości spożycia. Produkt pasteryzowany.<\/p><p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Stosować po rozcieńczeniu z niewielką ilością wody lub bez rozcieńczenia. Zaleca się przyjmowaniu po 2 łyżeczki (10ml) 2 razy dziennie.<\/p><p>Nie przekraczać zalecanej do spożycia dziennej porcji produktu.<\/p><p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w zamkniętym opakowaniu, w temperaturze pokojowej, w sposób niedostępny dla małych dzieci.<\/p><p><b>UWAGA <\/b><\/p><p>Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety.<\/p><p>Zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111aac\/2b5bd3a64b3499a2ede09123173a"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21HEWSYRKW"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.09",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.78",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "70.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1135.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "70.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916002668",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:37:49.052Z"
+    },
+    "createdAt": "2025-09-22T20:37:49.000Z",
+    "updatedAt": "2025-09-22T20:52:49.378Z"
+}

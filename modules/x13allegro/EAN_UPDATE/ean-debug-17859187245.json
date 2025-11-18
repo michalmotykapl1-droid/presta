@@ -1,0 +1,360 @@
+{
+    "name": "Zdrowy Lizak Mniam-Mniam Lokomotion o smaku pomarańczowym Starpharma, 6g",
+    "productSet": [
+        {
+            "product": {
+                "id": "4e232f9a-1730-41b0-9054-17a8fe3a2701",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "lizaki"
+                        ],
+                        "valuesIds": [
+                            "210758_244674"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Starpharma"
+                        ],
+                        "valuesIds": [
+                            "248811_1964320"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907763674897"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Zdrowy Lizak MNIAM-MNIAM Lokomotion o smaku pomarańczowym, 1 szt."
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "18834",
+                        "name": "Wiek dziecka",
+                        "values": [
+                            "36 m +"
+                        ],
+                        "valuesIds": [
+                            "18834_1737858"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210770",
+                        "name": "Smak",
+                        "values": [
+                            "pomarańczowy"
+                        ],
+                        "valuesIds": [
+                            "210770_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "imbir"
+                        ],
+                        "valuesIds": [
+                            "210698_243750"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez cukru",
+                            "chronić przed światłem"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_8",
+                            "210762_4096"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907763674897"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d5deb3be-a3d2-4f28-8837-d1dcb51a93cb"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11dcef\/8933f8484300ba2dbd5d6a0f3b1d"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "2.56",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 150,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11dcef\/8933f8484300ba2dbd5d6a0f3b1d"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Zdrowy Lizak Mniam-Mniam Lokomotion o smaku pomarańczowym Starpharma, 6g<\/h1> <p><b>Zdrowy Lizak Mniam-Mniam Lokomotion o smaku pomarańczowym Starpharma, 6g <\/b><\/p> <p>Zdrowy lizak Mniam-Mniam Lokomotion o smaku pomarańczowym to suplement diety zawierający fiński ksylitol (pozyskany z brzozy) zamiast cukru oraz ekstrakt z korzenia imbiru. 1 lizak dostarcza tylko 15 kcal.<\/p> <p><b>Składniki:<\/b><\/p><p>substancja słodząca: ksylitol; substancja wypełniająca: izomalt; naturalny aromat pomarańczowy; regulator kwasowości: kwas cytrynowy; substancje przeciwzbrylające: sole magnezowe kwasów tłuszczowych, guma arabska (guma akacjowa); suszone pomarańcze (0,3%); ekstrakt z kłącza imbiru; barwnik: ekstrakt z papryki, kapsantyna, kapsorubina; ekstrakt z mięty pieprzowej; substancja słodząca: glikozydy stewiolowe ze stewii.<\/p> <p><b>Wartość odżywcza w 100g: <\/b><\/p><p>Wartość energetyczna 1049 kj\/252 kcal<\/p><p>Tłuszcz 1,7 g<\/p><p>w tym kwasy tłuszczowe nasycone 1,4 g<\/p><p>Węglowodany 94 g<\/p><p>w tym cukry &lt;0,5 g<\/p><p>alkohole wielowodorotlenowe 91 g<\/p><p>Błonnik 0,8 g<\/p><p>Białko &lt;0,5 g<\/p><p>Sól 0,02 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Brak<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w temperaturze pokojowej, w suchym miejscu w sposób niedostępny dla małych dzieci.<\/p> <p><b>Producent:<\/b><\/p><p>Starpharma Sp. z o.o.<\/p><p>ul. Dobra 4 lok. 10<\/p><p>00-388 Warszawa<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5907763674897"
+    },
+    "category": {
+        "id": "122565"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.56",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "0.59",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "240.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859187245",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T15:34:06.877Z"
+    },
+    "createdAt": "2025-09-04T15:34:06.000Z",
+    "updatedAt": "2025-09-04T16:16:40.434Z"
+}

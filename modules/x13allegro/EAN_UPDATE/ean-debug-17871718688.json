@@ -1,0 +1,308 @@
+{
+    "name": "Nerosanaps 120 DRcaps. INVENT FARM",
+    "productSet": [
+        {
+            "product": {
+                "id": "64347d2e-dcb4-45ca-92ae-7e38408b88f7",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Invent Farm"
+                        ],
+                        "valuesIds": [
+                            "248811_1960624"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907751403904"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Invent Farm Nerosanaps Formuła 7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.104"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "120"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "aronia"
+                        ],
+                        "valuesIds": [
+                            "210698_244034"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański"
+                        ],
+                        "valuesIds": [
+                            "210762_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907751403904"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d532b80d-8863-40ff-a4dd-0e68d275a5c6"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/118743\/db11d0074d9e83e5aaaa0427746a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "108.89",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/118743\/db11d0074d9e83e5aaaa0427746a"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Nerosanaps 120 DRcaps. INVENT FARM<\/h1> <p><b>OPIS <\/b><\/p><p>Suplement diety w postaci kapsułek uzupełniający dietę w najwyższej jakości składniki roślinne, wspomagające zdrowie i funkcjonowanie organizmu oraz ogólny dobrostan. Formuła oparta jest na bogato polifenolowych liofilizatach owocowych, które posiadają zbadaną naukowo aktywność biologiczną. Przeznaczony dla osób dorosłych.<\/p><p>Skład produktu został opracowany na podstawie kilkuletnich badań przy współpracy Uniwersytetu Medycznego w Lublinie i Uniwersytetu Przyrodniczego w Lublinie, w ramach projektu TANGO2\/340215\/NCBR pt.: „Opracowanie standaryzowanego bogato polifenolowego nutraceutyku do zastosowania w profilaktyce chorób neurodegeneracyjnych” współfinansowanego ze środków NCBiR.<\/p> <p>Wynalazek otrzymał złoty medal podczas XIV edycji Międzynarodowych Targów Wynalazków i Innowacji INTARG 2021: Special Award of World Invention Intellectual Property Association WHPA.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Liofilizat z owoców brzoskwini zwyczajnej (Prunus persica L.), Liofilizat z owoców aronii czarnoowocowej (Aronia melanocarpa L.), Liofilizat z owoców borówki wysokiej (Vaccinium corymbosum L.), Liofilizat z owoców maliny właściwej (Rubus idaeus L.), Liofilizat z owoców żurawiny wielkoowocowej (Vaccinium macrocarpon Aiton), Liofilizat z owoców moreli pospolitej (Prunus armeniaca L.), Liofilizat z owoców poziomki pospolitej (Fragaria vesca L.), otoczka kapsułki: substancja glazurująca - hydroksypropylometyloceluloza.<\/p> <p>Zawartość składników aktywnych w zalecanej porcji dziennej (4 kapsułki):<\/p><p>Liofilizat z owoców brzoskiwni zwyczajnej - 1455,68 mg<\/p><p>Liofilizat z owoców aronii czarnoowocowej - 98,88 mg<\/p><p>Liofilizat z owoców borówki wysokiej - 64,76 mg<\/p><p>Liofilizat z owoców maliny właściwej - 56,24 mg<\/p><p>Liofilizat z owoców żurawiny wielkoowocowej - 54,56 mg<\/p><p>Liofilizat z owoców moreli pospolitej - 52,84 mg<\/p><p>Liofilizat z owoców poziomki pospolitej - 17,04 mg<\/p>  <p><b>UWAGA <\/b><\/p><p>Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Nie stosować w przypadku uczulenia na którykolwiek ze składników preparatu. Suplement diety przeznaczony jest dla osób dorosłych.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Spożywać 2 razy dziennie po 2 kapsułki. Połknąć i popić wodą. Ważne: Pierwsza porcja produktu (2 kapsułki) powinna zostać spożyta zaraz po przebudzeniu, a kolejna porcja (2 kapsułki) bezpośrednio przed snem. Zapewni to stopniowe uwalnianie związków bioaktywnych i będzie miało korzystny wpływ na organizm*.<\/p><p>*Innowacyjna kapsułka DRcaps o opóźnionym uwalnianiu chroni składniki produktu przed<\/p><p>działaniem kwasu żołądkowego i wspomaga ich dostarczanie do jelit.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Suplementy diety powinny być przechowywane w sposób niedostępny dla małych dzieci.<\/p><p>Przechowywać w szczelnie zamkniętym opakowaniu, w suchym miejscu, w temperaturze pokojowej. Chronić przed wilgocią i bezpośrednim działaniem promieni słonecznych.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21INVNERO1"
+    },
+    "category": {
+        "id": "122568"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "108.89",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "25.04",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "626.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10205.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "626.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17871718688",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-08T20:17:41.810Z"
+    },
+    "createdAt": "2025-09-08T20:17:41.000Z",
+    "updatedAt": "2025-10-08T11:07:26.025Z"
+}

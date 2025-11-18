@@ -1,0 +1,321 @@
+{
+    "name": "BUSKODENT Siarczkowa pasta do zębów na paradontozę i krwawienie dziąseł bez",
+    "productSet": [
+        {
+            "product": {
+                "id": "bc1c47c2-67a8-45c5-86a0-56bc656fdb20",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sulphur"
+                        ],
+                        "valuesIds": [
+                            "248811_1976351"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907256000301"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.11"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "SULPHUR"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207158",
+                        "name": "Działanie",
+                        "values": [
+                            "paradontoza"
+                        ],
+                        "valuesIds": [
+                            "207158_256"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "208806",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla dorosłych"
+                        ],
+                        "valuesIds": [
+                            "208806_236886"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.08"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907256000301"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d044f376-655e-4296-8c03-5fcea12a89cd"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa past do zębów oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Połknięcie: Nie połykaj pasty do zębów. Zawiera ona substancje, które nie są przeznaczone do spożycia. W razie połknięcia większej ilości skonsultuj się z lekarzem.\n*   Alergie: Zwróć uwagę na skład pasty. Jeśli wiesz o jakichkolwiek alergiach na składniki pasty, wybierz produkt bez tych alergenów. W razie wystąpienia reakcji alergicznej (wysypka, obrzęk, swędzenie) przerwij stosowanie i skonsultuj się z lekarzem.\n*   Dzieci: Nadzoruj dzieci podczas szczotkowania zębów, aby upewnić się, że nie połykają pasty. U dzieci poniżej 6 roku życia używaj pasty w ilości ziarnka grochu.\n*   Fluor: Pasta zawiera fluor. Zbyt duża dawka fluoru może być szkodliwa. Skonsultuj się z lekarzem stomatologiem w celu ustalenia odpowiedniej zawartości fluoru w paście dla Twojego dziecka, szczególnie jeśli woda w Twojej okolicy jest fluoryzowana.\n*   Uczulenie na składniki: W przypadku wystąpienia podrażnienia lub nadwrażliwości w jamie ustnej, natychmiast przerwij stosowanie produktu.\n*   Sposób przechowywania: Przechowuj pastę do zębów w miejscu niedostępnym dla dzieci, aby uniknąć przypadkowego spożycia.\n*   Uszkodzone opakowanie: Nie używaj pasty, jeśli tubka lub opakowanie jest uszkodzone.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11e808\/d17832214e4db64bd6c42d226629"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "28.27",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 15,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11e808\/d17832214e4db64bd6c42d226629"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>BUSKODENT Siarczkowa pasta do zębów na paradontozę i krwawienie dziąseł bez<\/h1> <p><b>OPIS <\/b><\/p><p>BUSKODENT siarczkowa pasta do zębów zapewnia skuteczną ochronę przeciw paradontozie. Mineralne składniki pasty działają ściągająco, zmniejszają obrzęk dziąseł, wpływają na odnowę i regenerację nabłonka śluzówki jamy ustnej. Pasta do zębów nie zawiera fluoru ani jego związków.<\/p> <p>Właściowości:<\/p><p>-zmniejsza krwawienie z dziąseł<\/p><p>-zapobiega rozchwianiu i utracie zębów<\/p><p>-dokładnie oczyszcza z nalotów i przebarwień<\/p><p>-na długo odświeża oddech<\/p> <p>Działanie BUSKODENT siarczkowej pasty do zębów związane jest z aktywnymi biologicznie składnikami naturalnych wód siarczkowych. Zawierają one bogactwo cennych związków siarki, jodki, bromki, sole wapnia, magnezu, potasu i inne mikroelementy. Zawarty w paście chlorek sodowy wykazuje działanie antyseptyczne, działa pobudzająco na błonę śluzową. Mineralne składniki pasty działają ściągająco i przeciwzapalnie, wpływają na odnowę i regenerację nabłonka śluzówki jamy ustnej. Pasta zapewnia skuteczną ochronę przeciw paradontozie oraz przeciwdziała krwawieniu z dziąseł. Zawarty w paście olejek słodkiej mięty zapewnia długotwałe uczucie świeżości i zapobiega przykremu zapachowi z ust.<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>2-3 razy dziennie myć zęby pastą i masować dziąsła miękką szczoteczką, przez około 2-3 minuty. Po umyciu dokładnie wypłukać jamę ustną.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Sulphide-Sulphide Hydrogen Salty Mineral Water; Hydrated Silica; Glycerin; Aqua; Hydrogenated Starch Hydrolysate; Xanthan Gum; Parfum; Sodium Chloride; Sucrose; Cocamidopropyl Betaine; Potassium Sorbate; Sodium Benzoate; CI 77891; Mentha Piperita Oil; Limonene.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71SULBUZSP"
+    },
+    "category": {
+        "id": "257765"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.27",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.50",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "163.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2650.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "163.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17861129322",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-05T07:20:57.277Z"
+    },
+    "createdAt": "2025-09-05T07:20:57.000Z",
+    "updatedAt": "2025-10-04T16:24:51.383Z"
+}

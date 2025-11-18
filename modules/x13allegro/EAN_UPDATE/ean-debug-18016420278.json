@@ -1,0 +1,328 @@
+{
+    "name": "AURA HERBALS Rutyna Immuno+ 60 veg. kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "66592410-0fc7-4d39-9af7-a9a3a9c766dd",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Aura Herbals"
+                        ],
+                        "valuesIds": [
+                            "248811_1957448"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "AURA338"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "AUR\/RUTIMM\/60\/KAP\/"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.19"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "190"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "rutyna"
+                        ],
+                        "valuesIds": [
+                            "210698_244082"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5902479613338"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "eb3d771a-eb6d-4d19-85a0-05b193c2610b"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11a331\/938446774bb38b73d07039161c82"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "31.94",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11a331\/938446774bb38b73d07039161c82"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>AURA HERBALS Rutyna Immuno+ 60 veg. kaps.<\/h1> <p><b>OPIS <\/b><\/p><p>Rutyna Immuno+, kapsułki 60 szt. - naturalne wsparcie odporności<\/p><p>Dlaczego warto wybrać preparat Rutyna Immuno+ w kapsułkach?<\/p><p>-100% naturalnych składników<\/p><p>-w 100% odpowiedni dla wegan<\/p><p>-aż 200 mg naturalnej rutyny w dziennej porcji<\/p><p>-zawiera ekstrakt z aceroli standaryzowany na 25% witaminy C<\/p><p>-zawiera ekstrakty z dzikiej róży, aronii czarnej i grejpfruta<\/p><p>-clean label – najprostszy skład, bez zbędnych dodatków<\/p><p>-roślinne kapsułki Vcaps® – otoczka kapsułki z celulozy roślinnej<\/p><p>Szczególne właściwości składników aktywnych:<\/p><p>-Witamina C pomaga w prawidłowym funkcjonowaniu układu odpornościowego, pomaga w ochronie komórek przed stresem oksydacyjnym oraz zwiększa przyswajanie żelaza.<\/p><p>-Grejpfrut ma korzystny wpływ na ochronę immunologiczną całego organizmu.<\/p> <p>Suplement diety wyprodukowany w polskim zakładzie produkcyjnym Aura Herbals. Wszystkie procesy odbywają się zgodnie z procedurami GMP\/HACCP.<\/p> <p>Produkt przebadany w niezależnej jednostce J.S. Hamilton. Badanie potwierdziło brak metali ciężkich i zanieczyszczeń mikrobiologicznych.<\/p>  <p>Acerola (Malpighia glabra) to roślina występująca na Wyspach Kanaryjskich. Jej okrągłe, czerwone owoce bogate są w składniki odżywcze i dobroczynne substancje aktywne. Acerola wyróżnia się wysoką zawartością witaminy C (34 mg w 100 gramach owoców). <\/p> <p>Dzika róża (Rosa canina) to najbardziej znany gatunek róż występujący w Polsce. Roślina ta często wykorzystywana jest w przetwórstwie spożywczym oraz w branży kosmetycznej i farmaceutycznej. Owoce dzikiej róży są bogate w wartości odżywcze i zawierają cenne składniki biologicznie aktywne, dlatego wykonuje się z nich przetwory, preparaty ziołowe i kosmetyki. <\/p> <p>Aronia czarna (Aronia melanocarpa) to owocowy krzew pochodzący z Ameryki Północnej. Został sprowadzony do Europy w XVII wieku. Jego okrągłe, czarne owoce są bogatym źródłem substancji odżywczych. Produkuje się z nich przetwory spożywcze i ziołowe preparaty.<\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>Inulina, rutyna naturalna (Perełkowiec japoński, Sophora japonica), ekstrakt z owoców aceroli (Malpighia glabra L.) DER 12:1 standaryzowany na 25% witaminy C, ekstrakt z owoców dzikiej róży (Rosa canina) DER 4:1, ekstrakt z owoców aronii czarnej (Aronia melanocarpa) DER 4:1, ekstrakt z nasion grejpfruta (Citrus paradisi) DER 4:1, L-leucyna, otoczka kapsułki: hydroksypropylometyloceluloza.<\/p> <p>Składniki w dziennej porcji (2 kapsułki):<\/p><p>Rutyna - 200 mg<\/p><p>Ekstrakt z aceroli DER 12:1 - 200 mg<\/p><p>w tym: 25% witaminy C - 50 mg - 63% RWS<\/p><p>Ekstrakt z dzikiej róży DER 4:1 - 200 mg<\/p><p>Ekstrakt z aronii czarnej DER 4:1 - 200 mg<\/p><p>Ekstrakt z grejpfruta DER 4:1 - 200 mg<\/p> <p>*RWS - Referencyjna Wartość Spożycia <\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1 kapsułkę popić wodą. Stosować dwa razy dziennie. Zalecana porcja do spożycia w ciągu dnia: 2 kapsułki. Nie przekraczaj zalecanej dziennej porcji do spożycia.<\/p>  <p><b>UWAGA <\/b><\/p><p>Nie stosować w przypadku alergii na jakikolwiek składnik suplementu.<\/p><p>Suplement diety nie może być stosowany jako substytut zróżnicowanej diety. Pamiętaj, że bardzo ważny i zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia.<\/p>  <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowuj w suchym miejscu w temperaturze poniżej 25°C. Suplement diety przechowuj w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21AURRUTIM"
+    },
+    "category": {
+        "id": "257514"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "31.94",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.35",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2995.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "184.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016420278",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T08:06:28.663Z"
+    },
+    "createdAt": "2025-10-22T08:06:28.000Z",
+    "updatedAt": "2025-10-22T08:56:53.319Z"
+}

@@ -1,0 +1,351 @@
+{
+    "name": "OLEOFARM Olej sezamowy 0,25l",
+    "productSet": [
+        {
+            "product": {
+                "id": "c80a006e-7b59-4d85-8cc4-ca2f2820d886",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Oleofarm"
+                        ],
+                        "valuesIds": [
+                            "248811_1962693"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5907078675046"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Olej sezamowy nierafinowany"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "0.48"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226901",
+                        "name": "Pojemność",
+                        "values": [
+                            "250"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237434",
+                        "name": "Rodzaj",
+                        "values": [
+                            "olej sezamowy"
+                        ],
+                        "valuesIds": [
+                            "237434_409494"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237450",
+                        "name": "Typ",
+                        "values": [
+                            "nierafinowany"
+                        ],
+                        "valuesIds": [
+                            "237450_2048459"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.48"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5907078675046"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "925c8675-add2-4017-bcf5-6a202120e9c5"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11684e\/042922af448ca91e8cb9be6197e1"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "34.38",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11684e\/042922af448ca91e8cb9be6197e1"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>OLEOFARM Olej sezamowy 0,25l<\/h1> <p><b>OPIS <\/b><\/p><p>OLEJ SEZAMOWY nierafinowany 250 ml<\/p> <p>Olej sezamowy otrzymywany jest ze starannie wyselekcjonowanych prażonych nasion sezamu. Posiada bogate walory aromatyczne i smakowe. Ze względu na charakterystyczny ostry smak i intensywny zapach jest jednym z podstawowych składników dań kuchni azjatyckiej. Idealnie nadaje się do surówek, sałatek, sosów oraz dipów. Olej sezamowy charakteryzuje się wysoką zawartością tłuszczów nienasyconych. Zastępowanie w diecie tłuszczów nasyconych tłuszczami nienasyconymi pomaga w utrzymaniu prawidłowego poziomu cholesterolu we krwi (jedno- i wielonienasycone kwasy tłuszczowe są tłuszczami nienasyconymi). Utrzymanie prawidłowego stanu zdrowia wymaga zrównoważonego odżywiania i prowadzenia zdrowego trybu życia.<\/p><p>Na oleju sezamowym nierafinowanym nie należy podgrzewać ani smażyć potraw.<\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>Nierafinowany olej z prażonych nasion sezamu.<\/p><p>Wartość odżywcza w 100 ml:<\/p><p>Wartość energetyczna (energia) 3393 kJ\/825 kcal<\/p><p>Tłuszcz: 92 g, w tym:<\/p><p>– kwasy tłuszczowe nasycone 15 g<\/p><p>– kwasy tłuszczowe jednonienasycone 38 g<\/p><p>– kwasy tłuszczowe wielonienasycone 39 g<\/p><p>Węglowodany: 0 g, w tym:<\/p><p>– cukry 0 g<\/p><p>Białko 0 g<\/p><p>Sól 0 g<\/p><p>Omega-6 (kwas linolowy) 38 g<\/p><p>Omega-9 (kwas oleinowy 37 g<\/p><p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej. Może wytrącić się naturalny osad.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21OLEOLESE"
+    },
+    "category": {
+        "id": "261675"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "HU"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "34.38",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.91",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "198.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3220.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "198.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981717481",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T10:32:52.002Z"
+    },
+    "createdAt": "2025-10-14T10:32:52.000Z",
+    "updatedAt": "2025-10-14T10:47:52.935Z"
+}

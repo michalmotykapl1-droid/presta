@@ -1,0 +1,367 @@
+{
+    "name": "DELLA NATURA Krem z mocznikiem 35% Urea 100ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "500c4e8f-5a7e-45e7-9a8b-c8d0006c71cd",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Della Natura"
+                        ],
+                        "valuesIds": [
+                            "248811_1979726"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226729",
+                        "name": "Rodzaj",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "226729_316957"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906395835195"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129770",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "alkoholu",
+                            "aluminium"
+                        ],
+                        "valuesIds": [
+                            "129770_1",
+                            "129770_512"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "tubka"
+                        ],
+                        "valuesIds": [
+                            "215766_271230"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "223829",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "na spękane pięty"
+                        ],
+                        "valuesIds": [
+                            "223829_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "223825",
+                        "name": "Składniki aktywne",
+                        "values": [
+                            "mocznik"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "krem do nóg"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE",
+                            "WEEE"
+                        ],
+                        "valuesIds": [
+                            "218669_1",
+                            "218669_1880913"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904365744027"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "e7bc63e2-f783-4099-b477-601d1f6b1e92"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11dc41\/371821694eb089cc033e7dd37e28"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "10.29",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 74,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11dc41\/371821694eb089cc033e7dd37e28"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>DELLA NATURA Krem z mocznikiem 35% Urea 100ml<\/h1> <p><b>OPIS <\/b><\/p><p>Della Natura krem z mocznikiem 35% 100ml<\/p> <p>Krem z mocznikiem głęboko nawilżający i złuszczający. <\/p><p>Krem zawiera wysoką zawartość mocznika, który w połączeniu z kwasem salicylowym i kwasem mlekowym zmiękcza zrogowaciały i nadmiernie złuszczający się naskórek. Wykazując działanie keratolityczne, intensywnie nawilżające, wygładzające regeneruje go. Likwiduje nadmierne rogowacenie oraz łuszczenie skóry. Krem bardzo łatwo się wchłania nie pozostawiając tłustej warstwy. <\/p> <p>Zastosowanie: <\/p><p>Della Natura krem z mocznikiem 35% do pielęgnacji bardzo suchej skóry z zaburzeniami rogowacenia, które szczególnie występują w przebiegu łuszczycy, rybiej łuski, cukrzycy, atopowego zapalenia skóry. Dodatkowo krem zalecany jest do pielęgnacji zniszczonej skóry rąk, stóp, łokci, kolan oraz pękających pięt. <\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Niewielką ilość kremu nanieść na skórę ciała i delikatnie wklepać lub wmasować. Stosować 2-3 razy dziennie lub doraźnie. <\/p> <p><b>UWAGA <\/b><\/p><p>Nie stosować w przypadku uczulenia na któryś ze składników. <\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Urea, Glyceryl Stearate SE, Cetearyl Alcohol, Glycerin, Prunus Amygdalus Dul-cis Oil, Ceteareth-25, Isopropyl Palmitate, Dimethicone, Stearic Acid, Magnesium Stea-rate, Phenoxyethanol, Butyrospermum Parkii Butter, Parfum, Panthenol, Allantoin, To-copheryl Acetate, Magnesium Sulfate, Citric Acid, Ethylhexylglycerin, Hexyl Cinna-mal, Limonene.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21CITDELKM3"
+    },
+    "category": {
+        "id": "5356"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.29",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.37",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "59.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "965.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "59.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876301976",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T04:37:29.631Z"
+    },
+    "createdAt": "2025-09-10T04:37:29.000Z",
+    "updatedAt": "2025-09-10T04:52:30.098Z"
+}

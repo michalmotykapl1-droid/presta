@@ -1,0 +1,344 @@
+{
+    "name": "ASEPTA Arthemisan J11 - balsam na stawy 150ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "a83b3de8-ce7a-4f27-bb42-3bdb736c70ec",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Asepta"
+                        ],
+                        "valuesIds": [
+                            "248811_1957412"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5904734577126"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "ASEPTA"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.22"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "210758_669241"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213970",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "reumatyzm"
+                        ],
+                        "valuesIds": [
+                            "213970_265494"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213962",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "inny"
+                        ],
+                        "valuesIds": [
+                            "213962_265238"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.22"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "220"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez barwników",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez GMO",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy"
+                        ],
+                        "valuesIds": [
+                            "213714_32768",
+                            "213714_1",
+                            "213714_32",
+                            "213714_131072",
+                            "213714_2",
+                            "213714_4",
+                            "213714_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5904734577126"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "06e9c87c-da5a-4e91-9ff1-d63d611bd8fc"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1151c2\/67eb996a40e28dcc8143d2a75f5c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "155.20",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 4,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1151c2\/67eb996a40e28dcc8143d2a75f5c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ASEPTA Arthemisan J11 - balsam na stawy 150ml<\/h1> <p><b>OPIS <\/b><\/p><p>Arthemisan J11 - balsam na stawy - pielęgnuje, rewitalizuje skórę kolagn, bioder, barków, nadgarsków i pleców.<\/p> <p>Preparat testowany dermatologicznie. <\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Wyłącznie do użytku dla dorosłych. Nakładać krem na cały obszar dyskomfortu 3-4 razy dziennie przez 45 dni, a nastepnie w razie potrzeby. Masować aż do całkowitego wchłonięcia przez skórę. Regularne stosowanie zwiększa skuteczność działania. Produkt zużywać w ciągu 2 miesięcy od otwarcia. <\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Aqua, Helianthus annuus L. seed oil, Arnica montana L. flower extract, Glycerin, Glyceryl stearate, PEG-100 stearate, Dimethyl isosorbide, Dimethyl sulfone (Methylsulfonylmethane), Cetearyl alcohol, Dimethicone, Cera alba (beeswax), Valeriana officinalis L. oil, Cetearyl ethylhexanoate, Isopropyl myristate, Glycerophosphocholine, Geranium L. oil, Citrus bergamia oil, Ceteareth-20, Methyl gluceth-20, Butyrospermum parkii, Aloe barbadensis leaf extract, Xanthan gum, Phenoxyethanol Ethylhexylglycerin, Zingiber officinale (ginger) root juice, Sodium hydroxide, Ammonium Acryloyldimethyltaurate \/ VP Copolymer, Gaultheria procumbens L. oil, Camphor, Pyrodoxine hydrochloride, Tocopherol. <\/p> <p><b>UWAGA <\/b><\/p><p>Wyłącznie do użytku zewnętrznego. Unikać kontaktu z oczami.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21ASEARTH2"
+    },
+    "category": {
+        "id": "258261"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "155.20",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.70",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "892.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14540.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "892.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876352691",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T05:25:06.654Z"
+    },
+    "createdAt": "2025-09-10T05:25:06.000Z",
+    "updatedAt": "2025-09-24T12:22:15.096Z"
+}

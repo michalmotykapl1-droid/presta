@@ -1,0 +1,310 @@
+{
+    "name": "INSULIIV - prawidłowy poziom i równowaga cukru 60 kaps.",
+    "productSet": [
+        {
+            "product": {
+                "id": "5def6ccb-3df1-42aa-9994-0c43cba15dbb",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "bez marki"
+                        ],
+                        "valuesIds": [
+                            "248811_958954"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905940370792"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "CicloFlex Forte - Wsparcie krążenia żylnego 60 tabletek"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "kapsułki"
+                        ],
+                        "valuesIds": [
+                            "210758_244662"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "60"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "morwa"
+                        ],
+                        "valuesIds": [
+                            "210698_243962"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905940370792"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "8ec5e84a-9d6a-471d-80a3-8ed1f9bc358a"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11d79f\/a5d653934dfa8cb90d90293d2720"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "29.51",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 47,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d79f\/a5d653934dfa8cb90d90293d2720"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>INSULIIV - prawidłowy poziom i równowaga cukru 60 kaps.<\/h1> <p><b>Insuliiv<\/b><\/p> <p>suplement diety<\/p> <p>60 kapsułek <\/p>   <p>Prawidłowy poziom i równowaga cukru.* <\/p> <p>Zawiera 9 aktywnych składników w tym <b>ekstrakt<\/b>z <b>cynamonu<\/b>, <b>gurmaru<\/b>, <b>berberysu, kozieradki<\/b>i <b>morwy białej<\/b>.<\/p>     <p>* Cynamonowiec cejloński, berberys, gurmar i chrom pomagają w utrzymaniu prawidłowego poziomu glukozy we krwi. Morwa biała może przyczyniać się do utrzymania równowagi metabolizmu węglowodanów w organizmie. Kozieradka pomaga w utrzymaniu fizjologicznej równowagi cukrów. Tiamina i niacyna przyczyniają się do utrzymania prawidłowego metabolizmu energetycznego. <\/p>   <p><b>Zalecane dzienna porcja do spożycia to<\/b>2 kapsułki dziennie. <\/p> <p>Spożywać po wieczornym posiłku popijając dużą ilością wody.  <\/p> <p><b>Ostrzeżenia: <\/b>suplement diety nie może być stosowany jako substytut zróżnicowanej diety. Zaleca się zrównoważony sposób żywienia i zdrowy tryb życia. Nie należy przekraczać zalecanej porcji do spożycia w ciągu dnia. <b>Suplement diety przeznaczony dla osób dorosłych.<\/b><b>U osób<\/b><b>stosujących terapię insulinową lub doustne leki hipoglikemizujące stosować po konsultacji z lekarzem.<\/b><b>Nie stosować u dzieci, kobiet w ciąży i w trakcie laktacji.<\/b>Nie stosować preparatu w przypadku nadwrażliwości na którykolwiek z jego składników. Nie należy stosować suplementu diety po upływie daty minimalnej trwałości. <\/p> <p><b>Zawartość składników w przeliczeniu na zalecaną dzienną porcję – 1 do 2 kapsułki:<\/b><\/p>   <p>Składnik:<\/p> <p>Zawartość<\/p> <p>w 2 kapsułkach<\/p> <p>% RWS*<\/p> <p>porcji dziennej<\/p>  <p><b>Tiamina (B1)<\/b><\/p> <p>2,2 mg<\/p> <p>200%<\/p>  <p><b>Niacyna <\/b><\/p> <p>32 mg<\/p> <p>200%<\/p>  <p><b>Chrom <\/b><\/p> <p>80 µg<\/p> <p>200%<\/p>  <p><b>Ekstrakt z liści morwy białej, w tym:<\/b><\/p> <p><b>DNJ<\/b><\/p> <p>400 mg<\/p> <p>4 mg<\/p> <p>-<\/p> <p>-<\/p>  <p><b>Ekstrakt z kory cynamonowca cejlońskiego<\/b><\/p> <p>100 mg <\/p> <p>-<\/p>  <p><b>Ekstrakt z korzenia berberysu<\/b><\/p> <p>100 mg<\/p> <p>-<\/p>  <p><b>Ekstrakt z liści gurmaru<\/b><\/p> <p>100 mg<\/p> <p>-<\/p>  <p><b>Ekstrakt z nasion kozieradki<\/b><\/p> <p>100 mg<\/p> <p>-<\/p>  <p><b>Kwas alfa liponowy<\/b><\/p> <p>80 mg<\/p> <p>-<\/p>  <p><b>Błonnik akacjowy<\/b><\/p> <p>20,544 mg<\/p> <p>-<\/p> <p>*% RWS - Referencyjna Wartość Spożycia <\/p> <p>- - Nie ustalono Referencyjnej Wartości Spożycia<\/p>   <p><b>Składniki: <\/b>ekstrakt z liści morwy białej Morus alba standaryzowany na: 1% DNJ, hydroksypropylometyloceluloza, ekstrakt 4:1 z kory cynamonowca cejlońskiego Cinnamomum zeylanicum, ekstrakt z korzenia berberysu Berberis aristata, ekstrakt z liści gurmaru Gymnema sylvestris, ekstrakt 4:1 z nasion kozieradki Trigonella foenum-graecum, kwas alfa liponowy, niacyna (amid kwasu nikotynowego), błonnik akacjowy, tiamina (chlorowodorek tiaminy), chrom (pikolinian chromu).<\/p>   <p><b>Spos<\/b><b>ób<\/b><b>przechowywania:<\/b>Przechowywać w suchym miejscu, w temperaturze pokojowej, w szczelnie zamkniętym opakowaniu. Przechowywać w miejscu niedostępnym dla małych dzieci.<\/p> <p><b>Wyprodukowano<\/b><b>dla: <\/b><\/p>   <p>PERSEA SP. Z O.O. <\/p><p>ul. Rakowiecka 5\/37, 02-517 Warszawa<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21SUPINSU"
+    },
+    "category": {
+        "id": "257513"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "29.51",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.79",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "170.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2765.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "170.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016389225",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:52:37.576Z"
+    },
+    "createdAt": "2025-10-22T07:52:37.000Z",
+    "updatedAt": "2025-10-22T08:07:38.181Z"
+}

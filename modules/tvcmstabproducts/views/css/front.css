@@ -1,0 +1,93 @@
+
+/**
+* 2007-2025 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2025 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+
+/************************product tab *******************/
+.tvtab-product-list-wrapper {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.tvtab-product {
+	position: relative;
+}
+.tvcmstab-title-product {
+	margin-bottom: 100px;
+	position: relative;
+}
+.tvtab-product .tvtab-title-wrapper .tvtabs-products {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center!important;
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+    /*margin-bottom: 30px;*/
+}
+.tvtab-title-wrapper .tvtabs-products li {
+	padding: 5px 15px;
+	cursor: pointer;
+}
+.tvtab-title-wrapper .tvtabs-products li span {
+	/*color: #555555;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 500;
+	letter-spacing: 0.5px;*/
+}
+.tvcmstab-product,
+.tvtab-pagination{
+	display: none;
+}
+.tvtab-pagination-tab {
+	position: relative;
+}
+.tvproduct-image {
+	position: relative;
+}
+.tvproduct-image a {
+	text-align: center;
+}
+.tvproduct-image a img {
+	width: auto;
+	margin: auto;
+}
+@media(max-width: 991px) {
+	.tvtab-product .tvtab-title-wrapper .tvtabs-products {
+		display: block;
+		text-align: center;
+	}
+	.tvcmstab-title-product {
+		margin-bottom: 50px;
+	}
+}
+.tv-img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}

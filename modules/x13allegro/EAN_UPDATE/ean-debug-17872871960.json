@@ -1,0 +1,357 @@
+{
+    "name": "HEMPKING Witamina D3+K2 MK7 w BIO oleju konopnym 30ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "a27c0759-56ad-4ccb-b120-4a2c74f7cef2",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Hemp King"
+                        ],
+                        "valuesIds": [
+                            "248811_1960350"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903636627861"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Witamina D3+K2MK7 w oleju konopnym"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.08"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "80"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina D3"
+                        ],
+                        "valuesIds": [
+                            "210698_244206"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez cukru",
+                            "bezglutenowy",
+                            "bez jodu",
+                            "bez kazeiny",
+                            "bez laktozy",
+                            "chronić przed światłem",
+                            "czysty (bez dodatków)",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_128",
+                            "210762_8",
+                            "210762_4",
+                            "210762_256",
+                            "210762_64",
+                            "210762_16",
+                            "210762_4096",
+                            "210762_8192",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "218669",
+                        "name": "Certyfikaty zgodności",
+                        "values": [
+                            "CE"
+                        ],
+                        "valuesIds": [
+                            "218669_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903636627861"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "d64fcae9-5533-42f4-9c85-ad3b11f58552"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1185e2\/1ce9c68248ed9ce0a40be1ade456"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "71.13",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 5,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1185e2\/1ce9c68248ed9ce0a40be1ade456"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>HEMPKING Witamina D3+K2 MK7 w BIO oleju konopnym 30ml<\/h1> <p><b>OPIS <\/b><\/p><p>Witamina D3 + K2 MK7 w kroplach w BIO oleju konopnym - HempKing - suplement diety<\/p> <p>Rozpuściliśmy witaminy D3 oraz K2 MK7 w oleju konopnym pochodzącym z organicznych upraw. Dzięki temu nasz suplement zawiera naturalne składniki w opatentowanych formułach. Wysoką jakość produktu zapewnia olej konopny z certyfikatem EU Organic oraz naturalna witamina K (formuła VitaMK7®).<\/p>  <p>Witamina K - VitaMK7®<\/p><p>Jest to naturalna witamina K, która została wyprodukowana, a następnie opatentowana przez firmę Gnosis S.p.A. Witamina K2 w opatentowanej formule VitaMK7® jest pozyskiwana z fermentowanej soi z tradycyjnej japońskiej potrawy zwanej Natto. Witamina ta produkowana jest przez szczep bakterii Bacillus Subtillis.<\/p> <p>Witamina K wspomaga proces krzepnięcia krwi oraz dba o prawidłowy stan naszych kości.<\/p><p>Witamina D3 Forte pochodząca z naturalnej lanoliny (cholekalcyferol) marki HempKing została rozpuszczona w naturalnym oleju konopnym. Witamina D3 z lanoliny jest wysoko przyswajalna.<\/p>  <p>Olej konopny użyty do rozcieńczenia tych witamin posiada certyfikat EU Organic, który poświadcza jego czystość oraz brak używania herbicydów i pestycydów w uprawach konopi, z których olej ten pochodzi.<\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>BIO olej konopny*, D-alfa-tokoferol (witamina E), witamina K2 (menachinon-7), witamina D z lanoliny (cholekalcyferol). <\/p> <p>*Surowiec pochodzenia ekologicznego PL-EKO-06<\/p> <p>Zawartość składników w maksymalnej porcji dziennej (5 naciśnięć pompki):<\/p><p>Naturalna witamina K VitaMK7® - 100mcg<\/p><p>D-alfa-tokoferol (witamina E) - 12mg (16 IU)<\/p><p>Witamina D3 z lanoliny - 100mcg (4000 IU)<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Wstrząśnij przed użyciem! Zalecana porcja do spożycia w ciągu dnia niezbędna do uzyskania korzystnego działania: 1 - 5 porcji raz dziennie w trakcie posiłku. Jedna porcja witaminy D3+K2 MK7 to jedno pełne naciśnięcie pompki znajdującej się w butelce. <\/p> <p><b>UWAGA <\/b><\/p><p>Nie przekraczać zalecanej porcji do spożycia w ciągu dnia. Produkt nie może być stosowany jako substytut zróżnicowanej diety. Zaleca się stosowanie zróżnicowanej diety i zdrowego trybu życia. Produkt nie powinien być spożywany przez osoby przyjmujące środki przeciwzakrzepowe zawierające antagonistów witaminy K (np. warfaryna i acenokumarol). Przed zastosowaniem wskazane jest wykonanie badania 25-(OH)D we krwi oraz konsultacja wyniku badania z lekarzem lub farmaceutą.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21BIDHWITDK"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "71.13",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.36",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "409.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6665.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "409.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17872871960",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-09T05:58:11.093Z"
+    },
+    "createdAt": "2025-09-09T05:58:11.000Z",
+    "updatedAt": "2025-09-09T06:13:11.671Z"
+}

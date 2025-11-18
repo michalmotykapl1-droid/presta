@@ -1,0 +1,294 @@
+{
+    "name": "ŻEL POD PRYSZNIC ORZEŹWIAJĄCO - ENERGETYZUJĄCY CYTRYNA I POMARAŃCZA ECO 200",
+    "productSet": [
+        {
+            "product": {
+                "id": "fef29f43-6f23-45fb-ac98-9a9f49139bbf",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4025089006626"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "JM Sante Pharma"
+                        ],
+                        "valuesIds": [
+                            "248811_2039068"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249512",
+                        "name": "Kolor",
+                        "values": [
+                            "żółty"
+                        ],
+                        "valuesIds": [
+                            "249512_1647419"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207566",
+                        "name": "Materiał",
+                        "values": [
+                            "inny materiał wykonania"
+                        ],
+                        "valuesIds": [
+                            "207566_232970"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207570",
+                        "name": "Pojemność",
+                        "values": [
+                            "200"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207562",
+                        "name": "Rodzaj",
+                        "values": [
+                            "inna"
+                        ],
+                        "valuesIds": [
+                            "207562_232950"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4025089006626"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a7489deb-5521-4fe4-8e05-5992ee537706"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa miski dla psów oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Sprawdź miskę regularnie pod kątem uszkodzeń, takich jak pęknięcia, ostre krawędzie lub odpryski. Uszkodzona miska może zranić psa podczas jedzenia lub picia.\n2.  Upewnij się, że miska jest stabilna i nie przewraca się łatwo. Przewracająca się miska może przestraszyć psa, a także spowodować rozsypanie się jedzenia lub wody.\n3.  Wybierz miskę odpowiednią do wielkości i rasy psa. Zbyt mała miska może być niewygodna dla psa, a zbyt duża może skłaniać do nadmiernego jedzenia.\n4.  Jeśli miska jest wykonana z tworzywa sztucznego, upewnij się, że jest wolna od BPA i innych szkodliwych substancji chemicznych.\n5.  Miska metalowa powinna być wykonana ze stali nierdzewnej przeznaczonej do kontaktu z żywnością. Unikaj misek aluminiowych, które mogą być szkodliwe dla zdrowia psa.\n6.  Regularnie myj miskę, aby zapobiec rozwojowi bakterii. Używaj ciepłej wody z mydłem lub specjalnych środków do czyszczenia naczyń dla zwierząt.\n7.  Unikaj używania ostrych detergentów lub środków dezynfekujących, które mogą być toksyczne dla psa.\n8.  Po umyciu dokładnie spłucz miskę i wysusz ją przed ponownym użyciem.\n9.  Jeśli używasz miski automatycznej, regularnie sprawdzaj jej działanie i stan techniczny. Upewnij się, że mechanizm dozujący działa prawidłowo i nie podaje zbyt dużo jedzenia lub wody.\n10. Jeśli miska jest elektryczna, zabezpiecz przewód przed przegryzieniem przez psa.\n11. Nie pozwalaj psu gryźć ani żuć miski. Może to uszkodzić miskę i spowodować połknięcie niebezpiecznych fragmentów.\n12. Nie używaj misek, które nie są przeznaczone do kontaktu z żywnością dla zwierząt.\n13. Zwróć uwagę na materiał, z którego wykonana jest miska, jeśli Twój pies ma alergię.\n14. Jeśli masz kilka psów, upewnij się, że każdy ma swoją własną miskę, aby uniknąć konfliktów i rywalizacji o jedzenie.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1172c8\/ce35e421496abe264e9e6fe13ed3"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "16.21",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 154,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1172c8\/ce35e421496abe264e9e6fe13ed3"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ŻEL POD PRYSZNIC ORZEŹWIAJĄCO - ENERGETYZUJĄCY CYTRYNA I POMARAŃCZA ECO 200<\/h1><p>SKŁADNIKI<\/p><p>Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Sodium Chloride, Aloe Barbensis Leaf Juice*, Citric Acid, PCA Ethyl Cocoyl Ariginate, Potassium Sorbate, Parfum (Fragnance)**, Limonene**, Pinene**, Turpentine**, Citrus Limon (Lemon) Peel Oil**, Anethole** (*z rolnictwa ekologicznego; **z naturalnych olejków eterycznych)<\/p><p>OPIS<\/p><p>Orzeźwiający żel pod prysznic odświeża i delikatnie myje. <\/p><p>Zapobiega wysuszeniu skóry. Czysto naturalny, cytrusowy zapach. <\/p><p>Organiczna cytryna i pomarańcza: znane ze swoich właściwości odświeżających i orzeźwiających.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Nanieś odpowiednią ilość żelu pod prysznic na wilgotną skórę podczas brania prysznica lub kąpieli i delikatnie masuj. Następnie spłucz dużą ilością ciepłej wody.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>LOGOCOS NATURKOSMETIK AG, ZUR KRÄUTERWIESE , 31020 SALZHEMMENDORF<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_17711"
+    },
+    "category": {
+        "id": "90065"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "16.21",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.73",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "93.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1520.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "93.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051822661",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T15:51:42.841Z"
+    },
+    "createdAt": "2025-11-03T15:51:42.000Z",
+    "updatedAt": "2025-11-03T16:06:43.786Z"
+}

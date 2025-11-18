@@ -1,0 +1,321 @@
+{
+    "name": "LUDOWE RECEPTURY wsparcie odporności na infekcje, wirusy, drobnoustroje 30",
+    "productSet": [
+        {
+            "product": {
+                "id": "9da6d7ec-5b59-43d6-b5ae-61a090aade9e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mir-Lek"
+                        ],
+                        "valuesIds": [
+                            "248811_1962092"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "75"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906660437574"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "3458",
+                        "name": "Forma",
+                        "values": [
+                            "ekspresowa"
+                        ],
+                        "valuesIds": [
+                            "3458_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Ludowe Receptury"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru",
+                            "konserwantów"
+                        ],
+                        "valuesIds": [
+                            "130691_4",
+                            "130691_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "233345_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "10643",
+                        "name": "Certyfikat",
+                        "values": [
+                            "Certyfikat produkcji ekologicznej UE"
+                        ],
+                        "valuesIds": [
+                            "10643_1789396"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906660437574"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "f330eb7a-668c-4624-8532-c164d2748a1c"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11f70e\/6675a13e4035a72d5277f0f5a4e0"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "12.86",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 28,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11f70e\/6675a13e4035a72d5277f0f5a4e0"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>LUDOWE RECEPTURY wsparcie odporności na infekcje, wirusy, drobnoustroje 30<\/h1> <p><b>OPIS <\/b><\/p><p>Suplement diety. Mieszanka ziół z bukwicą zwyczajną, wierzbówką kiprzycą i jeżówką.<\/p> <p>Bukwica zwiększa zdolność ochrony przed infekcjami, wierzbówka zawiera składniki o właściwościach wzmacniających odporność, przeciw wirusom i drobnoustrojom.<\/p> <p>Mieszanka ziołowa złożona z suszonych i rozdrobnionych części roślin takich jak: bukwica, wierzbówka kiprzyca, czystek, jeżówka, ketmia szczawiowa, bez czarny, imbir, kurkuma, pieprz czarny, gryka.<\/p> <p>Bukwica zwyczajna zwiększa zdolność ochrony przed infekcjami, wierzbówka zawiera składniki o właściwościach wzmacniających odporność, przeciw wirusom i drobnoustrojom, czystek wspiera układ odpornościowy, jeżówka przyczyna się do prawidłowego funkcjonowania układu obronnego organizmu,bez czarny wspiera obronę organizmu, imbir może pomóc w utrzymaniu prawidłowej równowagi hormonów zapalnych, pomaga w utrzymaniu odporności, kurkuma pomaga w utrzymaniu skuteczności układu odpornościowego, pieprz czarny pomaga w utrzymaniu integralności organizmu poprzez działanie przeciwbakteryjne i przeciwpasożytnicze oraz wspiera układ odpornościowy, ketmia szczawiowa pomaga wzmocnić organizm.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>ziele bukwicy (15%), ziele wierzbówki kiprzycy (15%), ziele jeżówki purpurowej (15%), owoc bzu czarnego (15%), ziele czystka (10%), kwiat ketmii szczawiowej (10%), korzeń imbiru (5%), korzeń kurkumy (5%), ziele pieprzu czarnego (5%), łuska gryki (5%).<\/p> <p>Masa netto: 30 x 2,5g = 75g<\/p> <p>Ilość saszetek: 30<\/p> <p>Przeciętna zawartość składników wykazujących efekt fizjologiczny w dziennej porcji produktu: trzy szklanki naparu (750 ml) z trzech saszetek ( 7,5 g). Jedna porcja: jedna szklanka naparu (250 ml) z jednej saszetki (2,5 g).<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Sposób przygotowania naparu: saszetkę produktu umieścić w szklance lub w kubku ceramicznym 250ml i zalać wrzącą wodą. Przykryć i odstawić na 10-15 min. Pić po wystudzeniu.<\/p> <p>Zalecane spożycie: 3 razy dziennie po 1 szklance naparu z 1 saszetki. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt przeznaczony dla dorosłych. Spożywanie produktu jest niewskazane w okresie ciąży i karmienia. Chronić od światła. Nie stosować w przypadku nadwrażliwości na jakikolwiek składnik preparatu. Suplement diety nie może być stosowany jako substytut zróżnicowanej i zbilansowanej diety oraz nie zastąpi zdrowego trybu życia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w suchym miejscu w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MIRLUDWO"
+    },
+    "category": {
+        "id": "74045"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "12.86",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.96",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "74.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1205.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "74.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916000848",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:37:02.257Z"
+    },
+    "createdAt": "2025-09-22T20:37:02.000Z",
+    "updatedAt": "2025-09-22T20:52:02.912Z"
+}

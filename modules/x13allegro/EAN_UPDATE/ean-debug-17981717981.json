@@ -1,0 +1,349 @@
+{
+    "name": "Witamina D3 OH 50000 IU\/ml 125ml KOŃSKA DAWKA - mieszanka paszowa dietetycz",
+    "productSet": [
+        {
+            "product": {
+                "id": "77459d0e-26ba-44ba-898f-23002325d56d",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "KOŃSKA DAWKA"
+                        ],
+                        "valuesIds": [
+                            "248811_2043196"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "krople"
+                        ],
+                        "valuesIds": [
+                            "210758_244670"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Końska Dawka D3 OH"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "226901",
+                        "name": "Pojemność",
+                        "values": [
+                            "125"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "125"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "7256",
+                        "name": "Wiek zwierzęcia",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "7256_382049"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "25168",
+                        "name": "Zastosowanie",
+                        "values": [
+                            "kości i stawy",
+                            "odporność",
+                            "skóra i sierść"
+                        ],
+                        "valuesIds": [
+                            "25168_1783454",
+                            "25168_1783464",
+                            "25168_1783440"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207518",
+                        "name": "Rodzaj",
+                        "values": [
+                            "suplementy"
+                        ],
+                        "valuesIds": [
+                            "207518_1681292"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "222637",
+                        "name": "Liczba sztuk w opakowaniu",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.01"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "witamina d3 k2 mk7"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "249119",
+                        "name": "Rodzaj zwierzęcia",
+                        "values": [
+                            "dla kota",
+                            "dla psa"
+                        ],
+                        "valuesIds": [
+                            "249119_1099014",
+                            "249119_1099013"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903816645937"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112670\/770848e44f6890f5606086808fb4"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "273.61",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 20,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112670\/770848e44f6890f5606086808fb4"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Witamina D3 OH 50000 IU\/ml 125ml KOŃSKA DAWKA - mieszanka paszowa dietetycz<\/h1> <p><b>OPIS <\/b><\/p><p>Witamina D3 OH - MPD - mieszanka paszowa dietetyczna<\/p> <p>Koncentrat witaminowy D3 OH to innowacyjne połączenie dwóch form chemicznych witaminy D3 (cholekalcyferolu i 25-hydroxy cholekalcyferolu) w bardzo wysokim stężeniu, celem jest uzyskanie jak najszybszego efektu wchłaniania i wykorzystania witaminy D3 przez organizm, czego dodatkowym katalizatorem jest obecność w produkcie manganu i magnezu. <\/p> <p>Planowane zastosowanie celem zaspokojenia szczególnych potrzeb żywieniowych: wyrównanie złego wchłaniania pokarmu. Zalecany czas stosowania w periodzie dwu tygodniowym. Produkt nie zawiera nasyconych kwasów tłuszczowych oraz zawiera wysoki poziom witamin rozpuszczalnych w tłuszczach.<\/p> <p>Przezanczenie: Mieszanka paszowa dietetyczna przeznaczona do stosowania u wszystkich koni sportowych i zwierząt domowych. Przed użyciem lub przed predłużeniem okresu stosowania zaleca się konsultację z lekarzem weterynarii lub specjalistą do spraw żywienia.<\/p> <p>Opakowanie: pudełko tekturowe, butelka ze szkła barwnego, strzykawka dozująca.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Skład (w 1 ml): Dodatki dietetyczne: Witaminy: witamina D3 (cholekalcyferol (3a671) \/ 25-hydroksy cholekalcyferol (3a670a) – ogółem 50.000. IU, witamina K (k2 mk7) 800 mcg, witamina B3 (amid kwasu nikotynowego) - 20 mg, witamina B12 (3a kobalamina forma metylowa) – 40 mcg. Pierwiastki śladowe: Mangan (siarczan manganu (3b503) \/ chelat manganu glicynowy) (3b506) – 8 mg. Dodatki sensoryczne: Naturalny produkt zdefiniowany botanicznie - olejek z Eugenia caryophyllus (Goździkowiec korzenny) – 7 mg. Materiały paszowe: glikol propylenowy (13.11.1), chlorek wapnia (11.1.6) (CaCl2). Dodatki technologiczne: kwas ortofosforowy (1a338). Wet. Nr Iden. Producenta PL0461077p. Składniki analityczne: białko surowe – 0%, włókno surowe – 0%, oleje i tłuszcze surowe – 0%, w tym nasycone kwasy tłuszczowe – 0%, popiół surowy – 17,1%, lizyna – 0%, metionina – 0%, wapń – 0,1%, sód – 0%, fosfor – 0,05%, magnez – 2,8%. Wilgotność: 81%.<\/p> <p>Procent nasyconych kwasów tłuszczowych w stosunku do ogólnej ilości kwasów tłuszczowych 0%, witamina D3 ogółem 50 000 IU\/ml. <\/p> <p><b>INSTRUKCJA PRAWIDŁOWEGO STOSOWANIA <\/b><\/p><p>0,5ml-2ml \/60 - 150 kg m.c. na dzień lub zgodnie z zaleceniami. 1ml produktu zawiera 50.000 IU witaminy D3<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Chronić przed światłem słonecznym i temperaturą powyżej 25 st. C.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21NATWIDD3"
+    },
+    "category": {
+        "id": "90193"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "273.61",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "62.93",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1573.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "25635.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1573.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981717981",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T10:32:57.551Z"
+    },
+    "createdAt": "2025-10-14T10:32:57.000Z",
+    "updatedAt": "2025-10-22T14:08:11.258Z"
+}

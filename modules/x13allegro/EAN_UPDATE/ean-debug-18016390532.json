@@ -1,0 +1,330 @@
+{
+    "name": "ASCOLIP 1000 mg Liposomalna Witamina C, 30 saszetek",
+    "productSet": [
+        {
+            "product": {
+                "id": "8b6e9204-4532-4bb5-b566-bf27cab3603e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Lipid Systems"
+                        ],
+                        "valuesIds": [
+                            "248811_1974619"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5908283531615"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "Ascolip"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.21"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "saszetka"
+                        ],
+                        "valuesIds": [
+                            "210758_1781852"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "30"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210786",
+                        "name": "Pojemność",
+                        "values": [
+                            "0.21"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "210"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "witamina C"
+                        ],
+                        "valuesIds": [
+                            "210698_244198"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez cukru",
+                            "bezglutenowy",
+                            "wegański",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "210762_8",
+                            "210762_4",
+                            "210762_2",
+                            "210762_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5908283531615"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/111d73\/6cb5824647108689bf7cb0238152"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "124.20",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 18,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/111d73\/6cb5824647108689bf7cb0238152"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>ASCOLIP 1000 mg Liposomalna Witamina C, 30 saszetek<\/h1> <p><b>OPIS <\/b><\/p><p>ASCOLIP® - Liposomalna Witamina C - 1000mg przeznaczony jest do stosowanie w zwiększonym zapotrzebowaniu na witaminę C. <\/p> <p>ASCOLIP® można stosować zarówno u dorosłych, jak i dzieci. W przypadku małch dzieci zalecana jest konsultacja z prowadzącym lekarzem pediatrą. <\/p> <p>Zastosowanie opatentowanej technologii liposomalnej LIPOSHELL® pozwala na:<\/p><p>-bardzo dobre wchłanianie witaminy C<\/p><p>-uzyskanie o około 70% wyższego stężenia witmiany C we krwi<\/p><p>-dwukrotne wydłużenie czasu trwania witaminy C w krwioobiegu<\/p><p>-dostarczenie witaminy C do potrzebujących jej komórek w niezmienionej formie<\/p> <p>ASCOLIP® nie zawiera składników pochodzenia zwierzęcego.<\/p> <p>Liposomy LIPOSHELL®, zastosowane w preparacie ASCOLIP®, mają tę samą powtarzalną wielkość (170 nm +\/- 15%), są w optymalnym rozmiarze, co zapewnia skuteczne dotarcie do tkanek. <\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>substancja wypełniająca: glicerol;woda; L-askorbinian sodu; nośnik: fosfolipidy z lecytyny sojowej i rzepakowej; stabilizator: pektyny; aromat naturalny (cytrynowo-pomarańczowy); regulator kwasowości: kwas cytrynowy. <\/p> <p>Substancje czynne:<\/p><p>Zawartość w 1 saszetce (dzienna porcja)\/RWS*<\/p><p>Witamina C (L-askorbinian sodu) - 1000 mg\/1250% RWS*<\/p> <p>*RWS – Referencyjna Wartość Spożycia<\/p> <p>Opakowanie: 30 saszetek po 5g - żel doustny<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>1 saszetka 1 raz dziennie. Zawartość saszetki spożyć bezpośrednio lub rozpuścić w niewielkiej ilości wody niegazowanej. <\/p><p><b>UWAGA <\/b><\/p><p>Nie należy przekraczać zalecanej dziennej porcji do spożycia w ciągu dnia.<\/p><p>Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Zalecany jest zrównoważony sposób żywienia i zdrowy tryb życia. Kobiety w ciąży, matki karmiące piersią, osoby z zaburzeniami gospodarki żelaza przed zastosowaniem powinny skonsultować się z lekarzem. Nie stosować u osób mających predyspozycje do tworzenia kamieni nerkowych lub chorujących na kamicę nerkową. Witamina C w dawce powyżej 1000mg może powodować łagodne zaburzenia żołądkowe u osób nadwrażliwych. Przeciwwskazaniem do stosowania jest nadwrażliwość na którykolwiek składnik preparatu. <\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w miejscu niedostępnym dla małych dzieci, w szczelnie zamkniętych opakowaniach, w temperaturze 5 - 25 stopni Celsjusza. <\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21LIPASCOL"
+    },
+    "category": {
+        "id": "122567"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "124.20",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "28.57",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "714.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "11640.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "714.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016390532",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:53:06.167Z"
+    },
+    "createdAt": "2025-10-22T07:53:06.000Z",
+    "updatedAt": "2025-10-22T08:08:07.182Z"
+}

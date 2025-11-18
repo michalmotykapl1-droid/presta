@@ -1,0 +1,312 @@
+{
+    "name": "Krem do rąk rokitnik & żeń-szeń nawilżający 100ml BARWA RECEPTURY NATUR",
+    "productSet": [
+        {
+            "product": {
+                "id": "37a82209-e959-4ebf-88b0-4572f3a5ebd0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Barwa"
+                        ],
+                        "valuesIds": [
+                            "248811_1957639"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5905172337426"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "tubka"
+                        ],
+                        "valuesIds": [
+                            "215766_271230"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "452",
+                        "name": "SPF",
+                        "values": [
+                            "brak"
+                        ],
+                        "valuesIds": [
+                            "452_7"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5905172337426"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "17359954-5654-45a5-b8a9-e4869a533b5b"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa kremów do rąk oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Alergie skórne: Zawsze sprawdzaj skład produktu przed użyciem, aby uniknąć reakcji alergicznych na którykolwiek ze składników.\n2.  Podrażnienia: Zaprzestań stosowania, jeśli wystąpi podrażnienie, zaczerwienienie lub swędzenie skóry.\n3.  Kontakt z oczami: Unikaj kontaktu z oczami. W razie kontaktu, przemyj oczy dużą ilością wody.\n4.  Przechowywanie: Przechowuj w miejscu niedostępnym dla dzieci. Produkt nie jest przeznaczony do spożycia.\n5.  Warunki przechowywania: Przechowuj w chłodnym, suchym miejscu, z dala od bezpośredniego światła słonecznego i źródeł ciepła, aby zapobiec zmianie konsystencji i właściwości produktu.\n6.  Data ważności: Nie używaj produktu po upływie daty ważności.\n7.  Uszkodzone opakowanie: Nie używaj, jeśli opakowanie jest uszkodzone lub naruszone.\n8.  Zmiana wyglądu: Nie używaj, jeśli zauważysz zmiany w kolorze lub konsystencji kremu.\n9.  Ostrożność: Nie stosuj na otwarte rany lub uszkodzoną skórę.\n10. Konsultacja: W przypadku poważnych problemów skórnych, skonsultuj się z dermatologiem przed użyciem.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112c84\/26f97fd54bda82299c13a1b59c4c"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "7.96",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 11,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112c84\/26f97fd54bda82299c13a1b59c4c"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Krem do rąk rokitnik &amp; żeń-szeń nawilżający 100ml BARWA RECEPTURY NATUR<\/h1> <p><b>OPIS<\/b><\/p><p>Nawilżający krem do rąk Receptury Natury stworzony z myślą o suchej, zniszczonej i wymagającej skórze dłoni ✔ Ekstrakt z rokitnika – naturalne źródło witamin C i E oraz kwasów omega, które wspomagają procesy regeneracyjne, poprawiają elastyczność skóry i działają silnie antyoksydacyjnie. ✔ Żeń-szeń pobudza mikrokrążenie, wzmacnia barierę ochronną naskórka i zwiększa odporność skóry na działanie wiatru, mrozu i detergentów.<\/p>  <p><b>SKŁADNIKI (INCI) <\/b><\/p><p>Aqua, Cetearyl Alcohol, Paraffinum Liquidum, Ethylhexyl Stearate, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Petrolatum, Glycerin, Butyrospermum Parkii Butter, Gossypium Herbaceum Seed Oil, Ceteareth-20, Allantoin, Hippophae Rhamnoides Fruit Extract, Panax Ginseng Root Extract, Propylene Glycol, Parfum, Phenoxyethanol, Ethylhexylglycerin, Coumarin.<\/p>  <p><b>SPOSÓB UŻYCIA<\/b><\/p><p>Wmasuj w czystą skórę rąk, stosuj regularnie. <\/p>  <p><b>PRODUCENT <\/b><\/p><p>Barwa Sp. z o.o.<\/p><p>ul. T. Szafrana 11, 30-363Kraków, Polska<\/p><p>sklep@barwa.com.pl<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71BARKRRRO"
+    },
+    "category": {
+        "id": "5355"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7.96",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.83",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "745.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18035502592",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-28T19:06:32.667Z"
+    },
+    "createdAt": "2025-10-28T19:06:32.000Z",
+    "updatedAt": "2025-10-31T13:16:03.670Z"
+}

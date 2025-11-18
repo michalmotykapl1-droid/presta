@@ -1,0 +1,334 @@
+{
+    "name": "KREM DO TWARZY NA DZIEŃ WYGŁADZAJĄCY Z PARAKRESEM, OLEJEM Z PESTEK WINOGRON",
+    "productSet": [
+        {
+            "product": {
+                "id": "e7623c46-4412-43e7-9523-88be29eeed04",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Sante"
+                        ],
+                        "valuesIds": [
+                            "248811_1947217"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4025089000358"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "237214",
+                        "name": "Linia",
+                        "values": [
+                            "nadzień"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215870",
+                        "name": "Rodzaj",
+                        "values": [
+                            "brak informacji"
+                        ],
+                        "valuesIds": [
+                            "215870_384369"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129469",
+                        "name": "Działanie",
+                        "values": [
+                            "przeciwstarzeniowy"
+                        ],
+                        "valuesIds": [
+                            "129469_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215866",
+                        "name": "Konsystencja",
+                        "values": [
+                            "krem"
+                        ],
+                        "valuesIds": [
+                            "215866_271942"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "50"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "215766",
+                        "name": "Opakowanie",
+                        "values": [
+                            "słoiczek"
+                        ],
+                        "valuesIds": [
+                            "215766_271226"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4025089000358"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "a7489deb-5521-4fe4-8e05-5992ee537706"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11d1e0\/d5c00b7043b89e2f3f3637ea88f8"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "64.00",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 121,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11d1e0\/d5c00b7043b89e2f3f3637ea88f8"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>KREM DO TWARZY NA DZIEŃ WYGŁADZAJĄCY Z PARAKRESEM, OLEJEM Z PESTEK WINOGRON<\/h1><p>SKŁADNIKI<\/p><p>Aqua (Water), Gylcerin, Cetearyl Alcohol, Undecane, Glyceryl Stearate Citrate, Euphorbia Cerifera (Candelilla) Wax, Vitis Vinifera (Grape) Seed Oil, Capric\/Caprylic Triglyceride, Tridecane, Cetearyl Glucoside, Olea Europaea (Olive) Oil*, Simmondsia Chinensis (Jojoba) Seed Oil*, Stearyl Alcohol, Arginine, Xanthan Gum, Salicylic Acid, Aloe Barbadensis Leaf Juice Powder*, Tocopherol, Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Alaria Esculenta Extract, Phytic Acid, Camellia Sinensis Leaf Extract*, Acmella Oleracea Extract, Levulinic Acid, Sodium Levulinate, Benzyl Alcohol, Parfum (Fragrance)**, Linalool**, Limonene**, Benzyl Salicylate**, Geraniol**, Citral**, Citronellol**. (*z kontrolowanych upraw ekologicznych, **z naturalnych olejków eterycznych)<\/p><p>OPIS<\/p><p>Wygładzający krem na dzień, który działa już od pierwszych zmarszczek.<\/p><p>Redukuje drobne linie i zmarszczki. Przywraca blask zmęczonej i poszarzałej skórze.<\/p><p>Parakres uważany jest za naturalny składnik przeciwzmarszczkowy, napina powierzchnię skóry i redukuje zmarszczki mimiczne.<\/p><p>Olej z pestek winogron chroni skórę przed utratą wilgoci i znany jest ze swojego działania antyoksydacyjnego.<\/p><p>Pro-kolagen kompleks działa energetyzująco, nawilża, dzięki czemu chroni skórę przed szkodliwym wpływem środowiska. <\/p><p>SPOSÓB UŻYCIA<\/p><p>Rano i wieczorem po umyciu twarzy, nałożyć krem równomiernie na twarz, szyję i dekolt, a następnie delikatnie go wmasować. <\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać w chłodnym miejscu, z dala od promieni słonecznych.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>LOGOCOS NATURKOSMETIK AG, ZUR KRÄUTERWIESE , 31020 SALZHEMMENDORF<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_44738"
+    },
+    "category": {
+        "id": "258462"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "64.00",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "14.72",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "368.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5995.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "368.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17876849130",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-10T09:46:55.774Z"
+    },
+    "createdAt": "2025-09-10T09:46:55.000Z",
+    "updatedAt": "2025-09-10T10:01:57.795Z"
+}

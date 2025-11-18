@@ -1,0 +1,347 @@
+{
+    "name": "Eliksir zdrowy sen bezalkoholowy 100ml MIR-LEK",
+    "productSet": [
+        {
+            "product": {
+                "id": "caf57f9a-a5ed-45e3-8e7c-68d904db1544",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "21MIRELIZD"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mir-Lek"
+                        ],
+                        "valuesIds": [
+                            "248811_1962092"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906660437826"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców",
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32",
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "CLA"
+                        ],
+                        "valuesIds": [
+                            "210698_243598"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "210762_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "180"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906660437826"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "cb0e5a50-7bc9-4ec5-8ec5-935b68899f02"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/112212\/b3400ee94b0183b267201c79c479"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.62",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 15,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/112212\/b3400ee94b0183b267201c79c479"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Eliksir zdrowy sen bezalkoholowy 100ml MIR-LEK<\/h1> <p><b>OPIS <\/b><\/p><p>Eliksir bezalkoholowy ZDROWY SEN - Suplement diety z melisą i kwiatem lipy<\/p><p>Lipa wspiera zdrowy sen. Melisa pomaga w zasypianiu, przyczynia się do ogólnego odprężenia i pomaga w uzyskaniu i utrzymaniu zdrowego snu, oraz spokojnego wypoczynku. <\/p> <p>Eliksir dla zdrowego snu powstał z wyciągów z roślin takich jak: melisa, lipa, wrzos, lawenda, kozłek lekarski, głóg, szyszka chmielu, gryka. Melisa pomaga w zasypianiu, przyczynia się do ogólnego odprężenia i pomaga w uzyskaniu i utrzymaniu zdrowego snu. Lipa wspiera zdrowy sen i nocny odpoczynek, wrzos pomaga się zrelaksować i pomaga zasnąć, lawenda pomaga zmniejszyć uczucie rozdrażnienia, pomaga utrzymać zdrowy sen, kozłek lekarski pomaga zasnąć i przyczynia się do zdrowego snu, chmiel oddziałuje kojąco na system nerwowy.<\/p>  <p><b>SKŁADNIKI <\/b><\/p><p>Woda, wyciąg wodny 1:1: z ziela melisy (Melissa officinalis)16%, z kwiatu lipy (Tilia Flos) 16%, z kwiat wrzosu (Calluna vulgaris Flos) 16%, z kwiatu lawendy (Lavandula Flos) 16%, z korzenia kozłka lekarskiego ( Valeriana officinalis Radix) 12%, z owocu głogu ( Crataegus laevigata) 12%, z szyszki chmielu (Humulus lupulus) 8%, z łuski gryki (Fagopyrum esculentum) 4% ;sok z cytryny (Citrus limon). <\/p><p>Składniki w porcji dziennej (10ml):<\/p><p>Wyciągi wodne 1:1:<\/p><p>z ziela melisy (Melissa officinalis) - 0,64g<\/p><p>z kwiatu lipy (Tilia Flos) - 0,64g<\/p><p>z kwiat wrzosu (Calluna vulgaris Flos) - 0,64g<\/p><p>z kwiatu lawendy (Lavandula Flos) - 0,64g<\/p><p>z korzenia kozłka lekarskiego ( Valeriana officinalis Radix) - 0,48g<\/p><p>z owocu głogu ( Crataegus laevigata) - 0,48g<\/p><p>z szyszki chmielu (Humulus lupulus) - 0,32g<\/p><p>z łuski gryki (Fagopyrum esculentum) - 0,16g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecane spożycie:10 ml eliksiru (2 nakrętki) bezpośrednio przed snem<\/p><p>Sposób użycia: 2 nakrętki eliksiru (10 ml) wlać do kieliszka lub szklanki z wodą i wypić. Produkt przeznaczony dla dorosłych. Osad jest zjawiskiem naturalnym. Wstrząsnąć przed spożyciem. Nie stosować u kobiet w ciąży i w okresie karmienia piersią. Nie stosować u osób uczulonych na jakikolwiek składnik produktu. Produkt pasteryzowany.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w suchym i chłodnym miejscu, w sposób niedostępny dla małych dzieci. Chronić przed dostępem promieni słonecznych. Po otwarciu przechowywać w lodówce w szczelnie zamkniętej butelce, spożyć w ciągu 7 dni.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MIRELIZD"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.62",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.51",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1840.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916001006",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:37:07.448Z"
+    },
+    "createdAt": "2025-09-22T20:37:07.000Z",
+    "updatedAt": "2025-09-22T20:52:08.417Z"
+}

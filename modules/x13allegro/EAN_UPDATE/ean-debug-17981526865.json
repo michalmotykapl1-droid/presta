@@ -1,0 +1,320 @@
+{
+    "name": "Mieszanka ROBAQ 100g HERBAPOL KRAKÓW",
+    "productSet": [
+        {
+            "product": {
+                "id": "8489973a-d1c7-4eb7-954c-9fd48c997fe0",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Herbapol Kraków"
+                        ],
+                        "valuesIds": [
+                            "248811_1960379"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903850021490"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244505",
+                        "name": "Nazwa",
+                        "values": [
+                            "MIESZANKA ROBAQ 100g"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.15"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213806",
+                        "name": "Typ",
+                        "values": [
+                            "mieszanki"
+                        ],
+                        "valuesIds": [
+                            "213806_263786"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "232285",
+                        "name": "Rodzaj",
+                        "values": [
+                            "trawa cytrynowa"
+                        ],
+                        "valuesIds": [
+                            "232285_366401"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213810",
+                        "name": "Postać",
+                        "values": [
+                            "inna"
+                        ],
+                        "valuesIds": [
+                            "213810_263830"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210794",
+                        "name": "Waga netto",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "213714",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy",
+                            "bez barwników",
+                            "wegetariański"
+                        ],
+                        "valuesIds": [
+                            "213714_16",
+                            "213714_32768",
+                            "213714_8192"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903850021490"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "0e97c98a-5674-43a3-b63f-02e06c7be384"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11c42b\/e89ad3c34f699af62d13128770aa"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "15.12",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 10,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11c42b\/e89ad3c34f699af62d13128770aa"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mieszanka ROBAQ 100g HERBAPOL KRAKÓW<\/h1> <p><b>OPIS <\/b><\/p><p>Mieszanka to kompozycja ziół stanowiąca uzupełnienie codziennej diety. Tymianek przyczynia się do komfortu trawiennego, działa antybakteryjnie i wspiera układ odpornościowy. Wrotycz zwiększa wydzielanie gruczołów żołądkowo-jelitowych oraz wzmacnia mięśnie przewodu pokarmowego. Mięta pieprzowa wpływa korzystnie na trawienie, funkcje żołądka i jelit, a orzech włoski wspiera prawidłowe funkcjonowanie przewodu pokarmowego.<\/p> <p><b>SKŁAD <\/b><\/p><p>Ziele tymianku - 30%, trawa cytrynowa - 30%, ziele wrotyczu - 12%, liść mięty pieprzowej - 12%, liść orzecha włoskiego - 12%, ziele piołunu - 4%.<\/p> <p>Zawartość 2 łyżeczek:<\/p><p>• Ziele tymianku - 3,0 g<\/p><p>• Trawa cytrynowa - 3,0 g<\/p><p>• Ziele wrotyczu - 1,2 g<\/p><p>• Liść mięty pieprzowej - 1,2 g<\/p><p>• Liść orzecha włoskiego - 1,2 g<\/p><p>• Ziele piołunu – 0,4 g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Osoby dorosłe: wstrząsnąć i dokładnie wymieszać produkt, 1 łyżeczkę mieszanki (ok.5g) zaparzać wrzątkiem (200ml) pod przykryciem przez 10 min. Spożywać 2 razy dziennie, pomiędzy posiłkami. Nie stosować dłużej niż 10 dni.<\/p> <p><b>UWAGA <\/b><\/p><p>Suplement diety nie może być stosowany jako substytut (zamiennik) zróżnicowanej diety. Zalecany jest zrównoważony sposób żywienia i zdrowy styl życia. Kobiety w ciąży i karmiące piersią przed spożyciem powinny skontaktować się z lekarzem. Nie przekraczać zalecanej porcji do spożycia w ciągu dnia.<\/p> <p><b>PRZECHOWYANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z35HEWHERRS1"
+    },
+    "category": {
+        "id": "258266"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "15.12",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3.48",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "87.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1415.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "87.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981526865",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T09:37:45.817Z"
+    },
+    "createdAt": "2025-10-14T09:37:45.000Z",
+    "updatedAt": "2025-10-17T13:30:45.072Z"
+}

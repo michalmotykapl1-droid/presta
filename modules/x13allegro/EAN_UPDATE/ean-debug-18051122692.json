@@ -1,0 +1,245 @@
+{
+    "name": "MyVita Krople na Sen 30ml",
+    "productSet": [
+        {
+            "product": {
+                "id": "c2e33406-7e75-446c-a8e3-598778d9d09e",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "MyVita"
+                        ],
+                        "valuesIds": [
+                            "248811_1962299"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5903021593467"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5903021593467"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "43507d7d-9783-49fe-8947-21d4b2a00a46"
+            },
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115f3a\/f3ad6b404d1e90e43d746ce6a688"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "46.83",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 7,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115f3a\/f3ad6b404d1e90e43d746ce6a688"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>MyVita Krople na Sen 30ml<\/h1> <p><b>OPIS <\/b><\/p><p>MyVita Krople na Sen to suplement diety opracowany z myślą o osobach mających trudności z zasypianiem lub cierpiących na nieregularny sen. Produkt zawiera melatoninę oraz ekstrakty roślinne z melisy lekarskiej, kozłka lekarskiego i rumianku pospolitego, a także witaminę B6, które wspomagają naturalny rytm snu, redukują napięcie nerwowe i sprzyjają wyciszeniu przed snem.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Nośnik: glicerol roślinny, woda oczyszczona, ekstrakt z korzenia kozłka lekarskiego (Valeriana officinalis), ekstrakt z kwiatów rumianku pospolitego (Matricaria chamomilla), ekstrakt z liści melisy lekarskiej (Melissa officinalis), chlorowodorek pirydoksyny, melatonina, regulator kwasowości: kwas cytrynowy, aromat cytrynowo-pomarańczowy.<\/p> <p>Zawartość 4 kropli:<\/p><p>• Melatonina - 1 mg<\/p><p>• Kozłek lekarski - 17 mg<\/p><p>• Rumianek pospolity - 17 mg<\/p><p>• Melisa lekarska - 16 mg<\/p><p>• Witamina B6 - 1,4 mg (100% RWS*)<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>4 krople, najlepiej około 30 minut przed planowanym snem.<\/p> <p><b>UWAGA <\/b><\/p><p>Produkt przeznaczony dla osób dorosłych. Nie należy przekraczać zalecanej dziennej porcji do spożycia. Suplementy diety nie mogą być stosowane jako substytut (zamiennik) zróżnicowanej diety. Nie zaleca się kobietom w ciąży, karmiącym piersią oraz dzieciom. Dla utrzymania prawidłowego stanu zdrowia należy stosować zróżnicowaną dietę i prowadzić zdrowy styl życia.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywać w temperaturze pokojowej, w sposób niedostępny dla małych dzieci.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_Z21PRNKROSE"
+    },
+    "category": {
+        "id": "122576"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "46.83",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "10.77",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "269.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4390.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "269.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051122692",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T11:21:51.225Z"
+    },
+    "createdAt": "2025-11-03T11:21:51.000Z",
+    "updatedAt": "2025-11-03T11:36:52.288Z"
+}

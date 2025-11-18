@@ -1,0 +1,301 @@
+{
+    "name": "PIANKA DO TWARZY OCZYSZCZAJĄCA CZARNA GLINKA 100 ml - BARULAB",
+    "productSet": [
+        {
+            "product": {
+                "id": "6928a130-e3ac-476f-9e97-94e9569a5d9c",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "BARULAB"
+                        ],
+                        "valuesIds": [
+                            "248811_2005613"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8809420800274"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "15852",
+                        "name": "Rodzaj",
+                        "values": [
+                            "Pianki"
+                        ],
+                        "valuesIds": [
+                            "15852_10"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129569",
+                        "name": "Wielkość",
+                        "values": [
+                            "Produkt pełnowymiarowy"
+                        ],
+                        "valuesIds": [
+                            "129569_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "216929",
+                        "name": "Zapach",
+                        "values": [
+                            "świeży"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8809420800274"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "01311bad-6002-42c2-b5e3-95a2d4626f9c"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa produktów z kategorii: 'Oczyszczanie i demakijaż' oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n1.  Uważaj na kontakt z oczami: Jeśli produkt dostanie się do oczu, natychmiast przemyj je dużą ilością wody. W przypadku utrzymującego się podrażnienia skonsultuj się z lekarzem.\n2.  Testuj na małym obszarze: Przed pierwszym użyciem nowego produktu do oczyszczania twarzy, wykonaj test na małym, niewidocznym obszarze skóry, aby sprawdzić, czy nie wystąpi reakcja alergiczna.\n3.  Nie połykaj: Produkty do oczyszczania i demakijażu są przeznaczone wyłącznie do użytku zewnętrznego. Nie połykaj ich. W przypadku połknięcia natychmiast skontaktuj się z lekarzem.\n4.  Przechowuj w bezpiecznym miejscu: Trzymaj produkty do oczyszczania i demakijażu z dala od dzieci i zwierząt.\n5.  Używaj zgodnie z instrukcją: Zawsze stosuj się do instrukcji producenta dotyczących używania i dawkowania produktu.\n6.  Unikaj podrażnień: Jeśli po użyciu produktu wystąpi zaczerwienienie, swędzenie, pieczenie lub wysypka, przerwij stosowanie i skonsultuj się z dermatologiem.\n7.  Ostrożnie z wrażliwą skórą: Jeśli masz skórę wrażliwą, wybieraj produkty hipoalergiczne i bezzapachowe.\n8.  Nie mieszaj produktów: Nie łącz różnych produktów do oczyszczania i demakijażu, ponieważ może to prowadzić do niepożądanych reakcji chemicznych.\n9.  Chroń przed słońcem: Niektóre składniki zawarte w produktach do oczyszczania twarzy mogą zwiększać wrażliwość skóry na słońce. Stosuj krem z filtrem po użyciu takiego produktu.\n10. Uważaj na termin ważności: Nie używaj przeterminowanych produktów, ponieważ mogą być mniej skuteczne lub powodować podrażnienia.\n11. Zwróć uwagę na skład: Jeżeli masz alergię, upewnij się, że produkt nie zawiera substancji, na które jesteś uczulony.\n12. Higiena: Używaj czystych rąk i akcesoriów (np. wacików) podczas aplikacji, by zapobiec przenoszeniu bakterii.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/1161f8\/256d2acc4e12878755cae06be957"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "40.22",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 33,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/1161f8\/256d2acc4e12878755cae06be957"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>PIANKA DO TWARZY OCZYSZCZAJĄCA CZARNA GLINKA 100 ml - BARULAB<\/h1><p>SKŁADNIKI <\/p><p>Aqua, Glycerin, Lauric Acid, Palmitic Acid, Myristic Acid, Stearic Acid, Butylene Glycol, Potassium Hydroxide, Cocamidopropyl Betaine, Glyceryl Stearate, PEG-100 Stearate, Argania Spinosa Kernel Oil, Charcoal Powder, Cetearyl Olivate, Lauryl Glucoside, Potassium Cocoyl Glycinate, Sorbitan Olivate, Phenoxyethanol, Sodium Chloride, Fragnance, Potassium Cocoate, Ethylhexylglycerin, Arachidic Acid, Disodium EDTA,1,2-Hexanediol, Bentonite, Kaolin, Olea Europaea (Olive) Fruit Oil, Pumice, Beta-Glucan, Acacia Senegal Gum, Glycine SOJA (Soybean) Seed Extract, Morus Alba Fruit Extract, Oryza Sativa (Rice) Extract, Rubus Fruticosus (Blackberry) Fruit Extract, Sesamum Indicum (Sesame) Seed Extract, Peat Water, Citric Acid, Hydroypropyl Methylcellulose, Potassium Sorbate.<\/p><p>OPIS <\/p><p>BARULAB Black Clay Cleansing Foam to zaawansowana pianka oczyszczająca, która skutecznie usuwa zanieczyszczenia, nadmiar sebum oraz martwe komórki skóry, pozostawiając skórę czystą i odświeżoną. Dzięki zawartości czarnej glinki, pianka ma właściwości detoksykujące i oczyszczające, a także pomaga w usuwaniu toksyn, które gromadzą się na skórze w wyniku codziennych zanieczyszczeń środowiskowych. Dodatkowo, produkt nawilża i łagodzi skórę, zapewniając jej zdrowy wygląd. <\/p><p>Proszek węglowy głęboko oczyszcza pory, absorbując i usuwając sebum oraz inne zanieczyszczenia skóry. Olej arganowy, ekstrakt z jeżyn, ekstrakt z morwy, ekstrakt z czarnej SOI, ekstrakt z czarnego SEZAMU i ekstrakt z ryżu pomagają zapobiegać utracie wilgoci po oczyszczeniu, tworząc wokół skóry barierę ochronną. Bogata i gęsta pianka oczyszczająca pozostawia skórę lekką i odświeżoną poprzez delikatne, lecz skuteczne oczyszczanie z głębokich warstw porów.<\/p><p>SPOSÓB UŻYCIA<\/p><p>Nanieś odpowiednią ilość pianki na wilgotną skórę twarzy i delikatnie masuj okrężnymi ruchami. Następnie spłucz letnią wodą. Stosuj codziennie rano i wieczorem jako pierwszy etap pielęgnacji. <\/p><p>UWAGA<\/p><p>Stosować wyłącznie zgodnie zaleceniami. Unikać kontaktu z oczami, w przypadku dostania się preparatu do oczu przemyć je zimną wodą. Wyłącznie do użytku zewnętrznego. Nie do spożycia. Przerwać stosowanie w przypadku wystąpienia podrażnienia lub wysypki.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Przechowywać poza zasięgiem dzieci.<\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>CNF CO. LTD Gongdan-ro 140beonan-gil 29 15865 Gunpo-si, South Korea cnf@cnf.co.kr<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_46605"
+    },
+    "category": {
+        "id": "5361"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "40.22",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.25",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "231.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "3770.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "231.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051445441",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T13:16:11.935Z"
+    },
+    "createdAt": "2025-11-03T13:16:11.000Z",
+    "updatedAt": "2025-11-03T13:31:12.242Z"
+}

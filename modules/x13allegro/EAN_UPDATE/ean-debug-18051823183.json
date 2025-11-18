@@ -1,0 +1,312 @@
+{
+    "name": "LAMPA SOLNA 4 - 6 kg - HIMALAYAN SALT",
+    "productSet": [
+        {
+            "product": {
+                "id": "8f32fac5-3c06-458c-86cd-069e6130b245",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Himalayan Salt"
+                        ],
+                        "valuesIds": [
+                            "248811_1144266"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "24231",
+                        "name": "Długość\/wysokość",
+                        "values": [
+                            "0"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "235805",
+                        "name": "Maksymalna waga",
+                        "values": [
+                            "6"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "8051490400520"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "209566",
+                        "name": "Zasilanie",
+                        "values": [
+                            "sieciowe"
+                        ],
+                        "valuesIds": [
+                            "209566_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "201597",
+                        "name": "Informacje dodatkowe",
+                        "values": [
+                            "żarówki w zestawie"
+                        ],
+                        "valuesIds": [
+                            "201597_2"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "6.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250508",
+                        "name": "Źródło światła",
+                        "values": [
+                            "ze zintegrowanym źródłem światła"
+                        ],
+                        "valuesIds": [
+                            "250508_1925769"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "8051490400520"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "47e471a1-d465-4a2c-b390-125d3f4d69d6"
+            },
+            "safetyInformation": {
+                "description": "Lista ostrzeżeń dotyczących bezpieczeństwa lamp solnych oparta o wymagania Rozporządzenia (UE) 2023\/988 w sprawie ogólnego bezpieczeństwa produktów (GPSR):\n\n*   Ryzyko porażenia prądem: Upewnij się, że lampa jest podłączona do sprawnego gniazdka elektrycznego, z dala od wilgoci. Nie dotykaj lampy mokrymi rękami.\n*   Ryzyko przewrócenia: Umieść lampę na stabilnej, płaskiej powierzchni, aby uniknąć jej przewrócenia.\n*   Ryzyko uszkodzenia kabla: Sprawdź, czy kabel zasilający nie jest uszkodzony. Uszkodzony kabel może prowadzić do porażenia prądem lub pożaru.\n*   Ryzyko pożaru: Nie umieszczaj lampy w pobliżu materiałów łatwopalnych.\n*   Ryzyko uszkodzenia: Delikatna konstrukcja lampy solnej może ulec uszkodzeniu w wyniku upadku lub uderzenia. Uważaj na nią podczas przenoszenia i czyszczenia.\n*   Ryzyko alergii: Osoby z alergią na sól powinny zachować ostrożność.\n*   Ryzyko dla dzieci: Trzymaj małe elementy lampy (np. żarówki) poza zasięgiem dzieci, aby uniknąć połknięcia. Nie pozwalaj dzieciom na zabawę lampą.\n*   Czyszczenie: Do czyszczenia lampy używaj tylko suchej, miękkiej szmatki. Nie używaj wody ani detergentów.\n*   Wilgoć: Unikaj umieszczania lampy w wilgotnych pomieszczeniach, ponieważ sól może wchłaniać wilgoć z powietrza.\n*   Przegrzewanie: Nie zakrywaj lampy podczas użytkowania, aby uniknąć przegrzania.\n*   Żarówka: Wymieniaj żarówkę tylko wtedy, gdy lampa jest odłączona od zasilania i żarówka ostygła. Używaj żarówek o odpowiedniej mocy.\n*   Utylizacja: Zużyte żarówki i inne elementy lampy utylizuj zgodnie z lokalnymi przepisami.\n*   Nadzór: Nigdy nie pozostawiaj włączonej lampy bez nadzoru, szczególnie w pobliżu dzieci lub zwierząt.",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/116996\/02d992194f89adf10b0377dec1fe"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "80.05",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 148,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/116996\/02d992194f89adf10b0377dec1fe"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>LAMPA SOLNA 4 - 6 kg - HIMALAYAN SALT<\/h1><p>OPIS<\/p><p>Lampa wykonana jest z kryształu soli i jest naturalnym jonizerem powietrza, który efektywnie podnosi poziom jonów ujemnych w pomieszczeniach. Pozytywne działanie jonów ujemnych można odczuć zwiedzając Kopalnię Soli w Wieliczce, będąc nad morzem, czy choćby spacerując bezpośrednio po burzy. W lampach solnych efekt jonizacji jest dodatkowo zwiększony poprzez rozgrzanie kryształów soli znajdującą się wewnątrz żarówką. Dzięki temu lampa solna poprawia jakość naszego otoczenia a tym samym naszego samopoczucia. <\/p><p>W skład zestawu wchodzi: <\/p><p>- około 4-6 kg bryła soli himalajskiej na drewnianej podstawce, <\/p><p>- kabel o długości 120 cm i napięciu 250 V, <\/p><p>- żarówka E14,15 W.<\/p><p>PRZEZNACZENIE <\/p><p>Lampa będzie pełniła funkcję dekoracyjną np. w pokoju dziecka, sypialni czy w salonie w okolicach telewizora lub komputera.<\/p><p>SPOSÓB CZYSZCZENIA<\/p><p>- czyszczenie lampy solnej może odbywać się za pomocą odkurzenia jej lub przetarcia wilgotną szmatką<\/p><p>- nie wolno wkładać lamp solnych do wody, gdyż może ona popękać poprzez wdarcie się wody do mikropęknięć, których często nie widać, a mogą znajdować się na lampie co jest rzeczą naturalną<\/p><p>UWAGA<\/p><p>Każda lampa solna jest naturalna i niepowtarzalna, a to oznacza, że nie znajdziemy dwóch identycznych egzemplarzy, dlatego też oferowany produkt może kształtem i barwą nieco odbiegać od tej prezentowanej na zdjęciu.<\/p><p>ZALECANE WARUNKI PRZECHOWYWANIA<\/p><p>Lampa powinna być użytkowana w pomieszczeniach suchych, gdyż pod wpływem wilgoci lampy niszczeją za sprawą absorbowania wody z otoczenia przez sól. Nie zaleca się przechowywania lampy solnej w łazience, piwnicy czy trzymania na zewnątrz. <\/p> <p><b>PRODUCENT - NAZWA I ADRES <\/b><\/p><p>UPRISING ORGANIC PROJECT S.A.S. DI DURANTE ROBERTO &amp; C., VIA ROCCIAMELONE 15, 10040 ALMESE (TO)<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "BP_17609"
+    },
+    "category": {
+        "id": "300841"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "80.05",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "18.41",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "460.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "7500.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "460.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18051823183",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-11-03T15:51:58.818Z"
+    },
+    "createdAt": "2025-11-03T15:51:58.000Z",
+    "updatedAt": "2025-11-03T16:06:59.925Z"
+}

@@ -1,0 +1,349 @@
+{
+    "name": "Mydło marsylskie 72% oliwka ECOCERT 300g LA CORVETTE",
+    "productSet": [
+        {
+            "product": {
+                "id": "1f519681-6b07-4ba4-a9c7-d998e6a75884",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "La Corvette"
+                        ],
+                        "valuesIds": [
+                            "248811_1981164"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "270304"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "Mydło marsylskie"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "26182",
+                        "name": "Rodzaj",
+                        "values": [
+                            "w kostce"
+                        ],
+                        "valuesIds": [
+                            "26182_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "207570",
+                        "name": "Pojemność",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "230801",
+                        "name": "Waga",
+                        "values": [
+                            "300"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "230757",
+                        "name": "Opakowanie",
+                        "values": [
+                            "folia"
+                        ],
+                        "valuesIds": [
+                            "230757_355577"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "230777",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "ekologiczne"
+                        ],
+                        "valuesIds": [
+                            "230777_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "228313",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "aluminium",
+                            "barwników",
+                            "SLS",
+                            "substancji zapachowych"
+                        ],
+                        "valuesIds": [
+                            "228313_256",
+                            "228313_1",
+                            "228313_64",
+                            "228313_4"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "230785",
+                        "name": "Szczególne składniki",
+                        "values": [
+                            "oliwa z oliwek"
+                        ],
+                        "valuesIds": [
+                            "230785_355789"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.3"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "3182612703047"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "58a6f8d9-c3e6-473a-9950-7e1edcfaf5e8"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11efdc\/bc8c48194876babd2632cf005d7f"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "23.36",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 32,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11efdc\/bc8c48194876babd2632cf005d7f"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Mydło marsylskie 72% oliwka ECOCERT 300g LA CORVETTE<\/h1> <p><b>OPIS <\/b><\/p><p>Oryginalne oliwkowe mydło marsylskie w postaci tradycyjnej sześciennej kostki. 100% naturalne. Prosty, tradycyjny skład. 72% olejów roślinnych. Warzone tradycyjnie w otwartych kadziach zgodnie z marsylską metodą. Wyłącznie na bazie olejów roślinnych.<\/p> <p>Tradycyjny uniwersalny środek czystości stosowany w domu i ogrodzie. Do codziennej pielęgnacji każdego rodzaju skóry. Idealne dla skóry delikatnej i wrażliwej, również skóry małych dzieci. Doskonale nawilża, natłuszcza, uelastycznia i regeneruje skórę. Pomaga zachować naturalny płaszcz hydrolipidowy skóry. Jest hipoalergiczne, nie uczula, działa antyseptycznie.<\/p> <p>Nie zawiera sztucznych barwników, środków zapachowych, konserwantów. Biodegradowalne. Dobroczynne dla ciała, przyjazne dla planety. Savon de Marseille, oznaczenie produktu poświadczające autentyczność regionalnego i tradycyjnego pochodzenia.<\/p> <p>Naturalny i tradycyjny skład:<\/p><p>-olej z oliwek,<\/p><p>-olej kokosowy,<\/p><p>-72% olejów roślinnych.<\/p> <p><b>SKŁADNIKI <\/b><\/p><p>Sodium Olivate, Sodium Cocoate, Aqua (Water), Sodium Chloride, Sodium Hydroxide.<\/p> <p><b>PRODUCENT <\/b><\/p><p>Savonnerie du Midi<\/p><p>72 rue Augustin Roux<\/p><p>13015 Marseille-France<\/p><p>www.la-corvette.com<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_71BIOLACMMO"
+    },
+    "category": {
+        "id": "253350"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "23.36",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "5.37",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "134.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2190.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "134.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "18016385617",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-22T07:51:36.460Z"
+    },
+    "createdAt": "2025-10-22T07:51:36.000Z",
+    "updatedAt": "2025-10-30T15:06:00.484Z"
+}

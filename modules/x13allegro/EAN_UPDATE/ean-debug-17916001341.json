@@ -1,0 +1,367 @@
+{
+    "name": "Eliksir dla utrzymania prawidłowego poziomu cukru we krwi bezalkoholowy 100",
+    "productSet": [
+        {
+            "product": {
+                "id": "9e45b49c-ae03-4ab3-81fd-e349162e1fe8",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "250581",
+                        "name": "Nazwa",
+                        "values": [
+                            "21MIRELIDU"
+                        ],
+                        "valuesIds": [
+                            "250581_1933282"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "Mir-Lek"
+                        ],
+                        "valuesIds": [
+                            "248811_1962092"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5906660437840"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210774",
+                        "name": "Przeznaczenie",
+                        "values": [
+                            "dla kobiet",
+                            "dla mężczyzn",
+                            "dla seniorów",
+                            "dla sportowców",
+                            "uniwersalne"
+                        ],
+                        "valuesIds": [
+                            "210774_2",
+                            "210774_8",
+                            "210774_16",
+                            "210774_32",
+                            "210774_1"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210758",
+                        "name": "Postać",
+                        "values": [
+                            "płyn"
+                        ],
+                        "valuesIds": [
+                            "210758_244682"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210790",
+                        "name": "Liczba sztuk",
+                        "values": [
+                            "1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "206338",
+                        "name": "Pojemność",
+                        "values": [
+                            "100"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210698",
+                        "name": "Podstawowy składnik",
+                        "values": [
+                            "CLA"
+                        ],
+                        "valuesIds": [
+                            "210698_243598"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "210762",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bezalkoholowy"
+                        ],
+                        "valuesIds": [
+                            "210762_128"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.18"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "129857",
+                        "name": "Smak",
+                        "values": [
+                            "naturalny"
+                        ],
+                        "valuesIds": [
+                            "129857_43"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "420",
+                        "name": "Waga",
+                        "values": [
+                            "150"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224057",
+                        "name": "Liczba porcji w opakowaniu",
+                        "values": [
+                            "10"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5906660437840"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": {
+                "id": "cb0e5a50-7bc9-4ec5-8ec5-935b68899f02"
+            },
+            "safetyInformation": {
+                "description": "Podmiot odpowiedzialny: {RESP_NAME}\nAdres: {RESP_ADDRESS}\nKontakt: {RESP_EMAIL}, {RESP_PHONE}\nInformacje: Produkt spełnia wymagania rozporządzenia (UE) 2023\/988 (GPSR).",
+                "type": "TEXT"
+            },
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11633b\/8d6ce204438fa5d658bf26661e06"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "19.62",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 6,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11633b\/8d6ce204438fa5d658bf26661e06"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Eliksir dla utrzymania prawidłowego poziomu cukru we krwi bezalkoholowy 100<\/h1> <p><b>OPIS <\/b><\/p><p>Eliksir bezalkoholowy dla utrzymania prawidłowego POZIOMU CUKRU WE KRWI - Suplement diety z morwa białą i mniszkiem lekarskim<\/p><p>Mniszek pomaga kontrolować poziom cukru we krwi, morwa może przyczynić się do utrzymania równowagi metabolicznej węglowodanów w organizmie.<\/p> <p>Eliksir dla utrzymania właściwego poziomu cukru we krwi powstał z wyciągów z roślin takich jak:: jałowiec, morwa , mniszek lekarski, krwawnik, bez czarny, oregano, kozieradka, gryka. Morwa białą może przyczynić się do utrzymania równowagi metabolicznej węglowodanów w organizmie. Jałowiec pomaga utrzymać równowagę fizjologiczną cukrów, mniszek lekarski pomaga kontrolować poziom cukru, bez czarny pomaga utrzymać prawidłowy poziom glukozy we krwi przy zdrowym stylu życia, kozieradka pomaga w utrzymaniu fizjologicznej równowagi cukrów, oregano wspiera zdrowie układu sercowo-naczyniowego.<\/p><p><b>SKŁADNIKI <\/b><\/p><p>Woda, wyciągi wodne 1:1: z liści morwy białej ( Morus alba) 30%, z owocu jałowca (Juniperus communis) 18%, z korzenia mniszka lekarskiego (Taraxacum officinale) 16%, z kwiatu bzu czarnego (Sambucus nigra) 12%, z ziela krwawnika (Achillea millefolium) 9%, z ziela oregano ( Oreganum vulgare) 5%, z nasion kozieradki (Trigonella foenum-grecum) 5%, z łuski gryki (Fagopyrum esculentum )5%, sok z cytryny (Citrus limon).<\/p> <p>Składniki w porcji dziennej (10ml):<\/p><p>Wyciągi wodne 1:1: <\/p><p>z liści morwy białej ( Morus alba) - 1,50g<\/p><p>z owocu jałowca (Juniperus communis) - 0,90g<\/p><p>z korzenia mniszka lekarskiego (Taraxacum officinale) - 0,80g<\/p><p>z kwiatu bzu czarnego (Sambucus nigra) - 0,60g<\/p><p>z ziela krwawnika (Achillea millefolium) - 0,46g<\/p><p>z ziela oregano ( Oreganum vulgare) - 0,24g<\/p><p>z nasion kozieradki (Trigonella foenum-grecum) - 0,23g<\/p><p>z łuski gryki (Fagopyrum esculentum ) - 0,23g<\/p> <p><b>SPOSÓB UŻYCIA <\/b><\/p><p>Zalecane spożycie: 2 razy w ciągu doby po 5 ml eliksiru ( 2 nakrętki)<\/p><p>Sposób użycia: 1 nakrętkę eliksiru (5 ml) wlać do kieliszka lub szklanki z wodą i wypić. Produkt przeznaczony dla dorosłych. Osad jest zjawiskiem naturalnym. Wstrząsnąć przed spożyciem. Nie stosować u kobiet w ciąży i w okresie karmienia piersią. Nie stosować u osób uczulonych na jakikolwiek składnik produktu. Produkt pasteryzowany.<\/p> <p><b>PRZECHOWYWANIE <\/b><\/p><p>Przechowywanie: przechowywać w suchym i chłodnym miejscu, w sposób niedostępny dla małych dzieci. Chronić przed dostępem promieni słonecznych. Po otwarciu przechowywać w lodówce w szczelnie zamkniętej butelce, spożyć w ciągu 7 dni.<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "NAT_21MIRELIDU"
+    },
+    "category": {
+        "id": "122569"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "8.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "19.62",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "4.51",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1840.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "113.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17916001341",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-22T20:37:15.709Z"
+    },
+    "createdAt": "2025-09-22T20:37:15.000Z",
+    "updatedAt": "2025-10-24T12:46:13.087Z"
+}

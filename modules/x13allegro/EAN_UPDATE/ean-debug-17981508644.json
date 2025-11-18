@@ -1,0 +1,276 @@
+{
+    "name": "Chleb Drobne Ziarno z ziołami VEGE Beak Beak, 165g",
+    "productSet": [
+        {
+            "product": {
+                "id": "953f8d3b-c94b-42ae-9693-486889de08a7",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "5901764234609"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "BEAK BEAK"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "165"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "248438",
+                        "name": "Rodzaj mąki",
+                        "values": [
+                            "bez mąki"
+                        ],
+                        "valuesIds": [
+                            "248438_910271"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez laktozy"
+                        ],
+                        "valuesIds": [
+                            "233345_869017"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "5901764234609"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/115794\/07bab16b496ab342a0c79e0de760"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "9.18",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 14,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/115794\/07bab16b496ab342a0c79e0de760"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Chleb Drobne Ziarno z ziołami VEGE Beak Beak, 165g<\/h1> <p><b>Chleb Drobne Ziarno z ziołami VEGE Beak Beak, 165g <\/b><\/p> <p>Pieczywo wieloziarniste z mielonych ziaren, z dodatkiem ziół 3%, bez mąki i drożdży, pasteryzowane.<\/p> <p><b>Składniki:<\/b><\/p><p>mielone ziarna słonecznika 29%, woda, mielone pestki dyni 12%, błonnik roślinny, mielone ziarna <b>SEZAMU <\/b>9%, siemię lniane złote i ziarna <b>SEZAMU <\/b>(w zmiennych proporcjach) 7%, zioła (w tym oregano, rozmaryn, bazylia, kolendra w zmiennych proporcjach) 3%, syrop ryżowy, sól.<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>Wartość energetyczna 1026 kJ\/ 247 kcal<\/p><p>Tłuszcz 18 g<\/p><p>w tym kwasy tłuszczowe nasycone 2,3 g<\/p><p>Węglowodany 10 g<\/p><p>w tym cukry 1,0 g<\/p><p>Błonnik 6,8 g<\/p><p>Białko 10 g<\/p><p>Sól 1,1 g<\/p> <p><b>Alergeny:<\/b><\/p><p>Sezam.<\/p><p>Produkt może zawierać <b>GLUTEN <\/b>, <b>ORZECHY <\/b>.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym, nienasłonecznionym miejscu.<\/p> <p><b>Producent:<\/b><\/p><p>Bakery Company Sp. z o.o.<\/p><p>ul. H. Sienkiewicza 72, 90-318 Łódź<\/p><p>Polska<\/p>"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_5901764234609"
+    },
+    "category": {
+        "id": "319571"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "5.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "5.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "9.18",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "2.11",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "53.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "860.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "53.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17981508644",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-10-14T09:30:08.486Z"
+    },
+    "createdAt": "2025-10-14T09:30:08.000Z",
+    "updatedAt": "2025-10-30T13:16:42.417Z"
+}

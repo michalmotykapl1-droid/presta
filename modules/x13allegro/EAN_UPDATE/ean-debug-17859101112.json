@@ -1,0 +1,376 @@
+{
+    "name": "Baton w polewie czekoladowej „CRISPY HAZELNUT” FIZI, 40g",
+    "productSet": [
+        {
+            "product": {
+                "id": "0518dce6-d761-4090-a31d-f929a01942f7",
+                "publication": {
+                    "status": "LISTED"
+                },
+                "parameters": [
+                    {
+                        "id": "248811",
+                        "name": "Marka",
+                        "values": [
+                            "fizi"
+                        ],
+                        "valuesIds": [
+                            "248811_2043649"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "221929",
+                        "name": "Waga",
+                        "values": [
+                            "40"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "224017",
+                        "name": "Kod producenta",
+                        "values": [
+                            "4820262540665"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "244509",
+                        "name": "Nazwa handlowa",
+                        "values": [
+                            "<br \/>"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "233345",
+                        "name": "Cechy dodatkowe",
+                        "values": [
+                            "bez laktozy",
+                            "wegańskie",
+                            "wegetariańskie"
+                        ],
+                        "valuesIds": [
+                            "233345_869017",
+                            "233345_4",
+                            "233345_8"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "130691",
+                        "name": "Produkt nie zawiera",
+                        "values": [
+                            "cukru",
+                            "glutenu",
+                            "jajek",
+                            "nabiału",
+                            "pszenicy"
+                        ],
+                        "valuesIds": [
+                            "130691_4",
+                            "130691_2",
+                            "130691_1048576",
+                            "130691_262144",
+                            "130691_131072"
+                        ],
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "17448",
+                        "name": "Waga produktu z opakowaniem jednostkowym",
+                        "values": [
+                            "0.06"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250662",
+                        "name": "Tłuszcz",
+                        "values": [
+                            "24.1"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250663",
+                        "name": "Kwasy tłuszczowe nasycone",
+                        "values": [
+                            "11.5"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250664",
+                        "name": "Węglowodany",
+                        "values": [
+                            "43.2"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250665",
+                        "name": "Cukry",
+                        "values": [
+                            "1.4"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "250668",
+                        "name": "Sól",
+                        "values": [
+                            "0.02"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    },
+                    {
+                        "id": "225693",
+                        "name": "EAN (GTIN)",
+                        "values": [
+                            "4820262540665"
+                        ],
+                        "valuesIds": null,
+                        "rangeValue": null
+                    }
+                ],
+                "isAiCoCreated": false
+            },
+            "quantity": {
+                "value": 1
+            },
+            "responsiblePerson": null,
+            "responsibleProducer": null,
+            "safetyInformation": null,
+            "marketedBeforeGPSRObligation": false,
+            "deposits": []
+        }
+    ],
+    "parameters": [
+        {
+            "id": "11323",
+            "name": "Stan",
+            "values": [
+                "Nowy"
+            ],
+            "valuesIds": [
+                "11323_1"
+            ],
+            "rangeValue": null
+        }
+    ],
+    "images": [
+        "https:\/\/a.allegroimg.com\/original\/11dc40\/92062127437e84307ae9033fee40",
+        "https:\/\/a.allegroimg.com\/original\/11b26e\/974487c24b3ca81e34b0024e6e4b",
+        "https:\/\/a.allegroimg.com\/original\/117580\/e375bfbe4012b6ec45a028ece207",
+        "https:\/\/a.allegroimg.com\/original\/11685d\/34058c0d449da2c36b626c896d7a"
+    ],
+    "afterSalesServices": {
+        "impliedWarranty": {
+            "id": "1009df86-ec51-4f86-af66-3aba9fa87fd7"
+        },
+        "returnPolicy": {
+            "id": "85d7dd03-e495-4fc5-bd7c-6868773c725b"
+        },
+        "warranty": null
+    },
+    "payments": {
+        "invoice": "VAT"
+    },
+    "sellingMode": {
+        "format": "BUY_NOW",
+        "price": {
+            "amount": "6.05",
+            "currency": "PLN"
+        },
+        "startingPrice": null,
+        "minimalPrice": null
+    },
+    "stock": {
+        "available": 7,
+        "unit": "UNIT"
+    },
+    "location": {
+        "countryCode": "PL",
+        "province": "MALOPOLSKIE",
+        "city": "Skawina",
+        "postCode": "32-050"
+    },
+    "delivery": {
+        "shippingRates": {
+            "id": "c0911288-59d3-4a9d-b85a-441d996bce98"
+        },
+        "handlingTime": "PT48H",
+        "additionalInfo": null,
+        "shipmentDate": null
+    },
+    "description": {
+        "sections": [
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11dc40\/92062127437e84307ae9033fee40"
+                    },
+                    {
+                        "type": "TEXT",
+                        "content": "<h1>Baton w polewie czekoladowej „CRISPY HAZELNUT” FIZI, 40g<\/h1> <p><b>Baton w polewie czekoladowej „CRISPY HAZELNUT” FIZI, 40g <\/b><\/p> <p>Niepowtarzalna klasyka, która zawsze na czasie: orzechy laskowe z karmelem w czekoladowej polewie 🤎 Chrupiąca przekąska na każdą okazję <\/p> <p><b>Składniki:<\/b><\/p><p>Karmel (38%) (ekstrakt z kokosa, syrop maltitolowy, skrobia kukurydziana), polewa czekoladowa (16,3%) (miazga kakaowa, słodzik maltitol, masło kakaowe, kakao w proszku o obniżonej zawartości tłuszczu, masło shea, emulgator lecytyna, naturalny aromat waniliowy), chrupiące kulki (11,6%) (mąka kukurydziana, mąka z amarantusa), orzechy laskowe (11%), płatki owsiane bezglutenowe, gliceryna roślinna, izolat białka grochu (5,8%) (zawiera 85% białka), błonnik z tapioki, wapń, magnez, cholina, witamina C, witamina E, witamina B6, witamina A, witamina B9, witamina D3, witamina B12.<\/p> <p><b>Wartość odżywcza w 100g:<\/b><\/p><p>Wartość energetyczna 1632 kJ \/ 392 kcal <\/p><p>Tłuszcz 24,1 g<\/p><p>w tym kwasy tłuszczowe nasycone 11,5 g <\/p><p>Węglowodany 43,2 g<\/p><p>w tym cukry 1,4 g<\/p><p>w tym poliole 25,6 g <\/p><p>Błonnik 8 g <\/p><p>Białko 11,6 g <\/p><p>Sól 0,02 g <\/p><p>- Witamina A 1000 μg <\/p><p>- Witamina C 100 mg <\/p><p>- Witamina D3 6,25 μg <\/p><p>- Witamina E 15 mg <\/p><p>- Witamina B6 1,75 mg <\/p><p>- Witamina B9 250 μg <\/p><p>- Witamina B12 3,125 μg <\/p><p>- Magnez 468,75 mg <\/p><p>- Wapń 580 mg <\/p><p>- Cholina 312,5 mg<\/p> <p><b>Alergeny:<\/b><\/p><p>Może zawierać śladowe ilości orzechów (orzechy nerkowca, orzechy laskowe, migdały.<\/p> <p><b>Sposób przechowywania: <\/b><\/p><p>Przechowywać w suchym, chłodnym, ciemnym miejscu. Chronić przed bezpośrednim działaniem promieni słonecznych.<\/p> <p><b>Producent:<\/b><\/p><p>FIZI LLC<\/p>"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11b26e\/974487c24b3ca81e34b0024e6e4b"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/117580\/e375bfbe4012b6ec45a028ece207"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "type": "IMAGE",
+                        "url": "https:\/\/a.allegroimg.com\/original\/11685d\/34058c0d449da2c36b626c896d7a"
+                    }
+                ]
+            }
+        ]
+    },
+    "external": {
+        "id": "STEW_4820262540665"
+    },
+    "category": {
+        "id": "261779"
+    },
+    "taxSettings": {
+        "subject": null,
+        "exemption": null,
+        "rates": [
+            {
+                "rate": "23.00",
+                "countryCode": "SK"
+            },
+            {
+                "rate": "23.00",
+                "countryCode": "PL"
+            }
+        ]
+    },
+    "sizeTable": null,
+    "discounts": {
+        "wholesalePriceList": null
+    },
+    "contact": null,
+    "fundraisingCampaign": null,
+    "messageToSellerSettings": {
+        "mode": "OPTIONAL"
+    },
+    "attachments": [],
+    "b2b": null,
+    "additionalServices": null,
+    "compatibilityList": null,
+    "additionalMarketplaces": {
+        "allegro-business-pl": {
+            "sellingMode": {
+                "price": {
+                    "amount": "6.05",
+                    "currency": "PLN"
+                }
+            },
+            "publication": {
+                "state": "APPROVED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-sk": {
+            "sellingMode": {
+                "price": {
+                    "amount": "1.39",
+                    "currency": "EUR"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-hu": {
+            "sellingMode": {
+                "price": {
+                    "amount": "565.00",
+                    "currency": "HUF"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        },
+        "allegro-business-cz": {
+            "sellingMode": {
+                "price": {
+                    "amount": "35.00",
+                    "currency": "CZK"
+                }
+            },
+            "publication": {
+                "state": "NOT_REQUESTED",
+                "refusalReasons": []
+            }
+        }
+    },
+    "warnings": [],
+    "id": "17859101112",
+    "language": "pl-PL",
+    "publication": {
+        "status": "ACTIVE",
+        "duration": null,
+        "endedBy": null,
+        "endingAt": null,
+        "startingAt": null,
+        "republish": false,
+        "marketplaces": {
+            "base": {
+                "id": "allegro-pl"
+            },
+            "additional": [
+                {
+                    "id": "allegro-business-pl"
+                }
+            ]
+        }
+    },
+    "validation": {
+        "errors": [],
+        "warnings": [],
+        "validatedAt": "2025-09-04T15:06:34.930Z"
+    },
+    "createdAt": "2025-09-04T15:06:34.000Z",
+    "updatedAt": "2025-09-04T16:17:11.685Z"
+}
