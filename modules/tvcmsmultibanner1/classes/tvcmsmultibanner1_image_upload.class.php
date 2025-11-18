@@ -18,10 +18,10 @@
  * versions in the future. If you wish to customize PrestaShop for your
  * needs please refer to http://www.prestashop.com for more information.
  *
- *  @author    PrestaShop SA <contact@prestashop.com>
- *  @copyright 2007-2025 PrestaShop SA
- *  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
- *  International Registered Trademark & Property of PrestaShop SA
+ * @author    PrestaShop SA <contact@prestashop.com>
+ * @copyright 2007-2025 PrestaShop SA
+ * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ * International Registered Trademark & Property of PrestaShop SA
  */
 if (!defined('_PS_VERSION_')) {
     exit;
@@ -39,6 +39,10 @@ class TvcmsMultiBanner1ImageUpload extends Module
         $imgName = $image_src_1['name'];
         $this->name = 'tvcmsmultibanner1';
 
+        // *** FIX: Initialize variables to prevent "Undefined variable" warning
+        $width = 0;
+        $height = 0;
+
         // resize settings
         $savePath = _PS_MODULE_DIR_ . 'tvcmsmultibanner1/views/img/';
 
@@ -47,20 +51,30 @@ class TvcmsMultiBanner1ImageUpload extends Module
             $imgName = $image_src_1['name'];
             if (file_exists($savePath . $imgName)) {
                 $new_img_name = explode('.', $imgName);
-                $imgName = $new_img_name[0] . '_' . date('YmdHis') . '.' . $new_img_name[1];
+                // Fix: Safer extension retrieval
+                $extension = end($new_img_name);
+                $imgName = $new_img_name[0] . '_' . date('YmdHis') . '.' . $extension;
             }
 
             $save_destination = $savePath . $imgName;
             $resultUpload = move_uploaded_file($image_src_1['tmp_name'], $save_destination);
+            
             $ImageSizePath = _MODULE_DIR_ . $this->name . '/views/img/';
-            $imagedata = getimagesize(_PS_BASE_URL_ . $ImageSizePath . $imgName);
-            $width = $imagedata[0];
-            $height = $imagedata[1];
+            
+            // Fix: Suppress errors and check if data exists
+            $imagedata = @getimagesize(_PS_BASE_URL_ . $ImageSizePath . $imgName);
+            
+            if ($imagedata) {
+                $width = $imagedata[0];
+                $height = $imagedata[1];
+            }
 
             if ($resultUpload) {// success
                 $res = preg_match('/^demo_img_.*$/', $old_file);
 
-                if (file_exists(dirname(__FILE__) . './../views/img/' . $old_file) && '1' != $res) {
+                if (!empty($old_file)
+                    && file_exists(dirname(__FILE__) . './../views/img/' . $old_file) 
+                    && '1' != $res) {
                     unlink(dirname(__FILE__) . './../views/img/' . $old_file);
                 }
 
@@ -71,6 +85,7 @@ class TvcmsMultiBanner1ImageUpload extends Module
         } else {
             $errorMessage .= $this->displayError($this->l('Please Select Valid Image File.'));
         }
+        
         $returnData['error'] = $errorMessage;
         $returnData['success'] = $successUpload;
         $returnData['name'] = $imgName;
@@ -86,7 +101,8 @@ class TvcmsMultiBanner1ImageUpload extends Module
         if ('image/jpeg' == $image_src['type']
             || 'image/jpg' == $image_src['type']
             || 'image/png' == $image_src['type']
-            || 'image/gif' == $image_src['type']) {
+            || 'image/gif' == $image_src['type']
+            || 'image/webp' == $image_src['type']) { // *** FIX: Added WebP support
             return true;
         } else {
             return false;

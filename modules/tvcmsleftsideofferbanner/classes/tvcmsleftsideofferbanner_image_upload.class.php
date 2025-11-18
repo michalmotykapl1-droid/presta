@@ -18,10 +18,10 @@
  * versions in the future. If you wish to customize PrestaShop for your
  * needs please refer to http://www.prestashop.com for more information.
  *
- *  @author    PrestaShop SA <contact@prestashop.com>
- *  @copyright 2007-2025 PrestaShop SA
- *  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
- *  International Registered Trademark & Property of PrestaShop SA
+ * @author    PrestaShop SA <contact@prestashop.com>
+ * @copyright 2007-2025 PrestaShop SA
+ * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ * International Registered Trademark & Property of PrestaShop SA
  */
 if (!defined('_PS_VERSION_')) {
     exit;
@@ -40,23 +40,36 @@ class TvcmsLeftSideOfferBannerImageUpload extends Module
         $imgName = $image_src_1['name'];
         $this->name = 'tvcmsleftsideofferbanner';
 
+        // *** FIX: Initialize variables to prevent "Undefined variable" warning
+        $width = 0;
+        $height = 0;
+
         // resize settings
         // $savePath = _PS_BASE_URL_._MODULE_DIR_.'tvcmsmultibanner/views/img/';
         $savePath = _PS_MODULE_DIR_ . 'tvcmsleftsideofferbanner/views/img/';
         $resultType = $this->imageConditions($image_src_1);
+        
         if ($resultType) {
             $imgName = $image_src_1['name'];
             if (file_exists($savePath . $imgName)) {
                 $new_img_name = explode('.', $imgName);
-                $imgName = $new_img_name[0] . '_' . date('YmdHis') . '.' . $new_img_name[1];
+                // Fix for potential array issues
+                $extension = end($new_img_name);
+                $imgName = $new_img_name[0] . '_' . date('YmdHis') . '.' . $extension;
             }
 
             $save_destination = $savePath . $imgName;
             $resultUpload = move_uploaded_file($image_src_1['tmp_name'], $save_destination);
+            
             $ImageSizePath = _MODULE_DIR_ . $this->name . '/views/img/';
-            $imagedata = getimagesize(_PS_BASE_URL_ . $ImageSizePath . $imgName);
-            $width = $imagedata[0];
-            $height = $imagedata[1];
+            // Use @ to suppress errors if file is corrupted
+            $imagedata = @getimagesize(_PS_BASE_URL_ . $ImageSizePath . $imgName);
+            
+            if ($imagedata) {
+                $width = $imagedata[0];
+                $height = $imagedata[1];
+            }
+
             if ($resultUpload) {// success
                 $res = preg_match('/^demo_img_.*$/', $old_file);
                 if (!empty($old_file)
@@ -71,10 +84,11 @@ class TvcmsLeftSideOfferBannerImageUpload extends Module
         } else {
             $errorMessage .= $this->displayError($this->l('Please Select Valid Image File.'));
         }
+        
         $returnData['error'] = $errorMessage;
         $returnData['success'] = $successUpload;
         $returnData['name'] = $imgName;
-        +$returnData['width'] = $width;
+        $returnData['width'] = $width;
         $returnData['height'] = $height;
 
         return $returnData;
@@ -86,7 +100,8 @@ class TvcmsLeftSideOfferBannerImageUpload extends Module
         if ('image/jpeg' == $image_src['type']
             || 'image/jpg' == $image_src['type']
             || 'image/png' == $image_src['type']
-            || 'image/gif' == $image_src['type']) {
+            || 'image/gif' == $image_src['type']
+            || 'image/webp' == $image_src['type']) { // *** FIX: Added WebP support
             return true;
         } else {
             return false;

@@ -18,10 +18,10 @@
  * versions in the future. If you wish to customize PrestaShop for your
  * needs please refer to http://www.prestashop.com for more information.
  *
- *  @author    PrestaShop SA <contact@prestashop.com>
- *  @copyright 2007-2025 PrestaShop SA
- *  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
- *  International Registered Trademark & Property of PrestaShop SA
+ * @author    PrestaShop SA <contact@prestashop.com>
+ * @copyright 2007-2025 PrestaShop SA
+ * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ * International Registered Trademark & Property of PrestaShop SA
  */
 if (!defined('_PS_VERSION_')) {
     exit;
@@ -82,9 +82,17 @@ class TvcmsOfferBanner extends Module
 
         Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_NAME', 'demo_img_1.jpg');
         $ImageSizePath = _MODULE_DIR_ . $this->name . '/views/img/';
-        $imagedata = getimagesize(_PS_BASE_URL_ . $ImageSizePath . 'demo_img_1.jpg');
-        $width = $imagedata[0];
-        $height = $imagedata[1];
+        $imagedata = @getimagesize(_PS_BASE_URL_ . $ImageSizePath . 'demo_img_1.jpg');
+        
+        // Fix: Check if getimagesize returned data
+        if ($imagedata) {
+            $width = $imagedata[0];
+            $height = $imagedata[1];
+        } else {
+            $width = 0;
+            $height = 0;
+        }
+        
         Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_WIDTH', $width);
         Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_HEIGHT', $height);
 
@@ -190,12 +198,22 @@ class TvcmsOfferBanner extends Module
                 $old_img_path = Configuration::get('TVCMSOFFERBANNER_IMAGE_NAME');
                 $tmp = $_FILES['TVCMSOFFERBANNER_IMAGE_NAME'];
                 $ans = $obj_image->imageUploading($tmp, $old_img_path);
-                if ($ans['success']) {
+                
+                // FIX: Check if 'success' exists and is true
+                if (isset($ans['success']) && $ans['success']) {
                     Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_NAME', $ans['name']);
-                    Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_WIDTH', $ans['width']);
-                    Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_HEIGHT', $ans['height']);
+                    
+                    // Safe check for width/height
+                    $width = isset($ans['width']) ? $ans['width'] : 0;
+                    $height = isset($ans['height']) ? $ans['height'] : 0;
+                    
+                    Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_WIDTH', $width);
+                    Configuration::updateValue('TVCMSOFFERBANNER_IMAGE_HEIGHT', $height);
                 } else {
-                    $messages .= $result['error'];
+                    // FIX: Undefined array key "error". Logic was using $result['error'] which didn't exist.
+                    // Should use $ans['error'] from the image upload response.
+                    $errorMsg = isset($ans['error']) ? $ans['error'] : $this->l('Unknown error during image upload');
+                    $messages .= $this->displayError($errorMsg);
                 }
             }
 

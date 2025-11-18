@@ -365,9 +365,9 @@
     }
 }
 
-/* Mobile Small (poniżej 575px) - 1 kolumna (największa czytelność) */
+/* Mobile Small (poniżej 575px) - 2 kolumny (bardziej kompaktowe) */
 @media (max-width: 575px) {
-    /* Cofamy Flexbox na małym ekranie, aby akcent był nad tytułem */
+    /* Akcent nad tytułem zostaje na swoim miejscu */
     .tv-diet-heading-flex {
         display: block; 
         text-align: center;
@@ -376,18 +376,20 @@
         margin: 0 auto 10px auto;
     }
 
+    /* Siatka kategorii – nadal GRID/FLEX, ale po 2 w rzędzie */
     .tvcategory-slider-content-box.tv-grid-layout {
-        justify-content: center;
+        justify-content: space-between;
     }
     .tvcategory-slider-wrapper-info.tv-grid-item {
-        width: 90%;
-        padding: 15px 5%;
+        width: 50%;
+        padding: 10px 5px;
+        box-sizing: border-box;
     }
     .tvcategory-img-block { 
-        height: 120px; 
-        width: 120px;
+        height: 90px; 
+        width: 90px;
     }
     .tvcategory-slider-info-box { 
-        font-size: 18px;
+        font-size: 14px;
     }
 }

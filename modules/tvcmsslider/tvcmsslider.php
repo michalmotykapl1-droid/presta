@@ -18,10 +18,10 @@
  * versions in the future. If you wish to customize PrestaShop for your
  * needs please refer to http://www.prestashop.com for more information.
  *
- *  @author PrestaShop SA <contact@prestashop.com>
- *  @copyright  2007-2025 PrestaShop SA
- *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
- *  International Registered Trademark & Property of PrestaShop SA
+ * @author PrestaShop SA <contact@prestashop.com>
+ * @copyright  2007-2025 PrestaShop SA
+ * @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ * International Registered Trademark & Property of PrestaShop SA
  */
 if (!defined('_PS_VERSION_')) {
     exit;
@@ -566,7 +566,9 @@ class TvcmsSlider extends Module implements WidgetInterface
                 }
                 $data = [];
                 $data['exist_image'] = $slide->image;
-                $checkexistimage = $data['exist_image'][$language['id_lang']];
+                
+                // FIX: Check if image exists before accessing
+                $checkexistimage = isset($data['exist_image'][$language['id_lang']]) ? $data['exist_image'][$language['id_lang']] : '';
                 // echo "Existing image type for".$language['name'].': ';
                 // print_r($checkexistimage); echo "<br>";
 
@@ -577,9 +579,13 @@ class TvcmsSlider extends Module implements WidgetInterface
                 // check image if exist
 
                 // upload fresh image
-                $tmp = Tools::substr(strrchr($_FILES['image_' . $language['id_lang']]['name'], '.'), 1);
-                // echo "Fresh image type for".$language['name'].': ';
-                $fresh = Tools::strtolower($tmp);
+                if (isset($_FILES['image_' . $language['id_lang']]['name'])) {
+                    $tmp = Tools::substr(strrchr($_FILES['image_' . $language['id_lang']]['name'], '.'), 1);
+                    // echo "Fresh image type for".$language['name'].': ';
+                    $fresh = Tools::strtolower($tmp);
+                } else {
+                    $fresh = '';
+                }
                 // upload fresh image
 
                 // echo "IVR image type for".$language['name'].': ';
@@ -820,8 +826,8 @@ class TvcmsSlider extends Module implements WidgetInterface
                     && isset($_FILES['image_' . $language['id_lang']]['tmp_name'])
                     && !empty($_FILES['image_' . $language['id_lang']]['tmp_name'])
                     && !empty($imagesize)
-                    && in_array(Tools::strtolower($tmp), ['jpg', 'gif', 'jpeg', 'png', 'mp4'])
-                    && in_array($type, ['jpg', 'gif', 'jpeg', 'png', 'mp4'])) {
+                    && in_array(Tools::strtolower($tmp), ['jpg', 'gif', 'jpeg', 'png', 'mp4', 'webp']) // Added webp support
+                    && in_array($type, ['jpg', 'gif', 'jpeg', 'png', 'mp4', 'webp'])) { // Added webp support
                     $temp_name = tempnam(_PS_TMP_IMG_DIR_, 'PS');
                     $salt = Tools::substr(sha1(microtime()), 0, 20);
                     $path = dirname(__FILE__) . '/views/img/';
@@ -902,8 +908,8 @@ class TvcmsSlider extends Module implements WidgetInterface
 
                 // Image Resize
                 $path = dirname(__FILE__) . '/views/img/';
-                $ImageName = $slide->image[$language['id_lang']];
-                if (file_exists($path . $ImageName)) {
+                $ImageName = isset($slide->image[$language['id_lang']]) ? $slide->image[$language['id_lang']] : '';
+                if (!empty($ImageName) && file_exists($path . $ImageName)) {
                     $MediumImgPath = $path . 'medium/';
                     if (!is_dir($MediumImgPath)) {
                         mkdir($MediumImgPath);
@@ -1664,34 +1670,38 @@ class TvcmsSlider extends Module implements WidgetInterface
         $languages = Language::getLanguages(false);
 
         foreach ($languages as $lang) {
-            $fields['image'][$lang['id_lang']] = Tools::getValue('image_' . (int) $lang['id_lang']);
+            $id_lang = (int) $lang['id_lang'];
 
-            $tmp = Tools::getValue('title_' . (int) $lang['id_lang'], $slide->title[$lang['id_lang']]);
-            $fields['title'][$lang['id_lang']] = $tmp;
+            // FIX: Check if keys exist before accessing them to prevent "access array offset on value of type null"
+            
+            $fields['image'][$id_lang] = Tools::getValue('image_' . $id_lang);
 
-            $tmp = Tools::getValue('url_' . (int) $lang['id_lang'], $slide->url[$lang['id_lang']]);
-            $fields['url'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->title[$id_lang]) ? $slide->title[$id_lang] : '';
+            $fields['title'][$id_lang] = Tools::getValue('title_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('legend_' . (int) $lang['id_lang'], $slide->legend[$lang['id_lang']]);
-            $fields['legend'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->url[$id_lang]) ? $slide->url[$id_lang] : '';
+            $fields['url'][$id_lang] = Tools::getValue('url_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('btn_caption_' . (int) $lang['id_lang'], $slide->btn_caption[$lang['id_lang']]);
-            $fields['btn_caption'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->legend[$id_lang]) ? $slide->legend[$id_lang] : '';
+            $fields['legend'][$id_lang] = Tools::getValue('legend_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('video_width_' . (int) $lang['id_lang'], $slide->video_width[$lang['id_lang']]);
-            $fields['video_width'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->btn_caption[$id_lang]) ? $slide->btn_caption[$id_lang] : '';
+            $fields['btn_caption'][$id_lang] = Tools::getValue('btn_caption_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('video_height_' . (int) $lang['id_lang'], $slide->video_height[$lang['id_lang']]);
-            $fields['video_height'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->video_width[$id_lang]) ? $slide->video_width[$id_lang] : '';
+            $fields['video_width'][$id_lang] = Tools::getValue('video_width_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('class_name_' . (int) $lang['id_lang'], $slide->class_name[$lang['id_lang']]);
-            $fields['class_name'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->video_height[$id_lang]) ? $slide->video_height[$id_lang] : '';
+            $fields['video_height'][$id_lang] = Tools::getValue('video_height_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('ivr_value_' . (int) $lang['id_lang'], $slide->ivr_value[$lang['id_lang']]);
-            $fields['ivr_value'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->class_name[$id_lang]) ? $slide->class_name[$id_lang] : '';
+            $fields['class_name'][$id_lang] = Tools::getValue('class_name_' . $id_lang, $val);
 
-            $tmp = Tools::getValue('description_' . (int) $lang['id_lang'], $slide->description[$lang['id_lang']]);
-            $fields['description'][$lang['id_lang']] = $tmp;
+            $val = isset($slide->ivr_value[$id_lang]) ? $slide->ivr_value[$id_lang] : '';
+            $fields['ivr_value'][$id_lang] = Tools::getValue('ivr_value_' . $id_lang, $val);
+
+            $val = isset($slide->description[$id_lang]) ? $slide->description[$id_lang] : '';
+            $fields['description'][$id_lang] = Tools::getValue('description_' . $id_lang, $val);
         }
 
         return $fields;

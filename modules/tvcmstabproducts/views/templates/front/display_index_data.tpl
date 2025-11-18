@@ -37,7 +37,7 @@
     {$image_side = ''}
     {/if}
     {if $dis_arr_result.status}
-    <div class="tvtab-product-wrapper"> {* <-- POPRAWKA: Usunięto klasę .container z tej linii *}
+    <div class="tvtab-product-wrapper container">
         <div class="tvtab-product-all-box">
             <div class="tvtab-product">
                 <div class='tvtab-main-title-wrapper'>
