@@ -1,2 +1,0 @@
-<?php
-class AdminAllegroCategoryMapperConfigController extends ModuleAdminController{ public function __construct(){ parent::__construct(); } public function initContent(){ $link=$this->context->link->getAdminLink('AdminModules',true,[],['configure'=>'allegrocategorymapper']); Tools::redirectAdmin($link); }}
