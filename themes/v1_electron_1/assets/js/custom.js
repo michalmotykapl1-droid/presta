@@ -63,13 +63,33 @@ var themevoltyCallEvents = function($ForceCall) {
 // var ProductPageVerSlider6;
 /************ Start To Change Left Column Position in Mobile Size *****************/
 function changePositionLeftColumnMobileView() {
-    if (document.body.clientWidth > 1199) {
-        $('#left-column').insertBefore('#content-wrapper');
-    } else {
-        $('#left-column').insertAfter('#content-wrapper');
+    const leftColumn = document.getElementById('left-column');
+    const contentWrapper = document.getElementById('content-wrapper');
+
+    if (!leftColumn || !contentWrapper || !contentWrapper.parentNode) {
+        return;
     }
+
+    const parent = contentWrapper.parentNode;
+    const isDesktopView = document.body.clientWidth > 1199;
+    
+    // Check if leftColumn is currently after contentWrapper.
+    const isMobileLayout = (leftColumn.compareDocumentPosition(contentWrapper) & Node.DOCUMENT_POSITION_FOLLOWING) !== 0;
+
+    if (isDesktopView && isMobileLayout) {
+        // Desktop view requires left column first.
+        parent.insertBefore(leftColumn, contentWrapper);
+    } else if (!isDesktopView && !isMobileLayout) {
+        // Mobile view requires left column after.
+        parent.insertBefore(leftColumn, contentWrapper.nextSibling);
+    }
+
+    // Handle visibility on smaller screens
     if (document.body.clientWidth <= 991) {
-        $('#left-column').show();
+        leftColumn.style.display = 'block';
+    } else {
+        // Revert to default display style on larger screens.
+        leftColumn.style.display = ''; 
     }
 }
 
